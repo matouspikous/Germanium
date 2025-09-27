@@ -1,0 +1,16 @@
+{
+    "apps": [
+      {
+        "name": "Germanium",
+        "bundleIdentifier": "piki.Germanium",
+        "developerName": "Matouš Pikous",
+        "subtitle": "I programmed the app for my self to learn German for free. No streaks. No manipulation. Just practice grammar and new vocabulary.",
+        "version": "1.0",
+        "versionDate": "2025-09-27",
+        "versionDescription": "Initial release of Germanium.",
+        "downloadURL": "https://matouspikous.github.io/Germanium/Germanium.ipa",
+        "iconURL": "https://matouspikous.github.io/Germanium/Germanium-icon.png",
+        "tintColor": "018084"
+      }
+    ]
+  }
