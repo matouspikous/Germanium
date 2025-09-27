@@ -1,0 +1,617 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		44137B222E86198A00864F49 /* AdsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44137B212E86198A00864F49 /* AdsViewController.swift */; };
+		44FBE1FB2E85BA3C00FB902A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44FBE1FA2E85BA3C00FB902A /* AppDelegate.swift */; };
+		44FBE1FF2E85BA3C00FB902A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44FBE1FE2E85BA3C00FB902A /* ContentView.swift */; };
+		44FBE2012E85BA3D00FB902A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44FBE2002E85BA3D00FB902A /* Assets.xcassets */; };
+		44FBE2042E85BA3D00FB902A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44FBE2032E85BA3D00FB902A /* Preview Assets.xcassets */; };
+		44FBE2072E85BA3E00FB902A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 44FBE2052E85BA3E00FB902A /* LaunchScreen.storyboard */; };
+		44FBE2122E85BA3E00FB902A /* GermaniumTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44FBE2112E85BA3E00FB902A /* GermaniumTests.swift */; };
+		44FBE21D2E85BA3E00FB902A /* GermaniumUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44FBE21C2E85BA3E00FB902A /* GermaniumUITests.swift */; };
+		44FBE22B2E85C70800FB902A /* WritingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44FBE22A2E85C70800FB902A /* WritingViewController.swift */; };
+		44FBE22D2E85C77400FB902A /* OrderingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44FBE22C2E85C77400FB902A /* OrderingViewController.swift */; };
+		44FBE22F2E85C7E300FB902A /* Sentence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44FBE22E2E85C7E300FB902A /* Sentence.swift */; };
+		44FBE2312E85CBA000FB902A /* sentences.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44FBE2302E85CBA000FB902A /* sentences.txt */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		44FBE20E2E85BA3E00FB902A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 44FBE1EF2E85BA3C00FB902A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 44FBE1F62E85BA3C00FB902A;
+			remoteInfo = Germanium;
+		};
+		44FBE2192E85BA3E00FB902A /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 44FBE1EF2E85BA3C00FB902A /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 44FBE1F62E85BA3C00FB902A;
+			remoteInfo = Germanium;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		44137B212E86198A00864F49 /* AdsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdsViewController.swift; sourceTree = "<group>"; };
+		44FBE1F72E85BA3C00FB902A /* Germanium.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Germanium.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		44FBE1FA2E85BA3C00FB902A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		44FBE1FE2E85BA3C00FB902A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		44FBE2002E85BA3D00FB902A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		44FBE2032E85BA3D00FB902A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		44FBE2062E85BA3E00FB902A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		44FBE2082E85BA3E00FB902A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		44FBE20D2E85BA3E00FB902A /* GermaniumTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GermaniumTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		44FBE2112E85BA3E00FB902A /* GermaniumTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GermaniumTests.swift; sourceTree = "<group>"; };
+		44FBE2132E85BA3E00FB902A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		44FBE2182E85BA3E00FB902A /* GermaniumUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GermaniumUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		44FBE21C2E85BA3E00FB902A /* GermaniumUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GermaniumUITests.swift; sourceTree = "<group>"; };
+		44FBE21E2E85BA3E00FB902A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		44FBE22A2E85C70800FB902A /* WritingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WritingViewController.swift; sourceTree = "<group>"; };
+		44FBE22C2E85C77400FB902A /* OrderingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderingViewController.swift; sourceTree = "<group>"; };
+		44FBE22E2E85C7E300FB902A /* Sentence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sentence.swift; sourceTree = "<group>"; };
+		44FBE2302E85CBA000FB902A /* sentences.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = sentences.txt; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		44FBE1F42E85BA3C00FB902A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		44FBE20A2E85BA3E00FB902A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		44FBE2152E85BA3E00FB902A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		44FBE1EE2E85BA3C00FB902A = {
+			isa = PBXGroup;
+			children = (
+				44FBE1F92E85BA3C00FB902A /* Germanium */,
+				44FBE2102E85BA3E00FB902A /* GermaniumTests */,
+				44FBE21B2E85BA3E00FB902A /* GermaniumUITests */,
+				44FBE1F82E85BA3C00FB902A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		44FBE1F82E85BA3C00FB902A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				44FBE1F72E85BA3C00FB902A /* Germanium.app */,
+				44FBE20D2E85BA3E00FB902A /* GermaniumTests.xctest */,
+				44FBE2182E85BA3E00FB902A /* GermaniumUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		44FBE1F92E85BA3C00FB902A /* Germanium */ = {
+			isa = PBXGroup;
+			children = (
+				44FBE1FA2E85BA3C00FB902A /* AppDelegate.swift */,
+				44FBE1FE2E85BA3C00FB902A /* ContentView.swift */,
+				44FBE22E2E85C7E300FB902A /* Sentence.swift */,
+				44FBE22A2E85C70800FB902A /* WritingViewController.swift */,
+				44FBE22C2E85C77400FB902A /* OrderingViewController.swift */,
+				44137B212E86198A00864F49 /* AdsViewController.swift */,
+				44FBE2002E85BA3D00FB902A /* Assets.xcassets */,
+				44FBE2302E85CBA000FB902A /* sentences.txt */,
+				44FBE2052E85BA3E00FB902A /* LaunchScreen.storyboard */,
+				44FBE2082E85BA3E00FB902A /* Info.plist */,
+				44FBE2022E85BA3D00FB902A /* Preview Content */,
+			);
+			path = Germanium;
+			sourceTree = "<group>";
+		};
+		44FBE2022E85BA3D00FB902A /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				44FBE2032E85BA3D00FB902A /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		44FBE2102E85BA3E00FB902A /* GermaniumTests */ = {
+			isa = PBXGroup;
+			children = (
+				44FBE2112E85BA3E00FB902A /* GermaniumTests.swift */,
+				44FBE2132E85BA3E00FB902A /* Info.plist */,
+			);
+			path = GermaniumTests;
+			sourceTree = "<group>";
+		};
+		44FBE21B2E85BA3E00FB902A /* GermaniumUITests */ = {
+			isa = PBXGroup;
+			children = (
+				44FBE21C2E85BA3E00FB902A /* GermaniumUITests.swift */,
+				44FBE21E2E85BA3E00FB902A /* Info.plist */,
+			);
+			path = GermaniumUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		44FBE1F62E85BA3C00FB902A /* Germanium */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 44FBE2212E85BA3E00FB902A /* Build configuration list for PBXNativeTarget "Germanium" */;
+			buildPhases = (
+				44FBE1F32E85BA3C00FB902A /* Sources */,
+				44FBE1F42E85BA3C00FB902A /* Frameworks */,
+				44FBE1F52E85BA3C00FB902A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Germanium;
+			productName = Germanium;
+			productReference = 44FBE1F72E85BA3C00FB902A /* Germanium.app */;
+			productType = "com.apple.product-type.application";
+		};
+		44FBE20C2E85BA3E00FB902A /* GermaniumTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 44FBE2242E85BA3E00FB902A /* Build configuration list for PBXNativeTarget "GermaniumTests" */;
+			buildPhases = (
+				44FBE2092E85BA3E00FB902A /* Sources */,
+				44FBE20A2E85BA3E00FB902A /* Frameworks */,
+				44FBE20B2E85BA3E00FB902A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				44FBE20F2E85BA3E00FB902A /* PBXTargetDependency */,
+			);
+			name = GermaniumTests;
+			productName = GermaniumTests;
+			productReference = 44FBE20D2E85BA3E00FB902A /* GermaniumTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		44FBE2172E85BA3E00FB902A /* GermaniumUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 44FBE2272E85BA3E00FB902A /* Build configuration list for PBXNativeTarget "GermaniumUITests" */;
+			buildPhases = (
+				44FBE2142E85BA3E00FB902A /* Sources */,
+				44FBE2152E85BA3E00FB902A /* Frameworks */,
+				44FBE2162E85BA3E00FB902A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				44FBE21A2E85BA3E00FB902A /* PBXTargetDependency */,
+			);
+			name = GermaniumUITests;
+			productName = GermaniumUITests;
+			productReference = 44FBE2182E85BA3E00FB902A /* GermaniumUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		44FBE1EF2E85BA3C00FB902A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1130;
+				LastUpgradeCheck = 1130;
+				ORGANIZATIONNAME = "Matouš Pikous";
+				TargetAttributes = {
+					44FBE1F62E85BA3C00FB902A = {
+						CreatedOnToolsVersion = 11.3.1;
+					};
+					44FBE20C2E85BA3E00FB902A = {
+						CreatedOnToolsVersion = 11.3.1;
+						TestTargetID = 44FBE1F62E85BA3C00FB902A;
+					};
+					44FBE2172E85BA3E00FB902A = {
+						CreatedOnToolsVersion = 11.3.1;
+						TestTargetID = 44FBE1F62E85BA3C00FB902A;
+					};
+				};
+			};
+			buildConfigurationList = 44FBE1F22E85BA3C00FB902A /* Build configuration list for PBXProject "Germanium" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 44FBE1EE2E85BA3C00FB902A;
+			productRefGroup = 44FBE1F82E85BA3C00FB902A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				44FBE1F62E85BA3C00FB902A /* Germanium */,
+				44FBE20C2E85BA3E00FB902A /* GermaniumTests */,
+				44FBE2172E85BA3E00FB902A /* GermaniumUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		44FBE1F52E85BA3C00FB902A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				44FBE2072E85BA3E00FB902A /* LaunchScreen.storyboard in Resources */,
+				44FBE2042E85BA3D00FB902A /* Preview Assets.xcassets in Resources */,
+				44FBE2012E85BA3D00FB902A /* Assets.xcassets in Resources */,
+				44FBE2312E85CBA000FB902A /* sentences.txt in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		44FBE20B2E85BA3E00FB902A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		44FBE2162E85BA3E00FB902A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		44FBE1F32E85BA3C00FB902A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				44FBE22D2E85C77400FB902A /* OrderingViewController.swift in Sources */,
+				44137B222E86198A00864F49 /* AdsViewController.swift in Sources */,
+				44FBE1FB2E85BA3C00FB902A /* AppDelegate.swift in Sources */,
+				44FBE22F2E85C7E300FB902A /* Sentence.swift in Sources */,
+				44FBE22B2E85C70800FB902A /* WritingViewController.swift in Sources */,
+				44FBE1FF2E85BA3C00FB902A /* ContentView.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		44FBE2092E85BA3E00FB902A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				44FBE2122E85BA3E00FB902A /* GermaniumTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		44FBE2142E85BA3E00FB902A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				44FBE21D2E85BA3E00FB902A /* GermaniumUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		44FBE20F2E85BA3E00FB902A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 44FBE1F62E85BA3C00FB902A /* Germanium */;
+			targetProxy = 44FBE20E2E85BA3E00FB902A /* PBXContainerItemProxy */;
+		};
+		44FBE21A2E85BA3E00FB902A /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 44FBE1F62E85BA3C00FB902A /* Germanium */;
+			targetProxy = 44FBE2192E85BA3E00FB902A /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		44FBE2052E85BA3E00FB902A /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				44FBE2062E85BA3E00FB902A /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		44FBE21F2E85BA3E00FB902A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		44FBE2202E85BA3E00FB902A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		44FBE2222E85BA3E00FB902A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"Germanium/Preview Content\"";
+				DEVELOPMENT_TEAM = 598KF94K56;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = Germanium/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = piki.Germanium;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		44FBE2232E85BA3E00FB902A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"Germanium/Preview Content\"";
+				DEVELOPMENT_TEAM = 598KF94K56;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = Germanium/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = piki.Germanium;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		44FBE2252E85BA3E00FB902A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = GermaniumTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = piki.GermaniumTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Germanium.app/Germanium";
+			};
+			name = Debug;
+		};
+		44FBE2262E85BA3E00FB902A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = GermaniumTests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.1;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = piki.GermaniumTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Germanium.app/Germanium";
+			};
+			name = Release;
+		};
+		44FBE2282E85BA3E00FB902A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = GermaniumUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = piki.GermaniumUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Germanium;
+			};
+			name = Debug;
+		};
+		44FBE2292E85BA3E00FB902A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = GermaniumUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = piki.GermaniumUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Germanium;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		44FBE1F22E85BA3C00FB902A /* Build configuration list for PBXProject "Germanium" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				44FBE21F2E85BA3E00FB902A /* Debug */,
+				44FBE2202E85BA3E00FB902A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		44FBE2212E85BA3E00FB902A /* Build configuration list for PBXNativeTarget "Germanium" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				44FBE2222E85BA3E00FB902A /* Debug */,
+				44FBE2232E85BA3E00FB902A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		44FBE2242E85BA3E00FB902A /* Build configuration list for PBXNativeTarget "GermaniumTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				44FBE2252E85BA3E00FB902A /* Debug */,
+				44FBE2262E85BA3E00FB902A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		44FBE2272E85BA3E00FB902A /* Build configuration list for PBXNativeTarget "GermaniumUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				44FBE2282E85BA3E00FB902A /* Debug */,
+				44FBE2292E85BA3E00FB902A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 44FBE1EF2E85BA3C00FB902A /* Project object */;
+}
