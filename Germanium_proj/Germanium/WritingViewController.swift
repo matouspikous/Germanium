@@ -11,6 +11,8 @@ import Foundation
 
 import UIKit
 
+
+
 class WritingViewController: UIViewController {
     private var sentences = SentenceProvider.loadSentences()
     private var currentIndex = 0
@@ -19,6 +21,12 @@ class WritingViewController: UIViewController {
     private let textView = UITextView()
     private let checkButton = UIButton(type: .system)
     private let feedbackLabel = UILabel()
+    
+    @objc private func dismissKeyboard() {
+        textView.resignFirstResponder()
+    }
+
+
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -27,6 +35,9 @@ class WritingViewController: UIViewController {
 
         setupUI()
         showSentence()
+        
+        let tapGesture = UITapGestureRecognizer(target: self, action: #selector(dismissKeyboard))
+        view.addGestureRecognizer(tapGesture)
     }
 
     private func setupUI() {
