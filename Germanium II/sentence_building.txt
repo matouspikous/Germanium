@@ -1,0 +1,40 @@
+Ich;kaufen;ein Buch;Ich kaufe ein Buch.;I buy a book.
+Er;lesen;die Zeitung;Er liest die Zeitung.;He reads the newspaper.
+Wir;gehen;ins Kino;Wir gehen ins Kino.;We go to the cinema.
+Sie;trinken;einen Kaffee;Sie trinkt einen Kaffee.;She drinks a coffee.
+Du;haben;einen Hund;Du hast einen Hund.;You have a dog.
+Das Kind;spielen;im Garten;Das Kind spielt im Garten.;The child plays in the garden.
+Meine Mutter;kochen;das Abendessen;Meine Mutter kocht das Abendessen.;My mother cooks dinner.
+Der Lehrer;erklären;die Grammatik;Der Lehrer erklärt die Grammatik.;The teacher explains the grammar.
+Wir;besuchen;unsere Großeltern;Wir besuchen unsere Großeltern.;We visit our grandparents.
+Ich;schreiben;einen Brief;Ich schreibe einen Brief.;I write a letter.
+Er;fahren;nach Berlin;Er fährt nach Berlin.;He drives to Berlin.
+Sie;arbeiten;im Büro;Sie arbeitet im Büro.;She works in the office.
+Die Kinder;machen;ihre Hausaufgaben;Die Kinder machen ihre Hausaufgaben.;The children do their homework.
+Mein Bruder;studieren;Medizin;Mein Bruder studiert Medizin.;My brother studies medicine.
+Ich;verstehen;die Frage;Ich verstehe die Frage.;I understand the question.
+Wir;essen;Pizza;Wir essen Pizza.;We eat pizza.
+Der Mann;tragen;einen Anzug;Der Mann trägt einen Anzug.;The man wears a suit.
+Sie;sprechen;Deutsch;Sie spricht Deutsch.;She speaks German.
+Ich;sehen;einen Film;Ich sehe einen Film.;I watch a film.
+Du;helfen;deiner Schwester;Du hilfst deiner Schwester.;You help your sister.
+Er;geben;mir ein Geschenk;Er gibt mir ein Geschenk.;He gives me a gift.
+Wir;nehmen;den Bus;Wir nehmen den Bus.;We take the bus.
+Die Frau;suchen;ihre Schlüssel;Die Frau sucht ihre Schlüssel.;The woman looks for her keys.
+Ich;warten;auf den Zug;Ich warte auf den Zug.;I wait for the train.
+Er;denken;an seine Familie;Er denkt an seine Familie.;He thinks about his family.
+Sie;freuen sich;auf den Urlaub;Sie freut sich auf den Urlaub.;She looks forward to the vacation.
+Wir;interessieren sich;für Kunst;Wir interessieren uns für Kunst.;We are interested in art.
+Der Hund;laufen;im Park;Der Hund läuft im Park.;The dog runs in the park.
+Ich;können;gut schwimmen;Ich kann gut schwimmen.;I can swim well.
+Du;müssen;früh aufstehen;Du musst früh aufstehen.;You must get up early.
+Er;wollen;ein Auto kaufen;Er will ein Auto kaufen.;He wants to buy a car.
+Sie;sollen;den Arzt anrufen;Sie soll den Arzt anrufen.;She should call the doctor.
+Wir;dürfen;hier nicht rauchen;Wir dürfen hier nicht rauchen.;We are not allowed to smoke here.
+Ich;möchten;eine Tasse Tee;Ich möchte eine Tasse Tee.;I would like a cup of tea.
+Das Mädchen;singen;ein Lied;Das Mädchen singt ein Lied.;The girl sings a song.
+Der Arzt;untersuchen;den Patienten;Der Arzt untersucht den Patienten.;The doctor examines the patient.
+Ich;vergessen;meinen Regenschirm;Ich vergesse meinen Regenschirm.;I forget my umbrella.
+Er;finden;die Lösung;Er findet die Lösung.;He finds the solution.
+Wir;beginnen;mit der Arbeit;Wir beginnen mit der Arbeit.;We begin with the work.
+Sie;empfehlen;das Restaurant;Sie empfiehlt das Restaurant.;She recommends the restaurant.

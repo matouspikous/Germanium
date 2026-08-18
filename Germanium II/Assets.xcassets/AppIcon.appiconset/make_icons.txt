@@ -1,0 +1,41 @@
+sips -z 60 60 icon.png --out Icon-60.png       # @1x (rare)
+sips -z 120 120 icon.png --out Icon-60@2x.png  # @2x
+sips -z 180 180 icon.png --out Icon-60@3x.png  # @3x
+# 20pt Spotlight (small)
+sips -z 20 20 icon.png --out Icon-20.png       # @1x
+sips -z 40 40 icon.png --out Icon-20@2x.png    # @2x
+sips -z 60 60 icon.png --out Icon-20@3x.png    # @3x
+
+# 40pt Spotlight (medium)
+sips -z 40 40 icon.png --out Icon-40.png       # @1x (iPhone)
+sips -z 80 80 icon.png --out Icon-40@2x.png    # @2x
+sips -z 120 120 icon.png --out Icon-40@3x.png   # @3x
+
+# iPad Spotlight (50pt)
+sips -z 50 50 icon.png --out Icon-50.png       # @1x
+sips -z 100 100 icon.png --out Icon-50@2x.png   # @2x
+
+
+# iPhone Settings
+sips -z 29 29 icon.png --out Icon-29.png        # @1x
+sips -z 58 58 icon.png --out Icon-29@2x.png     # @2x
+sips -z 87 87 icon.png --out Icon-29@3x.png     # @3x
+
+# iPad Settings
+sips -z 29 29 icon.png --out Icon-29~ipad.png   # @1x
+sips -z 58 58 icon.png --out Icon-29@2x~ipad.png # @2x
+
+
+sips -z 1024 1024 icon.png --out Icon-1024.png
+
+
+
+
+#other
+sips -z 40 40 icon.png --out Icon-42.png
+sips -z 40 40 icon.png --out Icon-41.png
+sips -z 80 80 icon.png --out Icon-40@2x-1.png
+sips -z 58 58 icon.png --out Icon-29@2x-1.png
+sips -z 167 167 icon.png --out Icon-83.5@2x.png
+sips -z 76 76 icon.png --out Icon-76.png
+sips -z 152 152 icon.png --out Icon-76@2x.png

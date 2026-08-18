@@ -1,0 +1,465 @@
+die Reise;journey
+der Urlaub;vacation
+die Ferien;holidays
+das Reiseziel;travel destination
+der Tourist;tourist
+die Touristin;female tourist
+der Reisende;traveler
+die Buchung;booking
+die Reservierung;reservation
+der Flug;flight
+das Flugzeug;airplane
+der Flughafen;airport
+der Abflug;departure
+die Ankunft;arrival
+der Zug;train
+der Bahnhof;train station
+das Gleis;platform
+die Fahrkarte;ticket
+der Sitzplatz;seat
+das Gepäck;luggage
+der Koffer;suitcase
+der Rucksack;backpack
+die Tasche;bag
+der Pass;passport
+das Visum;visa
+die Grenze;border
+das Hotel;hotel
+die Unterkunft;accommodation
+die Jugendherberge;hostel
+das Zimmer;room
+die Rezeption;reception
+der Schlüssel;key
+der Aufzug;elevator
+die Aussicht;view
+der Strand;beach
+das Meer;sea
+der Berg;mountain
+die Stadt;city
+das Dorf;village
+die Sehenswürdigkeit;sight
+das Museum;museum
+die Führung;tour (guided)
+der Reiseführer;travel guide (book/person)
+die Karte;map
+der Plan;plan
+die Route;route
+die Strecke;route/distance
+die Reiseversicherung;travel insurance
+der Zoll;customs
+die Kontrolle;control/check
+der Anschluss;connection
+die Verspätung;delay
+die Abfahrt;departure
+die Rückkehr;return
+die Heimreise;journey home
+die Auslandreise;trip abroad
+die Inlandsreise;domestic trip
+reisen;to travel
+abfahren;to depart
+ankommen;to arrive
+buchen;to book
+reservieren;to reserve
+einchecken;to check in
+auschecken;to check out
+umsteigen;to transfer/change trains
+verpassen;to miss (e.g., a train)
+packen;to pack
+auspacken;to unpack
+mitnehmen;to take along
+zurückkehren;to return
+besichtigen;to visit/sightsee
+erkunden;to explore
+planen;to plan
+organisieren;to organize
+bezahlen;to pay
+stornieren;to cancel
+sich verirren;to get lost
+fahren;to go (by vehicle)
+fliegen;to fly
+laufen;to walk
+mieten;to rent
+übernachten;to stay overnight
+schnell;fast
+langsam;slow
+teuer;expensive
+günstig;cheap
+bequem;comfortable
+unbequem;uncomfortable
+direkt;direct
+indirekt;indirect
+voll;full/crowded
+leer;empty
+pünktlich;on time
+verspätet;delayed
+früh;early
+spät;late
+nah;near
+weit;far
+international;international
+lokal;local
+touristisch;touristy
+ruhig;quiet
+lebhaft;lively
+malerisch;picturesque
+abenteuerlich;adventurous
+entspannend;relaxing
+anstrengend;exhausting
+der Reisepass;passport
+die Bordkarte;boarding pass
+der Schalter;counter
+die Sicherheitskontrolle;security check
+der Ausgang;exit
+der Eingang;entrance
+die Durchsage;announcement
+der Flugsteig;gate
+das Handgepäck;carry-on luggage
+das Aufgabegepäck;checked baggage
+der Sitz;seat
+die Reihe;row
+das Fenster;window
+der Gang;aisle
+die Verspätung;delay
+der Zwischenstopp;layover
+die Direktverbindung;direct connection
+der Umweg;detour
+die Buchungsbestätigung;booking confirmation
+die Stornierung;cancellation
+die Gebühr;fee
+die Ermäßigung;discount
+der Reisepreis;travel price
+die Rechnung;bill
+die Währung;currency
+der Wechselkurs;exchange rate
+das Bargeld;cash
+die Kreditkarte;credit card
+der Automat;machine
+die Fahrplanauskunft;timetable information
+der Fahrplan;schedule
+die Abfahrtszeit;departure time
+die Ankunftszeit;arrival time
+die Strecke;route
+die Entfernung;distance
+der Stau;traffic jam
+die Autobahn;highway
+die Landstraße;country road
+der Kreisverkehr;roundabout
+die Kreuzung;intersection
+die Ampel;traffic light
+die Tankstelle;gas station
+das Fahrzeug;vehicle
+der Mietwagen;rental car
+der Führerschein;driver's license
+der Parkplatz;parking space
+die Parkgebühr;parking fee
+der Hafen;harbor
+das Schiff;ship
+die Fähre;ferry
+die Kabine;cabin
+der Kapitän;captain
+die Küste;coast
+die Insel;island
+das Festland;mainland
+die Region;region
+das Gebiet;area
+die Landschaft;landscape
+die Natur;nature
+der Nationalpark;national park
+der Wasserfall;waterfall
+der See;lake
+der Fluss;river
+die Wüste;desert
+der Wald;forest
+der Hügel;hill
+das Tal;valley
+das Klima;climate
+das Wetter;weather
+der Sonnenschein;sunshine
+der Regen;rain
+der Schnee;snow
+der Sturm;storm
+der Wind;wind
+reisen;to travel
+abfliegen;to depart (plane)
+landen;to land
+einsteigen;to board
+aussteigen;to get off
+durchqueren;to cross
+überqueren;to cross
+verlassen;to leave
+erreichen;to reach
+fortsetzen;to continue
+unterbrechen;to interrupt
+verschieben;to postpone
+bestätigen;to confirm
+überprüfen;to check
+kontrollieren;to inspect
+einpacken;to pack
+mitbringen;to bring along
+zurücklassen;to leave behind
+entdecken;to discover
+erleben;to experience
+genießen;to enjoy
+vermeiden;to avoid
+empfehlen;to recommend
+vergleichen;to compare
+auswählen;to choose
+bevorzugen;to prefer
+beantragen;to apply for
+vorzeigen;to show
+vorlegen;to present
+unterschreiben;to sign
+bezahlen;to pay
+abheben;to withdraw money
+wechseln;to exchange money
+sparen;to save
+ausgeben;to spend
+teilen;to share
+verbringen;to spend (time)
+übernachten;to stay overnight
+einziehen;to move in
+ausziehen;to move out
+abenteuerlustig;adventurous
+entspannt;relaxed
+gestresst;stressed
+müde;tired
+aufgeregt;excited
+zufrieden;satisfied
+unzufrieden;dissatisfied
+beeindruckend;impressive
+langweilig;boring
+spannend;exciting
+überfüllt;overcrowded
+ruhig;quiet
+laut;loud
+sauber;clean
+schmutzig;dirty
+modern;modern
+altmodisch;old-fashioned
+traditionell;traditional
+authentisch;authentic
+künstlich;artificial
+freundlich;friendly
+unfreundlich;unfriendly
+hilfsbereit;helpful
+unhöflich;rude
+kompliziert;complicated
+einfach;simple
+praktisch;practical
+unpraktisch;impractical
+flexibel;flexible
+starr;rigid
+sicher;safe
+unsicher;unsafe
+gefährlich;dangerous
+beliebt;popular
+unbekannt;unknown
+zentral;central
+abgelegen;remote
+nahegelegen;nearby
+weit entfernt;far away
+erschwinglich;affordable
+überteuert;overpriced
+der Reisepartner;travel partner
+die Reisegruppe;travel group
+der Einheimische;local person
+der Fremde;stranger
+die Sprache;language
+der Dialekt;dialect
+die Übersetzung;translation
+das Wörterbuch;dictionary
+die Kommunikation;communication
+das Missverständnis;misunderstanding
+die Hilfe;help
+die Information;information
+der Tipp;tip
+die Empfehlung;recommendation
+die Erfahrung;experience
+das Erlebnis;experience (event)
+die Erinnerung;memory
+das Abenteuer;adventure
+die Entdeckung;discovery
+die Planung;planning
+die Organisation;organization
+die Vorbereitung;preparation
+die Entscheidung;decision
+die Möglichkeit;possibility
+die Gelegenheit;opportunity
+der Vorteil;advantage
+der Nachteil;disadvantage
+die Schwierigkeit;difficulty
+die Lösung;solution
+die Alternative;alternative
+die Option;option
+der Reisekatalog;travel catalog
+die Pauschalreise;package holiday
+der Reiseveranstalter;tour operator
+die Buchungsnummer;booking number
+der Schalterbeamte;counter clerk
+die Wartezeit;waiting time
+die Schlange;queue
+die Kontrolleinheit;checkpoint unit
+der Ausgangsbereich;departure area
+der Ankunftsbereich;arrival area
+die Zollkontrolle;customs control
+die Einreise;entry (into a country)
+die Ausreise;exit (from a country)
+der Grenzübergang;border crossing
+die Aufenthaltserlaubnis;residence permit
+die Reisebestimmungen;travel regulations
+die Impfung;vaccination
+der Impfpass;vaccination certificate
+die Notfallnummer;emergency number
+die Reiseapotheke;travel medical kit
+der Arztbesuch;doctor visit
+die Krankenversicherung;health insurance
+der Notfall;emergency
+die Panne;breakdown
+der Abschleppdienst;towing service
+die Reparatur;repair
+die Werkstatt;workshop/garage
+der Ersatzteil;spare part
+die Tankfüllung;fuel tank fill
+der Verbrauch;consumption
+die Geschwindigkeit;speed
+die Höchstgeschwindigkeit;maximum speed
+die Strecke;route
+die Fahrbahn;roadway
+der Seitenstreifen;shoulder (road)
+die Maut;toll
+die Vignette;road sticker
+die Verkehrskontrolle;traffic control
+der Strafzettel;fine ticket
+die Vorschrift;regulation
+die Regel;rule
+der Hinweis;notice
+die Beschilderung;signage
+der Wegweiser;signpost
+die Orientierung;orientation
+der Stadtplan;city map
+die Navigation;navigation
+das Navigationsgerät;navigation device
+die App;app
+die Internetverbindung;internet connection
+das WLAN;Wi-Fi
+der Akku;battery
+das Ladegerät;charger
+einreisen;to enter a country
+ausreisen;to leave a country
+sich anmelden;to register
+sich abmelden;to deregister
+verlängern;to extend
+beantragen;to apply for
+genehmigen;to approve
+ablehnen;to reject
+vorbereiten;to prepare
+nachschlagen;to look up
+herunterladen;to download
+hochladen;to upload
+anschließen;to connect
+trennen;to disconnect
+aufladen;to charge
+einschalten;to turn on
+ausschalten;to turn off
+funktionieren;to function
+ausfallen;to fail
+reagieren;to react
+überleben;to survive
+retten;to rescue
+helfen;to help
+unterstützen;to support
+begleiten;to accompany
+führen;to guide
+zeigen;to show
+erklären;to explain
+beschreiben;to describe
+erzählen;to tell
+fragen;to ask
+antworten;to answer
+klären;to clarify
+verstehen;to understand
+missverstehen;to misunderstand
+übersetzen;to translate
+lernen;to learn
+üben;to practice
+notwendig;necessary
+überraschend;surprising
+gewöhnlich;usual
+ungewöhnlich;unusual
+praktisch;practical
+umständlich;complicated
+effizient;efficient
+ineffizient;inefficient
+zuverlässig;reliable
+unzuverlässig;unreliable
+verfügbar;available
+ausgebucht;fully booked
+frei;free/available
+besetzt;occupied
+flexibel;flexible
+unflexibel;inflexible
+spontan;spontaneous
+geplant;planned
+organisiert;organized
+chaotisch;chaotic
+vorsichtig;careful
+unvorsichtig;careless
+sicher;safe
+riskant;risky
+gefährlich;dangerous
+harmlos;harmless
+beeindruckend;impressive
+atemberaubend;breathtaking
+langweilig;boring
+abwechslungsreich;varied
+einzigartig;unique
+typisch;typical
+ungewöhnlich;unusual
+regional;regional
+international;international
+bekannt;well-known
+unbekannt;unknown
+beliebt;popular
+unbeliebt;unpopular
+die Kultur;culture
+die Tradition;tradition
+das Fest;festival
+die Veranstaltung;event
+der Markt;market
+der Souvenirshop;souvenir shop
+das Souvenir;souvenir
+die Postkarte;postcard
+das Geschenk;gift
+der Preis;price
+das Angebot;offer
+der Rabatt;discount
+die Öffnungszeit;opening hours
+der Eintritt;admission
+die Eintrittskarte;ticket
+die Warteschlange;queue
+der Besucher;visitor
+die Besucherzahl;number of visitors
+die Attraktion;attraction
+die Sehenswürdigkeit;sight
+die Führung;guided tour
+der Guide;guide
+die Erklärung;explanation
+die Beschreibung;description
+die Geschichte;history
+die Vergangenheit;past
+die Gegenwart;present
+die Zukunft;future
+die Erinnerung;memory
+das Foto;photo
+die Kamera;camera
+das Bild;picture
+die Aufnahme;recording
+die Aussicht;view
+der Blick;view/sight
+der Sonnenaufgang;sunrise
+der Sonnenuntergang;sunset
+die Dämmerung;twilight
+die Nacht;night
+der Tag;day
+der Morgen;morning
+der Abend;evening

@@ -1,0 +1,44 @@
+Mein Tag
+Ich stehe jeden Morgen um sieben Uhr auf. Zuerst dusche ich und dann frühstücke ich. Zum Frühstück esse ich Brot mit Käse und trinke eine Tasse Kaffee. Um acht Uhr fahre ich mit dem Bus zur Arbeit. Ich arbeite in einem Büro im Stadtzentrum. Mittags esse ich in der Kantine. Nach der Arbeit gehe ich oft in den Supermarkt einkaufen. Abends koche ich das Abendessen und sehe fern. Um elf Uhr gehe ich ins Bett.
+??
+Wann steht die Person auf?;um sieben Uhr/7 Uhr
+Was isst die Person zum Frühstück?;Brot mit Käse
+Wie fährt die Person zur Arbeit?;mit dem Bus
+Wo arbeitet die Person?;in einem Büro/im Büro
+Wann geht die Person ins Bett?;um elf Uhr/11 Uhr
+---
+Im Restaurant
+Anna und Thomas gehen heute Abend ins Restaurant. Sie haben einen Tisch für zwei Personen reserviert. Der Kellner bringt die Speisekarte. Anna bestellt einen Salat und ein Schnitzel mit Pommes. Thomas nimmt die Suppe und einen Fisch mit Reis. Zum Trinken bestellen sie eine Flasche Wasser und ein Glas Rotwein. Das Essen schmeckt sehr gut. Zum Nachtisch essen sie Schokoladenkuchen. Die Rechnung kommt auf fünfzig Euro. Thomas gibt dem Kellner ein Trinkgeld.
+??
+Für wie viele Personen haben sie reserviert?;zwei/2
+Was bestellt Anna als Hauptgericht?;Schnitzel mit Pommes/ein Schnitzel
+Was trinkt Thomas?;Wasser und Rotwein/eine Flasche Wasser und ein Glas Rotwein
+Was essen sie zum Nachtisch?;Schokoladenkuchen
+Wie viel kostet das Essen?;fünfzig Euro/50 Euro
+---
+Die Wohnung
+Ich wohne in einer kleinen Wohnung in Berlin. Die Wohnung hat drei Zimmer: ein Wohnzimmer, ein Schlafzimmer und eine Küche. Das Badezimmer ist nicht sehr groß, aber es hat eine Dusche und eine Badewanne. Im Wohnzimmer steht ein großes Sofa und ein Fernseher. An der Wand hängen viele Bilder. Die Küche ist modern und hat einen neuen Kühlschrank. Mein Schlafzimmer ist gemütlich. Das Bett steht am Fenster. Ich mag meine Wohnung sehr.
+??
+In welcher Stadt ist die Wohnung?;Berlin
+Wie viele Zimmer hat die Wohnung?;drei/3
+Was steht im Wohnzimmer?;ein Sofa und ein Fernseher
+Was hängt an der Wand?;Bilder/viele Bilder
+Wo steht das Bett?;am Fenster
+---
+Der Urlaub
+Letzten Sommer bin ich nach Spanien geflogen. Ich war zwei Wochen in Barcelona. Das Wetter war sehr schön und heiß. Jeden Tag bin ich an den Strand gegangen und habe im Meer geschwommen. Abends habe ich in verschiedenen Restaurants gegessen. Die spanische Küche hat mir sehr gut gefallen. Ich habe auch viele Sehenswürdigkeiten besucht, zum Beispiel die Sagrada Familia. Das ist eine berühmte Kirche. Ich habe viele Fotos gemacht. Der Urlaub war fantastisch!
+??
+Wohin ist die Person geflogen?;nach Spanien/Spanien
+Wie lange war die Person in Barcelona?;zwei Wochen/2 Wochen
+Wie war das Wetter?;schön und heiß/sehr schön
+Was hat die Person jeden Tag gemacht?;an den Strand gegangen/im Meer geschwommen
+Was ist die Sagrada Familia?;eine Kirche/eine berühmte Kirche
+---
+Einkaufen
+Heute gehe ich in den Supermarkt. Ich brauche viele Sachen. Zuerst nehme ich einen Einkaufswagen. In der Obstabteilung kaufe ich Äpfel, Bananen und Orangen. Dann gehe ich zur Fleischabteilung und kaufe ein Kilo Hähnchen. Ich brauche auch Milch, Butter und Käse aus der Kühlabteilung. Im Regal finde ich Nudeln, Reis und Tomatensoße. An der Kasse muss ich zehn Minuten warten. Der Einkauf kostet vierzig Euro. Ich bezahle mit meiner Kreditkarte.
+??
+Was nimmt die Person zuerst?;einen Einkaufswagen
+Welches Obst kauft die Person?;Äpfel, Bananen und Orangen
+Wie viel Hähnchen kauft die Person?;ein Kilo
+Wie lange wartet die Person an der Kasse?;zehn Minuten/10 Minuten
+Wie bezahlt die Person?;mit Kreditkarte/mit der Kreditkarte

@@ -1,0 +1,828 @@
+gehen;ging;gegangen;zu;to go
+kommen;kam;gekommen;aus;to come
+gehen;ging;gegangen;zu;to go
+kommen;kam;gekommen;aus;to come
+sehen;sah;gesehen;auf;to see
+geben;gab;gegeben;an;to give
+nehmen;nahm;genommen;von;to take
+finden;fand;gefunden;in;to find
+denken;dachte;gedacht;an;to think
+bleiben;blieb;geblieben;bei;to stay
+bringen;brachte;gebracht;zu;to bring
+fahren;fuhr;gefahren;nach;to drive
+sprechen;sprach;gesprochen;mit;to speak
+laufen;lief;gelaufen;zu;to run
+arbeiten;arbeitete;gearbeitet;an;to work
+spielen;spielte;gespielt;mit;to play
+lernen;lernte;gelernt;für;to learn
+essen;aß;gegessen;mit;to eat
+trinken;trank;getrunken;aus;to drink
+schlafen;schlief;geschlafen;bei;to sleep
+lesen;las;gelesen;über;to read
+schreiben;schrieb;geschrieben;an;to write
+helfen;half;geholfen;bei;to help
+fragen;fragte;gefragt;nach;to ask
+antworten;antwortete;geantwortet;auf;to answer
+kaufen;kaufte;gekauft;bei;to buy
+verkaufen;verkaufte;verkauft;an;to sell
+öffnen;öffnete;geöffnet;für;to open
+schließen;schloss;geschlossen;mit;to close
+beginnen;begann;begonnen;mit;to begin
+enden;endete;geendet;mit;to end
+arbeiten;arbeitete;gearbeitet;für;to work
+reisen;reiste;gereist;nach;to travel
+wohnen;wohnte;gewohnt;in;to live
+leben;lebte;gelebt;mit;to live
+sterben;starb;gestorben;an;to die
+lieben;liebte;geliebt;über;to love
+hassen;hasste;gehasst;auf;to hate
+warten;wartete;gewartet;auf;to wait
+hoffen;hoffte;gehofft;auf;to hope
+glauben;glaubte;geglaubt;an;to believe
+versuchen;versuchte;versucht;zu;to try
+gewinnen;gewann;gewonnen;gegen;to win
+verlieren;verlor;verloren;gegen;to lose
+bezahlen;bezahlte;bezahlt;für;to pay
+verdienen;verdiente;verdient;mit;to earn
+kochen;kochte;gekocht;für;to cook
+backen;backte;gebacken;für;to bake
+putzen;putzte;geputzt;mit;to clean
+waschen;wusch;gewaschen;mit;to wash
+duschen;duschte;geduscht;mit;to shower
+anziehen;zog an;angezogen;mit;to put on
+ausziehen;zog aus;ausgezogen;aus;to take off
+sitzen;saß;gesessen;auf;to sit
+stehen;stand;gestanden;auf;to stand
+liegen;lag;gelegen;auf;to lie
+fallen;fiel;gefallen;auf;to fall
+steigen;stieg;gestiegen;in;to climb
+halten;hielt;gehalten;an;to hold
+werfen;warf;geworfen;auf;to throw
+fangen;fing;gefangen;mit;to catch
+ziehen;zog;gezogen;an;to pull
+drücken;drückte;gedrückt;auf;to press
+bauen;baute;gebaut;an;to build
+zerstören;zerstörte;zerstört;durch;to destroy
+reparieren;reparierte;repariert;an;to repair
+planen;plante;geplant;für;to plan
+organisieren;organisierte;organisiert;für;to organize
+entscheiden;entschied;entschieden;über;to decide
+wählen;wählte;gewählt;zwischen;to choose
+verstehen;verstand;verstanden;von;to understand
+erklären;erklärte;erklärt;zu;to explain
+unterrichten;unterrichtete;unterrichtet;in;to teach
+studieren;studierte;studiert;an;to study
+prüfen;prüfte;geprüft;auf;to check
+testen;testete;getestet;auf;to test
+nutzen;nutzte;genutzt;für;to use
+benutzen;benutzte;benutzt;für;to use
+finden;fand;gefunden;auf;to discover
+suchen;suchte;gesucht;nach;to search
+verlängern;verlängerte;verlängert;um;to extend
+verkürzen;verkürzte;verkürzt;um;to shorten
+ändern;änderte;geändert;an;to change
+bleiben;blieb;geblieben;bei;to remain
+verlassen;verließ;verlassen;auf;to leave
+besuchen;besuchte;besucht;bei;to visit
+treffen;traf;getroffen;mit;to meet
+kennen;lernte kennen;kennengelernt;von;to know
+erkennen;erkannte;erkannt;an;to recognize
+vergessen;vergaß;vergessen;über;to forget
+erinnern;erinnerte;erinnert;an;to remember
+beginnen;begann;begonnen;mit;to start
+aufhören;hörte auf;aufgehört;mit;to stop
+weitermachen;machte weiter;weitergemacht;mit;to continue
+fehlen;fehlte;gefehlt;an;to lack
+passen;passte;gepasst;zu;to fit
+gehören;gehörte;gehört;zu;to belong
+schützen;schützte;geschützt;vor;to protect
+warnen;warnte;gewarnt;vor;to warn
+erlauben;erlaubte;erlaubt;zu;to allow
+verbieten;verbot;verboten;zu;to forbid
+sparen;sparte;gespart;auf;to save
+ausgeben;gab aus;ausgegeben;für;to spend
+leihen;lieh;geliehen;von;to borrow
+verleihen;verlieh;verliehen;an;to lend
+mieten;mietete;gemietet;von;to rent
+vermieten;vermietete;vermietet;an;to rent out
+reisen;reiste;gereist;mit;to travel
+fliegen;flog;geflogen;nach;to fly
+ankommen;kam an;angekommen;in;to arrive
+abfahren;fuhr ab;abgefahren;von;to depart
+einsteigen;stieg ein;eingestiegen;in;to get in
+aussteigen;stieg aus;ausgestiegen;aus;to get out
+mitnehmen;nahm mit;mitgenommen;zu;to take along
+abholen;holte ab;abgeholt;von;to pick up
+wegbringen;brachte weg;weggebracht;zu;to take away
+zurückkommen;kam zurück;zurückgekommen;zu;to return
+anfangen;fing an;angefangen;mit;to begin
+aufmachen;machte auf;aufgemacht;für;to open
+zumachen;machte zu;zugemacht;mit;to close
+sprechen;sprach;gesprochen;mit;to speak
+reden;redete;geredet;mit;to talk
+erzählen;erzählte;erzählt;von;to tell
+plaudern;plauderte;geplaudert;mit;to chat
+diskutieren;diskutierte;diskutiert;über;to discuss
+fragen;fragte;gefragt;nach;to ask
+antworten;antwortete;geantwortet;auf;to answer
+zuhören;hörte zu;zugehört;bei;to listen
+mitreden;redete mit;mitgeredet;bei;to join the conversation
+unterhalten;unterhielt;unterhalten;mit;to converse
+lachen;lachte;gelacht;über;to laugh
+schmunzeln;schmunzelte;geschmunzelt;über;to chuckle
+witzeln;witzelte;gewitzelt;über;to joke
+scherzen;scherzte;gescherzt;über;to joke
+spaßen;spaßte;gespaßt;mit;to joke around
+flüstern;flüsterte;geflüstert;zu;to whisper
+rufen;rief;gerufen;nach;to call
+anschreien;schrie an;angeschrien;an;to shout at
+anschauen;schaute an;angeschaut;auf;to look at
+beobachten;beobachtete;beobachtet;bei;to observe
+nicken;nickte;genickt;zu;to nod
+zustimmen;stimmte zu;zugestimmt;zu;to agree
+ablehnen;lehnte ab;abgelehnt;gegen;to reject
+widersprechen;widersprach;widersprochen;gegen;to disagree
+meinen;meinte;gemeint;über;to think
+denken;dachte;gedacht;über;to think
+überlegen;überlegte;überlegt;zu;to consider
+erklären;erklärte;erklärt;zu;to explain
+beschreiben;beschrieb;beschrieben;als;to describe
+darstellen;stellte dar;dargestellt;als;to present
+betonen;betonte;betont;auf;to emphasize
+hinweisen;wies hin;hingewiesen;auf;to point out
+bestätigen;bestätigte;bestätigt;mit;to confirm
+verneinen;verneinte;verneint;mit;to deny
+zugeben;gab zu;zugegeben;zu;to admit
+gestehen;gestand;gestanden;zu;to confess
+verraten;verriet;verraten;an;to reveal
+mitteilen;teilte mit;mitgeteilt;an;to inform
+berichten;berichtete;berichtet;über;to report
+erzählen;erzählte;erzählt;über;to recount
+klagen;klagte;geklagt;über;to complain
+jammern;jammerte;gejammert;über;to complain
+meckern;meckerte;gemeckert;über;to nag
+loben;lobte;gelobt;für;to praise
+kritisieren;kritisierte;kritisiert;an;to criticize
+beschweren;beschwerte;beschwert;bei;to complain
+sich entschuldigen;entschuldigte sich;entschuldigt;bei;to apologize
+verzeihen;verzieh;verziehen;für;to forgive
+verstehen;verstand;verstanden;von;to understand
+missverstehen;missverstand;missverstanden;als;to misunderstand
+nachfragen;fragte nach;nachgefragt;bei;to ask again
+einwerfen;warf ein;eingeworfen;in;to interject
+unterbrechen;unterbrach;unterbrochen;bei;to interrupt
+ausreden;redete aus;ausgeredet;mit;to finish speaking
+zustimmen;stimmte zu;zugestimmt;bei;to agree
+einverstanden sein;war einverstanden;einverstanden gewesen;mit;to agree
+ablehnen;lehnte ab;abgelehnt;bei;to refuse
+überzeugen;überzeugte;überzeugt;von;to convince
+überreden;überredete;überredet;zu;to persuade
+diskutieren;diskutierte;diskutiert;mit;to debate
+argumentieren;argumentierte;argumentiert;für;to argue
+streiten;stritt;gestritten;mit;to argue
+sich vertragen;vertrug sich;vertragen;mit;to make up
+sich versöhnen;versöhnte sich;versöhnt;mit;to reconcile
+lachen;lachte;gelacht;mit;to laugh
+kichern;kicherte;gekichert;über;to giggle
+spotten;spottete;gespottet;über;to mock
+necken;neckte;geneckt;mit;to tease
+trösten;tröstete;getröstet;bei;to comfort
+ermutigen;ermutigte;ermutigt;zu;to encourage
+motivieren;motivierte;motiviert;zu;to motivate
+warnen;warnte;gewarnt;vor;to warn
+raten;riet;geraten;zu;to advise
+empfehlen;empfahl;empfohlen;zu;to recommend
+zustimmen;stimmte zu;zugestimmt;bei;to approve
+ablehnen;lehnte ab;abgelehnt;von;to decline
+nachdenken;dachte nach;nachgedacht;über;to reflect
+grübeln;grübelte;gegrübelt;über;to ponder
+erzürnen;erzürnte;erzürnt;über;to anger
+aufregen;regte auf;aufgeregt;über;to get upset
+beruhigen;beruhigte;beruhigt;bei;to calm
+lästern;lästerte;gelästert;über;to gossip
+tratschen;tratschte;getratscht;über;to gossip
+verabreden;verabredete;verabredet;mit;to arrange
+einladen;lud ein;eingeladen;zu;to invite
+zusagen;sagte zu;zugesagt;zu;to accept
+absagen;sagte ab;abgesagt;bei;to cancel
+planen;plante;geplant;mit;to plan
+vorschlagen;schlug vor;vorgeschlagen;zu;to suggest
+zustimmen;stimmte zu;zugestimmt;zu;to consent
+entscheiden;entschied;entschieden;über;to decide
+erzählen;erzählte;erzählt;von;to talk about
+schwärmen;schwärmte;geschwärmt;von;to rave about
+sich freuen;freute sich;gefreut;über;to be happy
+bedanken;bedankte sich;bedankt;bei;to thank
+gratulieren;gratulierte;gratuliert;zu;to congratulate
+begrüßen;begrüßte;begrüßt;mit;to greet
+verabschieden;verabschiedete;verabschiedet;von;to say goodbye
+nachhaken;hakte nach;nachgehakt;bei;to follow up
+zusammenfassen;fasste zusammen;zusammengefasst;zu;to summarize
+abschließen;schloss ab;abgeschlossen;mit;to conclude
+weitersprechen;sprach weiter;weitergesprochen;über;to continue talking
+arbeiten;arbeitete;gearbeitet;an;to work
+planen;plante;geplant;für;to plan
+organisieren;organisierte;organisiert;für;to organize
+koordinieren;koordinierte;koordiniert;mit;to coordinate
+verwalten;verwaltete;verwaltet;von;to manage
+leiten;leitete;geleitet;von;to lead
+führen;führte;geführt;durch;to lead
+delegieren;delegierte;delegiert;an;to delegate
+überwachen;überwachte;überwacht;von;to supervise
+kontrollieren;kontrollierte;kontrolliert;von;to control
+analysieren;analysierte;analysiert;von;to analyze
+auswerten;wertete aus;ausgewertet;nach;to evaluate
+bewerten;bewertete;bewertet;nach;to assess
+entscheiden;entschied;entschieden;über;to decide
+genehmigen;genehmigte;genehmigt;von;to approve
+ablehnen;lehnte ab;abgelehnt;von;to reject
+beantragen;beantragte;beantragt;bei;to apply for
+einreichen;reichte ein;eingereicht;bei;to submit
+prüfen;prüfte;geprüft;auf;to check
+testen;testete;getestet;auf;to test
+entwickeln;entwickelte;entwickelt;zu;to develop
+entwerfen;entwarf;entworfen;für;to design
+konzipieren;konzipierte;konzipiert;für;to design
+umsetzen;setzte um;umgesetzt;in;to implement
+durchführen;führte durch;durchgeführt;mit;to carry out
+optimieren;optimierte;optimiert;für;to optimize
+verbessern;verbesserte;verbessert;an;to improve
+anpassen;passte an;angepasst;an;to adapt
+ändern;änderte;geändert;an;to change
+aktualisieren;aktualisierte;aktualisiert;auf;to update
+dokumentieren;dokumentierte;dokumentiert;für;to document
+berichten;berichtete;berichtet;an;to report
+kommunizieren;kommunizierte;kommuniziert;mit;to communicate
+abstimmen;stimmte ab;abgestimmt;mit;to coordinate
+besprechen;besprach;besprochen;mit;to discuss
+moderieren;moderierte;moderiert;von;to moderate
+präsentieren;präsentierte;präsentiert;vor;to present
+vorstellen;stellte vor;vorgestellt;bei;to introduce
+erklären;erklärte;erklärt;zu;to explain
+schulen;schulte;geschult;in;to train
+einweisen;wies ein;eingewiesen;in;to brief
+unterstützen;unterstützte;unterstützt;bei;to support
+beraten;beriet;beraten;zu;to advise
+begleiten;begleitete;begleitet;bei;to accompany
+zusammenarbeiten;arbeitete zusammen;zusammengearbeitet;mit;to collaborate
+kooperieren;kooperierte;kooperiert;mit;to cooperate
+verhandeln;verhandelte;verhandelt;mit;to negotiate
+vereinbaren;vereinbarte;vereinbart;mit;to agree
+abschließen;schloss ab;abgeschlossen;mit;to conclude
+kündigen;kündigte;gekündigt;bei;to terminate
+einstellen;stellte ein;eingestellt;bei;to hire
+entlassen;entließ;entlassen;aus;to dismiss
+beauftragen;beauftragte;beauftragt;mit;to commission
+zuweisen;wies zu;zugewiesen;an;to assign
+einplanen;plante ein;eingeplant;für;to schedule
+terminieren;terminierte;terminiert;für;to schedule
+verschieben;verschob;verschoben;auf;to postpone
+priorisieren;priorisierte;priorisiert;nach;to prioritize
+fokussieren;fokussierte;fokussiert;auf;to focus
+konzentrieren;konzentrierte;konzentriert;auf;to concentrate
+recherchieren;recherchierte;recherchiert;zu;to research
+ermitteln;ermittelte;ermittelt;von;to determine
+kalkulieren;kalkulierte;kalkuliert;mit;to calculate
+budgetieren;budgetierte;budgetiert;für;to budget
+abrechnen;rechnete ab;abgerechnet;mit;to bill
+bezahlen;bezahlte;bezahlt;für;to pay
+finanzieren;finanzierte;finanziert;durch;to finance
+investieren;investierte;investiert;in;to invest
+einsparen;sparte ein;eingespart;bei;to save
+beschaffen;beschaffte;beschafft;von;to procure
+bestellen;bestellte;bestellt;bei;to order
+liefern;lieferte;geliefert;an;to deliver
+ausliefern;lieferte aus;ausgeliefert;an;to deliver
+lagern;lagerte;gelagert;in;to store
+verpacken;verpackte;verpackt;in;to package
+versenden;versendete;versendet;an;to ship
+transportieren;transportierte;transportiert;zu;to transport
+installieren;installierte;installiert;bei;to install
+warten;wartete;gewartet;auf;to maintain
+reparieren;reparierte;repariert;an;to repair
+instandhalten;hielt instand;instandgehalten;von;to maintain
+überholen;überholte;überholt;bei;to overhaul
+sichern;sicherte;gesichert;gegen;to secure
+schützen;schützte;geschützt;vor;to protect
+einhalten;hielt ein;eingehalten;von;to comply
+durchsetzen;setzte durch;durchgesetzt;gegen;to enforce
+überprüfen;überprüfte;überprüft;auf;to verify
+auditieren;auditierte;auditert;bei;to audit
+zertifizieren;zertifizierte;zertifiziert;nach;to certify
+freigeben;gab frei;freigegeben;für;to release
+blockieren;blockierte;blockiert;gegen;to block
+eskalieren;eskalierte;eskaliert;an;to escalate
+lösen;löst;gelöst;von;to solve
+bearbeiten;bearbeitete;bearbeitet;von;to process
+erledigen;erledigte;erledigt;für;to complete
+abschließen;schloss ab;abgeschlossen;bei;to finalize
+nachbereiten;bereitete nach;nachbereitet;von;to follow up
+archivieren;archivierte;archiviert;in;to archive
+protokollieren;protokollierte;protokolliert;für;to record
+melden;meldete;gemeldet;an;to report
+informieren;informierte;informiert;über;to inform
+abmelden;meldete ab;abgemeldet;von;to deregister
+teilnehmen;nahm teil;teilgenommen;an;to participate
+mitwirken;wirkte mit;mitgewirkt;bei;to contribute
+verantworten;verantwortete;verantwortet;für;to be responsible
+hafteten;haftete;gehaftet;für;to be liable
+evaluieren;evaluierte;evaluert;nach;to evaluate
+reisen;reiste;gereist;nach;to travel
+fahren;fuhr;gefahren;nach;to travel by vehicle
+fliegen;flog;geflogen;nach;to fly
+abfahren;fuhr ab;abgefahren;von;to depart
+ankommen;kam an;angekommen;in;to arrive
+umsteigen;stieg um;umgestiegen;in;to change trains
+einsteigen;stieg ein;eingestiegen;in;to board
+aussteigen;stieg aus;ausgestiegen;aus;to get off
+abholen;holte ab;abgeholt;von;to pick up
+wegfahren;fuhr weg;weggefahren;von;to leave
+zurückkehren;kehrte zurück;zurückgekehrt;zu;to return
+übernachten;übernachtete;übernachtet;in;to stay overnight
+bleiben;blieb;geblieben;in;to stay
+buchen;buchte;gebucht;bei;to book
+reservieren;reservierte;reserviert;bei;to reserve
+stornieren;stornierte;storniert;bei;to cancel
+einchecken;checkte ein;eingecheckt;bei;to check in
+auschecken;checkte aus;ausgecheckt;bei;to check out
+packen;packte;gepackt;in;to pack
+auspacken;packte aus;ausgepackt;in;to unpack
+mitnehmen;nahm mit;mitgenommen;auf;to take along
+vergessen;vergaß;vergessen;in;to forget
+verlieren;verlor;verloren;auf;to lose
+finden;fand;gefunden;in;to find
+tragen;trug;getragen;mit;to carry
+schleppen;schleppte;geschleppt;mit;to haul
+mieten;mietete;gemietet;bei;to rent
+vermieten;vermietete;vermietet;an;to rent out
+fahren lassen;ließ fahren;fahren lassen;mit;to have driven
+navigieren;navigierte;navigiert;nach;to navigate
+orientieren;orientierte;orientiert;an;to orient
+verfahren;verfuhr;verfahren;bei;to get lost
+folgen;folgte;gefolgt;nach;to follow
+abbiegen;bog ab;abgebogen;in;to turn
+wenden;wendete;gewendet;bei;to turn around
+parken;parkte;geparkt;bei;to park
+tanken;tankte;getankt;bei;to refuel
+laden;lud;geladen;an;to load
+entladen;entlud;entladen;von;to unload
+kontrollieren;kontrollierte;kontrolliert;bei;to check
+prüfen;prüfte;geprüft;auf;to check
+vorzeigen;zeigte vor;vorgezeigt;bei;to present
+einreisen;reiste ein;eingereist;in;to enter a country
+ausreisen;reiste aus;ausgereist;aus;to leave a country
+durchqueren;durchquerte;durchquert;durch;to cross
+passieren;passierte;passiert;durch;to pass
+besuchen;besuchte;besucht;in;to visit
+besichtigen;besichtigte;besichtigt;in;to sightsee
+erkunden;erkundete;erkundet;in;to explore
+entdecken;entdeckte;entdeckt;in;to discover
+fotografieren;fotografierte;fotografiert;von;to photograph
+filmen;filmte;gefilmt;von;to film
+wandern;wanderte;gewandert;durch;to hike
+spazieren;spazierte;spaziert;durch;to stroll
+klettern;kletterte;geklettert;auf;to climb
+baden;badete;gebadet;in;to bathe
+schwimmen;schwamm;geschwommen;in;to swim
+tauchen;tauchte;getaucht;in;to dive
+surfen;surfte;gesurft;auf;to surf
+skifahren;fuhr Ski;Ski gefahren;auf;to ski
+snowboarden;snowboardete;snowboardet;auf;to snowboard
+radeln;radelte;geradelt;durch;to cycle
+fahren;fuhr;gefahren;durch;to drive through
+segeln;segelte;gesegelt;auf;to sail
+bootfahren;fuhr Boot;Boot gefahren;auf;to boat
+kreuzen;kreuzte;gekreuzt;auf;to cruise
+anlegen;legte an;angelegt;in;to dock
+ablegen;legte ab;abgelegt;von;to set sail
+verspäten;verspätete;verspätet;bei;to delay
+verpassen;verpasste;verpasst;bei;to miss
+warten;wartete;gewartet;auf;to wait
+anstehen;stand an;angestanden;für;to queue
+bezahlen;bezahlte;bezahlt;für;to pay
+wechseln;wechselte;gewechselt;in;to exchange
+abheben;hob ab;abgehoben;von;to withdraw
+einzahlen;zahlte ein;eingezahlt;auf;to deposit
+versichern;versicherte;versichert;gegen;to insure
+schützen;schützte;geschützt;vor;to protect
+verlängern;verlängerte;verlängert;um;to extend
+verkürzen;verkürzte;verkürzt;um;to shorten
+planen;plante;geplant;für;to plan
+vorbereiten;bereitete vor;vorbereitet;auf;to prepare
+informieren;informierte;informiert;über;to inform
+fragen;fragte;gefragt;nach;to ask
+empfehlen;empfahl;empfohlen;zu;to recommend
+buchen;buchte;gebucht;für;to book
+umbuchen;buchte um;umgebucht;auf;to rebook
+eintragen;trug ein;eingetragen;in;to register
+abmelden;meldete ab;abgemeldet;von;to deregister
+mitfahren;fuhr mit;mitgefahren;mit;to ride along
+mitfliegen;flog mit;mitgeflogen;mit;to fly along
+teilnehmen;nahm teil;teilgenommen;an;to participate
+ausruhen;ruhte aus;ausgeruht;bei;to rest
+entspannen;entspannte;entspannt;bei;to relax
+genießen;genoss;genossen;in;to enjoy
+probieren;probierte;probiert;von;to try
+kosten;kostete;gekostet;von;to taste
+essen;aß;gegessen;in;to eat
+trinken;trank;getrunken;in;to drink
+feiern;feierte;gefeiert;in;to celebrate
+beobachten;beobachtete;beobachtet;von;to observe
+lauschen;lauschte;gelauscht;auf;to listen
+staunen;staunte;gestaunt;über;to marvel
+lernen;lernte;gelernt;über;to learn
+üben;übte;geübt;in;to practice
+kommunizieren;kommunizierte;kommuniziert;mit;to communicate
+übersetzen;übersetzte;übersetzt;in;to translate
+verstehen;verstand;verstanden;von;to understand
+verirren;verirrte;verirrt;in;to get lost
+retten;rettete;gerettet;aus;to rescue
+helfen;half;geholfen;bei;to help
+melden;meldete;gemeldet;bei;to report
+klären;klärte;geklärt;mit;to clarify
+abschließen;schloss ab;abgeschlossen;mit;to conclude
+zurückreisen;reiste zurück;zurückgereist;nach;to travel back
+lernen;lernte;gelernt;für;to learn
+studieren;studierte;studiert;an;to study
+unterrichtet;unterrichtete;unterrichtet;in;to teach
+erklären;erklärte;erklärt;zu;to explain
+beschreiben;beschrieb;beschrieben;als;to describe
+darstellen;stellte dar;dargestellt;als;to present
+diskutieren;diskutierte;diskutiert;über;to discuss
+fragen;fragte;gefragt;nach;to ask
+antworten;antwortete;geantwortet;auf;to answer
+mitmachen;machte mit;mitgemacht;bei;to participate
+zuhören;hörte zu;zugehört;bei;to listen
+aufschreiben;schrieb auf;aufgeschrieben;für;to write down
+notieren;notierte;notiert;für;to note
+prüfen;prüfte;geprüft;auf;to check
+testen;testete;getestet;auf;to test
+bewerten;bewertete;bewertet;nach;to assess
+kontrollieren;kontrollierte;kontrolliert;auf;to control
+überprüfen;überprüfte;überprüft;auf;to verify
+vorbereiten;bereitete vor;vorbereitet;auf;to prepare
+wiederholen;wiederholte;wiederholt;für;to repeat
+üben;übte;geübt;für;to practice
+einüben;übte ein;eingeübt;für;to drill
+lesen;las;gelesen;über;to read
+vorlesen;las vor;vorgelesen;für;to read aloud
+anschauen;schaute an;angeschaut;auf;to look at
+beobachten;beobachtete;beobachtet;bei;to observe
+schreiben;schrieb;geschrieben;an;to write
+aufsagen;sagte auf;aufgesagt;für;to recite
+mitarbeiten;arbeitete mit;mitgearbeitet;bei;to collaborate
+diskutieren;diskutierte;diskutiert;über;to debate
+präsentieren;präsentierte;präsentiert;vor;to present
+vorstellen;stellte vor;vorgestellt;bei;to introduce
+erforschen;erforschte;erforscht;zu;to research
+untersuchen;untersuchte;untersucht;auf;to examine
+analysieren;analysierte;analysiert;auf;to analyze
+experimentieren;experimentierte;experimentiert;mit;to experiment
+versuchen;versuchte;versucht;zu;to try
+entdecken;entdeckte;entdeckt;in;to discover
+erfinden;erfand;erfunden;zu;to invent
+konstruieren;konstruiere;konstruiert;aus;to construct
+zeichnen;zeichnete;gezeichnet;für;to draw
+malen;malte;gemalt;für;to paint
+basteln;bastelte;gebastelt;mit;to craft
+bauen;baute;gebaut;mit;to build
+modellieren;modellierte;modelliert;aus;to model
+gestalten;gestaltete;gestaltet;zu;to design
+recherchieren;recherchierte;recherchiert;zu;to research
+notieren;notierte;notiert;für;to note
+aufzeichnen;zeichnete auf;aufgezeichnet;für;to record
+protokollieren;protokollierte;protokolliert;für;to record
+vorbereiten;bereitete vor;vorbereitet;auf;to prepare
+nachbereiten;bereitete nach;nachbereitet;für;to review
+zusammenfassen;fasste zusammen;zusammengefasst;für;to summarize
+überarbeiten;überarbeitete;überarbeitet;an;to revise
+korrigieren;korrigierte;korrigiert;bei;to correct
+verbessern;verbesserte;verbessert;an;to improve
+wiederholen;wiederholte;wiederholt;für;to revise
+lernen;lernte;gelernt;für;to study
+pauken;paukte;gepaukt;für;to cram
+einprägen;prägte ein;einprägt;für;to memorize
+merken;merkte;gemerkt;für;to remember
+nachschlagen;schlug nach;nachgeschlagen;in;to look up
+überprüfen;überprüfte;überprüft;auf;to test
+anwenden;wandte an;angewandt;auf;to apply
+trainieren;trainierte;trainiert;für;to train
+diskutieren;diskutierte;diskutiert;über;to discuss
+argumentieren;argumentierte;argumentiert;für;to argue
+reflektieren;reflektierte;reflektiert;über;to reflect
+analysieren;analysierte;analysiert;auf;to analyze
+interpretieren;interpretierte;interpretiert;auf;to interpret
+bewerten;bewertete;bewertet;nach;to evaluate
+prüfen;prüfte;geprüft;auf;to check
+erarbeiten;erarbeitete;erarbeitet;zu;to develop
+erstellen;erstellte;erstellt;für;to create
+ausarbeiten;arbeitete aus;ausgearbeitet;zu;to elaborate
+vortragen;trug vor;vorgetragen;über;to present
+diskutieren;diskutierte;diskutiert;über;to discuss
+mitarbeiten;arbeitete mit;mitgearbeitet;bei;to collaborate
+mitdenken;dachte mit;mitgedacht;bei;to contribute ideas
+vorbereiten;bereitete vor;vorbereitet;für;to prepare
+nacharbeiten;arbeitete nach;nachgearbeitet;für;to revise
+üben;übte;geübt;für;to practice
+trainieren;trainierte;trainiert;für;to train
+besprechen;besprach;besprochen;mit;to discuss
+klären;klärte;geklärt;mit;to clarify
+organisieren;organisierte;organisiert;für;to organize
+planen;plante;geplant;für;to plan
+durchführen;führte durch;durchgeführt;mit;to carry out
+teilnehmen;nahm teil;teilgenommen;an;to participate
+beobachten;beobachtete;beobachtet;bei;to observe
+zuschauen;schaute zu;zugeschaut;bei;to watch
+mitmachen;machte mit;mitgemacht;bei;to join in
+anwenden;wandte an;angewandt;auf;to apply
+einsetzen;setzte ein;eingesetzt;für;to use
+testen;testete;getestet;auf;to test
+überprüfen;überprüfte;überprüft;auf;to check
+kontrollieren;kontrollierte;kontrolliert;auf;to control
+reflektieren;reflektierte;reflektiert;über;to reflect
+analysieren;analysierte;analysiert;auf;to analyze
+erklären;erklärte;erklärt;zu;to explain
+vergleichen;verglich;verglichen;mit;to compare
+diskutieren;diskutierte;diskutiert;über;to discuss
+vorbereiten;bereitete vor;vorbereitet;für;to prepare
+arbeiten;arbeitete;gearbeitet;an;to work
+bearbeiten;bearbeitete;bearbeitet;an;to process
+kooperieren;kooperierte;kooperiert;mit;to cooperate
+kommunizieren;kommunizierte;kommuniziert;mit;to communicate
+unterstützen;unterstützte;unterstützt;bei;to support
+anleiten;leitete an;angeleitet;bei;to guide
+erklären;erklärte;erklärt;zu;to explain
+unterrichten;unterrichtete;unterrichtet;in;to teach
+vorzeigen;zeigte vor;vorgezeigt;bei;to show
+demonstrieren;demonstrierte;demonstriert;für;to demonstrate
+testen;testete;getestet;auf;to test
+experimentieren;experimentierte;experimentiert;mit;to experiment
+malen;malte;gemalt;auf;to paint
+zeichnen;zeichnete;gezeichnet;mit;to draw
+skizzieren;skizzierte;skizziert;von;to sketch
+entwerfen;entwarf;entworfen;für;to design
+konzipieren;konzipierte;konzipiert;für;to conceptualize
+gestalten;gestaltete;gestaltet;zu;to shape
+bilden;bildete;gebildet;aus;to form
+modellieren;modellierte;modelliert;aus;to model
+plastizieren;plastizierte;plastiziert;mit;to sculpt
+gravieren;gravierte;graviert;in;to engrave
+ritzen;ritzte;geritzt;in;to carve
+meißeln;meißelte;gemeißelt;aus;to chisel
+schnitzen;schnitzte;geschnitzt;aus;to carve
+töpfern;töpferte;getöpfert;aus;to pot
+formen;formte;geformt;aus;to shape
+kolorieren;kolorierte;koloriert;mit;to color
+schattieren;schattierte;schattiert;auf;to shade
+lavieren;lavierte;laviert;auf;to glaze
+lasieren;lasierte;gelasert;auf;to glaze
+übermalen;übermalte;übermalt;auf;to paint over
+auftragen;trug auf;aufgetragen;auf;to apply
+mischen;mischte;gemischt;mit;to mix
+tupfen;tupfte;getupft;auf;to dab
+sprayen;sprayte;gesprayt;auf;to spray
+grafizieren;grafizierte;grafiziert;mit;to graphic
+zeichnen;zeichnete;gezeichnet;mit;to sketch
+kritzeln;kritzelte;gekritzelt;auf;to scribble
+zeichnen;zeichnete;gezeichnet;auf;to illustrate
+zeichnen;zeichnete;gezeichnet;für;to draft
+illustrieren;illustrierte;illustriert;für;to illustrate
+karikieren;karikierte;karikiert;von;to caricature
+porträtieren;porträtierte;porträtiert;von;to portrait
+zeichnen;zeichnete;gezeichnet;von;to trace
+kopieren;kopierte;kopiert;von;to copy
+abpausen;pauste ab;abgepaust;von;to trace
+skulpturieren;skulpturierte;skulpturiert;aus;to sculpt
+formen;formte;geformt;aus;to mold
+gießen;goss;gegossen;aus;to cast
+schweißen;schweißte;geschweißt;an;to weld
+löten;lötete;gelötet;an;to solder
+brennen;brannte;gebrannt;in;to fire
+trocknen;trocknete;getrocknet;bei;to dry
+polieren;polierte;poliert;auf;to polish
+lackieren;lackierte;lackiert;auf;to varnish
+versiegeln;versiegelte;versiegelt;mit;to seal
+überziehen;zog über;überzogen;mit;to coat
+applizieren;applizierte;appliziert;auf;to apply
+montieren;montierte;montiert;an;to mount
+installieren;installierte;installiert;an;to install
+arrangieren;arrangierte;arrangiert;zu;to arrange
+komponieren;komponierte;komponiert;für;to compose
+konstruieren;konstruiere;konstruiert;aus;to construct
+entwerfen;entwarf;entworfen;für;to design
+designen;designte;designt;für;to design
+grafisch gestalten;gestaltete grafisch;grafisch gestaltet;für;to create graphic
+layouten;layoutete;gelayoutet;für;to layout
+digital malen;malte digital;digital gemalt;auf;to paint digitally
+digitale gestalten;gestaltete digital;digital gestaltet;für;to create digitally
+animieren;animierte;animiert;für;to animate
+fotografieren;fotografierte;fotografiert;von;to photograph
+entwickeln;entwickelte;entwickelt;von;to develop photos
+retuschieren;retuschierte;retuschiert;auf;to retouch
+bearbeiten;bearbeitete;bearbeitet;mit;to edit
+collagieren;collagierte;collagiert;aus;to collage
+montieren;montierte;montiert;zu;to assemble
+installieren;installierte;installiert;in;to install
+ausstellen;stellte aus;ausgestellt;in;to exhibit
+präsentieren;präsentierte;präsentiert;vor;to present
+zeigen;zeigte;gezeigt;an;to show
+aufhängen;hängte auf;aufgehängt;an;to hang
+platzieren;platzierte;platziert;auf;to place
+arrangieren;arrangierte;arrangiert;für;to arrange
+beleuchten;beleuchtete;beleuchtet;mit;to light
+fotografieren;fotografierte;fotografiert;für;to photograph
+filmen;filmte;gefilmt;für;to film
+dokumentieren;dokumentierte;dokumentiert;von;to document
+zeichnen;zeichnete;gezeichnet;nach;to copy
+nachzeichnen;zeichnete nach;nachgezeichnet;auf;to trace
+skizzieren;skizzierte;skizziert;für;to sketch
+zeichnen;zeichnete;gezeichnet;für;to draw
+illustrationen erstellen;erstellte Illustrationen;Illustrationen erstellt;für;to illustrate
+zeichnen;zeichnete;gezeichnet;mit;to sketch
+zeichnen;zeichnete;gezeichnet;auf;to outline
+karikieren;karikierte;karikiert;für;to caricature
+porträtieren;porträtierte;porträtiert;für;to portrait
+zeichnen;zeichnete;gezeichnet;von;to trace
+zeichnen;zeichnete;gezeichnet;für;to illustrate
+kopieren;kopierte;kopiert;von;to copy
+pausen;pauste ab;abgepaust;von;to trace
+modellieren;modellierte;modelliert;aus;to model
+formen;formte;geformt;aus;to mold
+gießen;goss;gegossen;aus;to cast
+schweißen;schweißte;geschweißt;an;to weld
+löten;lötete;gelötet;an;to solder
+brennen;brannte;gebrannt;in;to fire
+trocknen;trocknete;getrocknet;bei;to dry
+polieren;polierte;poliert;auf;to polish
+lackieren;lackierte;lackiert;auf;to varnish
+versiegeln;versiegelte;versiegelt;mit;to seal
+überziehen;zog über;überzogen;mit;to coat
+applizieren;applizierte;appliziert;auf;to apply
+montieren;montierte;montiert;an;to mount
+installieren;installierte;installiert;an;to install
+arrangieren;arrangierte;arrangiert;zu;to arrange
+komponieren;komponierte;komponiert;für;to compose
+konstruieren;konstruiere;konstruiert;aus;to construct
+designen;designte;designt;für;to design
+grafisch gestalten;gestaltete grafisch;grafisch gestaltet;für;to create graphic
+layouten;layoutete;gelayoutet;für;to layout
+digital malen;malte digital;digital gemalt;auf;to paint digitally
+digitale gestalten;gestaltete digital;digital gestaltet;für;to create digitally
+animieren;animierte;animiert;für;to animate
+fotografieren;fotografierte;fotografiert;von;to photograph
+entwickeln;entwickelte;entwickelt;von;to develop photos
+retuschieren;retuschierte;retuschiert;auf;to retouch
+bearbeiten;bearbeitete;bearbeitet;mit;to edit
+collagieren;collagierte;collagiert;aus;to collage
+montieren;montierte;montiert;zu;to assemble
+installieren;installierte;installiert;in;to install
+ausstellen;stellte aus;ausgestellt;in;to exhibit
+präsentieren;präsentierte;präsentiert;vor;to present
+zeigen;zeigte;gezeigt;an;to show
+spielen;spielte;gespielt;auf;to play (an instrument)
+üben;übte;geübt;auf;to practice
+komponieren;komponierte;komponiert;für;to compose
+dirigieren;dirigierte;dirigiert;bei;to conduct
+singen;sang;gesungen;in;to sing
+vorsingen;sang vor;vorgesungen;für;to audition
+begleiten;begleitete;begleitet;mit;to accompany
+proben;probte;geprobt;für;to rehearse
+aufführen;führte auf;aufgeführt;für;to perform
+interpretieren;interpretierte;interpretiert;von;to interpret
+arrangieren;arrangierte;arrangiert;für;to arrange
+transponieren;transponierte;transponiert;in;to transpose
+improvisieren;improvisierte;improvisiert;auf;to improvise
+kommentieren;kommentierte;kommentiert;zu;to comment
+aufnehmen;nahm auf;aufgenommen;mit;to record
+mischen;mischte;gemischt;mit;to mix
+abmischen;mixte ab;abgemischt;mit;to mix down
+produzieren;produzierte;produziert;für;to produce
+master;masterte;gemastert;für;to master
+remixen;remixte;remixt;von;to remix
+transkribieren;transkribierte;transkribiert;von;to transcribe
+noten lesen;las Noten;Noten gelesen;von;to read sheet music
+noten schreiben;schrieb Noten;Noten geschrieben;für;to write sheet music
+intonieren;intonierte;intoniert;auf;to intonate
+stimmbildung machen;machte Stimmbildung;Stimmbildung gemacht;für;to train voice
+verstärken;verstärkte;verstärkt;mit;to amplify
+abspielen;spielte ab;abgespielt;von;to play back
+aufzeichnen;zeichnete auf;aufgezeichnet;für;to record
+kommentieren;kommentierte;kommentiert;zu;to comment on
+vorhören;hörte vor;vorgehört;bei;to audition
+dirigieren;dirigierte;dirigiert;bei;to conduct
+solieren;solierte;soliert;auf;to solo
+begleiten;begleitete;begleitet;mit;to accompany
+jammen;jammte;gejamt;mit;to jam
+improvisieren;improvisierte;improvisiert;auf;to improvise
+spielen;spielte;gespielt;mit;to perform together
+aufführen;führte auf;aufgeführt;vor;to perform for
+recorden;recordete;recordet;für;to record
+mischen;mischte;gemischt;mit;to mix
+komponieren;komponierte;komponiert;für;to compose
+arrangieren;arrangierte;arrangiert;für;to arrange
+orchestrieren;orchestrierte;orchestriert;für;to orchestrate
+transponieren;transponierte;transponiert;in;to transpose
+interpretieren;interpretierte;interpretiert;von;to interpret
+studieren;studierte;studiert;an;to study (music)
+analysieren;analysierte;analysiert;von;to analyze
+dirigieren;dirigierte;dirigiert;bei;to conduct
+proben;probte;geprobt;für;to rehearse
+aufnehmen;nahm auf;aufgenommen;im;to record
+editieren;editierte;editiert;an;to edit
+mischen;mischte;gemischt;für;to mix
+abmischen;mixte ab;abgemischt;für;to mix down
+master;masterte;gemastert;für;to master
+remixen;remixte;remixt;von;to remix
+komponieren;komponierte;komponiert;für;to compose
+improvisieren;improvisierte;improvisiert;auf;to improvise
+spielen;spielte;gespielt;auf;to play
+singen;sang;gesungen;für;to sing
+vorsingen;sang vor;vorgesungen;für;to audition
+begleiten;begleitete;begleitet;mit;to accompany
+solieren;solierte;soliert;auf;to solo
+noten lesen;las;Noten gelesen;von;to read music
+noten schreiben;schrieb;Noten geschrieben;für;to write music
+stimmbildung machen;machte;Stimmbildung gemacht;für;to do vocal training
+verstärken;verstärkte;verstärkt;mit;to amplify
+aufzeichnen;zeichnete auf;aufgezeichnet;für;to record
+abspielen;spielte ab;abgespielt;von;to play back
+mixen;mixte;gemixt;für;to mix
+kommentieren;kommentierte;kommentiert;zu;to comment
+vorhören;hörte vor;vorgehört;bei;to audition
+entwerfen;entwarf;entworfen;für;to design
+planen;plante;geplant;für;to plan
+skizzieren;skizzierte;skizziert;für;to sketch
+modellieren;modellierte;modelliert;aus;to model
+konstruieren;konstruiere;konstruiert;aus;to construct
+bauen;baute;gebaut;mit;to build
+errichten;errichtete;errichtet;für;to erect
+montieren;montierte;montiert;an;to assemble
+installieren;installierte;installiert;in;to install
+renovieren;renovierte;renoviert;an;to renovate
+restaurieren;restaurierte;restauriert;an;to restore
+modernisieren;modernisierte;modernisiert;an;to modernize
+planieren;planierte;planiert;für;to level
+verputzen;verputzte;verputzt;mit;to plaster
+streichen;strich;gestrichen;auf;to paint
+lackieren;lackierte;lackiert;auf;to varnish
+abdichten;dichtete ab;abgedichtet;mit;to seal
+isolieren;isolierte;isoliert;mit;to insulate
+verschalen;verschalte;verschalt;mit;to shutter
+gießen;goss;gegossen;aus;to cast
+betonieren;betonierte;betoniert;mit;to concrete
+mauern;mauerte;gemauert;mit;to brick
+verputzen;verputzte;verputzt;mit;to plaster
+verschönern;verschönerte;verschönert;mit;to beautify
+restaurieren;restaurierte;restauriert;an;to restore
+verkleiden;verkleidete;verkleidet;mit;to clad
+dämmmen;dämmte;gedämmt;mit;to insulate
+planen;plante;geplant;für;to plan
+zeichnen;zeichnete;gezeichnet;für;to draw
+skizzieren;skizzierte;skizziert;für;to sketch
+vermesssen;vermaß;vergemessen;für;to survey
+modellieren;modellierte;modelliert;mit;to model
+visualisieren;visualisierte;visualisiert;mit;to visualize
+berechnen;berechnete;berechnet;für;to calculate
+dimensionieren;dimensionierte;dimensioniert;für;to size
+prüfen;prüfte;geprüft;auf;to check
+kontrollieren;kontrollierte;kontrolliert;bei;to inspect
+überwachen;überwachte;überwacht;bei;to supervise
+entwerfen;entwarf;entworfen;für;to design
+architekturieren;architekturierte;architekturert;für;to architect
+konzipieren;konzipierte;konzipiert;für;to conceptualize
+planen;plante;geplant;für;to plan
+zeichnen;zeichnete;gezeichnet;für;to draw
+berechnen;berechnete;berechnet;für;to calculate
+bemessen;bemess;bemessen;für;to measure
+projetieren;projektierte;projiziert;für;to project
+ausarbeiten;arbeitete aus;ausgearbeitet;zu;to elaborate
+zeichnen;zeichnete;gezeichnet;für;to draw
+modellieren;modellierte;modelliert;aus;to model
+konstruieren;konstruiere;konstruiert;aus;to construct
+bauen;baute;gebaut;mit;to build
+installieren;installierte;installiert;in;to install
+montieren;montierte;montiert;an;to assemble
+prüfen;prüfte;geprüft;auf;to check
+überprüfen;überprüfte;überprüft;auf;to verify
+kontrollieren;kontrollierte;kontrolliert;bei;to supervise
+renovieren;renovierte;renoviert;an;to renovate
+restaurieren;restaurierte;restauriert;an;to restore
+modernisieren;modernisierte;modernisiert;an;to modernize
+verschönern;verschönerte;verschönert;mit;to beautify
+gestalten;gestaltete;gestaltet;zu;to design
+arrangieren;arrangierte;arrangiert;zu;to arrange
+beleuchten;beleuchtete;beleuchtet;mit;to illuminate
+einrichten;richtete ein;eingerichtet;mit;to furnish
+möblieren;möblierte;möbliert;mit;to furnish
+verlegen;verlegte;verlegt;von;to lay (tiles, floors)
+pflastern;pflasterte;gepflastert;mit;to pave
+begrünen;begrünte;begrünt;mit;to green
+bepflanzen;bepflanzte;bepflanzt;mit;to plant
+dekoration anbringen;brachte an;angebracht;mit;to decorate
+aufstellen;stellte auf;aufgestellt;für;to set up
+montieren;montierte;montiert;an;to assemble
+demontieren;demontierte;demontiert;von;to disassemble
+transportieren;transportierte;transportiert;zu;to transport
+lagern;lagerte;gelagert;in;to store
+sichern;sicherte;gesichert;gegen;to secure
+verstärken;verstärkte;verstärkt;mit;to reinforce

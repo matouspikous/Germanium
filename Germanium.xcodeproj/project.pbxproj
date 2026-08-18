@@ -1,0 +1,778 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		449E4C4C2F0FDD3100883A86 /* sentence_building.txt in Resources */ = {isa = PBXBuildFile; fileRef = 449E4C3A2F0FDD2C00883A86 /* sentence_building.txt */; };
+		449E4C4D2F0FDD3100883A86 /* nouns_gender.txt in Resources */ = {isa = PBXBuildFile; fileRef = 449E4C3B2F0FDD2C00883A86 /* nouns_gender.txt */; };
+		449E4C4E2F0FDD3100883A86 /* ArticlePracticeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449E4C3C2F0FDD2D00883A86 /* ArticlePracticeViewController.swift */; };
+		449E4C4F2F0FDD3100883A86 /* FillInBlankViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449E4C3D2F0FDD2D00883A86 /* FillInBlankViewController.swift */; };
+		449E4C502F0FDD3100883A86 /* SynonymAntonymViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449E4C3E2F0FDD2D00883A86 /* SynonymAntonymViewController.swift */; };
+		449E4C512F0FDD3100883A86 /* fill_blank.txt in Resources */ = {isa = PBXBuildFile; fileRef = 449E4C3F2F0FDD2D00883A86 /* fill_blank.txt */; };
+		449E4C522F0FDD3100883A86 /* synonyms_antonyms.txt in Resources */ = {isa = PBXBuildFile; fileRef = 449E4C402F0FDD2E00883A86 /* synonyms_antonyms.txt */; };
+		449E4C532F0FDD3100883A86 /* Models.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449E4C412F0FDD2E00883A86 /* Models.swift */; };
+		449E4C542F0FDD3100883A86 /* case_practice.txt in Resources */ = {isa = PBXBuildFile; fileRef = 449E4C422F0FDD2E00883A86 /* case_practice.txt */; };
+		449E4C552F0FDD3100883A86 /* AudioPronunciationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449E4C432F0FDD2E00883A86 /* AudioPronunciationManager.swift */; };
+		449E4C562F0FDD3100883A86 /* SentenceBuildingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449E4C442F0FDD2E00883A86 /* SentenceBuildingViewController.swift */; };
+		449E4C572F0FDD3100883A86 /* CustomWordListsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449E4C452F0FDD2F00883A86 /* CustomWordListsViewController.swift */; };
+		449E4C582F0FDD3100883A86 /* CasePracticeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449E4C462F0FDD2F00883A86 /* CasePracticeViewController.swift */; };
+		449E4C592F0FDD3100883A86 /* ReadingComprehensionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449E4C472F0FDD2F00883A86 /* ReadingComprehensionViewController.swift */; };
+		449E4C5A2F0FDD3100883A86 /* adjective_declension.txt in Resources */ = {isa = PBXBuildFile; fileRef = 449E4C482F0FDD3000883A86 /* adjective_declension.txt */; };
+		449E4C5B2F0FDD3100883A86 /* ListeningPracticeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449E4C492F0FDD3000883A86 /* ListeningPracticeViewController.swift */; };
+		449E4C5C2F0FDD3100883A86 /* reading_passages.txt in Resources */ = {isa = PBXBuildFile; fileRef = 449E4C4A2F0FDD3000883A86 /* reading_passages.txt */; };
+		449E4C5D2F0FDD3100883A86 /* AdjectiveDeclensionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449E4C4B2F0FDD3000883A86 /* AdjectiveDeclensionViewController.swift */; };
+		44E4D7F92EFE5F2800B49064 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E4D7F82EFE5F2800B49064 /* AppDelegate.swift */; };
+		44E4D8002EFE5F2B00B49064 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D7FF2EFE5F2B00B49064 /* Assets.xcassets */; };
+		44E4D80E2EFE5F2C00B49064 /* Germanium_IITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E4D80D2EFE5F2C00B49064 /* Germanium_IITests.swift */; };
+		44E4D8192EFE5F2C00B49064 /* Germanium_IIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E4D8182EFE5F2C00B49064 /* Germanium_IIUITests.swift */; };
+		44E4D83A2EFE609400B49064 /* conversation.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D8262EFE608C00B49064 /* conversation.txt */; };
+		44E4D83B2EFE609400B49064 /* food.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D8272EFE608C00B49064 /* food.txt */; };
+		44E4D83C2EFE609400B49064 /* sentences.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D8282EFE608C00B49064 /* sentences.txt */; };
+		44E4D83D2EFE609400B49064 /* c2_sentences.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D8292EFE608D00B49064 /* c2_sentences.txt */; };
+		44E4D83E2EFE609400B49064 /* words_complaints.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D82A2EFE608D00B49064 /* words_complaints.txt */; };
+		44E4D83F2EFE609400B49064 /* words_travel.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D82B2EFE608E00B49064 /* words_travel.txt */; };
+		44E4D8402EFE609400B49064 /* b2_sentences.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D82C2EFE608E00B49064 /* b2_sentences.txt */; };
+		44E4D8412EFE609400B49064 /* words_school.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D82D2EFE608E00B49064 /* words_school.txt */; };
+		44E4D8422EFE609400B49064 /* c1_sentences.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D82E2EFE608F00B49064 /* c1_sentences.txt */; };
+		44E4D8432EFE609400B49064 /* words_food.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D82F2EFE608F00B49064 /* words_food.txt */; };
+		44E4D8442EFE609400B49064 /* school.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D8302EFE608F00B49064 /* school.txt */; };
+		44E4D8452EFE609400B49064 /* b1_sentences.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D8312EFE609000B49064 /* b1_sentences.txt */; };
+		44E4D8462EFE609400B49064 /* tense_sentences.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D8322EFE609000B49064 /* tense_sentences.txt */; };
+		44E4D8472EFE609400B49064 /* verb_practice.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D8332EFE609100B49064 /* verb_practice.txt */; };
+		44E4D8482EFE609400B49064 /* a2_sentences.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D8342EFE609200B49064 /* a2_sentences.txt */; };
+		44E4D8492EFE609400B49064 /* restaurant.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D8352EFE609200B49064 /* restaurant.txt */; };
+		44E4D84A2EFE609400B49064 /* a1_sentences.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D8362EFE609300B49064 /* a1_sentences.txt */; };
+		44E4D84B2EFE609400B49064 /* words_verbs.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D8372EFE609300B49064 /* words_verbs.txt */; };
+		44E4D84C2EFE609400B49064 /* morphology.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D8382EFE609400B49064 /* morphology.txt */; };
+		44E4D84D2EFE609400B49064 /* words_work.txt in Resources */ = {isa = PBXBuildFile; fileRef = 44E4D8392EFE609400B49064 /* words_work.txt */; };
+		44E4D85C2EFE60B100B49064 /* CategorySelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E4D84E2EFE60A700B49064 /* CategorySelectionViewController.swift */; };
+		44E4D85D2EFE60B100B49064 /* OrderingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E4D84F2EFE60A800B49064 /* OrderingViewController.swift */; };
+		44E4D85E2EFE60B100B49064 /* MistakeTracker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E4D8502EFE60A900B49064 /* MistakeTracker.swift */; };
+		44E4D85F2EFE60B100B49064 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E4D8512EFE60A900B49064 /* HomeViewController.swift */; };
+		44E4D8612EFE60B100B49064 /* WordFamilyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E4D8532EFE60AB00B49064 /* WordFamilyViewController.swift */; };
+		44E4D8622EFE60B100B49064 /* DataProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E4D8542EFE60AC00B49064 /* DataProvider.swift */; };
+		44E4D8632EFE60B100B49064 /* WordMatchingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E4D8552EFE60AC00B49064 /* WordMatchingViewController.swift */; };
+		44E4D8642EFE60B100B49064 /* TensePracticeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E4D8562EFE60AD00B49064 /* TensePracticeViewController.swift */; };
+		44E4D8652EFE60B100B49064 /* VerbPracticeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E4D8572EFE60AE00B49064 /* VerbPracticeViewController.swift */; };
+		44E4D8662EFE60B100B49064 /* WritingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E4D8582EFE60AF00B49064 /* WritingViewController.swift */; };
+		44E4D8672EFE60B100B49064 /* WordMatchingCategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E4D8592EFE60AF00B49064 /* WordMatchingCategoryViewController.swift */; };
+		44E4D8682EFE60B100B49064 /* ThemeManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E4D85A2EFE60B000B49064 /* ThemeManager.swift */; };
+		44E4D8692EFE60B100B49064 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44E4D85B2EFE60B100B49064 /* SettingsViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		44E4D80A2EFE5F2B00B49064 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 44E4D7ED2EFE5F2800B49064 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 44E4D7F42EFE5F2800B49064;
+			remoteInfo = "Germanium II";
+		};
+		44E4D8152EFE5F2C00B49064 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 44E4D7ED2EFE5F2800B49064 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 44E4D7F42EFE5F2800B49064;
+			remoteInfo = "Germanium II";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		449E4C3A2F0FDD2C00883A86 /* sentence_building.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = sentence_building.txt; sourceTree = "<group>"; };
+		449E4C3B2F0FDD2C00883A86 /* nouns_gender.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = nouns_gender.txt; sourceTree = "<group>"; };
+		449E4C3C2F0FDD2D00883A86 /* ArticlePracticeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArticlePracticeViewController.swift; sourceTree = "<group>"; };
+		449E4C3D2F0FDD2D00883A86 /* FillInBlankViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FillInBlankViewController.swift; sourceTree = "<group>"; };
+		449E4C3E2F0FDD2D00883A86 /* SynonymAntonymViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SynonymAntonymViewController.swift; sourceTree = "<group>"; };
+		449E4C3F2F0FDD2D00883A86 /* fill_blank.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = fill_blank.txt; sourceTree = "<group>"; };
+		449E4C402F0FDD2E00883A86 /* synonyms_antonyms.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = synonyms_antonyms.txt; sourceTree = "<group>"; };
+		449E4C412F0FDD2E00883A86 /* Models.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Models.swift; sourceTree = "<group>"; };
+		449E4C422F0FDD2E00883A86 /* case_practice.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = case_practice.txt; sourceTree = "<group>"; };
+		449E4C432F0FDD2E00883A86 /* AudioPronunciationManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AudioPronunciationManager.swift; sourceTree = "<group>"; };
+		449E4C442F0FDD2E00883A86 /* SentenceBuildingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SentenceBuildingViewController.swift; sourceTree = "<group>"; };
+		449E4C452F0FDD2F00883A86 /* CustomWordListsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomWordListsViewController.swift; sourceTree = "<group>"; };
+		449E4C462F0FDD2F00883A86 /* CasePracticeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CasePracticeViewController.swift; sourceTree = "<group>"; };
+		449E4C472F0FDD2F00883A86 /* ReadingComprehensionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReadingComprehensionViewController.swift; sourceTree = "<group>"; };
+		449E4C482F0FDD3000883A86 /* adjective_declension.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = adjective_declension.txt; sourceTree = "<group>"; };
+		449E4C492F0FDD3000883A86 /* ListeningPracticeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListeningPracticeViewController.swift; sourceTree = "<group>"; };
+		449E4C4A2F0FDD3000883A86 /* reading_passages.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = reading_passages.txt; sourceTree = "<group>"; };
+		449E4C4B2F0FDD3000883A86 /* AdjectiveDeclensionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AdjectiveDeclensionViewController.swift; sourceTree = "<group>"; };
+		44E4D7F52EFE5F2800B49064 /* Germanium.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Germanium.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		44E4D7F82EFE5F2800B49064 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		44E4D7FF2EFE5F2B00B49064 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		44E4D8042EFE5F2B00B49064 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		44E4D8092EFE5F2B00B49064 /* GermaniumTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GermaniumTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		44E4D80D2EFE5F2C00B49064 /* Germanium_IITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Germanium_IITests.swift; sourceTree = "<group>"; };
+		44E4D80F2EFE5F2C00B49064 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		44E4D8142EFE5F2C00B49064 /* GermaniumUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GermaniumUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		44E4D8182EFE5F2C00B49064 /* Germanium_IIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Germanium_IIUITests.swift; sourceTree = "<group>"; };
+		44E4D81A2EFE5F2C00B49064 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		44E4D8262EFE608C00B49064 /* conversation.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = conversation.txt; path = Resources/conversation.txt; sourceTree = "<group>"; };
+		44E4D8272EFE608C00B49064 /* food.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = food.txt; path = Resources/food.txt; sourceTree = "<group>"; };
+		44E4D8282EFE608C00B49064 /* sentences.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = sentences.txt; path = Resources/sentences.txt; sourceTree = "<group>"; };
+		44E4D8292EFE608D00B49064 /* c2_sentences.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = c2_sentences.txt; path = Resources/c2_sentences.txt; sourceTree = "<group>"; };
+		44E4D82A2EFE608D00B49064 /* words_complaints.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = words_complaints.txt; path = Resources/words_complaints.txt; sourceTree = "<group>"; };
+		44E4D82B2EFE608E00B49064 /* words_travel.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = words_travel.txt; path = Resources/words_travel.txt; sourceTree = "<group>"; };
+		44E4D82C2EFE608E00B49064 /* b2_sentences.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = b2_sentences.txt; path = Resources/b2_sentences.txt; sourceTree = "<group>"; };
+		44E4D82D2EFE608E00B49064 /* words_school.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = words_school.txt; path = Resources/words_school.txt; sourceTree = "<group>"; };
+		44E4D82E2EFE608F00B49064 /* c1_sentences.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = c1_sentences.txt; path = Resources/c1_sentences.txt; sourceTree = "<group>"; };
+		44E4D82F2EFE608F00B49064 /* words_food.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = words_food.txt; path = Resources/words_food.txt; sourceTree = "<group>"; };
+		44E4D8302EFE608F00B49064 /* school.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = school.txt; path = Resources/school.txt; sourceTree = "<group>"; };
+		44E4D8312EFE609000B49064 /* b1_sentences.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = b1_sentences.txt; path = Resources/b1_sentences.txt; sourceTree = "<group>"; };
+		44E4D8322EFE609000B49064 /* tense_sentences.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = tense_sentences.txt; path = Resources/tense_sentences.txt; sourceTree = "<group>"; };
+		44E4D8332EFE609100B49064 /* verb_practice.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = verb_practice.txt; path = Resources/verb_practice.txt; sourceTree = "<group>"; };
+		44E4D8342EFE609200B49064 /* a2_sentences.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = a2_sentences.txt; path = Resources/a2_sentences.txt; sourceTree = "<group>"; };
+		44E4D8352EFE609200B49064 /* restaurant.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = restaurant.txt; path = Resources/restaurant.txt; sourceTree = "<group>"; };
+		44E4D8362EFE609300B49064 /* a1_sentences.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = a1_sentences.txt; path = Resources/a1_sentences.txt; sourceTree = "<group>"; };
+		44E4D8372EFE609300B49064 /* words_verbs.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = words_verbs.txt; path = Resources/words_verbs.txt; sourceTree = "<group>"; };
+		44E4D8382EFE609400B49064 /* morphology.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = morphology.txt; path = Resources/morphology.txt; sourceTree = "<group>"; };
+		44E4D8392EFE609400B49064 /* words_work.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = words_work.txt; path = Resources/words_work.txt; sourceTree = "<group>"; };
+		44E4D84E2EFE60A700B49064 /* CategorySelectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategorySelectionViewController.swift; sourceTree = "<group>"; };
+		44E4D84F2EFE60A800B49064 /* OrderingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrderingViewController.swift; sourceTree = "<group>"; };
+		44E4D8502EFE60A900B49064 /* MistakeTracker.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MistakeTracker.swift; sourceTree = "<group>"; };
+		44E4D8512EFE60A900B49064 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		44E4D8532EFE60AB00B49064 /* WordFamilyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WordFamilyViewController.swift; sourceTree = "<group>"; };
+		44E4D8542EFE60AC00B49064 /* DataProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataProvider.swift; sourceTree = "<group>"; };
+		44E4D8552EFE60AC00B49064 /* WordMatchingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WordMatchingViewController.swift; sourceTree = "<group>"; };
+		44E4D8562EFE60AD00B49064 /* TensePracticeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TensePracticeViewController.swift; sourceTree = "<group>"; };
+		44E4D8572EFE60AE00B49064 /* VerbPracticeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VerbPracticeViewController.swift; sourceTree = "<group>"; };
+		44E4D8582EFE60AF00B49064 /* WritingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WritingViewController.swift; sourceTree = "<group>"; };
+		44E4D8592EFE60AF00B49064 /* WordMatchingCategoryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WordMatchingCategoryViewController.swift; sourceTree = "<group>"; };
+		44E4D85A2EFE60B000B49064 /* ThemeManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThemeManager.swift; sourceTree = "<group>"; };
+		44E4D85B2EFE60B100B49064 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		44E4D7F22EFE5F2800B49064 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		44E4D8062EFE5F2B00B49064 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		44E4D8112EFE5F2C00B49064 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		44E4D7EC2EFE5F2800B49064 = {
+			isa = PBXGroup;
+			children = (
+				44E4D7F72EFE5F2800B49064 /* Germanium II */,
+				44E4D80C2EFE5F2B00B49064 /* Germanium IITests */,
+				44E4D8172EFE5F2C00B49064 /* Germanium IIUITests */,
+				44E4D7F62EFE5F2800B49064 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		44E4D7F62EFE5F2800B49064 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				44E4D7F52EFE5F2800B49064 /* Germanium.app */,
+				44E4D8092EFE5F2B00B49064 /* GermaniumTests.xctest */,
+				44E4D8142EFE5F2C00B49064 /* GermaniumUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		44E4D7F72EFE5F2800B49064 /* Germanium II */ = {
+			isa = PBXGroup;
+			children = (
+				449E4C482F0FDD3000883A86 /* adjective_declension.txt */,
+				449E4C4B2F0FDD3000883A86 /* AdjectiveDeclensionViewController.swift */,
+				449E4C3C2F0FDD2D00883A86 /* ArticlePracticeViewController.swift */,
+				449E4C432F0FDD2E00883A86 /* AudioPronunciationManager.swift */,
+				449E4C422F0FDD2E00883A86 /* case_practice.txt */,
+				449E4C462F0FDD2F00883A86 /* CasePracticeViewController.swift */,
+				449E4C452F0FDD2F00883A86 /* CustomWordListsViewController.swift */,
+				449E4C3F2F0FDD2D00883A86 /* fill_blank.txt */,
+				449E4C3D2F0FDD2D00883A86 /* FillInBlankViewController.swift */,
+				449E4C492F0FDD3000883A86 /* ListeningPracticeViewController.swift */,
+				449E4C412F0FDD2E00883A86 /* Models.swift */,
+				449E4C3B2F0FDD2C00883A86 /* nouns_gender.txt */,
+				449E4C4A2F0FDD3000883A86 /* reading_passages.txt */,
+				449E4C472F0FDD2F00883A86 /* ReadingComprehensionViewController.swift */,
+				449E4C3A2F0FDD2C00883A86 /* sentence_building.txt */,
+				449E4C442F0FDD2E00883A86 /* SentenceBuildingViewController.swift */,
+				449E4C3E2F0FDD2D00883A86 /* SynonymAntonymViewController.swift */,
+				449E4C402F0FDD2E00883A86 /* synonyms_antonyms.txt */,
+				44E4D7F82EFE5F2800B49064 /* AppDelegate.swift */,
+				44E4D84E2EFE60A700B49064 /* CategorySelectionViewController.swift */,
+				44E4D8542EFE60AC00B49064 /* DataProvider.swift */,
+				44E4D8512EFE60A900B49064 /* HomeViewController.swift */,
+				44E4D8502EFE60A900B49064 /* MistakeTracker.swift */,
+				44E4D84F2EFE60A800B49064 /* OrderingViewController.swift */,
+				44E4D85B2EFE60B100B49064 /* SettingsViewController.swift */,
+				44E4D8562EFE60AD00B49064 /* TensePracticeViewController.swift */,
+				44E4D85A2EFE60B000B49064 /* ThemeManager.swift */,
+				44E4D8572EFE60AE00B49064 /* VerbPracticeViewController.swift */,
+				44E4D8532EFE60AB00B49064 /* WordFamilyViewController.swift */,
+				44E4D8592EFE60AF00B49064 /* WordMatchingCategoryViewController.swift */,
+				44E4D8552EFE60AC00B49064 /* WordMatchingViewController.swift */,
+				44E4D8582EFE60AF00B49064 /* WritingViewController.swift */,
+				44E4D8362EFE609300B49064 /* a1_sentences.txt */,
+				44E4D8342EFE609200B49064 /* a2_sentences.txt */,
+				44E4D8312EFE609000B49064 /* b1_sentences.txt */,
+				44E4D82C2EFE608E00B49064 /* b2_sentences.txt */,
+				44E4D82E2EFE608F00B49064 /* c1_sentences.txt */,
+				44E4D8292EFE608D00B49064 /* c2_sentences.txt */,
+				44E4D8262EFE608C00B49064 /* conversation.txt */,
+				44E4D8272EFE608C00B49064 /* food.txt */,
+				44E4D8382EFE609400B49064 /* morphology.txt */,
+				44E4D8352EFE609200B49064 /* restaurant.txt */,
+				44E4D8302EFE608F00B49064 /* school.txt */,
+				44E4D8282EFE608C00B49064 /* sentences.txt */,
+				44E4D8322EFE609000B49064 /* tense_sentences.txt */,
+				44E4D8332EFE609100B49064 /* verb_practice.txt */,
+				44E4D82A2EFE608D00B49064 /* words_complaints.txt */,
+				44E4D82F2EFE608F00B49064 /* words_food.txt */,
+				44E4D82D2EFE608E00B49064 /* words_school.txt */,
+				44E4D82B2EFE608E00B49064 /* words_travel.txt */,
+				44E4D8372EFE609300B49064 /* words_verbs.txt */,
+				44E4D8392EFE609400B49064 /* words_work.txt */,
+				44E4D7FF2EFE5F2B00B49064 /* Assets.xcassets */,
+				44E4D8042EFE5F2B00B49064 /* Info.plist */,
+			);
+			path = "Germanium II";
+			sourceTree = "<group>";
+		};
+		44E4D80C2EFE5F2B00B49064 /* Germanium IITests */ = {
+			isa = PBXGroup;
+			children = (
+				44E4D80D2EFE5F2C00B49064 /* Germanium_IITests.swift */,
+				44E4D80F2EFE5F2C00B49064 /* Info.plist */,
+			);
+			path = "Germanium IITests";
+			sourceTree = "<group>";
+		};
+		44E4D8172EFE5F2C00B49064 /* Germanium IIUITests */ = {
+			isa = PBXGroup;
+			children = (
+				44E4D8182EFE5F2C00B49064 /* Germanium_IIUITests.swift */,
+				44E4D81A2EFE5F2C00B49064 /* Info.plist */,
+			);
+			path = "Germanium IIUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		44E4D7F42EFE5F2800B49064 /* Germanium */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 44E4D81D2EFE5F2C00B49064 /* Build configuration list for PBXNativeTarget "Germanium" */;
+			buildPhases = (
+				44E4D7F12EFE5F2800B49064 /* Sources */,
+				44E4D7F22EFE5F2800B49064 /* Frameworks */,
+				44E4D7F32EFE5F2800B49064 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Germanium;
+			productName = "Germanium II";
+			productReference = 44E4D7F52EFE5F2800B49064 /* Germanium.app */;
+			productType = "com.apple.product-type.application";
+		};
+		44E4D8082EFE5F2B00B49064 /* GermaniumTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 44E4D8202EFE5F2C00B49064 /* Build configuration list for PBXNativeTarget "GermaniumTests" */;
+			buildPhases = (
+				44E4D8052EFE5F2B00B49064 /* Sources */,
+				44E4D8062EFE5F2B00B49064 /* Frameworks */,
+				44E4D8072EFE5F2B00B49064 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				44E4D80B2EFE5F2B00B49064 /* PBXTargetDependency */,
+			);
+			name = GermaniumTests;
+			productName = "Germanium IITests";
+			productReference = 44E4D8092EFE5F2B00B49064 /* GermaniumTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		44E4D8132EFE5F2C00B49064 /* GermaniumUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 44E4D8232EFE5F2C00B49064 /* Build configuration list for PBXNativeTarget "GermaniumUITests" */;
+			buildPhases = (
+				44E4D8102EFE5F2C00B49064 /* Sources */,
+				44E4D8112EFE5F2C00B49064 /* Frameworks */,
+				44E4D8122EFE5F2C00B49064 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				44E4D8162EFE5F2C00B49064 /* PBXTargetDependency */,
+			);
+			name = GermaniumUITests;
+			productName = "Germanium IIUITests";
+			productReference = 44E4D8142EFE5F2C00B49064 /* GermaniumUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		44E4D7ED2EFE5F2800B49064 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1030;
+				LastUpgradeCheck = 1600;
+				ORGANIZATIONNAME = "Matouš Pikous";
+				TargetAttributes = {
+					44E4D7F42EFE5F2800B49064 = {
+						CreatedOnToolsVersion = 10.3;
+					};
+					44E4D8082EFE5F2B00B49064 = {
+						CreatedOnToolsVersion = 10.3;
+						TestTargetID = 44E4D7F42EFE5F2800B49064;
+					};
+					44E4D8132EFE5F2C00B49064 = {
+						CreatedOnToolsVersion = 10.3;
+						TestTargetID = 44E4D7F42EFE5F2800B49064;
+					};
+				};
+			};
+			buildConfigurationList = 44E4D7F02EFE5F2800B49064 /* Build configuration list for PBXProject "Germanium" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 44E4D7EC2EFE5F2800B49064;
+			productRefGroup = 44E4D7F62EFE5F2800B49064 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				44E4D7F42EFE5F2800B49064 /* Germanium */,
+				44E4D8082EFE5F2B00B49064 /* GermaniumTests */,
+				44E4D8132EFE5F2C00B49064 /* GermaniumUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		44E4D7F32EFE5F2800B49064 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				44E4D84C2EFE609400B49064 /* morphology.txt in Resources */,
+				44E4D8442EFE609400B49064 /* school.txt in Resources */,
+				44E4D83D2EFE609400B49064 /* c2_sentences.txt in Resources */,
+				44E4D8432EFE609400B49064 /* words_food.txt in Resources */,
+				449E4C512F0FDD3100883A86 /* fill_blank.txt in Resources */,
+				44E4D84A2EFE609400B49064 /* a1_sentences.txt in Resources */,
+				44E4D8422EFE609400B49064 /* c1_sentences.txt in Resources */,
+				44E4D8452EFE609400B49064 /* b1_sentences.txt in Resources */,
+				449E4C542F0FDD3100883A86 /* case_practice.txt in Resources */,
+				44E4D83E2EFE609400B49064 /* words_complaints.txt in Resources */,
+				449E4C522F0FDD3100883A86 /* synonyms_antonyms.txt in Resources */,
+				44E4D8462EFE609400B49064 /* tense_sentences.txt in Resources */,
+				44E4D8482EFE609400B49064 /* a2_sentences.txt in Resources */,
+				44E4D84D2EFE609400B49064 /* words_work.txt in Resources */,
+				44E4D83F2EFE609400B49064 /* words_travel.txt in Resources */,
+				449E4C4C2F0FDD3100883A86 /* sentence_building.txt in Resources */,
+				44E4D84B2EFE609400B49064 /* words_verbs.txt in Resources */,
+				44E4D8412EFE609400B49064 /* words_school.txt in Resources */,
+				449E4C5A2F0FDD3100883A86 /* adjective_declension.txt in Resources */,
+				44E4D83C2EFE609400B49064 /* sentences.txt in Resources */,
+				44E4D8402EFE609400B49064 /* b2_sentences.txt in Resources */,
+				449E4C5C2F0FDD3100883A86 /* reading_passages.txt in Resources */,
+				44E4D8492EFE609400B49064 /* restaurant.txt in Resources */,
+				44E4D83A2EFE609400B49064 /* conversation.txt in Resources */,
+				449E4C4D2F0FDD3100883A86 /* nouns_gender.txt in Resources */,
+				44E4D8002EFE5F2B00B49064 /* Assets.xcassets in Resources */,
+				44E4D8472EFE609400B49064 /* verb_practice.txt in Resources */,
+				44E4D83B2EFE609400B49064 /* food.txt in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		44E4D8072EFE5F2B00B49064 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		44E4D8122EFE5F2C00B49064 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		44E4D7F12EFE5F2800B49064 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				449E4C5B2F0FDD3100883A86 /* ListeningPracticeViewController.swift in Sources */,
+				449E4C562F0FDD3100883A86 /* SentenceBuildingViewController.swift in Sources */,
+				449E4C552F0FDD3100883A86 /* AudioPronunciationManager.swift in Sources */,
+				44E4D85F2EFE60B100B49064 /* HomeViewController.swift in Sources */,
+				44E4D8662EFE60B100B49064 /* WritingViewController.swift in Sources */,
+				449E4C582F0FDD3100883A86 /* CasePracticeViewController.swift in Sources */,
+				449E4C5D2F0FDD3100883A86 /* AdjectiveDeclensionViewController.swift in Sources */,
+				44E4D7F92EFE5F2800B49064 /* AppDelegate.swift in Sources */,
+				449E4C592F0FDD3100883A86 /* ReadingComprehensionViewController.swift in Sources */,
+				44E4D8622EFE60B100B49064 /* DataProvider.swift in Sources */,
+				44E4D85E2EFE60B100B49064 /* MistakeTracker.swift in Sources */,
+				44E4D85C2EFE60B100B49064 /* CategorySelectionViewController.swift in Sources */,
+				44E4D8612EFE60B100B49064 /* WordFamilyViewController.swift in Sources */,
+				44E4D8692EFE60B100B49064 /* SettingsViewController.swift in Sources */,
+				449E4C502F0FDD3100883A86 /* SynonymAntonymViewController.swift in Sources */,
+				44E4D8642EFE60B100B49064 /* TensePracticeViewController.swift in Sources */,
+				44E4D8672EFE60B100B49064 /* WordMatchingCategoryViewController.swift in Sources */,
+				44E4D85D2EFE60B100B49064 /* OrderingViewController.swift in Sources */,
+				449E4C572F0FDD3100883A86 /* CustomWordListsViewController.swift in Sources */,
+				449E4C4E2F0FDD3100883A86 /* ArticlePracticeViewController.swift in Sources */,
+				44E4D8652EFE60B100B49064 /* VerbPracticeViewController.swift in Sources */,
+				449E4C532F0FDD3100883A86 /* Models.swift in Sources */,
+				44E4D8632EFE60B100B49064 /* WordMatchingViewController.swift in Sources */,
+				44E4D8682EFE60B100B49064 /* ThemeManager.swift in Sources */,
+				449E4C4F2F0FDD3100883A86 /* FillInBlankViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		44E4D8052EFE5F2B00B49064 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				44E4D80E2EFE5F2C00B49064 /* Germanium_IITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		44E4D8102EFE5F2C00B49064 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				44E4D8192EFE5F2C00B49064 /* Germanium_IIUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		44E4D80B2EFE5F2B00B49064 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 44E4D7F42EFE5F2800B49064 /* Germanium */;
+			targetProxy = 44E4D80A2EFE5F2B00B49064 /* PBXContainerItemProxy */;
+		};
+		44E4D8162EFE5F2C00B49064 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 44E4D7F42EFE5F2800B49064 /* Germanium */;
+			targetProxy = 44E4D8152EFE5F2C00B49064 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		44E4D81B2EFE5F2C00B49064 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		44E4D81C2EFE5F2C00B49064 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		44E4D81E2EFE5F2C00B49064 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 598KF94K56;
+				ENABLE_PREVIEWS = NO;
+				INFOPLIST_FILE = "Germanium II/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = Germanium;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = piki.Germanium;
+				PRODUCT_MODULE_NAME = Germanium;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		44E4D81F2EFE5F2C00B49064 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 598KF94K56;
+				ENABLE_PREVIEWS = NO;
+				INFOPLIST_FILE = "Germanium II/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = Germanium;
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.education";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = piki.Germanium;
+				PRODUCT_MODULE_NAME = Germanium;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		44E4D8212EFE5F2C00B49064 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 598KF94K56;
+				INFOPLIST_FILE = "Germanium IITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "piki.Germanium-IITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Germanium.app/Germanium";
+			};
+			name = Debug;
+		};
+		44E4D8222EFE5F2C00B49064 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 598KF94K56;
+				INFOPLIST_FILE = "Germanium IITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "piki.Germanium-IITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Germanium.app/Germanium";
+			};
+			name = Release;
+		};
+		44E4D8242EFE5F2C00B49064 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 598KF94K56;
+				INFOPLIST_FILE = "Germanium IIUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "piki.Germanium-IIUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Germanium II";
+			};
+			name = Debug;
+		};
+		44E4D8252EFE5F2C00B49064 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 598KF94K56;
+				INFOPLIST_FILE = "Germanium IIUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "piki.Germanium-IIUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Germanium II";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		44E4D7F02EFE5F2800B49064 /* Build configuration list for PBXProject "Germanium" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				44E4D81B2EFE5F2C00B49064 /* Debug */,
+				44E4D81C2EFE5F2C00B49064 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		44E4D81D2EFE5F2C00B49064 /* Build configuration list for PBXNativeTarget "Germanium" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				44E4D81E2EFE5F2C00B49064 /* Debug */,
+				44E4D81F2EFE5F2C00B49064 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		44E4D8202EFE5F2C00B49064 /* Build configuration list for PBXNativeTarget "GermaniumTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				44E4D8212EFE5F2C00B49064 /* Debug */,
+				44E4D8222EFE5F2C00B49064 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		44E4D8232EFE5F2C00B49064 /* Build configuration list for PBXNativeTarget "GermaniumUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				44E4D8242EFE5F2C00B49064 /* Debug */,
+				44E4D8252EFE5F2C00B49064 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 44E4D7ED2EFE5F2800B49064 /* Project object */;
+}

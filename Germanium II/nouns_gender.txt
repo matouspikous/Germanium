@@ -1,0 +1,1089 @@
+Haus;das;house
+Tisch;der;table
+Lampe;die;lamp
+Buch;das;book
+Stuhl;der;chair
+Tür;die;door
+Fenster;das;window
+Computer;der;computer
+Tasche;die;bag
+Auto;das;car
+Mann;der;man
+Frau;die;woman
+Kind;das;child
+Hund;der;dog
+Katze;die;cat
+Pferd;das;horse
+Baum;der;tree
+Blume;die;flower
+Wasser;das;water
+Brot;das;bread
+Kuchen;der;cake
+Milch;die;milk
+Ei;das;egg
+Apfel;der;apple
+Banane;die;banana
+Fleisch;das;meat
+Fisch;der;fish
+Suppe;die;soup
+Bier;das;beer
+Wein;der;wine
+Kaffee;der;coffee
+Tee;der;tea
+Saft;der;juice
+Stadt;die;city
+Land;das;country
+Berg;der;mountain
+Fluss;der;river
+See;der;lake
+Meer;das;sea
+Strand;der;beach
+Wald;der;forest
+Garten;der;garden
+Park;der;park
+Straße;die;street
+Brücke;die;bridge
+Gebäude;das;building
+Krankenhaus;das;hospital
+Schule;die;school
+Universität;die;university
+Büro;das;office
+Restaurant;das;restaurant
+Hotel;das;hotel
+Geschäft;das;shop
+Supermarkt;der;supermarket
+Bank;die;bank
+Post;die;post office
+Bahnhof;der;train station
+Flughafen;der;airport
+Zug;der;train
+Bus;der;bus
+Fahrrad;das;bicycle
+Schiff;das;ship
+Flugzeug;das;airplane
+Telefon;das;telephone
+Fernseher;der;television
+Radio;das;radio
+Zeitung;die;newspaper
+Brief;der;letter
+Bild;das;picture
+Foto;das;photo
+Film;der;film
+Musik;die;music
+Lied;das;song
+Spiel;das;game
+Sport;der;sport
+Fußball;der;football
+Tennis;das;tennis
+Arbeit;die;work
+Job;der;job
+Geld;das;money
+Preis;der;price
+Zeit;die;time
+Tag;der;day
+Nacht;die;night
+Woche;die;week
+Monat;der;month
+Jahr;das;year
+Sommer;der;summer
+Winter;der;winter
+Frühling;der;spring
+Herbst;der;autumn
+Wetter;das;weather
+Sonne;die;sun
+Mond;der;moon
+Stern;der;star
+Himmel;der;sky
+Wolke;die;cloud
+Regen;der;rain
+Schnee;der;snow
+Atombindung;die;chemical bond
+Molekül;das;molecule
+Reaktion;die;reaction
+Katalysator;der;catalyst
+Enzym;das;enzyme
+Proton;das;proton
+Elektron;das;electron
+Neutron;das;neutron
+Element;das;element
+Verbindung;die;compound
+Oxidation;die;oxidation
+Reduktion;die;reduction
+Temperatur;die;temperature
+Druck;der;pressure
+Energie;die;energy
+Frequenz;die;frequency
+Welle;die;wave
+Spektrum;das;spectrum
+Gravitation;die;gravity
+Relativität;die;relativity
+Vakuum;das;vacuum
+Plasma;das;plasma
+Kristall;der;crystal
+Lösung;die;solution
+Konzentration;die;concentration
+Diffusion;die;diffusion
+Osmose;die;osmosis
+Gen;das;gene
+Mutation;die;mutation
+Evolution;die;evolution
+Regierung;die;government
+Parlament;das;parliament
+Demokratie;die;democracy
+Diktatur;die;dictatorship
+Verfassung;die;constitution
+Gesetz;das;law
+Recht;das;law/justice
+Freiheit;die;freedom
+Gleichheit;die;equality
+Gerechtigkeit;die;justice
+Wahl;die;election
+Abstimmung;die;vote
+Partei;die;political party
+Koalition;die;coalition
+Opposition;die;opposition
+Minister;der;minister
+Präsident;der;president
+Diplomatie;die;diplomacy
+Sanktion;die;sanction
+Wirtschaft;die;economy
+Inflation;die;inflation
+Deflation;die;deflation
+Arbeitslosigkeit;die;unemployment
+Wachstum;das;growth
+Handel;der;trade
+Export;der;export
+Import;der;import
+Steuer;die;tax
+Budget;das;budget
+Investition;die;investment
+Bewusstsein;das;consciousness
+Existenz;die;existence
+Identität;die;identity
+Wahrheit;die;truth
+Erkenntnis;die;knowledge
+Vernunft;die;reason
+Moral;die;morality
+Ethik;die;ethics
+Sinn;der;meaning
+Realität;die;reality
+Illusion;die;illusion
+Freiheit;die;freedom
+Determinismus;der;determinism
+Dualismus;der;dualism
+Materialismus;der;materialism
+Idealismus;der;idealism
+Subjekt;das;subject
+Objekt;das;object
+Erfahrung;die;experience
+Logik;die;logic
+Vertrag;der;contract
+Haftung;die;liability
+Urteil;das;judgment
+Richter;der;judge
+Gericht;das;court
+Klage;die;lawsuit
+Verteidigung;die;defense
+Anklage;die;prosecution
+Beweis;der;evidence
+Verbrechen;das;crime
+Strafe;die;punishment
+Gesetzgebung;die;legislation
+Verordnung;die;regulation
+Rechtsstaat;der;rule-of-law state
+Eigentum;das;property
+Urheberrecht;das;copyright
+Patent;das;patent
+Vollstreckung;die;enforcement
+Zeuge;der;witness
+Aussage;die;testimony
+Diagnose;die;diagnosis
+Therapie;die;therapy
+Symptom;das;symptom
+Krankheit;die;disease
+Infektion;die;infection
+Virus;das;virus
+Bakterium;das;bacterium
+Immunität;die;immunity
+Impfstoff;der;vaccine
+Chirurgie;die;surgery
+Operation;die;operation
+Narkose;die;anesthesia
+Blut;das;blood
+Herz;das;heart
+Lunge;die;lung
+Leber;die;liver
+Niere;die;kidney
+Gehirn;das;brain
+Schmerz;der;pain
+Heilung;die;healing
+Algorithmus;der;algorithm
+Software;die;software
+Hardware;die;hardware
+Daten;die;data
+Netzwerk;das;network
+Server;der;server
+Cloud;die;cloud
+Datenbank;die;database
+Programm;das;program
+Schnittstelle;die;interface
+Verschlüsselung;die;encryption
+Sicherheit;die;security
+künstliche Intelligenz;die;artificial intelligence
+maschinelles Lernen;das;machine learning
+Roboter;der;robot
+Sensor;der;sensor
+Signal;das;signal
+Protokoll;das;protocol
+Bandbreite;die;bandwidth
+Verarbeitung;die;processing
+Speicher;der;memory
+Chip;der;chip
+Halbleiter;der;semiconductor
+Code;der;code
+Anwendung;die;application
+Benutzer;der;user
+Plattform;die;platform
+System;das;system
+Update;das;update
+Fehler;der;bug/error
+Klima;das;climate
+Atmosphäre;die;atmosphere
+Umwelt;die;environment
+Verschmutzung;die;pollution
+Emission;die;emission
+Nachhaltigkeit;die;sustainability
+Recycling;das;recycling
+Abfall;der;waste
+Solarenergie;die;solar energy
+Windenergie;die;wind energy
+Biodiversität;die;biodiversity
+Ökosystem;das;ecosystem
+Wald;der;forest
+Ozean;der;ocean
+Gletscher;der;glacier
+Dürre;die;drought
+Überschwemmung;die;flood
+Temperaturanstieg;der;temperature rise
+Kohlenstoff;der;carbon
+Emissionen;die;emissions
+Konzept;das;concept
+Theorie;die;theory
+Modell;das;model
+Analyse;die;analysis
+Struktur;die;structure
+Funktion;die;function
+Variable;die;variable
+Ergebnis;das;result
+Methode;die;method
+Prozess;der;process
+Dimension;die;dimension
+Perspektive;die;perspective
+Kontext;der;context
+Hypothese;die;hypothesis
+Forschung;die;research
+Studie;die;study
+Publikation;die;publication
+Interpretation;die;interpretation
+Kommunikation;die;communication
+Information;die;information
+Organisation;die;organization
+Entwicklung;die;development
+Veränderung;die;change
+Stabilität;die;stability
+Komplexität;die;complexity
+Wahrscheinlichkeit;die;probability
+Statistik;die;statistics
+Simulation;die;simulation
+Optimierung;die;optimization
+Bewertung;die;evaluation
+Attribut;das;attribute
+Hypothese;die;hypothesis
+Paradigma;das;paradigm
+Methodologie;die;methodology
+Korrelation;die;correlation
+Kausalität;die;causality
+Regression;die;regression
+Simulation;die;simulation
+Modellierung;die;modeling
+Messung;die;measurement
+Kalibrierung;die;calibration
+Spektrum;das;spectrum
+Frequenz;die;frequency
+Amplitude;die;amplitude
+Vektor;der;vector
+Matrix;die;matrix
+Skalar;der;scalar
+Entropie;die;entropy
+Quant;das;quantum
+Wahrscheinlichkeit;die;probability
+Souveränität;die;sovereignty
+Legislative;die;legislature
+Exekutive;die;executive
+Judikative;die;judiciary
+Bundestag;der;federal parliament
+Verordnung;die;regulation
+Koalition;die;coalition
+Opposition;die;opposition
+Lobby;die;lobby
+Wahlkreis;der;electoral district
+Mehrheit;die;majority
+Minderheit;die;minority
+Reform;die;reform
+Politik;die;politics
+Diplomat;der;diplomat
+Botschaft;die;embassy
+Verhandlung;die;negotiation
+Abkommen;das;agreement
+Sicherheit;die;security
+Stabilität;die;stability
+Datenstruktur;die;data structure
+Schnittstelle;die;interface
+Protokoll;das;protocol
+Architektur;die;architecture
+Kompatibilität;die;compatibility
+Algorithmus;der;algorithm
+Optimierung;die;optimization
+Rechner;der;computer
+Hardware;die;hardware
+Software;die;software
+Anwendung;die;application
+Plattform;die;platform
+Netzwerk;das;network
+Firewall;die;firewall
+Server;der;server
+Client;der;client
+Cloud;die;cloud
+Virtualisierung;die;virtualization
+Automatisierung;die;automation
+Kodierung;die;encoding
+Existenzialismus;der;existentialism
+Phänomenologie;die;phenomenology
+Metaphysik;die;metaphysics
+Ontologie;die;ontology
+Epistemologie;die;epistemology
+Rationalität;die;rationality
+Subjektivität;die;subjectivity
+Objektivität;die;objectivity
+Abstraktion;die;abstraction
+Kognition;die;cognition
+Intuition;die;intuition
+Deduktion;die;deduction
+Induktion;die;induction
+Argumentation;die;argumentation
+Dialektik;die;dialectic
+Perspektive;die;perspective
+Bewusstsein;das;consciousness
+Identität;die;identity
+Kontingenz;die;contingency
+Sinnhaftigkeit;die;meaningfulness
+Jurisdiktion;die;jurisdiction
+Rechtsstaat;der;constitutional state
+Delikt;das;offense
+Haftung;die;liability
+Klage;die;lawsuit
+Verteidigung;die;defense
+Anklage;die;prosecution
+Urteil;das;judgment
+Gesetzgebung;die;legislation
+Vertrag;der;contract
+Eigentum;das;property
+Urheberrecht;das;copyright
+Patentrecht;das;patent law
+Strafrecht;das;criminal law
+Zivilrecht;das;civil law
+Beweislast;die;burden of proof
+Zeugenaussage;die;testimony
+Verjährung;die;limitation period
+Durchsetzung;die;enforcement
+Rechtsmittel;das;appeal
+Diagnostik;die;diagnostics
+Pathologie;die;pathology
+Symptom;das;symptom
+Infektion;die;infection
+Immunologie;die;immunology
+Therapie;die;therapy
+Chirurgie;die;surgery
+Medikation;die;medication
+Pharmakologie;die;pharmacology
+Antikörper;der;antibody
+Virus;das;virus
+Bakterium;das;bacterium
+Entzündung;die;inflammation
+Tumor;der;tumor
+Genetik;die;genetics
+Hormon;das;hormone
+Metabolismus;der;metabolism
+Rehabilitation;die;rehabilitation
+Anästhesie;die;anesthesia
+Prognose;die;prognosis
+Emission;die;emission
+Dekarbonisierung;die;decarbonization
+Energieeffizienz;die;energy efficiency
+Erneuerbarkeit;die;renewability
+Photovoltaik;die;photovoltaics
+Windkraft;die;wind power
+Geothermie;die;geothermal energy
+Recycling;das;recycling
+Kreislaufwirtschaft;die;circular economy
+Abholzung;die;deforestation
+Versauerung;die;acidification
+Erosion;die;erosion
+Biodiversität;die;biodiversity
+Habitat;das;habitat
+Klimasystem;das;climate system
+Treibhausgas;das;greenhouse gas
+Ozon;das;ozone
+Atmosphäre;die;atmosphere
+Ökosystem;das;ecosystem
+Nachhaltigkeit;die;sustainability
+Inflation;die;inflation
+Deflation;die;deflation
+Liquidität;die;liquidity
+Kapital;das;capital
+Investition;die;investment
+Spekulation;die;speculation
+Rendite;die;return
+Zins;der;interest rate
+Markt;der;market
+Wettbewerb;der;competition
+Monopol;das;monopoly
+Globalisierung;die;globalization
+Produktivität;die;productivity
+Arbeitsmarkt;der;labor market
+Subvention;die;subsidy
+Handelsbilanz;die;trade balance
+Export;der;export
+Import;der;import
+Rezession;die;recession
+Konjunktur;die;business cycle
+Theorie;die;theory
+System;das;system
+Struktur;die;structure
+Funktion;die;function
+Analyse;die;analysis
+Synthese;die;synthesis
+Interpretation;die;interpretation
+Konzept;das;concept
+Definition;die;definition
+Relation;die;relation
+Transformation;die;transformation
+Abhängigkeit;die;dependency
+Unabhängigkeit;die;independence
+Komplexität;die;complexity
+Dynamik;die;dynamics
+Stabilität;die;stability
+Variation;die;variation
+Reduktion;die;reduction
+Erweiterung;die;expansion
+Modularität;die;modularity
+Kommunikation;die;communication
+Interaktion;die;interaction
+Kultur;die;culture
+Gesellschaft;die;society
+Norm;die;norm
+Werte;die;values
+Tradition;die;tradition
+Innovation;die;innovation
+Sprache;die;language
+Diskurs;der;discourse
+Medien;die;media
+Narrativ;das;narrative
+Information;die;information
+Interpretationsrahmen;der;framework of interpretation
+Identifikation;die;identification
+Integration;die;integration
+Segregation;die;segregation
+Mobilität;die;mobility
+Urbanisierung;die;urbanization
+Digitalisierung;die;digitalization
+Datenverarbeitung;die;data processing
+Informationsverarbeitung;die;information processing
+Entscheidungsfindung;die;decision-making
+Fehleranalyse;die;error analysis
+Systemarchitektur;die;system architecture
+Netzwerkinfrastruktur;die;network infrastructure
+Sicherheitsprotokoll;das;security protocol
+Zugriffskontrolle;die;access control
+Benutzeroberfläche;die;user interface
+Leistungsoptimierung;die;performance optimization
+Speicherverwaltung;die;memory management
+Ressourcenverbrauch;der;resource consumption
+Energieverbrauch;der;energy consumption
+Datenübertragung;die;data transmission
+Signalverarbeitung;die;signal processing
+Bildverarbeitung;die;image processing
+Sprachverarbeitung;die;language processing
+Automatisierungsgrad;der;degree of automation
+Fehlertoleranz;die;fault tolerance
+Systemstabilität;die;system stability
+Klimaschutzmaßnahme;die;climate protection measure
+Emissionsreduzierung;die;emission reduction
+Energiegewinnung;die;energy generation
+Wärmeisolierung;die;thermal insulation
+Umweltverschmutzung;die;environmental pollution
+Ressourcenschonung;die;resource conservation
+Abfallmanagement;das;waste management
+Kreislaufwirtschaftssystem;das;circular economy system
+Nachhaltigkeitsstrategie;die;sustainability strategy
+Umweltverträglichkeitsprüfung;die;environmental impact assessment
+Landnutzungsänderung;die;land-use change
+CO2-Bilanz;die;carbon footprint balance
+Wassermanagement;das;water management
+Luftverschmutzungsgrad;der;air pollution level
+Bodenqualität;die;soil quality
+Artenvielfaltsschutz;der;species protection
+Ökosystemdienstleistung;die;ecosystem service
+Klimaanpassungsstrategie;die;climate adaptation strategy
+Temperaturanstiegskurve;die;temperature rise curve
+Treibhausgasemission;die;greenhouse gas emission
+Rechtsdurchsetzung;die;law enforcement
+Gesetzgebungsverfahren;das;legislative process
+Verfassungsänderung;die;constitutional amendment
+Rechtsstreitigkeit;die;legal dispute
+Vertragsverletzung;die;breach of contract
+Haftungsregelung;die;liability regulation
+Schadensersatzforderung;die;compensation claim
+Strafverfolgungsbehörde;die;prosecutorial authority
+Gerichtsverfahren;das;court proceeding
+Beweisführung;die;presentation of evidence
+Urteilsbegründung;die;judgment reasoning
+Rechtsauslegung;die;legal interpretation
+Zuständigkeitsbereich;der;jurisdictional area
+Verfahrensrecht;das;procedural law
+Materielles Recht;das;substantive law
+Grundrechtskatalog;der;catalog of fundamental rights
+Rechtsmittelverfahren;das;appeal procedure
+Vertragsgestaltung;die;contract drafting
+Streitbeilegung;die;dispute resolution
+Rechtssicherheitssystem;das;legal certainty system
+Krankheitsverlauf;der;course of illness
+Therapieverfahren;das;treatment method
+Diagnoseverfahren;das;diagnostic procedure
+Immunabwehrsystem;das;immune defense system
+Antikörperproduktion;die;antibody production
+Stoffwechselstörung;die;metabolic disorder
+Herz-Kreislauf-Erkrankung;die;cardiovascular disease
+Nervensystemerkrankung;die;nervous system disorder
+Gewebeerneuerung;die;tissue regeneration
+Zellteilungsvorgang;der;cell division process
+Hormonregulation;die;hormone regulation
+Infektionsverlauf;der;infection progression
+Schmerztherapie;die;pain therapy
+Rehabilitationsmaßnahme;die;rehabilitation measure
+Operationsverlauf;der;surgical course
+Arzneimittelentwicklung;die;drug development
+Wirkstoffkombination;die;drug combination
+Nebenwirkungsprofil;das;side-effect profile
+Gesundheitsvorsorge;die;preventive healthcare
+Lebensstiländerung;die;lifestyle change
+Datenanalysemodell;das;data analysis model
+Statistikverfahren;das;statistical method
+Wahrscheinlichkeitsverteilung;die;probability distribution
+Regressionsanalyse;die;regression analysis
+Korrelationskoeffizient;der;correlation coefficient
+Hypothesentestung;die;hypothesis testing
+Stichprobenumfang;der;sample size
+Konfidenzintervall;das;confidence interval
+Fehlerwahrscheinlichkeit;die;error probability
+Datenerhebungsmethode;die;data collection method
+Messgenauigkeit;die;measurement accuracy
+Variablenkontrolle;die;variable control
+Modellvalidierung;die;model validation
+Ergebnisinterpretation;die;result interpretation
+Datenbereinigung;die;data cleaning
+Skalierungsproblem;das;scaling problem
+Optimierungsproblem;das;optimization problem
+Simulationsmodell;das;simulation model
+Berechnungskomplexität;die;computational complexity
+Systemsimulation;die;system simulation
+Wissensgesellschaft;die;knowledge society
+Informationsgesellschaft;die;information society
+Kommunikationsstruktur;die;communication structure
+Medienlandschaft;die;media landscape
+Meinungsbildungsprozess;der;opinion formation process
+Diskursanalyse;die;discourse analysis
+Kulturtransfer;der;cultural transfer
+Identitätsbildung;die;identity formation
+Sozialisationsprozess;der;socialization process
+Interaktionsmuster;das;interaction pattern
+Sprachentwicklung;die;language development
+Bildungssystem;das;education system
+Wissensvermittlung;die;knowledge transfer
+Technologietransfer;der;technology transfer
+Globalisierungsprozess;der;globalization process
+Gesellschaftsstruktur;die;societal structure
+Demokratisierungsprozess;der;democratization process
+Partizipationsmöglichkeit;die;participation opportunity
+Integrationspolitik;die;integration policy
+Urbanisierungsgrad;der;degree of urbanization
+Energieinfrastruktur;die;energy infrastructure
+Stromerzeugung;die;electricity generation
+Netzausbau;der;grid expansion
+Kraftwerksbetrieb;der;power plant operation
+Wasserkraftanlage;die;hydropower plant
+Solarenergieanlage;die;solar energy installation
+Windenergiepark;der;wind farm
+Speicherkapazität;die;storage capacity
+Batterietechnologie;die;battery technology
+Ladeinfrastruktur;die;charging infrastructure
+Energieverteilung;die;energy distribution
+Versorgungsnetz;das;supply network
+Lastmanagement;das;load management
+Stromverbrauchsprofil;das;electricity consumption profile
+Energieumwandlung;die;energy conversion
+Wärmeenergie;die;thermal energy
+Kraftstoffeffizienz;die;fuel efficiency
+Emissionstechnologie;die;emission technology
+Energieautarkie;die;energy self-sufficiency
+Versorgungssicherheit;die;supply security
+Analyse;die;analysis
+Synthese;die;synthesis
+These;die;thesis
+Antithese;die;antithesis
+Dialektik;die;dialectics
+Ontologie;die;ontology
+Epistemologie;die;epistemology
+Metaphysik;die;metaphysics
+Phänomen;das;phenomenon
+Paradigma;das;paradigm
+Kausalität;die;causality
+Kontingenz;die;contingency
+Finalität;die;finality
+Validität;die;validity
+Reliabilität;die;reliability
+Objektivität;die;objectivity
+Subjektivität;die;subjectivity
+Reflexion;die;reflection
+Abstraktion;die;abstraction
+Intuition;die;intuition
+Kognition;die;cognition
+Perzeption;die;perception
+Imagination;die;imagination
+Emotion;die;emotion
+Motivation;die;motivation
+Volition;die;volition
+Disposition;die;disposition
+Konstitution;die;constitution
+Stimulation;die;stimulation
+Integration;die;integration
+Differenz;die;difference
+Identität;die;identity
+Äquivalenz;die;equivalence
+Kontinuität;die;continuity
+Diskontinuität;die;discontinuity
+Komplexität;die;complexity
+Dynamik;die;dynamics
+Statik;die;statics
+Variation;die;variation
+Transformation;die;transformation
+Inflation;die;inflation
+Deflation;die;deflation
+Stagnation;die;stagnation
+Rekursion;die;recursion
+Regression;die;regression
+Korrelation;die;correlation
+Selektion;die;selection
+Evolution;die;evolution
+Mutation;die;mutation
+Adaptation;die;adaptation
+Prozess;der;process
+System;das;system
+Struktur;die;structure
+Funktion;die;function
+Relation;die;relation
+Kontext;der;context
+Konzept;das;concept
+Modell;das;model
+Theorie;die;theory
+Hypothese;die;hypothesis
+Diskurs;der;discourse
+Narrativ;das;narrative
+Semantik;die;semantics
+Syntax;die;syntax
+Pragmatik;die;pragmatics
+Lexikon;das;lexicon
+Morphem;das;morpheme
+Phonem;das;phoneme
+Grammatik;die;grammar
+Interpretation;die;interpretation
+Souveränität;die;sovereignty
+Legitimität;die;legitimacy
+Autorität;die;authority
+Bürokratie;die;bureaucracy
+Hierarchie;die;hierarchy
+Anarchie;die;anarchy
+Oligarchie;die;oligarchy
+Demokratie;die;democracy
+Technokratie;die;technocracy
+Meritokratie;die;meritocracy
+Ideologie;die;ideology
+Hegemonie;die;hegemony
+Propaganda;die;propaganda
+Zensur;die;censorship
+Manipulation;die;manipulation
+Persuasion;die;persuasion
+Kommunikation;die;communication
+Interaktion;die;interaction
+Kooperation;die;cooperation
+Konfrontation;die;confrontation
+Expansion;die;expansion
+Kontraktion;die;contraction
+Konsolidierung;die;consolidation
+Fragmentierung;die;fragmentation
+Polarisierung;die;polarization
+Homogenität;die;homogeneity
+Heterogenität;die;heterogeneity
+Ambivalenz;die;ambivalence
+Paradox;das;paradox
+Dilemma;das;dilemma
+Substanz;die;substance
+Essenz;die;essence
+Existenz;die;existence
+Realität;die;reality
+Illusion;die;illusion
+Simulation;die;simulation
+Repräsentation;die;representation
+Abbild;das;representation/image
+Symbol;das;symbol
+Zeichen;das;sign
+Technologie;die;technology
+Innovation;die;innovation
+Invention;die;invention
+Automation;die;automation
+Digitalisierung;die;digitalization
+Virtualisierung;die;virtualization
+Optimierung;die;optimization
+Standardisierung;die;standardization
+Globalisierung;die;globalization
+Lokalisierung;die;localization
+Konvergenz;die;convergence
+Divergenz;die;divergence
+Koexistenz;die;coexistence
+Interferenz;die;interference
+Resonanz;die;resonance
+Amplitude;die;amplitude
+Frequenz;die;frequency
+Spektrum;das;spectrum
+Vektor;der;vector
+Skalar;der;scalar
+Gravitation;die;gravity
+Relativität;die;relativity
+Entropie;die;entropy
+Energie;die;energy
+Materie;die;matter
+Antimaterie;die;antimatter
+Quanten;die;quanta
+Feld;das;field
+Teilchen;das;particle
+Welle;die;wave
+Pathologie;die;pathology
+Diagnose;die;diagnosis
+Therapie;die;therapy
+Prognose;die;prognosis
+Symptom;das;symptom
+Syndrom;das;syndrome
+Infektion;die;infection
+Immunität;die;immunity
+Entzündung;die;inflammation
+Regeneration;die;regeneration
+Neurobiologie;die;neurobiology
+Psychologie;die;psychology
+Soziologie;die;sociology
+Anthropologie;die;anthropology
+Archäologie;die;archaeology
+Linguistik;die;linguistics
+Physiologie;die;physiology
+Genetik;die;genetics
+Ökologie;die;ecology
+Astrophysik;die;astrophysics
+Mensch;der;person
+Frau;die;woman
+Mann;der;man
+Kind;das;child
+Baby;das;baby
+Jugendliche;der/die;teenager
+Erwachsene;der/die;adult
+Familie;die;family
+Mutter;die;mother
+Vater;der;father
+Bruder;der;brother
+Schwester;die;sister
+Oma;die;grandmother
+Opa;der;grandfather
+Onkel;der;uncle
+Tante;die;aunt
+Cousin;der;cousin (male)
+Cousine;die;cousin (female)
+Freund;der;friend (male)
+Freundin;die;friend (female)
+Haus;das;house
+Wohnung;die;apartment
+Zimmer;das;room
+Küche;die;kitchen
+Bad;das;bathroom
+Schlafzimmer;das;bedroom
+Wohnzimmer;das;living room
+Flur;der;hallway
+Garten;der;garden
+Garage;die;garage
+Tisch;der;table
+Stuhl;der;chair
+Sofa;das;sofa
+Bett;das;bed
+Schrank;der;cabinet
+Regal;das;shelf
+Lampe;die;lamp
+Fenster;das;window
+Tür;die;door
+Teppich;der;carpet
+Stadt;die;city
+Dorf;das;village
+Straße;die;street
+Platz;der;square
+Park;der;park
+Brücke;die;bridge
+Bahnhof;der;train station
+Bushaltestelle;die;bus stop
+Flughafen;der;airport
+Hafen;der;harbor
+Auto;das;car
+Bus;der;bus
+Zug;der;train
+Fahrrad;das;bicycle
+Motorrad;das;motorcycle
+Flugzeug;das;airplane
+Schiff;das;ship
+Boot;das;boat
+Lastwagen;der;truck
+Taxi;das;taxi
+Schule;die;school
+Universität;die;university
+Klasse;die;class
+Lehrer;der;teacher (male)
+Lehrerin;die;teacher (female)
+Schüler;der;pupil (male)
+Schülerin;die;pupil (female)
+Buch;das;book
+Heft;das;notebook
+Stift;der;pen
+Arbeit;die;work
+Job;der;job
+Büro;das;office
+Chef;der;boss
+Kollege;der;colleague (male)
+Kollegin;die;colleague (female)
+Firma;die;company
+Geld;das;money
+Gehalt;das;salary
+Vertrag;der;contract
+Zeit;die;time
+Tag;der;day
+Woche;die;week
+Monat;der;month
+Jahr;das;year
+Stunde;die;hour
+Minute;die;minute
+Sekunde;die;second
+Morgen;der;morning
+Abend;der;evening
+Nacht;die;night
+Wetter;das;weather
+Sonne;die;sun
+Mond;der;moon
+Stern;der;star
+Himmel;der;sky
+Regen;der;rain
+Schnee;der;snow
+Wind;der;wind
+Wolke;die;cloud
+Essen;das;food
+Trinken;das;drink
+Brot;das;bread
+Fleisch;das;meat
+Obst;das;fruit
+Gemüse;das;vegetable
+Apfel;der;apple
+Banane;die;banana
+Milch;die;milk
+Wasser;das;water
+Restaurant;das;restaurant
+Café;das;café
+Supermarkt;der;supermarket
+Markt;der;market
+Geschäft;das;shop
+Kasse;die;cash desk
+Preis;der;price
+Ware;die;goods
+Kunde;der;customer
+Verkäufer;der;seller
+Körper;der;body
+Kopf;der;head
+Hand;die;hand
+Arm;der;arm
+Bein;das;leg
+Fuß;der;foot
+Auge;das;eye
+Ohr;das;ear
+Nase;die;nose
+Mund;der;mouth
+Gesundheit;die;health
+Krankheit;die;illness
+Arzt;der;doctor
+Krankenhaus;das;hospital
+Apotheke;die;pharmacy
+Medizin;die;medicine
+Schmerz;der;pain
+Fieber;das;fever
+Husten;der;cough
+Impfung;die;vaccination
+Abfall;der;waste
+Absender;der;sender
+Abstand;der;distance
+Absicht;die;intention
+Abteilung;die;department
+Achtung;die;attention
+Adresse;die;address
+Agentur;die;agency
+Aktion;die;action/promotion
+Alarm;der;alarm
+Alltag;der;everyday life
+Anbieter;der;provider
+Angebot;das;offer
+Angestellter;der;employee
+Anlage;die;system/facility
+Anmeldung;die;registration
+Ansicht;die;view/opinion
+Antrag;der;application
+Antwort;die;answer
+Anzeige;die;advertisement/report
+Apparat;der;device
+Arbeitsplatz;der;workplace
+Argument;das;argument
+Artikel;der;article
+Auftrag;der;order/task
+Aufwand;der;effort
+Aufzug;der;elevator
+Ausbildung;die;training
+Ausdruck;der;expression
+Ausflug;der;trip
+Aussicht;die;view/prospect
+Aussage;die;statement
+Ausstattung;die;equipment
+Auswahl;die;selection
+Ausweis;der;ID card
+Automat;der;machine
+Ausrüstung;die;equipment
+Austausch;der;exchange
+Auswertung;die;evaluation
+Auswirkung;die;effect
+Bedarf;der;need
+Bedingung;die;condition
+Begegnung;die;encounter
+Beitrag;der;contribution
+Beispiel;das;example
+Bekanntschaft;die;acquaintance
+Belastung;die;burden
+Bemerkung;die;remark
+Bereich;der;area
+Bericht;der;report
+Beruf;der;profession
+Bescheid;der;notice
+Beschwerde;die;complaint
+Besitz;der;possession
+Bestand;der;stock
+Bestellung;die;order
+Beteiligung;die;participation
+Betrag;der;amount
+Betrieb;der;company/operation
+Bewegung;die;movement
+Beweis;der;evidence
+Bewertung;die;rating
+Beziehung;die;relationship
+Bildung;die;education
+Blick;der;look/view
+Blut;das;blood
+Boden;der;ground
+Brand;der;fire
+Brief;der;letter
+Branche;die;industry
+Buchung;die;booking
+Bund;der;federation
+Bürger;der;citizen
+Chance;die;chance
+Chaos;das;chaos
+Chef;der;boss
+Daten;die;data
+Datum;das;date
+Deckung;die;coverage
+Denkmal;das;monument
+Dienst;der;service
+Diskussion;die;discussion
+Dokument;das;document
+Druck;der;pressure
+Eindruck;der;impression
+Einfluss;der;influence
+Einrichtung;die;facility/furnishing
+Einsatz;der;deployment/use
+Einsicht;die;insight
+Eintrag;der;entry
+Einwohner;der;resident
+Eis;das;ice
+Empfang;der;reception
+Empfehlung;die;recommendation
+Ende;das;end
+Engagement;das;commitment
+Entdeckung;die;discovery
+Entfernung;die;distance
+Entscheidung;die;decision
+Entwicklung;die;development
+Erfahrung;die;experience
+Erfolg;der;success
+Ergebnis;das;result
+Ergänzung;die;addition
+Erklärung;die;explanation
+Erlaubnis;die;permission
+Erlebnis;das;experience/event
+Erscheinung;die;appearance
+Ersatz;der;replacement
+Erwartung;die;expectation
+Essen;das;food
+Etage;die;floor
+Event;das;event
+Fahrzeug;das;vehicle
+Faktor;der;factor
+Fall;der;case
+Farbe;die;color
+Fehler;der;mistake
+Feier;die;celebration
+Fenster;das;window
+Fest;das;festival/party
+Feuer;das;fire
+Film;der;film
+Firma;die;company
+Fläche;die;area/surface
+Flug;der;flight
+Form;die;shape
+Forschung;die;research
+Fortschritt;der;progress
+Foto;das;photo
+Frage;die;question
+Freude;die;joy
+Frieden;der;peace
+Funktion;die;function
+Fund;der;find
+Gang;der;corridor
+Gebäude;das;building
+Gebiet;das;region/area
+Geburt;die;birth
+Gefahr;die;risk
+Gefühl;das;feeling
+Gegend;die;region
+Gegenteil;das;opposite
+Gehalt;das;salary
+Gelegenheit;die;opportunity
+Geld;das;money
+Gemeinde;die;municipality
+Geschichte;die;history/story
+Gesetz;das;law
+Gespräch;das;conversation

@@ -1,0 +1,40 @@
+Ich gehe zu ___ Arzt.;dem;Dativ;zu;I go to the doctor.
+Er fährt mit ___ Bus.;dem;Dativ;mit;He travels by bus.
+Sie kommt aus ___ Schweiz.;der;Dativ;aus;She comes from Switzerland.
+Wir wohnen bei ___ Familie.;der;Dativ;bei;We live with the family.
+Ich kaufe ___ Buch.;das;Akkusativ;;I buy the book.
+Er sieht ___ Film.;den;Akkusativ;;He watches the film.
+Sie liest ___ Zeitung.;die;Akkusativ;;She reads the newspaper.
+Das ist ___ Tasche ___ Frau.;die/der;Genitiv;;That is the woman's bag.
+Trotz ___ Regens gehen wir spazieren.;des;Genitiv;trotz;Despite the rain we go for a walk.
+Während ___ Sommers reisen wir.;des;Genitiv;während;During the summer we travel.
+Ich gehe durch ___ Park.;den;Akkusativ;durch;I walk through the park.
+Er arbeitet für ___ Firma.;die;Akkusativ;für;He works for the company.
+Sie kämpft gegen ___ Ungerechtigkeit.;die;Akkusativ;gegen;She fights against injustice.
+Wir laufen um ___ See.;den;Akkusativ;um;We run around the lake.
+Ohne ___ Hilfe schaffe ich das nicht.;die;Akkusativ;ohne;Without help I can't do it.
+Nach ___ Arbeit gehe ich einkaufen.;der;Dativ;nach;After work I go shopping.
+Seit ___ Unfall fährt er nicht mehr.;dem;Dativ;seit;Since the accident he doesn't drive anymore.
+Er kommt von ___ Bahnhof.;dem;Dativ;von;He comes from the train station.
+Ich stelle das Buch auf ___ Tisch.;den;Akkusativ;auf;I put the book on the table.
+Das Buch liegt auf ___ Tisch.;dem;Dativ;auf;The book is on the table.
+Er geht in ___ Küche.;die;Akkusativ;in;He goes into the kitchen.
+Sie ist in ___ Küche.;der;Dativ;in;She is in the kitchen.
+Ich hänge das Bild an ___ Wand.;die;Akkusativ;an;I hang the picture on the wall.
+Das Bild hängt an ___ Wand.;der;Dativ;an;The picture hangs on the wall.
+Der Hund läuft unter ___ Tisch.;den;Akkusativ;unter;The dog runs under the table.
+Der Hund liegt unter ___ Tisch.;dem;Dativ;unter;The dog lies under the table.
+Sie stellt die Vase neben ___ Lampe.;die;Akkusativ;neben;She puts the vase next to the lamp.
+Die Vase steht neben ___ Lampe.;der;Dativ;neben;The vase stands next to the lamp.
+Er legt das Buch zwischen ___ Hefte.;die;Akkusativ;zwischen;He puts the book between the notebooks.
+Das Buch liegt zwischen ___ Heften.;den;Dativ;zwischen;The book lies between the notebooks.
+Wegen ___ Wetters bleiben wir zu Hause.;des;Genitiv;wegen;Because of the weather we stay home.
+Statt ___ Autos nehme ich den Zug.;des;Genitiv;statt;Instead of the car I take the train.
+Innerhalb ___ Stadt gibt es viele Parks.;der;Genitiv;innerhalb;Within the city there are many parks.
+Außerhalb ___ Gebäudes ist es kalt.;des;Genitiv;außerhalb;Outside the building it is cold.
+Ich helfe ___ Mann.;dem;Dativ;;I help the man.
+Sie dankt ___ Lehrer.;dem;Dativ;;She thanks the teacher.
+Das gehört ___ Kind.;dem;Dativ;;That belongs to the child.
+Er folgt ___ Frau.;der;Dativ;;He follows the woman.
+Das Geschenk ist für ___ Mutter.;die;Akkusativ;für;The gift is for the mother.
+Ich warte auf ___ Bus.;den;Akkusativ;auf;I wait for the bus.

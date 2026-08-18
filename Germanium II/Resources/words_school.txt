@@ -1,0 +1,1620 @@
+die Schule;school
+der Unterricht;lesson, class
+die Klasse;class, grade
+der Lehrer;teacher (male)
+die Lehrerin;teacher (female)
+der Schüler;student, pupil (male)
+die Schülerin;student, pupil (female)
+das Klassenzimmer;classroom
+die Tafel;blackboard
+die Kreide;chalk
+der Schwamm;sponge, eraser
+das Heft;notebook
+das Buch;book
+das Lehrbuch;textbook
+der Stift;pen, pencil
+der Kugelschreiber;ballpoint pen
+der Bleistift;pencil
+der Füller;fountain pen
+der Filzstift;felt-tip pen, marker
+der Marker;highlighter
+der Radiergummi;eraser
+das Lineal;ruler
+der Zirkel;compass
+das Geodreieck;set square
+der Taschenrechner;calculator
+der Ranzen;school bag, satchel
+die Schultasche;school bag
+der Rucksack;backpack
+das Federmäppchen;pencil case
+das Etui;pencil case
+die Schere;scissors
+der Kleber;glue
+der Klebestift;glue stick
+die Mappe;folder, binder
+der Ordner;binder, folder
+der Stundenplan;timetable, schedule
+die Hausaufgabe;homework
+die Prüfung;exam, test
+die Klausur;written exam
+der Test;test
+die Note;grade, mark
+das Zeugnis;report card
+das Halbjahreszeugnis;mid-year report
+die Beurteilung;assessment, evaluation
+die Pause;break, recess
+die große Pause;long break
+die Mittagspause;lunch break
+der Schulhof;schoolyard, playground
+die Aula;assembly hall
+die Turnhalle;gymnasium, sports hall
+die Sporthalle;sports hall
+die Bibliothek;library
+die Schulbibliothek;school library
+die Mensa;cafeteria, canteen
+die Kantine;canteen
+der Schulbus;school bus
+das Schuljahr;school year
+das Semester;semester, term
+das Halbjahr;half-year, semester
+die Ferien;vacation, holidays
+die Sommerferien;summer vacation
+die Winterferien;winter vacation
+die Herbstferien;autumn vacation
+die Osterferien;Easter vacation
+die Weihnachtsferien;Christmas vacation
+der Feiertag;public holiday
+der Unterrichtsausfall;class cancellation
+die Vertretung;substitute teacher, cover
+der Direktor;principal, headmaster
+die Direktorin;principal, headmistress
+der Schulleiter;school principal
+die Schulleitung;school administration
+der Rektor;rector, principal
+das Sekretariat;secretary's office
+die Sekretärin;secretary
+der Hausmeister;janitor, caretaker
+der Stundenlehrer;subject teacher
+der Klassenlehrer;class teacher, form tutor
+die Klassenlehrerin;class teacher (female)
+der Fachlehrer;subject specialist teacher
+die Lehrkraft;teaching staff, teacher
+das Kollegium;teaching staff, faculty
+der Schuldirektor;school principal
+die Schulkonferenz;school conference
+der Elternabend;parents' evening
+die Elternsprechstunde;parent-teacher conference
+der Elternsprechtag;parent consultation day
+das Klassenbuch;class register
+das Kursbuch;course book
+die Anwesenheit;attendance
+die Abwesenheit;absence
+die Fehlzeit;absence, time missed
+entschuldigt;excused
+unentschuldigt;unexcused
+schwänzen;to skip class, play truant
+fehlen;to be absent
+anwesend;present
+abwesend;absent
+pünktlich;punctual, on time
+verspätet;late, delayed
+die Verspätung;lateness, delay
+zu spät kommen;to be late, arrive late
+der Unterrichtsbeginn;start of lessons
+das Unterrichtsende;end of lessons
+die Schulstunde;school lesson, period
+die Doppelstunde;double period
+die Einzelstunde;single period
+die Freistunde;free period
+die Mathestunde;math lesson
+die Deutschstunde;German lesson
+die Englischstunde;English lesson
+das Fach;subject
+das Hauptfach;main subject
+das Nebenfach;minor subject
+das Wahlfach;elective subject
+das Pflichtfach;compulsory subject
+Mathematik;mathematics
+Deutsch;German
+Englisch;English
+Französisch;French
+Spanisch;Spanish
+Latein;Latin
+Biologie;biology
+Chemie;chemistry
+Physik;physics
+Geschichte;history
+Erdkunde;geography
+Geographie;geography
+Politik;politics
+Sozialkunde;social studies
+Religion;religious education
+Ethik;ethics
+Philosophie;philosophy
+Kunst;art
+Musik;music
+Sport;physical education, sports
+Werken;crafts, woodwork
+Informatik;computer science
+Wirtschaft;economics
+Hauswirtschaft;home economics
+die Fremdsprache;foreign language
+die Muttersprache;native language
+die Zweitsprache;second language
+das Alphabet;alphabet
+der Buchstabe;letter
+der Vokal;vowel
+der Konsonant;consonant
+die Silbe;syllable
+das Wort;word
+der Satz;sentence
+der Absatz;paragraph
+der Text;text
+die Rechtschreibung;spelling
+die Grammatik;grammar
+die Vokabel;vocabulary word
+das Vokabular;vocabulary
+der Wortschatz;vocabulary
+das Wörterbuch;dictionary
+die Übersetzung;translation
+übersetzen;to translate
+die Bedeutung;meaning
+der Ausdruck;expression
+die Redewendung;idiom, phrase
+die Aussprache;pronunciation
+aussprechen;to pronounce
+der Akzent;accent
+die Betonung;stress, emphasis
+betonen;to stress, emphasize
+buchstabieren;to spell
+der Artikel;article
+das Substantiv;noun
+das Verb;verb
+das Adjektiv;adjective
+das Adverb;adverb
+die Präposition;preposition
+die Konjunktion;conjunction
+das Pronomen;pronoun
+der Fall;case
+der Nominativ;nominative case
+der Akkusativ;accusative case
+der Dativ;dative case
+der Genitiv;genitive case
+die Deklination;declension
+deklinieren;to decline
+die Konjugation;conjugation
+konjugieren;to conjugate
+das Tempus;tense
+das Präsens;present tense
+das Präteritum;past tense, preterite
+das Perfekt;present perfect
+das Plusquamperfekt;past perfect
+das Futur;future tense
+der Imperativ;imperative
+der Konjunktiv;subjunctive
+der Indikativ;indicative
+das Passiv;passive voice
+das Aktiv;active voice
+die Zeitform;tense
+der Singular;singular
+der Plural;plural
+männlich;masculine
+weiblich;feminine
+sächlich;neuter
+das Geschlecht;gender
+die Zahl;number
+die Ziffer;digit
+die Addition;addition
+addieren;to add
+die Subtraktion;subtraction
+subtrahieren;to subtract
+die Multiplikation;multiplication
+multiplizieren;to multiply
+die Division;division
+dividieren;to divide
+das Ergebnis;result
+die Summe;sum
+die Differenz;difference
+das Produkt;product
+der Quotient;quotient
+die Gleichung;equation
+die Ungleichung;inequality
+die Formel;formula
+die Variable;variable
+die Konstante;constant
+der Bruch;fraction
+der Zähler;numerator
+der Nenner;denominator
+die Dezimalzahl;decimal number
+die Prozent;percent
+der Prozentsatz;percentage
+die Wurzel;root, square root
+die Quadratwurzel;square root
+das Quadrat;square
+der Würfel;cube
+die Potenz;power, exponent
+der Exponent;exponent
+die Basis;base
+die Geometrie;geometry
+die Algebra;algebra
+die Arithmetik;arithmetic
+die Trigonometrie;trigonometry
+das Dreieck;triangle
+das Viereck;quadrilateral
+das Rechteck;rectangle
+das Quadrat;square
+der Kreis;circle
+die Ellipse;ellipse
+der Radius;radius
+der Durchmesser;diameter
+der Umfang;perimeter, circumference
+die Fläche;area, surface
+das Volumen;volume
+der Winkel;angle
+der rechte Winkel;right angle
+parallel;parallel
+senkrecht;perpendicular, vertical
+die Linie;line
+die Gerade;straight line
+die Kurve;curve
+der Punkt;point
+die Koordinate;coordinate
+die Achse;axis
+das Diagramm;diagram, chart
+die Grafik;graph, graphic
+die Statistik;statistics
+der Durchschnitt;average, mean
+der Mittelwert;mean, average
+die Wahrscheinlichkeit;probability
+das Experiment;experiment
+die Hypothese;hypothesis
+die Theorie;theory
+das Gesetz;law
+die Regel;rule
+das Prinzip;principle
+das Phänomen;phenomenon
+die Beobachtung;observation
+beobachten;to observe
+untersuchen;to examine, investigate
+analysieren;to analyze
+die Analyse;analysis
+experimentieren;to experiment
+messen;to measure
+die Messung;measurement
+das Ergebnis;result
+die Schlussfolgerung;conclusion
+folgern;to conclude, deduce
+beweisen;to prove
+der Beweis;proof
+widerlegen;to refute
+die Forschung;research
+forschen;to research
+der Forscher;researcher
+die Wissenschaft;science
+der Wissenschaftler;scientist
+wissenschaftlich;scientific
+die Methode;method
+die Technik;technique, technology
+das Verfahren;procedure, method
+das Atom;atom
+das Molekül;molecule
+das Element;element
+die Verbindung;compound
+die Reaktion;reaction
+reagieren;to react
+die Säure;acid
+die Base;base
+die Lösung;solution
+das Gas;gas
+die Flüssigkeit;liquid
+der Feststoff;solid
+der Stoff;substance, material
+die Materie;matter
+die Energie;energy
+die Kraft;force, power
+die Bewegung;motion, movement
+die Geschwindigkeit;speed, velocity
+beschleunigen;to accelerate
+die Beschleunigung;acceleration
+die Masse;mass
+das Gewicht;weight
+die Schwerkraft;gravity
+die Reibung;friction
+der Druck;pressure
+die Temperatur;temperature
+die Wärme;heat
+kalt;cold
+warm;warm
+heiß;hot
+das Licht;light
+der Schatten;shadow
+die Farbe;color
+der Klang;sound
+der Ton;sound, tone
+die Welle;wave
+die Frequenz;frequency
+die Amplitude;amplitude
+elektrisch;electric
+die Elektrizität;electricity
+der Strom;current, electricity
+die Spannung;voltage, tension
+der Widerstand;resistance
+der Magnet;magnet
+magnetisch;magnetic
+die Zelle;cell
+der Organismus;organism
+das Organ;organ
+das Gewebe;tissue
+die Pflanze;plant
+das Tier;animal
+der Mensch;human
+das Lebewesen;living being
+leben;to live
+lebendig;alive, living
+tot;dead
+sterben;to die
+wachsen;to grow
+das Wachstum;growth
+sich entwickeln;to develop
+die Entwicklung;development
+die Evolution;evolution
+die Art;species
+die Gattung;genus
+das Ökosystem;ecosystem
+die Umwelt;environment
+der Lebensraum;habitat
+die Nahrung;food, nutrition
+sich ernähren;to feed, nourish
+die Atmung;respiration
+atmen;to breathe
+die Fotosynthese;photosynthesis
+das Gen;gene
+die DNA;DNA
+die Genetik;genetics
+vererben;to inherit, pass on
+die Vererbung;heredity, inheritance
+der Kontinent;continent
+das Land;country, land
+die Stadt;city
+das Dorf;village
+die Hauptstadt;capital city
+die Bevölkerung;population
+die Einwohner;inhabitants
+der Berg;mountain
+das Gebirge;mountain range
+der Fluss;river
+der See;lake
+das Meer;sea, ocean
+die Küste;coast
+die Insel;island
+die Wüste;desert
+der Wald;forest
+die Landschaft;landscape
+das Klima;climate
+das Wetter;weather
+die Jahreszeit;season
+der Frühling;spring
+der Sommer;summer
+der Herbst;autumn, fall
+der Winter;winter
+die Karte;map
+der Atlas;atlas
+der Globus;globe
+der Maßstab;scale
+die Richtung;direction
+der Norden;north
+der Süden;south
+der Osten;east
+der Westen;west
+nördlich;northern
+südlich;southern
+östlich;eastern
+westlich;western
+die Geschichte;history, story
+historisch;historical
+die Epoche;epoch, era
+das Zeitalter;age, era
+das Jahrhundert;century
+das Jahrzehnt;decade
+die Antike;ancient times, antiquity
+das Mittelalter;Middle Ages
+die Neuzeit;modern era
+die Gegenwart;present, present time
+die Vergangenheit;past
+die Zukunft;future
+vergangen;past
+zukünftig;future
+gegenwärtig;present, current
+das Ereignis;event
+der Vorfall;incident
+geschehen;to happen, occur
+passieren;to happen
+stattfinden;to take place
+der Krieg;war
+der Frieden;peace
+die Schlacht;battle
+der Sieg;victory
+die Niederlage;defeat
+siegen;to win, be victorious
+besiegen;to defeat
+erobern;to conquer
+die Eroberung;conquest
+die Revolution;revolution
+die Erfindung;invention
+erfinden;to invent
+der Erfinder;inventor
+entdecken;to discover
+die Entdeckung;discovery
+der Entdecker;discoverer, explorer
+die Kultur;culture
+kulturell;cultural
+die Zivilisation;civilization
+die Gesellschaft;society
+gesellschaftlich;social
+die Tradition;tradition
+traditionell;traditional
+die Gewohnheit;habit, custom
+der Brauch;custom, tradition
+die Religion;religion
+religiös;religious
+der Glaube;belief, faith
+glauben;to believe
+die Kirche;church
+die Moschee;mosque
+die Synagoge;synagogue
+der Tempel;temple
+das Christentum;Christianity
+der Islam;Islam
+das Judentum;Judaism
+der Buddhismus;Buddhism
+der Hinduismus;Hinduism
+die Philosophie;philosophy
+philosophisch;philosophical
+der Philosoph;philosopher
+denken;to think
+der Gedanke;thought
+nachdenken;to think about, reflect
+überlegen;to consider, think over
+die Überlegung;consideration, reflection
+die Idee;idea
+die Meinung;opinion
+meinen;to think, believe, mean
+die Ansicht;view, opinion
+die Perspektive;perspective
+der Standpunkt;point of view, standpoint
+argumentieren;to argue
+das Argument;argument
+begründen;to justify, give reasons
+die Begründung;justification, reasoning
+behaupten;to claim, assert
+die Behauptung;claim, assertion
+widersprechen;to contradict
+der Widerspruch;contradiction
+zustimmen;to agree
+die Zustimmung;agreement, approval
+ablehnen;to reject, refuse
+die Ablehnung;rejection, refusal
+kritisieren;to criticize
+die Kritik;criticism
+beurteilen;to judge, assess
+das Urteil;judgment
+vergleichen;to compare
+der Vergleich;comparison
+unterscheiden;to distinguish, differentiate
+der Unterschied;difference
+ähnlich;similar
+die Ähnlichkeit;similarity
+verschieden;different
+die Verschiedenheit;difference, diversity
+gleich;equal, same
+die Gleichheit;equality
+ungleich;unequal
+die Ungleichheit;inequality
+definieren;to define
+die Definition;definition
+erklären;to explain
+die Erklärung;explanation
+beschreiben;to describe
+die Beschreibung;description
+darstellen;to present, represent
+die Darstellung;presentation, representation
+interpretieren;to interpret
+die Interpretation;interpretation
+verstehen;to understand
+das Verständnis;understanding
+begreifen;to grasp, comprehend
+die Bedeutung;meaning, significance
+bedeuten;to mean, signify
+symbolisieren;to symbolize
+das Symbol;symbol
+symbolisch;symbolic
+das Zeichen;sign, symbol
+kennzeichnen;to characterize, mark
+das Merkmal;characteristic, feature
+die Eigenschaft;property, characteristic
+die Qualität;quality
+qualitativ;qualitative
+die Quantität;quantity
+quantitativ;quantitative
+das Beispiel;example
+beispielsweise;for example
+zum Beispiel;for example
+etwa;approximately, for instance
+insbesondere;in particular, especially
+besonders;especially, particularly
+hauptsächlich;mainly, primarily
+vor allem;above all, primarily
+insgesamt;altogether, overall
+allgemein;general, generally
+speziell;special, specifically
+konkret;concrete, specific
+abstrakt;abstract
+theoretisch;theoretical
+praktisch;practical
+die Praxis;practice
+die Theorie;theory
+anwenden;to apply
+die Anwendung;application
+verwenden;to use
+die Verwendung;use
+benutzen;to use
+der Gebrauch;use
+gebrauchen;to use
+nutzen;to use, utilize
+der Nutzen;benefit, use
+nützlich;useful
+nutzlos;useless
+brauchen;to need
+benötigen;to need, require
+notwendig;necessary
+die Notwendigkeit;necessity
+erforderlich;required, necessary
+das Erfordernis;requirement
+die Voraussetzung;prerequisite, requirement
+voraussetzen;to presuppose, require
+die Bedingung;condition
+bedingen;to condition, require
+möglich;possible
+die Möglichkeit;possibility
+unmöglich;impossible
+wahrscheinlich;probable, likely
+unwahrscheinlich;unlikely
+sicher;certain, sure
+die Sicherheit;certainty, safety
+unsicher;uncertain, unsafe
+die Unsicherheit;uncertainty
+gewiss;certain
+zweifellos;doubtless, undoubtedly
+der Zweifel;doubt
+zweifeln;to doubt
+bezweifeln;to doubt
+fragwürdig;questionable
+die Frage;question
+fragen;to ask
+befragen;to question, interview
+die Befragung;questioning, survey
+die Antwort;answer
+antworten;to answer
+beantworten;to answer
+erwidern;to reply, respond
+reagieren;to react
+die Reaktion;reaction
+das Problem;problem
+problematisch;problematic
+die Schwierigkeit;difficulty
+schwierig;difficult
+einfach;simple, easy
+die Einfachheit;simplicity
+kompliziert;complicated
+die Komplexität;complexity
+komplex;complex
+die Lösung;solution
+lösen;to solve
+auflösen;to dissolve, resolve
+die Auflösung;resolution, dissolution
+die Aufgabe;task, exercise
+aufgeben;to give up, assign
+erledigen;to complete, finish
+die Erledigung;completion
+durchführen;to carry out, perform
+die Durchführung;execution, performance
+ausführen;to execute, carry out
+die Ausführung;execution
+vollziehen;to carry out, perform
+verwirklichen;to realize, implement
+die Verwirklichung;realization
+erreichen;to reach, achieve
+das Ziel;goal, aim
+zielen;to aim
+anstreben;to strive for, aim at
+das Bestreben;endeavor, effort
+sich bemühen;to make an effort, try
+die Bemühung;effort
+versuchen;to try, attempt
+der Versuch;attempt, experiment
+probieren;to try, taste
+die Probe;test, trial, rehearsal
+testen;to test
+prüfen;to test, examine, check
+überprüfen;to check, verify
+die Überprüfung;check, verification
+kontrollieren;to control, check
+die Kontrolle;control, check
+überwachen;to monitor, supervise
+die Überwachung;monitoring, supervision
+beachten;to observe, pay attention to
+achten auf;to pay attention to
+die Aufmerksamkeit;attention
+aufmerksam;attentive
+konzentrieren;to concentrate
+die Konzentration;concentration
+fokussieren;to focus
+der Fokus;focus
+sich widmen;to devote oneself to
+die Widmung;dedication
+engagieren;to engage
+das Engagement;engagement, commitment
+sich beteiligen;to participate
+die Beteiligung;participation
+teilnehmen;to participate, take part
+die Teilnahme;participation
+mitmachen;to participate, join in
+beitragen;to contribute
+der Beitrag;contribution
+leisten;to achieve, perform
+die Leistung;achievement, performance
+erbringen;to provide, render
+die Arbeit;work
+arbeiten;to work
+die Tätigkeit;activity
+tätig;active
+aktiv;active
+die Aktivität;activity
+passiv;passive
+die Passivität;passivity
+fleißig;diligent, hardworking
+der Fleiß;diligence
+faul;lazy
+die Faulheit;laziness
+engagiert;committed, engaged
+motiviert;motivated
+die Motivation;motivation
+motivieren;to motivate
+interessiert;interested
+das Interesse;interest
+interessieren;to interest
+sich interessieren für;to be interested in
+interessant;interesting
+langweilig;boring
+die Langeweile;boredom
+spannend;exciting, thrilling
+die Spannung;tension, suspense
+aufregend;exciting
+die Aufregung;excitement
+begeistert;enthusiastic
+die Begeisterung;enthusiasm
+begeistern;to inspire, enthuse
+inspirieren;to inspire
+die Inspiration;inspiration
+kreativ;creative
+die Kreativität;creativity
+schöpferisch;creative
+gestalten;to shape, design
+die Gestaltung;design, shaping
+entwerfen;to design, draft
+der Entwurf;draft, design
+planen;to plan
+der Plan;plan
+die Planung;planning
+organisieren;to organize
+die Organisation;organization
+ordnen;to arrange, order
+die Ordnung;order, arrangement
+strukturieren;to structure
+die Struktur;structure
+systematisch;systematic
+das System;system
+die Methode;method
+methodisch;methodical
+vorgehen;to proceed
+das Vorgehen;procedure, approach
+der Schritt;step
+schrittweise;step by step, gradually
+die Phase;phase
+das Stadium;stage, phase
+die Stufe;level, stage
+das Niveau;level, standard
+fortgeschritten;advanced
+der Fortschritt;progress
+fortschrittlich;progressive
+sich entwickeln;to develop
+die Entwicklung;development
+entwickeln;to develop
+verbessern;to improve
+die Verbesserung;improvement
+verschlechtern;to worsen
+die Verschlechterung;deterioration
+fördern;to promote, support
+die Förderung;promotion, support
+unterstützen;to support
+die Unterstützung;support
+helfen;to help
+die Hilfe;help
+hilfreich;helpful
+nützlich;useful, beneficial
+vorteilhaft;advantageous
+der Vorteil;advantage
+der Nachteil;disadvantage
+nachteilig;disadvantageous
+günstig;favorable, cheap
+ungünstig;unfavorable
+positiv;positive
+negativ;negative
+gut;good
+schlecht;bad
+besser;better
+schlechter;worse
+am besten;best
+am schlechtesten;worst
+ausgezeichnet;excellent
+hervorragend;outstanding, excellent
+großartig;great, splendid
+fantastisch;fantastic
+wunderbar;wonderful
+schrecklich;terrible
+furchtbar;awful, terrible
+entsetzlich;dreadful, terrible
+schwach;weak
+die Schwäche;weakness
+stark;strong
+die Stärke;strength
+stärken;to strengthen
+schwächen;to weaken
+verbessern;to improve
+verschlechtern;to deteriorate
+steigern;to increase, enhance
+die Steigerung;increase, enhancement
+erhöhen;to increase, raise
+die Erhöhung;increase, raise
+verringern;to reduce, decrease
+die Verringerung;reduction
+reduzieren;to reduce
+die Reduktion;reduction
+senken;to lower, reduce
+die Senkung;reduction, lowering
+zunehmen;to increase
+die Zunahme;increase
+abnehmen;to decrease
+die Abnahme;decrease
+wachsen;to grow
+das Wachstum;growth
+schrumpfen;to shrink
+expandieren;to expand
+die Expansion;expansion
+erweitern;to extend, expand
+die Erweiterung;extension, expansion
+vergrößern;to enlarge, increase
+die Vergrößerung;enlargement
+verkleinern;to reduce, make smaller
+die Verkleinerung;reduction in size
+ausdehnen;to extend, expand
+die Ausdehnung;extension, expansion
+einschränken;to restrict, limit
+die Einschränkung;restriction, limitation
+begrenzen;to limit
+die Begrenzung;limitation
+beschränken;to restrict, limit
+die Beschränkung;restriction
+das Limit;limit
+die Grenze;border, limit
+grenzen an;to border on
+angrenzen;to adjoin, border
+begrenzt;limited
+unbegrenzt;unlimited
+endlich;finite, final
+unendlich;infinite
+das Ende;end
+enden;to end
+beenden;to end, finish
+die Beendigung;ending, termination
+abschließen;to conclude, complete
+der Abschluss;conclusion, degree
+der Schulabschluss;school leaving certificate
+das Abitur;high school diploma
+die Hochschulreife;university entrance qualification
+die Mittlere Reife;secondary school certificate
+der Hauptschulabschluss;basic secondary school certificate
+die Universität;university
+die Hochschule;college, university
+die Fachhochschule;university of applied sciences
+studieren;to study (at university)
+das Studium;studies (university)
+der Student;student (university, male)
+die Studentin;student (university, female)
+der Kommilitone;fellow student
+die Kommilitonin;fellow student (female)
+die Vorlesung;lecture
+das Seminar;seminar
+die Übung;exercise, practice
+üben;to practice
+trainieren;to train
+das Training;training
+die Wiederholung;repetition, review
+wiederholen;to repeat, review
+lernen;to learn, study
+auswendig lernen;to memorize, learn by heart
+pauken;to cram, study hard
+büffeln;to cram, swot
+studieren;to study
+das Lernen;learning
+der Lernprozess;learning process
+die Lernmethode;learning method
+die Lerntechnik;learning technique
+der Lernstoff;subject matter, material
+das Lernziel;learning objective
+die Lernkurve;learning curve
+verstehen;to understand
+begreifen;to grasp, comprehend
+kapieren;to get it, understand
+checken;to check, understand
+raffen;to grasp, understand
+merken;to notice, remember
+sich merken;to remember, memorize
+behalten;to keep, remember
+das Gedächtnis;memory
+vergessen;to forget
+die Erinnerung;memory, recollection
+sich erinnern;to remember
+erinnern an;to remind of
+denken an;to think of
+nachdenken über;to think about
+überlegen;to think over, consider
+grübeln;to ponder, brood
+sinnieren;to ponder, muse
+reflektieren;to reflect
+die Reflexion;reflection
+konzentrieren;to concentrate
+die Konzentration;concentration
+ablenken;to distract
+die Ablenkung;distraction
+die Aufmerksamkeit;attention
+aufmerksam;attentive
+unaufmerksam;inattentive
+achtsam;mindful, attentive
+achtlos;careless, heedless
+sorgfältig;careful, thorough
+die Sorgfalt;care, carefulness
+nachlässig;negligent, careless
+die Nachlässigkeit;negligence, carelessness
+genau;exact, precise
+die Genauigkeit;accuracy, precision
+ungenau;inaccurate
+präzise;precise
+die Präzision;precision
+exakt;exact
+korrekt;correct
+inkorrekt;incorrect
+richtig;right, correct
+falsch;wrong, false
+der Fehler;mistake, error
+fehlerhaft;faulty, erroneous
+fehlerfrei;error-free, flawless
+korrigieren;to correct
+die Korrektur;correction
+verbessern;to improve, correct
+die Verbesserung;improvement, correction
+überarbeiten;to revise, rework
+die Überarbeitung;revision
+revidieren;to revise
+die Revision;revision
+berichtigen;to correct, rectify
+die Berichtigung;correction, rectification
+ändern;to change, alter
+die Änderung;change, alteration
+verändern;to change, modify
+die Veränderung;change, modification
+modifizieren;to modify
+die Modifikation;modification
+anpassen;to adapt, adjust
+die Anpassung;adaptation, adjustment
+der Fortschritt;progress
+Fortschritte machen;to make progress
+vorankommen;to make progress, advance
+weiterkommen;to get ahead, make progress
+erfolgreich;successful
+der Erfolg;success
+misslingen;to fail
+der Misserfolg;failure
+scheitern;to fail
+das Scheitern;failure
+durchfallen;to fail (an exam)
+bestehen;to pass (an exam)
+schaffen;to manage, pass
+hinbekommen;to manage, get done
+klarkommen;to cope, manage
+zurechtkommen;to cope, manage
+bewältigen;to cope with, master
+die Bewältigung;coping, mastering
+meistern;to master
+beherrschen;to master, command
+die Beherrschung;mastery, command
+können;to be able to, can
+fähig;capable, able
+die Fähigkeit;ability, capability
+die Kompetenz;competence
+kompetent;competent
+qualifiziert;qualified
+die Qualifikation;qualification
+das Können;ability, skill
+die Fertigkeit;skill
+geschickt;skillful, adept
+ungeschickt;clumsy, awkward
+begabt;gifted, talented
+das Talent;talent
+talentiert;talented
+intelligent;intelligent
+die Intelligenz;intelligence
+klug;clever, smart
+dumm;stupid, dumb
+schlau;clever, smart
+weise;wise
+die Weisheit;wisdom
+vernünftig;reasonable, sensible
+die Vernunft;reason, common sense
+logisch;logical
+die Logik;logic
+rational;rational
+irrational;irrational
+objektiv;objective
+die Objektivität;objectivity
+subjektiv;subjective
+die Subjektivität;subjectivity
+neutral;neutral
+die Neutralität;neutrality
+parteiisch;biased, partial
+unparteiisch;impartial
+voreingenommen;prejudiced, biased
+das Vorurteil;prejudice
+fair;fair
+unfair;unfair
+gerecht;just, fair
+die Gerechtigkeit;justice
+ungerecht;unjust, unfair
+die Ungerechtigkeit;injustice
+ehrlich;honest
+die Ehrlichkeit;honesty
+unehrlich;dishonest
+lügen;to lie
+die Lüge;lie
+betrügen;to cheat, deceive
+der Betrug;fraud, cheating
+mogeln;to cheat
+schummeln;to cheat
+abschreiben;to copy, cheat
+die Spicken;cheating, cribbing
+der Spickzettel;cheat sheet, crib
+täuschen;to deceive
+die Täuschung;deception
+ehrenwert;honorable
+ehrenvoll;honorable
+die Ehre;honor
+verantwortlich;responsible
+die Verantwortung;responsibility
+verantwortungsvoll;responsible
+verantwortungslos;irresponsible
+zuverlässig;reliable
+die Zuverlässigkeit;reliability
+unzuverlässig;unreliable
+vertrauenswürdig;trustworthy
+das Vertrauen;trust
+vertrauen;to trust
+misstrauen;to mistrust
+das Misstrauen;mistrust
+glaubwürdig;credible, believable
+die Glaubwürdigkeit;credibility
+zweifelhaft;doubtful
+der Zweifel;doubt
+bezweifeln;to doubt
+anzweifeln;to question, doubt
+hinterfragen;to question
+die Skepsis;skepticism
+skeptisch;skeptical
+kritisch;critical
+unkritisch;uncritical
+die Disziplin;discipline
+diszipliniert;disciplined
+undiszipliniert;undisciplined
+streng;strict, severe
+die Strenge;strictness, severity
+nachsichtig;lenient
+die Nachsicht;leniency
+tolerant;tolerant
+die Toleranz;tolerance
+intolerant;intolerant
+die Intoleranz;intolerance
+geduldig;patient
+die Geduld;patience
+ungeduldig;impatient
+die Ungeduld;impatience
+ruhig;calm, quiet
+die Ruhe;calm, quiet
+unruhig;restless, uneasy
+nervös;nervous
+die Nervosität;nervousness
+entspannt;relaxed
+die Entspannung;relaxation
+angespannt;tense
+die Anspannung;tension
+gestresst;stressed
+der Stress;stress
+stressen;to stress
+stressig;stressful
+ängstlich;anxious, fearful
+die Angst;fear, anxiety
+fürchten;to fear
+sich fürchten vor;to be afraid of
+die Furcht;fear
+mutig;brave, courageous
+der Mut;courage
+feige;cowardly
+die Feigheit;cowardice
+selbstbewusst;self-confident
+das Selbstbewusstsein;self-confidence
+unsicher;insecure, uncertain
+schüchtern;shy
+die Schüchternheit;shyness
+zurückhaltend;reserved, restrained
+offen;open
+die Offenheit;openness
+verschlossen;closed, reserved
+freundlich;friendly
+die Freundlichkeit;friendliness
+unfreundlich;unfriendly
+höflich;polite
+die Höflichkeit;politeness
+unhöflich;impolite, rude
+respektvoll;respectful
+der Respekt;respect
+respektieren;to respect
+respektlos;disrespectful
+arrogant;arrogant
+die Arroganz;arrogance
+bescheiden;modest
+die Bescheidenheit;modesty
+eingebildet;conceited, vain
+die Einbildung;conceit
+stolz;proud
+der Stolz;pride
+demütig;humble
+die Demut;humility
+hilfsbereit;helpful
+kooperativ;cooperative
+die Kooperation;cooperation
+kooperieren;to cooperate
+zusammenarbeiten;to work together, cooperate
+die Zusammenarbeit;cooperation, collaboration
+kollaborieren;to collaborate
+das Team;team
+der Teamgeist;team spirit
+die Teamarbeit;teamwork
+die Gruppe;group
+die Gruppenarbeit;group work
+der Partner;partner
+die Partnerin;partner (female)
+die Partnerarbeit;partner work
+gemeinsam;together, joint
+einzeln;individual, single
+die Einzelarbeit;individual work
+allein;alone
+selbstständig;independent
+die Selbstständigkeit;independence
+abhängig;dependent
+die Abhängigkeit;dependence
+unabhängig;independent
+die Unabhängigkeit;independence
+autonom;autonomous
+die Autonomie;autonomy
+initiativ;proactive
+die Initiative;initiative
+passiv;passive
+aktiv;active
+handeln;to act
+die Handlung;action, act
+agieren;to act
+die Aktion;action
+reagieren;to react
+die Reaktion;reaction
+antworten;to answer, respond
+die Antwort;answer
+die Diskussion;discussion
+diskutieren;to discuss
+die Debatte;debate
+debattieren;to debate
+argumentieren;to argue
+das Argument;argument
+streiten;to argue, quarrel
+der Streit;argument, quarrel
+sich einigen;to agree
+die Einigung;agreement
+übereinstimmen;to agree, coincide
+die Übereinstimmung;agreement, accordance
+widersprechen;to contradict
+der Widerspruch;contradiction
+bestreiten;to dispute, contest
+die Meinungsverschiedenheit;disagreement
+der Konflikt;conflict
+der Gegensatz;contrast, opposition
+die Opposition;opposition
+unterstützen;to support
+befürworten;to support, advocate
+ablehnen;to reject
+die Zustimmung;approval, agreement
+die Ablehnung;rejection
+akzeptieren;to accept
+die Akzeptanz;acceptance
+verweigern;to refuse, deny
+die Verweigerung;refusal
+tolerieren;to tolerate
+dulden;to tolerate
+ertragen;to endure, bear
+aushalten;to endure, stand
+sich beschweren;to complain
+die Beschwerde;complaint
+kritisieren;to criticize
+bemängeln;to criticize, find fault with
+loben;to praise
+das Lob;praise
+anerkennen;to recognize, acknowledge
+die Anerkennung;recognition, acknowledgment
+würdigen;to appreciate, honor
+die Würdigung;appreciation, tribute
+schätzen;to appreciate, value
+die Schätzung;appreciation, estimate
+bewerten;to evaluate, assess
+die Bewertung;evaluation, assessment
+benoten;to grade
+die Benotung;grading
+zensieren;to grade, censor
+beurteilen;to judge, assess
+das Feedback;feedback
+die Rückmeldung;feedback
+kommentieren;to comment
+der Kommentar;comment
+anmerken;to note, remark
+die Anmerkung;note, remark
+der Hinweis;hint, reference
+hinweisen auf;to point out
+verweisen auf;to refer to
+die Referenz;reference
+erwähnen;to mention
+die Erwähnung;mention
+zitieren;to quote, cite
+das Zitat;quote, citation
+referieren;to report, present
+das Referat;presentation, report
+präsentieren;to present
+die Präsentation;presentation
+vortragen;to present, recite
+der Vortrag;presentation, lecture
+halten;to hold, give (a speech)
+sprechen;to speak
+reden;to talk, speak
+die Rede;speech
+die Ansprache;speech, address
+vorbereiten;to prepare
+die Vorbereitung;preparation
+ausarbeiten;to work out, elaborate
+die Ausarbeitung;elaboration
+entwerfen;to design, draft
+skizzieren;to sketch, outline
+die Skizze;sketch, outline
+der Entwurf;draft
+die Gliederung;outline, structure
+gliedern;to structure, outline
+einteilen;to divide, organize
+die Einteilung;division, organization
+kategorisieren;to categorize
+die Kategorie;category
+klassifizieren;to classify
+die Klassifikation;classification
+die Klasse;class
+sortieren;to sort
+die Sortierung;sorting
+ordnen;to order, arrange
+anordnen;to arrange
+die Anordnung;arrangement
+die Reihenfolge;order, sequence
+die Sequenz;sequence
+aufzählen;to list, enumerate
+die Aufzählung;enumeration, list
+die Liste;list
+auflisten;to list
+die Tabelle;table
+tabellarisch;tabular
+das Schema;scheme, diagram
+schematisch;schematic
+das Muster;pattern, sample
+das Modell;model
+modellieren;to model
+darstellen;to represent, depict
+die Grafik;graphic
+grafisch;graphic, graphical
+visualisieren;to visualize
+die Visualisierung;visualization
+veranschaulichen;to illustrate
+die Veranschaulichung;illustration
+illustrieren;to illustrate
+die Illustration;illustration
+das Bild;picture, image
+abbilden;to depict, reproduce
+die Abbildung;illustration, figure
+die Figur;figure
+die Form;form, shape
+formen;to form, shape
+gestalten;to design, shape
+die Gestaltung;design
+der Inhalt;content
+inhaltlich;content-wise
+formal;formal
+die Form;form
+formell;formal
+informell;informal
+sachlich;factual, objective
+der Sachverhalt;facts, circumstances
+die Tatsache;fact
+tatsächlich;actual, really
+wirklich;real, really
+die Wirklichkeit;reality
+real;real
+die Realität;reality
+fiktiv;fictional
+die Fiktion;fiction
+imaginär;imaginary
+die Vorstellung;imagination, idea
+vorstellen;to imagine, introduce
+sich vorstellen;to imagine
+die Fantasie;fantasy, imagination
+fantasieren;to fantasize
+träumen;to dream
+der Traum;dream
+realistisch;realistic
+unrealistisch;unrealistic
+pragmatisch;pragmatic
+idealistisch;idealistic
+das Ideal;ideal
+perfekt;perfect
+die Perfektion;perfection
+vollkommen;perfect, complete
+unvollkommen;imperfect
+vollständig;complete
+unvollständig;incomplete
+ganz;whole, entire
+teilweise;partly, partially
+der Teil;part
+teilen;to divide, share
+aufteilen;to divide up
+die Aufteilung;division
+das Ganze;the whole
+insgesamt;altogether, overall
+gesamt;total, entire
+komplett;complete
+ergänzen;to complete, supplement
+die Ergänzung;supplement, completion
+hinzufügen;to add
+die Hinzufügung;addition
+anfügen;to add, append
+entfernen;to remove
+die Entfernung;removal, distance
+weglassen;to omit
+die Auslassung;omission
+auslassen;to omit
+ausschließen;to exclude
+der Ausschluss;exclusion
+einschließen;to include
+der Einschluss;inclusion
+beinhalten;to contain, include
+enthalten;to contain
+umfassen;to comprise, include
+bestehen aus;to consist of
+zusammensetzen;to compose
+die Zusammensetzung;composition
+die Komposition;composition
+komponieren;to compose
+konstruieren;to construct
+die Konstruktion;construction
+bauen;to build
+der Bau;construction, building
+aufbauen;to build up, construct
+der Aufbau;structure, construction
+abbauen;to dismantle, reduce
+der Abbau;dismantling, reduction
+zerstören;to destroy
+die Zerstörung;destruction
+vernichten;to destroy, annihilate
+die Vernichtung;destruction, annihilation
+beschädigen;to damage
+der Schaden;damage
+schaden;to harm, damage
+schädlich;harmful
+schädigen;to harm, damage
+die Schädigung;damage, harm
+harmlos;harmless
+gefährlich;dangerous
+die Gefahr;danger
+gefährden;to endanger
+die Gefährdung;endangerment
+riskant;risky
+das Risiko;risk
+riskieren;to risk
+wagen;to dare, risk
+sicher;safe, sure
+die Sicherheit;safety, security
+unsicher;unsafe, uncertain
+schützen;to protect
+der Schutz;protection
+behüten;to protect, guard
+bewahren;to preserve, protect
+die Bewahrung;preservation
+erhalten;to preserve, maintain
+die Erhaltung;preservation, maintenance
+konservieren;to preserve
+die Konservierung;preservation
+bewahren;to keep, preserve
+aufbewahren;to keep, store
+die Aufbewahrung;storage, safekeeping
+lagern;to store
+die Lagerung;storage
+speichern;to store, save
+die Speicherung;storage, saving
+der Speicher;storage, memory
+das Archiv;archive
+archivieren;to archive
+die Archivierung;archiving
+sammeln;to collect
+die Sammlung;collection
+anhäufen;to accumulate
+die Anhäufung;accumulation
+akkumulieren;to accumulate
+verteilen;to distribute
+die Verteilung;distribution
+austeilen;to distribute, hand out
+ausgeben;to give out, spend
+die Ausgabe;distribution, expenditure
+verbreiten;to spread, disseminate
+die Verbreitung;spreading, dissemination
+publizieren;to publish
+die Publikation;publication
+veröffentlichen;to publish
+die Veröffentlichung;publication
+herausgeben;to publish, edit
+der Herausgeber;publisher, editor
+der Verlag;publishing house, publisher
+drucken;to print
+der Druck;print, pressure
+abdrucken;to print, reproduce
+der Abdruck;print, copy
+kopieren;to copy
+die Kopie;copy
+der Kopierer;copier
+das Duplikat;duplicate
+duplizieren;to duplicate
+vervielfältigen;to duplicate, copy
+die Vervielfältigung;duplication
+reproduzieren;to reproduce
+die Reproduktion;reproduction
+nachahmen;to imitate
+die Nachahmung;imitation
+imitieren;to imitate
+die Imitation;imitation
+nachbilden;to reproduce, copy
+fälschen;to forge, fake
+die Fälschung;forgery, fake
+authentisch;authentic
+die Authentizität;authenticity
+original;original
+das Original;original
+die Originalität;originality
+einzigartig;unique
+die Einzigartigkeit;uniqueness
+besonders;special, particular
+die Besonderheit;peculiarity, special feature
+spezifisch;specific
+die Spezifität;specificity
+charakteristisch;characteristic
+typisch;typical
+untypisch;atypical
+gewöhnlich;usual, ordinary
+ungewöhnlich;unusual
+normal;normal
+die Normalität;normality
+abnormal;abnormal
+die Abnormalität;abnormality
+selten;rare, seldom
+die Seltenheit;rarity
+häufig;frequent, common
+die Häufigkeit;frequency
+oft;often
+manchmal;sometimes
+gelegentlich;occasionally
+selten;rarely, seldom
+nie;never
+niemals;never
+immer;always
+stets;always, constantly
+ständig;constant, constantly
+dauerhaft;permanent, lasting
+die Dauer;duration
+temporär;temporary
+vorübergehend;temporary, passing
+zeitlich;temporal, time-related
+zeitweilig;temporary, occasional
+befristet;temporary, limited
+unbefristet;unlimited, permanent
+ewig;eternal
+die Ewigkeit;eternity
+vergänglich;transient, perishable
+flüchtig;fleeting, volatile
+kurzfristig;short-term
+langfristig;long-term
+momentan;momentary, current
+aktuell;current, topical
+die Aktualität;topicality, currency
+gegenwärtig;present, current
+derzeitig;current, present
+jetzig;current, present
+zeitgenössisch;contemporary
+modern;modern
+die Moderne;modernity
+altmodisch;old-fashioned
+veraltet;outdated, obsolete
+obsolet;obsolete
+zeitgemäß;contemporary, modern
+traditionell;traditional
+konventionell;conventional
+unkonventionell;unconventional
+innovativ;innovative
+die Innovation;innovation
+revolutionär;revolutionary
+die Revolution;revolution
+reformieren;to reform
+die Reform;reform
+erneuern;to renew, renovate
+die Erneuerung;renewal, renovation
+renovieren;to renovate
+die Renovierung;renovation
+restaurieren;to restore
+die Restaurierung;restoration
+wiederherstellen;to restore
+die Wiederherstellung;restoration
+reparieren;to repair
+die Reparatur;repair
+ausbessern;to repair, mend
+flicken;to patch, mend
+instand setzen;to repair, restore
+die Instandsetzung;repair, restoration
+warten;to maintain, service
+die Wartung;maintenance
+pflegen;to maintain, care for
+die Pflege;care, maintenance
+behandeln;to treat, handle
+die Behandlung;treatment, handling
+handhaben;to handle
+die Handhabung;handling
+umgehen mit;to deal with, handle
+der Umgang;dealing with, handling
+verwenden;to use
+gebrauchen;to use
+einsetzen;to use, employ
+der Einsatz;use, deployment
+anwenden;to apply
+die Anwendung;application
+applizieren;to apply
+benutzen;to use
+nutzen;to use, utilize
+ausnutzen;to exploit, take advantage of
+die Ausnutzung;exploitation
+missbrauchen;to misuse, abuse
+der Missbrauch;misuse, abuse
+verschwenden;to waste
+die Verschwendung;waste
+sparen;to save
+die Ersparnis;saving
+wirtschaftlich;economical, economic
+die Wirtschaft;economy
+ökonomisch;economical
+effizient;efficient
+die Effizienz;efficiency
+ineffizient;inefficient
+produktiv;productive
+die Produktivität;productivity
+unproduktiv;unproductive
+effektiv;effective
+die Effektivität;effectiveness
+ineffektiv;ineffective
+wirksam;effective
+die Wirksamkeit;effectiveness
+unwirksam;ineffective
+erfolgreich;successful
+erfolglos;unsuccessful
+der Erfolg;success
+der Misserfolg;failure
+gelingen;to succeed
+das Gelingen;success
+misslingen;to fail
+das Misslingen;failure
+erreichen;to achieve, reach
+verfehlen;to miss
+das Ziel;goal, target
+anvisieren;to aim at, target
+das Ergebnis;result
+resultieren;to result
+folgen;to follow
+die Folge;consequence, result
+die Konsequenz;consequence
+konsequent;consistent, consequent
+inkonsequent;inconsistent
+die Konsistenz;consistency
+inkonsistent;inconsistent
+zusammenhängend;coherent, connected
+der Zusammenhang;connection, context
+kohärent;coherent
+die Kohärenz;coherence
+logisch;logical
+unlogisch;illogical
+vernünftig;reasonable
+unvernünftig;unreasonable
+sinnvoll;sensible, meaningful
+sinnlos;senseless, meaningless
+der Sinn;sense, meaning
+bedeutsam;significant, meaningful
+unbedeutsam;insignificant
+bedeutend;significant, important
+unbedeutend;insignificant
+wichtig;important
+unwichtig;unimportant
+die Wichtigkeit;importance
+wesentlich;essential
+unwesentlich;inessential
+essenziell;essential
+fundamental;fundamental
+grundlegend;fundamental, basic
+die Grundlage;foundation, basis
+die Basis;basis
+basieren auf;to be based on
+gründen;to found, establish
+die Gründung;foundation, establishment
+etablieren;to establish
+die Etablierung;establishment
+begründen;to found, justify
+die Begründung;justification, rationale
+rechtfertigen;to justify
+die Rechtfertigung;justification
+legitimieren;to legitimize
+die Legitimation;legitimation
+autorisieren;to authorize
+die Autorisierung;authorization
+erlauben;to allow, permit
+die Erlaubnis;permission
+gestatten;to permit, allow
+verbieten;to forbid, prohibit
+das Verbot;prohibition, ban
+untersagen;to prohibit, forbid
+verhindern;to prevent
+die Verhinderung;prevention
+vermeiden;to avoid
+die Vermeidung;avoidance
+unterlassen;to refrain from, omit
+die Unterlassung;omission
+zulassen;to allow, permit
+die Zulassung;permission, admission
+zustimmen;to agree, approve
+die Zustimmung;approval, consent
+genehmigen;to approve, authorize
+die Genehmigung;approval, permit
+bewilligen;to grant, approve
+die Bewilligung;approval, grant
+ablehnen;to reject, refuse
+zurückweisen;to reject, repel
+die Zurückweisung;rejection
+versagen;to refuse, deny
+die Versagung;refusal, denial

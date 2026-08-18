@@ -1,0 +1,2108 @@
+groß;klein;antonym;big;small
+schnell;langsam;antonym;fast;slow
+heiß;kalt;antonym;hot;cold
+alt;neu;antonym;old;new
+alt;jung;antonym;old;young
+gut;schlecht;antonym;good;bad
+richtig;falsch;antonym;right;wrong
+leicht;schwer;antonym;easy;difficult
+hell;dunkel;antonym;light;dark
+laut;leise;antonym;loud;quiet
+teuer;billig;antonym;expensive;cheap
+reich;arm;antonym;rich;poor
+stark;schwach;antonym;strong;weak
+dick;dünn;antonym;thick/fat;thin
+lang;kurz;antonym;long;short
+breit;schmal;antonym;wide;narrow
+hoch;niedrig;antonym;high;low
+voll;leer;antonym;full;empty
+nass;trocken;antonym;wet;dry
+sauber;schmutzig;antonym;clean;dirty
+schön;hässlich;antonym;beautiful;ugly
+glücklich;traurig;antonym;happy;sad
+freundlich;unfreundlich;antonym;friendly;unfriendly
+interessant;langweilig;antonym;interesting;boring
+einfach;kompliziert;antonym;simple;complicated
+anfangen;aufhören;antonym;to start;to stop
+kommen;gehen;antonym;to come;to go
+öffnen;schließen;antonym;to open;to close
+kaufen;verkaufen;antonym;to buy;to sell
+fragen;antworten;antonym;to ask;to answer
+beginnen;anfangen;synonym;to begin;to start
+schnell;rasch;synonym;fast;quick
+schön;hübsch;synonym;beautiful;pretty
+groß;riesig;synonym;big;huge
+klein;winzig;synonym;small;tiny
+sprechen;reden;synonym;to speak;to talk
+sehen;schauen;synonym;to see;to look
+hören;zuhören;synonym;to hear;to listen
+gehen;laufen;synonym;to go;to walk
+essen;speisen;synonym;to eat;to dine
+Haus;Gebäude;synonym;house;building
+Straße;Weg;synonym;street;way
+Auto;Wagen;synonym;car;vehicle
+Freund;Kumpel;synonym;friend;buddy
+Arbeit;Job;synonym;work;job
+klug;intelligent;synonym;clever;intelligent
+müde;erschöpft;synonym;tired;exhausted
+froh;glücklich;synonym;glad;happy
+wütend;zornig;synonym;angry;furious
+traurig;betrübt;synonym;sad;sorrowful
+mutig;feige;antonym;brave;cowardly
+tapfer;ängstlich;antonym;courageous;fearful
+ehrlich;unehrlich;antonym;honest;dishonest
+wahr;unwahr;antonym;true;false
+echt;falsch;antonym;genuine;fake
+aktiv;passiv;antonym;active;passive
+lebhaft;träge;antonym;lively;sluggish
+fleißig;faul;antonym;diligent;lazy
+ordentlich;unordentlich;antonym;tidy;messy
+pünktlich;unpünktlich;antonym;punctual;late
+geduldig;ungeduldig;antonym;patient;impatient
+höflich;unhöflich;antonym;polite;impolite
+respektvoll;respektlos;antonym;respectful;disrespectful
+vorsichtig;leichtsinnig;antonym;careful;careless
+klug;dumm;antonym;smart;stupid
+weise;töricht;antonym;wise;foolish
+vernünftig;unvernünftig;antonym;reasonable;unreasonable
+logisch;unlogisch;antonym;logical;illogical
+rational;irrational;antonym;rational;irrational
+nüchtern;betrunken;antonym;sober;drunk
+wach;müde;antonym;awake;sleepy
+munter;schläfrig;antonym;alert;drowsy
+gesund;krank;antonym;healthy;sick
+fit;unfit;antonym;fit;unfit
+kräftig;kraftlos;antonym;vigorous;weak
+robust;zerbrechlich;antonym;sturdy;fragile
+stabil;instabil;antonym;stable;unstable
+fest;locker;antonym;firm;loose
+hart;weich;antonym;hard;soft
+starr;flexibel;antonym;rigid;flexible
+steif;geschmeidig;antonym;stiff;supple
+glatt;rau;antonym;smooth;rough
+eben;uneben;antonym;even;uneven
+flach;tief;antonym;flat;deep
+seicht;tief;antonym;shallow;deep
+oberflächlich;tiefgründig;antonym;superficial;profound
+einfach;schwierig;antonym;simple;difficult
+leicht;hart;antonym;easy;hard
+simpel;komplex;antonym;plain;complex
+schlicht;aufwendig;antonym;simple;elaborate
+bescheiden;prahlerisch;antonym;modest;boastful
+demütig;arrogant;antonym;humble;arrogant
+anspruchslos;anspruchsvoll;antonym;undemanding;demanding
+genügsam;gierig;antonym;frugal;greedy
+sparsam;verschwenderisch;antonym;thrifty;wasteful
+geizig;großzügig;antonym;stingy;generous
+knauserig;freigiebig;antonym;miserly;liberal
+eng;weit;antonym;tight;wide
+schmal;breit;antonym;narrow;broad
+dünn;dick;antonym;thin;thick
+schlank;beleibt;antonym;slim;corpulent
+mager;fett;antonym;lean;fat
+zart;grob;antonym;delicate;coarse
+fein;derb;antonym;fine;crude
+edel;gemein;antonym;noble;mean
+vornehm;gewöhnlich;antonym;distinguished;common
+exklusiv;alltäglich;antonym;exclusive;everyday
+selten;häufig;antonym;rare;frequent
+rar;zahlreich;antonym;scarce;numerous
+knapp;reichlich;antonym;scarce;abundant
+spärlich;üppig;antonym;sparse;lush
+karg;fruchtbar;antonym;barren;fertile
+dürr;saftig;antonym;dry;juicy
+trocken;feucht;antonym;arid;moist
+nass;dürr;antonym;wet;parched
+durchnässt;staubtrocken;antonym;soaked;bone-dry
+feucht;trocken;antonym;damp;dry
+kühl;warm;antonym;cool;warm
+frisch;abgestanden;antonym;fresh;stale
+neu;alt;antonym;new;old
+modern;altmodisch;antonym;modern;old-fashioned
+aktuell;veraltet;antonym;current;outdated
+zeitgemäß;antiquiert;antonym;contemporary;antiquated
+jung;alt;antonym;young;old
+jugendlich;greisenhaft;antonym;youthful;senile
+kindlich;erwachsen;antonym;childish;adult
+unreif;reif;antonym;immature;mature
+grün;erfahren;antonym;green;experienced
+unerfahren;routiniert;antonym;inexperienced;seasoned
+naiv;weltgewandt;antonym;naive;worldly
+arglos;misstrauisch;antonym;guileless;suspicious
+vertrauensvoll;skeptisch;antonym;trusting;skeptical
+optimistisch;pessimistisch;antonym;optimistic;pessimistic
+hoffnungsvoll;hoffnungslos;antonym;hopeful;hopeless
+zuversichtlich;verzweifelt;antonym;confident;desperate
+siegesgewiss;defätistisch;antonym;confident of victory;defeatist
+mutig;mutlos;antonym;courageous;discouraged
+entschlossen;unentschlossen;antonym;determined;undecided
+resolut;zögerlich;antonym;resolute;hesitant
+standhaft;wankelmütig;antonym;steadfast;wavering
+beständig;unbeständig;antonym;constant;inconstant
+zuverlässig;unzuverlässig;antonym;reliable;unreliable
+verlässlich;unverlässlich;antonym;dependable;undependable
+treu;untreu;antonym;faithful;unfaithful
+loyal;illoyal;antonym;loyal;disloyal
+ehrlich;verlogen;antonym;honest;deceitful
+aufrichtig;heuchlerisch;antonym;sincere;hypocritical
+offen;verschlossen;antonym;open;closed
+transparent;undurchsichtig;antonym;transparent;opaque
+klar;unklar;antonym;clear;unclear
+deutlich;undeutlich;antonym;distinct;indistinct
+scharf;unscharf;antonym;sharp;blurry
+präzise;unpräzise;antonym;precise;imprecise
+genau;ungenau;antonym;accurate;inaccurate
+exakt;vage;antonym;exact;vague
+bestimmt;unbestimmt;antonym;definite;indefinite
+konkret;abstrakt;antonym;concrete;abstract
+greifbar;unfassbar;antonym;tangible;intangible
+real;irreal;antonym;real;unreal
+wirklich;unwirklich;antonym;real;unreal
+tatsächlich;fiktiv;antonym;actual;fictitious
+authentisch;unecht;antonym;authentic;fake
+original;kopiert;antonym;original;copied
+einzigartig;gewöhnlich;antonym;unique;ordinary
+besonders;durchschnittlich;antonym;special;average
+außergewöhnlich;normal;antonym;extraordinary;normal
+speziell;allgemein;antonym;special;general
+spezifisch;universal;antonym;specific;universal
+individuell;kollektiv;antonym;individual;collective
+persönlich;unpersönlich;antonym;personal;impersonal
+privat;öffentlich;antonym;private;public
+geheim;bekannt;antonym;secret;known
+verborgen;sichtbar;antonym;hidden;visible
+unsichtbar;sichtbar;antonym;invisible;visible
+offenkundig;verdeckt;antonym;obvious;concealed
+offensichtlich;versteckt;antonym;evident;hidden
+manifest;latent;antonym;manifest;latent
+explizit;implizit;antonym;explicit;implicit
+direkt;indirekt;antonym;direct;indirect
+geradeaus;umständlich;antonym;straightforward;roundabout
+unkompliziert;verwickelt;antonym;uncomplicated;involved
+simpel;raffiniert;antonym;simple;sophisticated
+naiv;gerissen;antonym;naive;cunning
+gutgläubig;listig;antonym;credulous;crafty
+harmlos;gefährlich;antonym;harmless;dangerous
+ungefährlich;bedrohlich;antonym;safe;threatening
+sicher;unsicher;antonym;secure;insecure
+geschützt;schutzlos;antonym;protected;unprotected
+geborgen;ausgesetzt;antonym;sheltered;exposed
+behütet;verwahrlost;antonym;cared for;neglected
+gepflegt;ungepflegt;antonym;well-groomed;unkempt
+ordentlich;schlampig;antonym;neat;sloppy
+sauber;dreckig;antonym;clean;filthy
+rein;unrein;antonym;pure;impure
+makellos;fehlerhaft;antonym;flawless;flawed
+perfekt;imperfekt;antonym;perfect;imperfect
+vollendet;unvollendet;antonym;complete;incomplete
+ganz;teilweise;antonym;whole;partial
+vollständig;unvollständig;antonym;complete;incomplete
+komplett;inkomplett;antonym;complete;incomplete
+umfassend;lückenhaft;antonym;comprehensive;fragmentary
+ausführlich;knapp;antonym;detailed;brief
+detailliert;oberflächlich;antonym;detailed;superficial
+genau;grob;antonym;precise;rough
+sorgfältig;nachlässig;antonym;careful;negligent
+gewissenhaft;schlampig;antonym;conscientious;careless
+akkurat;ungenau;antonym;accurate;inaccurate
+korrekt;inkorrekt;antonym;correct;incorrect
+richtig;verkehrt;antonym;right;wrong
+passend;unpassend;antonym;suitable;unsuitable
+angemessen;unangemessen;antonym;appropriate;inappropriate
+geeignet;ungeeignet;antonym;suitable;unsuitable
+tauglich;untauglich;antonym;fit;unfit
+brauchbar;unbrauchbar;antonym;usable;unusable
+nützlich;nutzlos;antonym;useful;useless
+praktisch;unpraktisch;antonym;practical;impractical
+zweckmäßig;zwecklos;antonym;expedient;pointless
+sinnvoll;sinnlos;antonym;sensible;senseless
+vernünftig;absurd;antonym;reasonable;absurd
+rational;emotional;antonym;rational;emotional
+sachlich;gefühlsbetont;antonym;objective;emotional
+objektiv;subjektiv;antonym;objective;subjective
+neutral;parteiisch;antonym;neutral;biased
+unparteiisch;voreingenommen;antonym;impartial;prejudiced
+fair;unfair;antonym;fair;unfair
+gerecht;ungerecht;antonym;just;unjust
+rechtmäßig;unrechtmäßig;antonym;lawful;unlawful
+legal;illegal;antonym;legal;illegal
+erlaubt;verboten;antonym;permitted;forbidden
+zulässig;unzulässig;antonym;permissible;impermissible
+legitim;illegitim;antonym;legitimate;illegitimate
+berechtigt;unberechtigt;antonym;justified;unjustified
+gerechtfertigt;ungerechtfertigt;antonym;warranted;unwarranted
+begründet;unbegründet;antonym;founded;unfounded
+plausibel;unplausibel;antonym;plausible;implausible
+glaubwürdig;unglaubwürdig;antonym;credible;incredible
+überzeugend;unüberzeugend;antonym;convincing;unconvincing
+einleuchtend;fragwürdig;antonym;evident;questionable
+zweifelsfrei;zweifelhaft;antonym;indubitable;doubtful
+sicher;fragwürdig;antonym;certain;questionable
+gewiss;ungewiss;antonym;certain;uncertain
+bestimmt;unbestimmt;antonym;certain;uncertain
+garantiert;unsicher;antonym;guaranteed;uncertain
+verbürgt;unverbürgt;antonym;authenticated;unauthenticated
+bewiesen;unbewiesen;antonym;proven;unproven
+belegt;unbelegt;antonym;documented;undocumented
+nachweisbar;nicht nachweisbar;antonym;verifiable;unverifiable
+messbar;unmessbar;antonym;measurable;immeasurable
+quantifizierbar;unquantifizierbar;antonym;quantifiable;unquantifiable
+berechenbar;unberechenbar;antonym;predictable;unpredictable
+vorhersehbar;unvorhersehbar;antonym;foreseeable;unforeseeable
+erwartbar;unerwartet;antonym;expected;unexpected
+wahrscheinlich;unwahrscheinlich;antonym;probable;improbable
+möglich;unmöglich;antonym;possible;impossible
+denkbar;undenkbar;antonym;conceivable;inconceivable
+vorstellbar;unvorstellbar;antonym;imaginable;unimaginable
+realistisch;unrealistisch;antonym;realistic;unrealistic
+praktikabel;unpraktikabel;antonym;practicable;impracticable
+durchführbar;undurchführbar;antonym;feasible;unfeasible
+machbar;unmachbar;antonym;doable;undoable
+erreichbar;unerreichbar;antonym;achievable;unachievable
+realisierbar;unrealisierbar;antonym;realizable;unrealizable
+ausführbar;unausführbar;antonym;executable;unexecutable
+erfüllbar;unerfüllbar;antonym;fulfillable;unfulfillable
+lösbar;unlösbar;antonym;solvable;unsolvable
+heilbar;unheilbar;antonym;curable;incurable
+reparabel;irreparabel;antonym;repairable;irreparable
+reversibel;irreversibel;antonym;reversible;irreversible
+umkehrbar;unumkehrbar;antonym;reversible;irreversible
+widerruflich;unwiderruflich;antonym;revocable;irrevocable
+änderbar;unveränderbar;antonym;changeable;unchangeable
+veränderlich;unveränderlich;antonym;variable;invariable
+wandelbar;unwandelbar;antonym;mutable;immutable
+variabel;konstant;antonym;variable;constant
+beweglich;unbeweglich;antonym;mobile;immobile
+mobil;stationär;antonym;mobile;stationary
+portabel;ortsfest;antonym;portable;fixed
+transportabel;untransportabel;antonym;transportable;untransportable
+tragbar;untragbar;antonym;bearable;unbearable
+erträglich;unerträglich;antonym;tolerable;intolerable
+aushaltbar;unzumutbar;antonym;endurable;unreasonable
+zumutbar;unzumutbar;antonym;reasonable;unreasonable
+akzeptabel;inakzeptabel;antonym;acceptable;unacceptable
+annehmbar;unannehmbar;antonym;acceptable;unacceptable
+vertretbar;unvertretbar;antonym;justifiable;unjustifiable
+verantwortbar;unverantwortlich;antonym;responsible;irresponsible
+verständlich;unverständlich;antonym;understandable;incomprehensible
+begreiflich;unbegreiflich;antonym;comprehensible;incomprehensible
+fassbar;unfassbar;antonym;comprehensible;incomprehensible
+nachvollziehbar;unverständlich;antonym;comprehensible;incomprehensible
+erklärbar;unerklärlich;antonym;explicable;inexplicable
+lesbar;unleserlich;antonym;legible;illegible
+leserlich;krakelig;antonym;readable;scrawled
+entzifferbar;unentzifferbar;antonym;decipherable;indecipherable
+erkennbar;unerkennbar;antonym;recognizable;unrecognizable
+identifizierbar;unidentifizierbar;antonym;identifiable;unidentifiable
+unterscheidbar;ununterscheidbar;antonym;distinguishable;indistinguishable
+trennbar;untrennbar;antonym;separable;inseparable
+teilbar;unteilbar;antonym;divisible;indivisible
+spaltbar;unspaltbar;antonym;splittable;unsplittable
+zerlegbar;unzerlegbar;antonym;decomposable;indecomposable
+auflösbar;unlöslich;antonym;soluble;insoluble
+schmelzbar;unschmelzbar;antonym;meltable;unmeltable
+brennbar;unbrennbar;antonym;combustible;incombustible
+entzündbar;feuerfest;antonym;flammable;fireproof
+explosiv;stabil;antonym;explosive;stable
+reaktiv;inert;antonym;reactive;inert
+aktiv;inaktiv;antonym;active;inactive
+wirksam;unwirksam;antonym;effective;ineffective
+effektiv;ineffektiv;antonym;effective;ineffective
+effizient;ineffizient;antonym;efficient;inefficient
+produktiv;unproduktiv;antonym;productive;unproductive
+fruchtbar;unfruchtbar;antonym;fertile;infertile
+ergiebig;unergiebig;antonym;productive;unproductive
+ertragreich;ertraglos;antonym;profitable;unprofitable
+einträglich;verlustreich;antonym;lucrative;loss-making
+gewinnbringend;defizitär;antonym;profitable;deficit-making
+rentabel;unrentabel;antonym;profitable;unprofitable
+lohnend;nicht lohnend;antonym;worthwhile;not worthwhile
+lohnenswert;sinnlos;antonym;rewarding;pointless
+wertvoll;wertlos;antonym;valuable;worthless
+kostbar;billig;antonym;precious;cheap
+teuer;preiswert;antonym;expensive;inexpensive
+hochpreisig;günstig;antonym;high-priced;affordable
+unbezahlbar;erschwinglich;antonym;unaffordable;affordable
+luxuriös;schlicht;antonym;luxurious;plain
+prunkvoll;bescheiden;antonym;magnificent;modest
+pompös;einfach;antonym;pompous;simple
+prächtig;armselig;antonym;splendid;miserable
+herrlich;erbärmlich;antonym;glorious;pitiful
+glorreich;ruhmlos;antonym;glorious;inglorious
+triumphierend;geschlagen;antonym;triumphant;defeated
+siegreich;unterlegen;antonym;victorious;defeated
+erfolgreich;erfolglos;antonym;successful;unsuccessful
+gelungen;misslungen;antonym;successful;failed
+geglückt;gescheitert;antonym;succeeded;failed
+vollbracht;verfehlt;antonym;accomplished;missed
+erreicht;verpasst;antonym;achieved;missed
+verwirklicht;unerfüllt;antonym;realized;unfulfilled
+abgeschlossen;offen;antonym;completed;open
+beendet;begonnen;antonym;finished;started
+fertig;unfertig;antonym;finished;unfinished
+vollendet;angefangen;antonym;completed;started
+ausgereift;unreif;antonym;mature;immature
+entwickelt;unterentwickelt;antonym;developed;underdeveloped
+fortgeschritten;rückständig;antonym;advanced;backward
+progressiv;konservativ;antonym;progressive;conservative
+liberal;autoritär;antonym;liberal;authoritarian
+freiheitlich;repressiv;antonym;libertarian;repressive
+demokratisch;diktatorisch;antonym;democratic;dictatorial
+egalitär;elitär;antonym;egalitarian;elitist
+gleichberechtigt;diskriminierend;antonym;equal;discriminatory
+inklusiv;exklusiv;antonym;inclusive;exclusive
+offen;geschlossen;antonym;open;closed
+zugänglich;unzugänglich;antonym;accessible;inaccessible
+erreichbar;abgelegen;antonym;accessible;remote
+verfügbar;nicht verfügbar;antonym;available;unavailable
+vorhanden;fehlend;antonym;present;absent
+anwesend;abwesend;antonym;present;absent
+existent;nicht existent;antonym;existent;nonexistent
+bestehend;nicht bestehend;antonym;existing;nonexisting
+lebend;tot;antonym;living;dead
+lebendig;leblos;antonym;alive;lifeless
+vital;kraftlos;antonym;vital;lifeless
+dynamisch;statisch;antonym;dynamic;static
+energisch;lethargisch;antonym;energetic;lethargic
+schwungvoll;träge;antonym;spirited;sluggish
+lebhaft;matt;antonym;lively;dull
+temperamentvoll;phlegmatisch;antonym;spirited;phlegmatic
+feurig;lahm;antonym;fiery;lame
+hitzig;kühl;antonym;heated;cool
+leidenschaftlich;leidenschaftslos;antonym;passionate;passionless
+enthusiastisch;apathisch;antonym;enthusiastic;apathetic
+begeistert;gleichgültig;antonym;enthusiastic;indifferent
+eifrig;desinteressiert;antonym;eager;disinterested
+motiviert;unmotiviert;antonym;motivated;unmotivated
+engagiert;teilnahmslos;antonym;engaged;indifferent
+interessiert;gelangweilt;antonym;interested;bored
+aufmerksam;unaufmerksam;antonym;attentive;inattentive
+konzentriert;zerstreut;antonym;concentrated;distracted
+fokussiert;abgelenkt;antonym;focused;distracted
+achtsam;unachtsam;antonym;mindful;careless
+wachsam;unachtsam;antonym;vigilant;careless
+aufgeweckt;schläfrig;antonym;alert;sleepy
+rege;träge;antonym;active;sluggish
+quicklebendig;leblos;antonym;vivacious;lifeless
+springlebendig;matt;antonym;lively;dull
+quirlig;ruhig;antonym;lively;calm
+ausgelassen;ernst;antonym;exuberant;serious
+fröhlich;traurig;antonym;cheerful;sad
+heiter;melancholisch;antonym;cheerful;melancholic
+lustig;ernst;antonym;funny;serious
+humorvoll;humorlos;antonym;humorous;humorless
+witzig;langweilig;antonym;witty;boring
+komisch;tragisch;antonym;comic;tragic
+amüsant;fade;antonym;amusing;bland
+unterhaltsam;öde;antonym;entertaining;dull
+spannend;langweilig;antonym;exciting;boring
+aufregend;eintönig;antonym;thrilling;monotonous
+packend;ermüdend;antonym;gripping;tiring
+fesselnd;langweilig;antonym;captivating;boring
+mitreißend;ermüdend;antonym;enthralling;wearisome
+atemberaubend;öde;antonym;breathtaking;dreary
+spektakulär;unspektakulär;antonym;spectacular;unspectacular
+sensationell;alltäglich;antonym;sensational;everyday
+phänomenal;gewöhnlich;antonym;phenomenal;ordinary
+außergewöhnlich;banal;antonym;exceptional;banal
+bemerkenswert;unbedeutend;antonym;remarkable;insignificant
+bedeutend;bedeutungslos;antonym;significant;meaningless
+wichtig;unwichtig;antonym;important;unimportant
+wesentlich;unwesentlich;antonym;essential;nonessential
+essentiell;nebensächlich;antonym;essential;incidental
+grundlegend;peripher;antonym;fundamental;peripheral
+fundamental;oberflächlich;antonym;fundamental;superficial
+zentral;marginal;antonym;central;marginal
+hauptsächlich;nebensächlich;antonym;main;secondary
+primär;sekundär;antonym;primary;secondary
+erst;letzt;antonym;first;last
+anfänglich;endgültig;antonym;initial;final
+ursprünglich;abschließend;antonym;original;concluding
+vorläufig;definitiv;antonym;provisional;definitive
+temporär;permanent;antonym;temporary;permanent
+zeitweilig;dauerhaft;antonym;temporary;lasting
+vergänglich;ewig;antonym;transient;eternal
+flüchtig;beständig;antonym;fleeting;permanent
+kurzlebig;langlebig;antonym;short-lived;long-lived
+vorübergehend;bleibend;antonym;transitory;lasting
+ephemer;unvergänglich;antonym;ephemeral;imperishable
+momentan;immerwährend;antonym;momentary;everlasting
+augenblicklich;zeitlos;antonym;momentary;timeless
+spontan;geplant;antonym;spontaneous;planned
+improvisiert;vorbereitet;antonym;improvised;prepared
+ungeplant;organisiert;antonym;unplanned;organized
+zufällig;absichtlich;antonym;accidental;intentional
+versehentlich;vorsätzlich;antonym;inadvertent;deliberate
+unbeabsichtigt;beabsichtigt;antonym;unintentional;intentional
+unwillkürlich;willentlich;antonym;involuntary;voluntary
+unbewusst;bewusst;antonym;unconscious;conscious
+instinktiv;überlegt;antonym;instinctive;deliberate
+reflexartig;bedacht;antonym;reflexive;considered
+impulsiv;kontrolliert;antonym;impulsive;controlled
+unüberlegt;durchdacht;antonym;rash;thought-out
+voreilig;abgewogen;antonym;hasty;measured
+überstürzt;besonnen;antonym;precipitate;prudent
+hektisch;ruhig;antonym;hectic;calm
+gehetzt;gelassen;antonym;rushed;relaxed
+nervös;entspannt;antonym;nervous;relaxed
+angespannt;locker;antonym;tense;loose
+verkrampft;gelöst;antonym;cramped;relaxed
+steif;ungezwungen;antonym;stiff;casual
+förmlich;zwanglos;antonym;formal;informal
+offiziell;inoffiziell;antonym;official;unofficial
+feierlich;alltäglich;antonym;ceremonial;everyday
+ernst;verspielt;antonym;serious;playful
+seriös;unseriös;antonym;serious;dubious
+würdevoll;würdelos;antonym;dignified;undignified
+respektabel;zweifelhaft;antonym;respectable;questionable
+anständig;unanständig;antonym;decent;indecent
+sittsam;unsittlich;antonym;virtuous;immoral
+tugendhaft;lasterhaft;antonym;virtuous;vicious
+moralisch;unmoralisch;antonym;moral;immoral
+ethisch;unethisch;antonym;ethical;unethical
+rechtschaffen;verderbt;antonym;righteous;corrupt
+integer;korrupt;antonym;upright;corrupt
+unbescholten;vorbestraft;antonym;unblemished;convicted
+unschuldig;schuldig;antonym;innocent;guilty
+rein;sündig;antonym;pure;sinful
+heilig;profan;antonym;holy;profane
+sakral;weltlich;antonym;sacred;secular
+göttlich;teuflisch;antonym;divine;devilish
+himmlisch;höllisch;antonym;heavenly;hellish
+paradiesisch;grauenvoll;antonym;paradisiacal;horrible
+wunderbar;schrecklich;antonym;wonderful;terrible
+herrlich;fürchterlich;antonym;splendid;dreadful
+fabelhaft;abscheulich;antonym;fabulous;abominable
+großartig;entsetzlich;antonym;magnificent;appalling
+fantastisch;grässlich;antonym;fantastic;ghastly
+prima;miserabel;antonym;excellent;miserable
+vorzüglich;minderwertig;antonym;excellent;inferior
+ausgezeichnet;mangelhaft;antonym;excellent;deficient
+vortrefflich;dürftig;antonym;superb;poor
+hervorragend;kläglich;antonym;outstanding;pitiful
+exzellent;jämmerlich;antonym;excellent;pathetic
+erstklassig;drittklassig;antonym;first-rate;third-rate
+hochwertig;minderwertig;antonym;high-quality;inferior
+qualitativ;billig;antonym;qualitative;cheap
+wertig;schäbig;antonym;valuable;shabby
+edel;ordinär;antonym;noble;vulgar
+erlesen;gewöhnlich;antonym;exquisite;common
+exquisit;alltäglich;antonym;exquisite;everyday
+delikat;grob;antonym;delicate;coarse
+raffiniert;primitiv;antonym;refined;primitive
+kultiviert;unkultiviert;antonym;cultivated;uncultivated
+zivilisiert;barbarisch;antonym;civilized;barbaric
+gebildet;ungebildet;antonym;educated;uneducated
+gelehrt;unwissend;antonym;learned;ignorant
+belesen;unbelesen;antonym;well-read;unread
+kenntnisreich;ahnungslos;antonym;knowledgeable;clueless
+erfahren;unerfahren;antonym;experienced;inexperienced
+bewandert;unbewandert;antonym;versed;unversed
+versiert;dilettantisch;antonym;proficient;amateurish
+kompetent;inkompetent;antonym;competent;incompetent
+fähig;unfähig;antonym;capable;incapable
+qualifiziert;unqualifiziert;antonym;qualified;unqualified
+geschickt;ungeschickt;antonym;skillful;clumsy
+gewandt;unbeholfen;antonym;dexterous;awkward
+fingerfertig;tolpatschig;antonym;deft;clumsy
+geschmeidig;linkisch;antonym;agile;awkward
+wendig;schwerfällig;antonym;nimble;ponderous
+flink;behäbig;antonym;quick;sluggish
+hurtig;gemächlich;antonym;swift;leisurely
+flott;langsam;antonym;brisk;slow
+zügig;schleppend;antonym;prompt;dragging
+prompt;zögernd;antonym;prompt;hesitant
+sofortig;verzögert;antonym;immediate;delayed
+umgehend;verspätet;antonym;immediate;belated
+unverzüglich;hinausgezögert;antonym;immediate;postponed
+eilig;gemütlich;antonym;hurried;leisurely
+hastig;bedächtig;antonym;hasty;deliberate
+übereilt;behutsam;antonym;rushed;cautious
+stürmisch;gemessen;antonym;impetuous;measured
+wild;gezähmt;antonym;wild;tame
+ungezügelt;kontrolliert;antonym;unrestrained;controlled
+zügellos;diszipliniert;antonym;unbridled;disciplined
+ausschweifend;mäßig;antonym;excessive;moderate
+maßlos;gemäßigt;antonym;immoderate;moderate
+extrem;moderat;antonym;extreme;moderate
+radikal;gemäßigt;antonym;radical;moderate
+exzessiv;zurückhaltend;antonym;excessive;restrained
+übermäßig;angemessen;antonym;excessive;appropriate
+übertrieben;untertrieben;antonym;exaggerated;understated
+hysterisch;gelassen;antonym;hysterical;calm
+panisch;besonnen;antonym;panicky;level-headed
+kopflos;überlegt;antonym;frantic;deliberate
+verzweifelt;hoffnungsvoll;antonym;desperate;hopeful
+hoffnungslos;optimistisch;antonym;hopeless;optimistic
+trostlos;verheißungsvoll;antonym;dismal;promising
+düster;heiter;antonym;gloomy;cheerful
+finster;hell;antonym;dark;bright
+dunkel;licht;antonym;dark;light
+schattig;sonnig;antonym;shady;sunny
+wolkig;klar;antonym;cloudy;clear
+trübe;strahlend;antonym;dull;radiant
+matt;glänzend;antonym;dull;shiny
+stumpf;blitzend;antonym;dull;gleaming
+glanzlos;schimmernd;antonym;lusterless;shimmering
+farblos;farbenfroh;antonym;colorless;colorful
+blass;leuchtend;antonym;pale;luminous
+bleich;rosig;antonym;pale;rosy
+fahl;frisch;antonym;wan;fresh
+kränklich;blühend;antonym;sickly;blooming
+schwächlich;kräftig;antonym;feeble;vigorous
+gebrechlich;robust;antonym;frail;robust
+hinfällig;stabil;antonym;decrepit;stable
+altersschwach;jugendlich;antonym;senile;youthful
+zerbrechlich;widerstandsfähig;antonym;fragile;resilient
+empfindlich;unempfindlich;antonym;sensitive;insensitive
+sensibel;abgebrüht;antonym;sensitive;hardened
+zartbesaitet;dickfellig;antonym;tender;thick-skinned
+verletzlich;unverletzlich;antonym;vulnerable;invulnerable
+anfällig;resistent;antonym;susceptible;resistant
+verwundbar;immun;antonym;vulnerable;immune
+schutzlos;gepanzert;antonym;defenseless;armored
+wehrlos;bewaffnet;antonym;defenseless;armed
+hilflos;selbstständig;antonym;helpless;independent
+abhängig;unabhängig;antonym;dependent;independent
+unselbstständig;autonom;antonym;dependent;autonomous
+unterwürfig;selbstbewusst;antonym;submissive;self-confident
+devot;dominant;antonym;submissive;dominant
+gehorsam;rebellisch;antonym;obedient;rebellious
+folgsam;widerspenstig;antonym;obedient;defiant
+fügsam;aufsässig;antonym;docile;rebellious
+willig;unwillig;antonym;willing;unwilling
+bereit;abgeneigt;antonym;ready;disinclined
+gewillt;abhold;antonym;willing;averse
+entschlossen;zaudernd;antonym;determined;wavering
+standhaft;schwankend;antonym;steadfast;vacillating
+fest;wackelig;antonym;firm;shaky
+solide;instabil;antonym;solid;unstable
+gediegen;minderwertig;antonym;solid;inferior
+substantiell;substanzlos;antonym;substantial;insubstantial
+gehaltvoll;gehaltlos;antonym;substantial;insubstantial
+aussagekräftig;nichtssagend;antonym;meaningful;meaningless
+bedeutungsvoll;belanglos;antonym;significant;trivial
+inhaltsreich;inhaltsleer;antonym;rich in content;empty
+tiefgründig;seicht;antonym;profound;shallow
+tiefsinnig;banal;antonym;profound;banal
+weise;töricht;antonym;wise;foolish
+gescheit;einfältig;antonym;clever;simple-minded
+intelligent;beschränkt;antonym;intelligent;limited
+scharfsinnig;begriffsstutzig;antonym;sharp-witted;slow-witted
+gewitzt;naiv;antonym;shrewd;naive
+schlau;einfältig;antonym;cunning;simple
+listig;arglos;antonym;crafty;guileless
+gerissen;gutgläubig;antonym;wily;credulous
+raffiniert;einfach;antonym;sophisticated;simple
+clever;dumm;antonym;clever;stupid
+pfiffig;tumb;antonym;clever;dense
+gewieft;töricht;antonym;shrewd;foolish
+durchtrieben;harmlos;antonym;crafty;harmless
+verschlagen;offen;antonym;devious;open
+hinterhältig;aufrichtig;antonym;devious;sincere
+falsch;ehrlich;antonym;false;honest
+verlogen;wahrhaftig;antonym;mendacious;truthful
+betrügerisch;rechtschaffen;antonym;deceitful;honest
+hinterlistig;redlich;antonym;treacherous;honest
+heimtückisch;ehrlich;antonym;insidious;honest
+perfide;loyal;antonym;perfidious;loyal
+verräterisch;treu;antonym;traitorous;faithful
+illoyal;loyal;antonym;disloyal;loyal
+treulos;ergeben;antonym;faithless;devoted
+untreu;beständig;antonym;unfaithful;steadfast
+wankelmütig;standhaft;antonym;fickle;steadfast
+launisch;ausgeglichen;antonym;moody;balanced
+launenhaft;beständig;antonym;capricious;constant
+unberechenbar;verlässlich;antonym;unpredictable;reliable
+sprunghaft;gleichmäßig;antonym;erratic;consistent
+wechselhaft;stabil;antonym;changeable;stable
+inkonstant;konstant;antonym;inconstant;constant
+variabel;fix;antonym;variable;fixed
+schwankend;gleichbleibend;antonym;fluctuating;constant
+fluktuierend;stationär;antonym;fluctuating;stationary
+volatil;beständig;antonym;volatile;stable
+labil;stabil;antonym;unstable;stable
+unstet;fest;antonym;unsteady;steady
+rastlos;ruhig;antonym;restless;calm
+ruhelos;friedlich;antonym;restless;peaceful
+unruhig;still;antonym;restless;still
+aufgewühlt;ruhig;antonym;agitated;calm
+erregt;gelassen;antonym;agitated;composed
+aufgeregt;gleichmütig;antonym;excited;even-tempered
+nervös;seelenruhig;antonym;nervous;serene
+angespannt;entspannt;antonym;tense;relaxed
+verkrampft;locker;antonym;tense;loose
+verspannt;entspannt;antonym;tense;relaxed
+gestresst;stressfrei;antonym;stressed;stress-free
+überfordert;unterfordert;antonym;overwhelmed;underutilized
+belastet;entlastet;antonym;burdened;relieved
+beschwert;befreit;antonym;weighed down;liberated
+bedrückt;beschwingt;antonym;oppressed;buoyant
+niedergeschlagen;aufgemuntert;antonym;dejected;cheered up
+deprimiert;fröhlich;antonym;depressed;cheerful
+schwermütig;heiter;antonym;melancholic;cheerful
+melancholisch;lebensfroh;antonym;melancholic;cheerful
+trübsinnig;frohgemut;antonym;gloomy;cheerful
+betrübt;erfreut;antonym;saddened;delighted
+bekümmert;unbekümmert;antonym;troubled;carefree
+sorgenvoll;sorglos;antonym;worried;carefree
+besorgt;unbesorgt;antonym;concerned;unconcerned
+ängstlich;furchtlos;antonym;anxious;fearless
+bange;mutig;antonym;afraid;brave
+furchtsam;kühn;antonym;timid;bold
+schüchtern;selbstsicher;antonym;shy;confident
+zaghaft;entschlossen;antonym;timid;determined
+zurückhaltend;forsch;antonym;reserved;bold
+gehemmt;ungezwungen;antonym;inhibited;uninhibited
+scheu;draufgängerisch;antonym;timid;daring
+verschämt;frech;antonym;bashful;cheeky
+verklemmt;locker;antonym;uptight;relaxed
+prüde;freizügig;antonym;prudish;permissive
+spießig;lässig;antonym;stuffy;casual
+engstirnig;tolerant;antonym;narrow-minded;tolerant
+kleinlich;großzügig;antonym;petty;generous
+penibel;nachlässig;antonym;meticulous;careless
+pedantisch;locker;antonym;pedantic;casual
+pingelig;unkompliziert;antonym;fussy;uncomplicated
+wählerisch;anspruchslos;antonym;picky;undemanding
+kritisch;unkritisch;antonym;critical;uncritical
+streng;nachsichtig;antonym;strict;lenient
+rigoros;milde;antonym;rigorous;mild
+unnachgiebig;flexibel;antonym;inflexible;flexible
+hart;weich;antonym;harsh;soft
+drakonisch;human;antonym;draconian;humane
+gnadenlos;barmherzig;antonym;merciless;merciful
+erbarmungslos;mitfühlend;antonym;pitiless;compassionate
+rücksichtslos;rücksichtsvoll;antonym;ruthless;considerate
+grausam;gütig;antonym;cruel;kind
+brutal;sanft;antonym;brutal;gentle
+gewalttätig;friedlich;antonym;violent;peaceful
+aggressiv;friedfertig;antonym;aggressive;peaceable
+feindselig;freundlich;antonym;hostile;friendly
+militant;pazifistisch;antonym;militant;pacifist
+kämpferisch;versöhnlich;antonym;combative;conciliatory
+streitlustig;friedliebend;antonym;quarrelsome;peace-loving
+konfliktfreudig;harmonisch;antonym;confrontational;harmonious
+provokant;entgegenkommend;antonym;provocative;accommodating
+herausfordernd;zurückhaltend;antonym;challenging;restrained
+aufreizend;bescheiden;antonym;provocative;modest
+provozierend;versöhnlich;antonym;provoking;conciliatory
+reizend;abstoßend;antonym;charming;repulsive
+bezaubernd;widerlich;antonym;enchanting;repugnant
+entzückend;ekelhaft;antonym;delightful;disgusting
+hinreißend;grauenhaft;antonym;ravishing;hideous
+liebreizend;abscheulich;antonym;lovely;abominable
+anmutig;plump;antonym;graceful;clumsy
+graziös;unbeholfen;antonym;graceful;awkward
+elegant;unelegant;antonym;elegant;inelegant
+stilvoll;geschmacklos;antonym;stylish;tasteless
+schick;schäbig;antonym;chic;shabby
+modisch;unmodisch;antonym;fashionable;unfashionable
+trendy;altbacken;antonym;trendy;outdated
+hip;spießig;antonym;hip;square
+cool;uncool;antonym;cool;uncool
+angesagt;out;antonym;in;out
+beliebt;unbeliebt;antonym;popular;unpopular
+populär;unpopulär;antonym;popular;unpopular
+gefragt;ungefragt;antonym;in demand;unwanted
+begehrt;verschmäht;antonym;sought-after;spurned
+gesucht;unerwünscht;antonym;wanted;unwanted
+erwünscht;unerwünscht;antonym;desired;undesired
+willkommen;unwillkommen;antonym;welcome;unwelcome
+wohlgelitten;verhasst;antonym;well-liked;hated
+geschätzt;verachtet;antonym;valued;despised
+respektiert;missachtet;antonym;respected;disrespected
+geachtet;gering geschätzt;antonym;esteemed;disdained
+anerkannt;verkannt;antonym;recognized;unrecognized
+gewürdigt;ignoriert;antonym;appreciated;ignored
+bewundert;verachtet;antonym;admired;despised
+verehrt;verschmäht;antonym;revered;scorned
+vergöttert;verteufelt;antonym;idolized;demonized
+geliebt;gehasst;antonym;loved;hated
+beliebt;verhasst;antonym;beloved;hated
+lieb;böse;antonym;dear;evil
+nett;gemein;antonym;nice;mean
+freundlich;feindselig;antonym;kind;hostile
+gütig;boshaft;antonym;benevolent;malicious
+wohlwollend;übelwollend;antonym;benevolent;malevolent
+herzlich;kühl;antonym;warm;cold
+warmherzig;kaltherzig;antonym;warm-hearted;cold-hearted
+liebevoll;lieblos;antonym;loving;loveless
+zärtlich;rau;antonym;tender;rough
+sanft;hart;antonym;gentle;harsh
+mild;streng;antonym;mild;severe
+nachsichtig;unnachgiebig;antonym;lenient;unrelenting
+tolerant;intolerant;antonym;tolerant;intolerant
+duldsam;unduldsam;antonym;tolerant;intolerant
+verständnisvoll;verständnislos;antonym;understanding;uncomprehending
+einfühlsam;gefühllos;antonym;empathetic;unfeeling
+mitfühlend;gleichgültig;antonym;compassionate;indifferent
+empathisch;empathielos;antonym;empathic;unempathic
+hilfsbereit;unhilfsbereit;antonym;helpful;unhelpful
+zuvorkommend;unhöflich;antonym;obliging;rude
+aufmerksam;gedankenlos;antonym;attentive;thoughtless
+rücksichtsvoll;rücksichtslos;antonym;considerate;inconsiderate
+behutsam;grob;antonym;gentle;rough
+vorsichtig;unvorsichtig;antonym;cautious;incautious
+umsichtig;unbesonnen;antonym;prudent;reckless
+bedacht;unbedacht;antonym;deliberate;thoughtless
+überlegt;unüberlegt;antonym;considered;rash
+durchdacht;unausgegoren;antonym;well-thought-out;half-baked
+wohlüberlegt;spontan;antonym;well-considered;spontaneous
+geplant;improvisiert;antonym;planned;improvised
+vorbereitet;unvorbereitet;antonym;prepared;unprepared
+organisiert;chaotisch;antonym;organized;chaotic
+strukturiert;unstrukturiert;antonym;structured;unstructured
+geordnet;ungeordnet;antonym;ordered;disordered
+systematisch;unsystematisch;antonym;systematic;unsystematic
+methodisch;planlos;antonym;methodical;haphazard
+diszipliniert;undiszipliniert;antonym;disciplined;undisciplined
+konsequent;inkonsequent;antonym;consistent;inconsistent
+beharrlich;unbeständig;antonym;persistent;inconsistent
+ausdauernd;wechselhaft;antonym;persistent;fickle
+hartnäckig;nachgiebig;antonym;stubborn;yielding
+stur;flexibel;antonym;stubborn;flexible
+eigensinnig;gefügig;antonym;obstinate;compliant
+dickköpfig;nachgiebig;antonym;pigheaded;yielding
+bockig;willfährig;antonym;obstinate;compliant
+widerspenstig;gehorsam;antonym;recalcitrant;obedient
+störrisch;gefügig;antonym;stubborn;docile
+trotzig;fügsam;antonym;defiant;compliant
+renitent;kooperativ;antonym;recalcitrant;cooperative
+rebellisch;unterwürfig;antonym;rebellious;submissive
+aufsässig;angepasst;antonym;rebellious;conformist
+aufmüpfig;brav;antonym;rebellious;well-behaved
+frech;artig;antonym;cheeky;well-behaved
+unverschämt;höflich;antonym;impudent;polite
+dreist;zurückhaltend;antonym;brazen;reserved
+keck;schüchtern;antonym;pert;shy
+vorlaut;bescheiden;antonym;impertinent;modest
+naseweis;zurückhaltend;antonym;cheeky;reserved
+vorwitzig;höflich;antonym;forward;polite
+respektlos;respektvoll;antonym;disrespectful;respectful
+ehrfurchtslos;ehrfürchtig;antonym;irreverent;reverent
+pietätlos;pietätvoll;antonym;impious;pious
+gottlos;gottesfürchtig;antonym;godless;god-fearing
+ungläubig;gläubig;antonym;unbelieving;believing
+skeptisch;vertrauensvoll;antonym;skeptical;trusting
+zweiflerisch;überzeugt;antonym;doubting;convinced
+misstrauisch;arglos;antonym;distrustful;trusting
+argwöhnisch;vertrauensselig;antonym;suspicious;trusting
+vorsichtig;leichtgläubig;antonym;wary;gullible
+zurückhaltend;offenherzig;antonym;reserved;open-hearted
+verschlossen;mitteilsam;antonym;reserved;communicative
+introvertiert;extrovertiert;antonym;introverted;extroverted
+scheu;kontaktfreudig;antonym;shy;sociable
+menschenscheu;gesellig;antonym;antisocial;sociable
+unsozial;sozial;antonym;antisocial;social
+einzelgängerisch;gemeinschaftlich;antonym;solitary;communal
+einsam;gesellig;antonym;lonely;sociable
+allein;zusammen;antonym;alone;together
+isoliert;integriert;antonym;isolated;integrated
+abgeschieden;verbunden;antonym;secluded;connected
+zurückgezogen;kontaktfreudig;antonym;withdrawn;outgoing
+einsiedlerisch;gesellig;antonym;reclusive;sociable
+abgesondert;eingebunden;antonym;separated;integrated
+getrennt;vereint;antonym;separated;united
+geteilt;ungeteilt;antonym;divided;undivided
+gespalten;geeint;antonym;split;united
+zerrissen;ganz;antonym;torn;whole
+fragmentiert;zusammenhängend;antonym;fragmented;coherent
+zersplittert;kompakt;antonym;splintered;compact
+bruchstückhaft;vollständig;antonym;fragmentary;complete
+lückenhaft;lückenlos;antonym;incomplete;complete
+defekt;intakt;antonym;defective;intact
+beschädigt;unbeschädigt;antonym;damaged;undamaged
+kaputt;heil;antonym;broken;intact
+zerbrochen;ganz;antonym;broken;whole
+zerstört;erhalten;antonym;destroyed;preserved
+ruiniert;intakt;antonym;ruined;intact
+verfallen;gepflegt;antonym;dilapidated;maintained
+heruntergekommen;renoviert;antonym;run-down;renovated
+abgewirtschaftet;florierend;antonym;decrepit;flourishing
+marode;stabil;antonym;dilapidated;stable
+baufällig;solide;antonym;ramshackle;solid
+reparaturbedürftig;funktionstüchtig;antonym;in need of repair;functional
+mangelhaft;einwandfrei;antonym;deficient;flawless
+fehlerhaft;fehlerlos;antonym;faulty;faultless
+schadhaft;makellos;antonym;damaged;spotless
+unvollkommen;vollkommen;antonym;imperfect;perfect
+unvollständig;vollständig;antonym;incomplete;complete
+teilweise;vollends;antonym;partial;complete
+partiell;total;antonym;partial;total
+fragmentarisch;ganzheitlich;antonym;fragmentary;holistic
+stückweise;komplett;antonym;piecemeal;complete
+bruchstückhaft;durchgängig;antonym;fragmentary;continuous
+unterbrochen;ununterbrochen;antonym;interrupted;uninterrupted
+diskontinuierlich;kontinuierlich;antonym;discontinuous;continuous
+sporadisch;regelmäßig;antonym;sporadic;regular
+gelegentlich;ständig;antonym;occasional;constant
+zeitweilig;fortlaufend;antonym;intermittent;continuous
+unregelmäßig;regelmäßig;antonym;irregular;regular
+punktuell;durchgehend;antonym;sporadic;continuous
+vereinzelt;gehäuft;antonym;isolated;frequent
+selten;oft;antonym;rare;often
+spärlich;reichlich;antonym;sparse;abundant
+dünn gesät;dicht;antonym;thin on the ground;dense
+vereinzelt;massenhaft;antonym;scattered;en masse
+wenig;viel;antonym;little;much
+gering;groß;antonym;small;large
+minimal;maximal;antonym;minimal;maximal
+winzig;riesig;antonym;tiny;gigantic
+mikroskopisch;enorm;antonym;microscopic;enormous
+infinitesimal;gewaltig;antonym;infinitesimal;immense
+verschwindend;beträchtlich;antonym;negligible;considerable
+unbedeutend;bedeutend;antonym;insignificant;significant
+unerheblich;erheblich;antonym;negligible;considerable
+marginal;substanziell;antonym;marginal;substantial
+geringfügig;wesentlich;antonym;minor;essential
+nebensächlich;hauptsächlich;antonym;secondary;primary
+untergeordnet;übergeordnet;antonym;subordinate;superordinate
+zweitrangig;erstrangig;antonym;secondary;primary
+peripher;zentral;antonym;peripheral;central
+randständig;maßgeblich;antonym;marginal;authoritative
+irrelevant;relevant;antonym;irrelevant;relevant
+unwesentlich;wesentlich;antonym;unessential;essential
+belanglos;wichtig;antonym;trivial;important
+trivial;gravierend;antonym;trivial;serious
+banal;bedeutungsvoll;antonym;banal;meaningful
+alltäglich;außergewöhnlich;antonym;commonplace;extraordinary
+gewöhnlich;ungewöhnlich;antonym;ordinary;unusual
+normal;abnormal;antonym;normal;abnormal
+durchschnittlich;außergewöhnlich;antonym;average;exceptional
+mittelmäßig;herausragend;antonym;mediocre;outstanding
+standard;besonders;antonym;standard;special
+konventionell;unkonventionell;antonym;conventional;unconventional
+traditionell;innovativ;antonym;traditional;innovative
+althergebracht;neuartig;antonym;time-honored;novel
+etabliert;revolutionär;antonym;established;revolutionary
+bewährt;experimentell;antonym;proven;experimental
+erprobt;ungetestet;antonym;tried;untested
+getestet;ungeprüft;antonym;tested;untested
+verifiziert;unverifiziert;antonym;verified;unverified
+bestätigt;unbestätigt;antonym;confirmed;unconfirmed
+beglaubigt;unbeglaubigt;antonym;authenticated;unauthenticated
+zertifiziert;nicht zertifiziert;antonym;certified;uncertified
+genehmigt;nicht genehmigt;antonym;approved;unapproved
+autorisiert;nicht autorisiert;antonym;authorized;unauthorized
+legitimiert;illegitim;antonym;legitimized;illegitimate
+sanktioniert;nicht sanktioniert;antonym;sanctioned;unsanctioned
+erlaubt;unerlaubt;antonym;allowed;disallowed
+gestattet;nicht gestattet;antonym;permitted;not permitted
+zugelassen;verboten;antonym;permitted;prohibited
+lizenziert;unlizenziert;antonym;licensed;unlicensed
+registriert;unregistriert;antonym;registered;unregistered
+angemeldet;nicht angemeldet;antonym;registered;unregistered
+eingetragen;nicht eingetragen;antonym;registered;unregistered
+offiziell;informell;antonym;official;informal
+formell;leger;antonym;formal;casual
+zeremoniell;ungezwungen;antonym;ceremonial;informal
+rituell;spontan;antonym;ritual;spontaneous
+protokollarisch;zwanglos;antonym;ceremonial;casual
+steif;locker;antonym;stiff;relaxed
+verkrampft;natürlich;antonym;forced;natural
+gezwungen;ungezwungen;antonym;forced;unforced
+künstlich;natürlich;antonym;artificial;natural
+synthetisch;organisch;antonym;synthetic;organic
+unnatürlich;natürlich;antonym;unnatural;natural
+gekünstelt;authentisch;antonym;contrived;authentic
+affektiert;natürlich;antonym;affected;natural
+manieriert;ungekünstelt;antonym;mannered;unaffected
+aufgesetzt;echt;antonym;put-on;genuine
+vorgetäuscht;wirklich;antonym;feigned;real
+simuliert;authentisch;antonym;simulated;authentic
+nachgeahmt;original;antonym;imitated;original
+kopiert;einzigartig;antonym;copied;unique
+gefälscht;echt;antonym;forged;genuine
+imitiert;original;antonym;imitated;original
+nachgemacht;authentisch;antonym;counterfeit;authentic
+plagiiert;eigenständig;antonym;plagiarized;original
+abgekupfert;originell;antonym;copied;original
+entlehnt;eigenständig;antonym;borrowed;independent
+derivativ;innovativ;antonym;derivative;innovative
+nachgebildet;originär;antonym;reproduced;original
+sekundär;primär;antonym;secondary;primary
+abgeleitet;ursprünglich;antonym;derived;original
+mittelbar;unmittelbar;antonym;indirect;direct
+indirekt;direkt;antonym;indirect;direct
+vermittelt;direkt;antonym;mediated;direct
+übertragen;wörtlich;antonym;figurative;literal
+bildlich;buchstäblich;antonym;metaphorical;literal
+metaphorisch;konkret;antonym;metaphoric;concrete
+symbolisch;tatsächlich;antonym;symbolic;actual
+allegorisch;direkt;antonym;allegorical;direct
+sinnbildlich;faktisch;antonym;figurative;factual
+übertragen;eigentlich;antonym;transferred;actual
+abstrakt;gegenständlich;antonym;abstract;representational
+theoretisch;praktisch;antonym;theoretical;practical
+hypothetisch;real;antonym;hypothetical;real
+spekulativ;empirisch;antonym;speculative;empirical
+mutmaßlich;nachweisbar;antonym;presumed;demonstrable
+angenommen;bewiesen;antonym;assumed;proven
+vermutet;bestätigt;antonym;suspected;confirmed
+suppositionell;faktisch;antonym;suppositional;factual
+konjektural;definitiv;antonym;conjectural;definitive
+tentativ;endgültig;antonym;tentative;final
+provisorisch;permanent;antonym;provisional;permanent
+vorläufig;fest;antonym;preliminary;firm
+interimistisch;dauerhaft;antonym;interim;permanent
+zeitweilig;ewig;antonym;temporary;eternal
+befristet;unbefristet;antonym;temporary;permanent
+temporär;immerwährend;antonym;temporary;perpetual
+transitorisch;bleibend;antonym;transitory;permanent
+kurzfristig;langfristig;antonym;short-term;long-term
+kurzzeitig;langdauernd;antonym;short-lived;long-lasting
+flüchtig;anhaltend;antonym;fleeting;lasting
+vorübergehend;permanent;antonym;passing;permanent
+momentan;beständig;antonym;momentary;enduring
+augenblicklich;dauerhaft;antonym;momentary;lasting
+ephemer;ewig;antonym;ephemeral;eternal
+vergänglich;unvergänglich;antonym;transient;everlasting
+sterblich;unsterblich;antonym;mortal;immortal
+endlich;unendlich;antonym;finite;infinite
+begrenzt;unbegrenzt;antonym;limited;unlimited
+beschränkt;unbeschränkt;antonym;restricted;unrestricted
+eingeschränkt;uneingeschränkt;antonym;limited;unlimited
+konditioniert;bedingungslos;antonym;conditional;unconditional
+bedingt;unbedingt;antonym;conditional;absolute
+relativ;absolut;antonym;relative;absolute
+subjektiv;objektiv;antonym;subjective;objective
+persönlich;sachlich;antonym;personal;factual
+individuell;generell;antonym;individual;general
+partikular;universal;antonym;particular;universal
+spezifisch;allgemein;antonym;specific;general
+charakteristisch;generisch;antonym;characteristic;generic
+typisch;untypisch;antonym;typical;atypical
+bezeichnend;uncharakteristisch;antonym;characteristic;uncharacteristic
+symptomatisch;untypisch;antonym;symptomatic;atypical
+repräsentativ;unrepräsentativ;antonym;representative;unrepresentative
+exemplarisch;untypisch;antonym;exemplary;atypical
+mustergültig;abweichend;antonym;exemplary;deviant
+vorbildlich;verwerflich;antonym;exemplary;reprehensible
+beispielhaft;anomal;antonym;exemplary;anomalous
+paradigmatisch;irregulär;antonym;paradigmatic;irregular
+kanonisch;heterodox;antonym;canonical;heterodox
+normativ;deskriptiv;antonym;normative;descriptive
+präskriptiv;deskriptiv;antonym;prescriptive;descriptive
+vorschreibend;beschreibend;antonym;prescriptive;descriptive
+reglementierend;permissiv;antonym;regulating;permissive
+regulierend;liberal;antonym;regulating;liberal
+kontrolliert;unkontrolliert;antonym;controlled;uncontrolled
+überwacht;unbeaufsichtigt;antonym;monitored;unsupervised
+beaufsichtigt;unbewacht;antonym;supervised;unguarded
+bewacht;unbewacht;antonym;guarded;unguarded
+geschützt;exponiert;antonym;protected;exposed
+gesichert;ungesichert;antonym;secured;unsecured
+abgesichert;gefährdet;antonym;safeguarded;endangered
+verwahrt;preisgegeben;antonym;safeguarded;exposed
+behütet;schutzlos;antonym;sheltered;unprotected
+geborgen;ausgesetzt;antonym;safe;exposed
+sicher;gefährdet;antonym;safe;endangered
+risikolos;riskant;antonym;risk-free;risky
+gefahrlos;gefährlich;antonym;safe;dangerous
+ungefährlich;hazardös;antonym;harmless;hazardous
+harmlos;gefährlich;antonym;innocuous;dangerous
+unschädlich;schädlich;antonym;harmless;harmful
+gutartig;bösartig;antonym;benign;malignant
+benigne;maligne;antonym;benign;malignant
+friedlich;kriegerisch;antonym;peaceful;warlike
+friedfertig;streitbar;antonym;peaceable;contentious
+versöhnlich;konfliktbereit;antonym;conciliatory;confrontational
+kompromissbereit;kompromisslos;antonym;willing to compromise;uncompromising
+nachgiebig;unnachgiebig;antonym;yielding;unyielding
+gefügig;widerspenstig;antonym;compliant;rebellious
+willfährig;aufsässig;antonym;compliant;rebellious
+folgsam;ungehorsam;antonym;obedient;disobedient
+brav;ungezogen;antonym;well-behaved;naughty
+artig;frech;antonym;well-behaved;cheeky
+manierlich;unmanierlich;antonym;well-mannered;ill-mannered
+wohlerzogen;ungezogen;antonym;well-bred;ill-bred
+gesittet;ungesittet;antonym;civilized;uncivilized
+kultiviert;barbarisch;antonym;cultured;barbaric
+verfeinert;primitiv;antonym;refined;primitive
+geschliffen;ungeschliffen;antonym;polished;unpolished
+distinguiert;plebejisch;antonym;distinguished;plebeian
+erlesen;gewöhnlich;antonym;select;common
+erhaben;niedrig;antonym;sublime;base
+edel;unedel;antonym;noble;ignoble
+vornehm;gemein;antonym;noble;base
+nobel;schmutzig;antonym;noble;dirty
+großherzig;kleinlich;antonym;magnanimous;petty
+hochherzig;engstirnig;antonym;noble-minded;narrow-minded
+weitherzig;kleinkariert;antonym;large-hearted;small-minded
+großmütig;nachtragend;antonym;magnanimous;vindictive
+verzeihend;rachsüchtig;antonym;forgiving;vengeful
+vergebend;unversöhnlich;antonym;forgiving;unforgiving
+barmherzig;erbarmungslos;antonym;merciful;merciless
+gnädig;gnadenlos;antonym;merciful;pitiless
+mitleidig;mitleidlos;antonym;compassionate;pitiless
+mitfühlend;hartherzig;antonym;sympathetic;hardhearted
+warmherzig;herzlos;antonym;warm-hearted;heartless
+gütig;gefühllos;antonym;kind-hearted;unfeeling
+beherzt;mutlos;synonym;brave;discouraged
+tapfer;mutig;synonym;brave;courageous
+kühn;wagemutig;synonym;bold;daring
+verwegen;tollkühn;synonym;daring;foolhardy
+schnell;flink;synonym;fast;nimble
+rasch;geschwind;synonym;quick;swift
+flott;zügig;synonym;brisk;swift
+eilig;hastig;synonym;hurried;hasty
+langsam;träge;synonym;slow;sluggish
+gemächlich;bedächtig;synonym;leisurely;deliberate
+behäbig;schwerfällig;synonym;ponderous;clumsy
+schleppend;zäh;synonym;dragging;tough
+heiß;glühend;synonym;hot;glowing
+warm;lauwarm;synonym;warm;lukewarm
+kalt;eisig;synonym;cold;icy
+kühl;frisch;synonym;cool;fresh
+alt;betagt;synonym;old;aged
+neu;frisch;synonym;new;fresh
+jung;jugendlich;synonym;young;youthful
+gut;prima;synonym;good;excellent
+schlecht;mies;synonym;bad;lousy
+richtig;korrekt;synonym;right;correct
+falsch;unrichtig;synonym;wrong;incorrect
+leicht;simpel;synonym;easy;simple
+schwer;schwierig;synonym;hard;difficult
+hell;licht;synonym;bright;light
+dunkel;finster;synonym;dark;gloomy
+laut;lautstark;synonym;loud;noisy
+leise;still;synonym;quiet;silent
+teuer;kostspielig;synonym;expensive;costly
+billig;preiswert;synonym;cheap;inexpensive
+reich;wohlhabend;synonym;rich;wealthy
+arm;mittellos;synonym;poor;penniless
+stark;kräftig;synonym;strong;powerful
+schwach;kraftlos;synonym;weak;powerless
+dick;beleibt;synonym;fat;corpulent
+dünn;schlank;synonym;thin;slender
+lang;ausgedehnt;synonym;long;extended
+kurz;knapp;synonym;short;brief
+breit;weit;synonym;wide;broad
+schmal;eng;synonym;narrow;tight
+hoch;erhöht;synonym;high;elevated
+niedrig;tief;synonym;low;deep
+voll;gefüllt;synonym;full;filled
+leer;unbesetzt;synonym;empty;unoccupied
+nass;feucht;synonym;wet;damp
+trocken;dürr;synonym;dry;arid
+sauber;rein;synonym;clean;pure
+schmutzig;dreckig;synonym;dirty;filthy
+schön;attraktiv;synonym;beautiful;attractive
+hässlich;unansehnlich;synonym;ugly;unsightly
+glücklich;froh;synonym;happy;glad
+traurig;unglücklich;synonym;sad;unhappy
+freundlich;liebenswürdig;synonym;friendly;kind
+interessant;fesselnd;synonym;interesting;captivating
+langweilig;öde;synonym;boring;dull
+einfach;unkompliziert;synonym;simple;uncomplicated
+kompliziert;verwickelt;synonym;complicated;complex
+mutig;furchtlos;synonym;brave;fearless
+feige;ängstlich;synonym;cowardly;fearful
+ehrlich;aufrichtig;synonym;honest;sincere
+faul;träge;synonym;lazy;sluggish
+fleißig;arbeitsam;synonym;diligent;industrious
+pünktlich;rechtzeitig;synonym;punctual;timely
+geduldig;nachsichtig;synonym;patient;forbearing
+höflich;artig;synonym;polite;courteous
+vorsichtig;behutsam;synonym;careful;cautious
+klug;gescheit;synonym;clever;smart
+weise;gelehrt;synonym;wise;learned
+vernünftig;rational;synonym;reasonable;rational
+wach;aufgeweckt;synonym;awake;alert
+gesund;fit;synonym;healthy;fit
+kräftig;robust;synonym;vigorous;sturdy
+fest;stabil;synonym;firm;stable
+hart;fest;synonym;hard;firm
+glatt;eben;synonym;smooth;even
+rau;uneben;synonym;rough;uneven
+flach;eben;synonym;flat;level
+tief;gründlich;synonym;deep;thorough
+einfach;schlicht;synonym;simple;plain
+bescheiden;anspruchslos;synonym;modest;unassuming
+eng;knapp;synonym;tight;scarce
+dünn;mager;synonym;thin;lean
+zart;fein;synonym;delicate;fine
+edel;vornehm;synonym;noble;distinguished
+selten;rar;synonym;rare;scarce
+knapp;spärlich;synonym;scarce;sparse
+trocken;wasserarm;synonym;dry;arid
+kühl;kalt;synonym;cool;cold
+frisch;knackig;synonym;fresh;crisp
+modern;zeitgemäß;synonym;modern;contemporary
+jung;frisch;synonym;young;fresh
+naiv;gutgläubig;synonym;naive;credulous
+optimistisch;hoffnungsvoll;synonym;optimistic;hopeful
+pessimistisch;hoffnungslos;synonym;pessimistic;hopeless
+mutig;tapfer;synonym;courageous;brave
+entschlossen;bestimmt;synonym;determined;resolute
+zuverlässig;verlässlich;synonym;reliable;dependable
+treu;loyal;synonym;faithful;loyal
+ehrlich;wahrhaftig;synonym;honest;truthful
+offen;aufrichtig;synonym;open;frank
+klar;deutlich;synonym;clear;distinct
+scharf;präzise;synonym;sharp;precise
+genau;exakt;synonym;accurate;exact
+konkret;greifbar;synonym;concrete;tangible
+real;wirklich;synonym;real;actual
+authentisch;echt;synonym;authentic;genuine
+einzigartig;unverwechselbar;synonym;unique;unmistakable
+besonders;speziell;synonym;special;particular
+außergewöhnlich;ungewöhnlich;synonym;extraordinary;unusual
+persönlich;privat;synonym;personal;private
+geheim;verborgen;synonym;secret;hidden
+unsichtbar;verdeckt;synonym;invisible;concealed
+offensichtlich;augenscheinlich;synonym;obvious;apparent
+direkt;unmittelbar;synonym;direct;immediate
+geradeaus;direkt;synonym;straight;direct
+unkompliziert;einfach;synonym;uncomplicated;simple
+harmlos;ungefährlich;synonym;harmless;safe
+sicher;geschützt;synonym;secure;protected
+ordentlich;gepflegt;synonym;neat;well-kept
+sauber;rein;synonym;clean;pure
+makellos;fehlerlos;synonym;flawless;faultless
+perfekt;vollendet;synonym;perfect;complete
+ganz;vollständig;synonym;whole;complete
+umfassend;ausführlich;synonym;comprehensive;detailed
+genau;sorgfältig;synonym;precise;careful
+akkurat;genau;synonym;accurate;precise
+korrekt;richtig;synonym;correct;right
+passend;geeignet;synonym;suitable;appropriate
+angemessen;passend;synonym;appropriate;fitting
+nützlich;brauchbar;synonym;useful;usable
+praktisch;zweckmäßig;synonym;practical;expedient
+sinnvoll;vernünftig;synonym;sensible;reasonable
+sachlich;objektiv;synonym;factual;objective
+neutral;unparteiisch;synonym;neutral;impartial
+fair;gerecht;synonym;fair;just
+legal;rechtmäßig;synonym;legal;lawful
+erlaubt;zulässig;synonym;permitted;permissible
+legitim;berechtigt;synonym;legitimate;justified
+plausibel;glaubwürdig;synonym;plausible;credible
+überzeugend;einleuchtend;synonym;convincing;compelling
+sicher;gewiss;synonym;certain;sure
+garantiert;verbürgt;synonym;guaranteed;assured
+bewiesen;belegt;synonym;proven;documented
+messbar;quantifizierbar;synonym;measurable;quantifiable
+berechenbar;vorhersehbar;synonym;predictable;foreseeable
+wahrscheinlich;möglich;synonym;probable;possible
+realistisch;praktikabel;synonym;realistic;practicable
+machbar;durchführbar;synonym;doable;feasible
+erreichbar;realisierbar;synonym;achievable;realizable
+lösbar;heilbar;synonym;solvable;curable
+änderbar;veränderlich;synonym;changeable;variable
+beweglich;mobil;synonym;mobile;movable
+tragbar;erträglich;synonym;bearable;tolerable
+akzeptabel;annehmbar;synonym;acceptable;satisfactory
+verständlich;begreiflich;synonym;understandable;comprehensible
+erklärbar;nachvollziehbar;synonym;explicable;traceable
+lesbar;leserlich;synonym;legible;readable
+erkennbar;identifizierbar;synonym;recognizable;identifiable
+unterscheidbar;trennbar;synonym;distinguishable;separable
+brennbar;entzündbar;synonym;combustible;flammable
+aktiv;wirksam;synonym;active;effective
+effektiv;effizient;synonym;effective;efficient
+produktiv;fruchtbar;synonym;productive;fertile
+ertragreich;einträglich;synonym;profitable;lucrative
+rentabel;lohnend;synonym;profitable;worthwhile
+wertvoll;kostbar;synonym;valuable;precious
+teuer;kostspielig;synonym;expensive;costly
+luxuriös;prunkvoll;synonym;luxurious;magnificent
+prächtig;herrlich;synonym;splendid;glorious
+erfolgreich;gelungen;synonym;successful;accomplished
+fertig;vollendet;synonym;finished;completed
+ausgereift;entwickelt;synonym;mature;developed
+fortgeschritten;progressiv;synonym;advanced;progressive
+demokratisch;egalitär;synonym;democratic;egalitarian
+offen;zugänglich;synonym;open;accessible
+verfügbar;vorhanden;synonym;available;present
+existent;bestehend;synonym;existent;existing
+lebendig;vital;synonym;alive;vital
+dynamisch;energisch;synonym;dynamic;energetic
+lebhaft;temperamentvoll;synonym;lively;spirited
+enthusiastisch;begeistert;synonym;enthusiastic;excited
+motiviert;engagiert;synonym;motivated;committed
+aufmerksam;konzentriert;synonym;attentive;concentrated
+wachsam;achtsam;synonym;vigilant;mindful
+rege;quicklebendig;synonym;active;vivacious
+fröhlich;heiter;synonym;cheerful;merry
+lustig;humorvoll;synonym;funny;humorous
+witzig;amüsant;synonym;witty;amusing
+unterhaltsam;spannend;synonym;entertaining;exciting
+fesselnd;packend;synonym;captivating;gripping
+atemberaubend;spektakulär;synonym;breathtaking;spectacular
+sensationell;phänomenal;synonym;sensational;phenomenal
+außergewöhnlich;bemerkenswert;synonym;exceptional;remarkable
+bedeutend;wichtig;synonym;significant;important
+wesentlich;essentiell;synonym;essential;vital
+grundlegend;fundamental;synonym;fundamental;basic
+zentral;hauptsächlich;synonym;central;main
+primär;erst;synonym;primary;first
+anfänglich;ursprünglich;synonym;initial;original
+vorläufig;temporär;synonym;provisional;temporary
+vergänglich;flüchtig;synonym;transient;fleeting
+momentan;augenblicklich;synonym;momentary;instant
+spontan;improvisiert;synonym;spontaneous;improvised
+zufällig;versehentlich;synonym;accidental;inadvertent
+unbewusst;instinktiv;synonym;unconscious;instinctive
+impulsiv;unüberlegt;synonym;impulsive;rash
+hektisch;gehetzt;synonym;hectic;rushed
+nervös;angespannt;synonym;nervous;tense
+gestresst;überfordert;synonym;stressed;overwhelmed
+bedrückt;niedergeschlagen;synonym;oppressed;dejected
+deprimiert;schwermütig;synonym;depressed;melancholic
+betrübt;bekümmert;synonym;saddened;troubled
+sorgenvoll;besorgt;synonym;worried;concerned
+ängstlich;furchtsam;synonym;anxious;timid
+schüchtern;zurückhaltend;synonym;shy;reserved
+verschämt;verklemmt;synonym;bashful;inhibited
+engstirnig;kleinlich;synonym;narrow-minded;petty
+streng;rigoros;synonym;strict;rigorous
+hart;gnadenlos;synonym;harsh;merciless
+grausam;brutal;synonym;cruel;brutal
+aggressiv;feindselig;synonym;aggressive;hostile
+streitlustig;kämpferisch;synonym;quarrelsome;combative
+provokant;herausfordernd;synonym;provocative;challenging
+reizend;bezaubernd;synonym;charming;enchanting
+anmutig;elegant;synonym;graceful;elegant
+schick;modisch;synonym;chic;fashionable
+trendy;angesagt;synonym;trendy;popular
+beliebt;populär;synonym;popular;well-liked
+gefragt;begehrt;synonym;in demand;sought-after
+willkommen;erwünscht;synonym;welcome;desired
+geschätzt;respektiert;synonym;valued;respected
+anerkannt;gewürdigt;synonym;recognized;appreciated
+bewundert;verehrt;synonym;admired;revered
+geliebt;beliebt;synonym;loved;beloved
+lieb;nett;synonym;dear;nice
+gütig;wohlwollend;synonym;benevolent;kind
+herzlich;warmherzig;synonym;warm;warm-hearted
+liebevoll;zärtlich;synonym;loving;tender
+sanft;mild;synonym;gentle;mild
+nachsichtig;tolerant;synonym;lenient;tolerant
+verständnisvoll;einfühlsam;synonym;understanding;empathetic
+hilfsbereit;zuvorkommend;synonym;helpful;obliging
+rücksichtsvoll;behutsam;synonym;considerate;gentle
+umsichtig;bedacht;synonym;prudent;deliberate
+überlegt;durchdacht;synonym;considered;well-thought-out
+geplant;vorbereitet;synonym;planned;prepared
+organisiert;strukturiert;synonym;organized;structured
+systematisch;methodisch;synonym;systematic;methodical
+diszipliniert;konsequent;synonym;disciplined;consistent
+ausdauernd;beharrlich;synonym;persistent;persevering
+hartnäckig;stur;synonym;stubborn;obstinate
+dickköpfig;eigensinnig;synonym;pigheaded;willful
+widerspenstig;störrisch;synonym;recalcitrant;stubborn
+rebellisch;aufsässig;synonym;rebellious;defiant
+frech;unverschämt;synonym;cheeky;impudent
+dreist;keck;synonym;brazen;pert
+respektlos;pietätlos;synonym;disrespectful;irreverent
+skeptisch;zweiflerisch;synonym;skeptical;doubting
+misstrauisch;argwöhnisch;synonym;distrustful;suspicious
+zurückhaltend;verschlossen;synonym;reserved;reticent
+introvertiert;scheu;synonym;introverted;shy
+einsam;allein;synonym;lonely;alone
+isoliert;abgeschieden;synonym;isolated;secluded
+getrennt;geteilt;synonym;separated;divided
+fragmentiert;zersplittert;synonym;fragmented;splintered
+defekt;kaputt;synonym;defective;broken
+beschädigt;zerstört;synonym;damaged;destroyed
+verfallen;heruntergekommen;synonym;dilapidated;run-down
+marode;baufällig;synonym;decrepit;ramshackle
+mangelhaft;fehlerhaft;synonym;deficient;faulty
+unvollkommen;unvollständig;synonym;imperfect;incomplete
+sporadisch;gelegentlich;synonym;sporadic;occasional
+selten;spärlich;synonym;rare;sparse
+wenig;gering;synonym;little;small
+minimal;winzig;synonym;minimal;tiny
+unbedeutend;unerheblich;synonym;insignificant;negligible
+marginal;geringfügig;synonym;marginal;minor
+nebensächlich;untergeordnet;synonym;secondary;subordinate
+irrelevant;belanglos;synonym;irrelevant;trivial
+alltäglich;gewöhnlich;synonym;commonplace;ordinary
+normal;durchschnittlich;synonym;normal;average
+standard;konventionell;synonym;standard;conventional
+traditionell;etabliert;synonym;traditional;established
+bewährt;erprobt;synonym;proven;tried
+offiziell;formell;synonym;official;formal
+steif;gezwungen;synonym;stiff;forced
+künstlich;synthetisch;synonym;artificial;synthetic
+gefälscht;imitiert;synonym;forged;imitated
+nachgemacht;kopiert;synonym;counterfeit;copied
+abgeleitet;sekundär;synonym;derived;secondary
+indirekt;mittelbar;synonym;indirect;mediated
+übertragen;bildlich;synonym;figurative;metaphorical
+symbolisch;allegorisch;synonym;symbolic;allegorical
+abstrakt;theoretisch;synonym;abstract;theoretical
+spekulativ;mutmaßlich;synonym;speculative;presumed
+angenommen;vermutet;synonym;assumed;suspected
+provisorisch;vorläufig;synonym;provisional;preliminary
+befristet;temporär;synonym;temporary;transient
+kurzfristig;kurzzeitig;synonym;short-term;short-lived
+flüchtig;vorübergehend;synonym;fleeting;passing
+vergänglich;ephemer;synonym;transient;ephemeral
+begrenzt;beschränkt;synonym;limited;restricted
+bedingt;relativ;synonym;conditional;relative
+subjektiv;persönlich;synonym;subjective;personal
+spezifisch;charakteristisch;synonym;specific;characteristic
+typisch;bezeichnend;synonym;typical;indicative
+repräsentativ;exemplarisch;synonym;representative;exemplary
+vorbildlich;beispielhaft;synonym;exemplary;model
+normativ;präskriptiv;synonym;normative;prescriptive
+kontrolliert;überwacht;synonym;controlled;monitored
+geschützt;gesichert;synonym;protected;secured
+behütet;geborgen;synonym;sheltered;safe
+risikolos;gefahrlos;synonym;risk-free;safe
+harmlos;unschädlich;synonym;innocuous;harmless
+friedlich;friedfertig;synonym;peaceful;peaceable
+kompromissbereit;nachgiebig;synonym;willing to compromise;yielding
+folgsam;brav;synonym;obedient;well-behaved
+manierlich;wohlerzogen;synonym;well-mannered;well-bred
+kultiviert;verfeinert;synonym;cultured;refined
+erlesen;erhaben;synonym;select;sublime
+großherzig;weitherzig;synonym;magnanimous;large-hearted
+verzeihend;barmherzig;synonym;forgiving;merciful
+mitleidig;mitfühlend;synonym;compassionate;sympathetic
+gütig;warmherzig;synonym;kind-hearted;warm-hearted
+glänzend;strahlend;synonym;shiny;radiant
+leuchtend;hell;synonym;bright;luminous
+funkelnd;blitzend;synonym;sparkling;gleaming
+schimmernd;glitzernd;synonym;shimmering;glittering
+prachtvoll;großartig;synonym;magnificent;splendid
+imposant;beeindruckend;synonym;imposing;impressive
+monumental;gewaltig;synonym;monumental;immense
+gigantisch;riesenhaft;synonym;gigantic;colossal
+enorm;immens;synonym;enormous;immense
+massiv;wuchtig;synonym;massive;bulky
+schwer;gewichtig;synonym;heavy;weighty
+bedeutsam;gewichtig;synonym;significant;weighty
+einflussreich;mächtig;synonym;influential;powerful
+dominant;vorherrschend;synonym;dominant;predominant
+führend;maßgeblich;synonym;leading;authoritative
+entscheidend;ausschlaggebend;synonym;decisive;crucial
+kritisch;entscheidend;synonym;critical;crucial
+vital;lebenswichtig;synonym;vital;essential
+unentbehrlich;unverzichtbar;synonym;indispensable;essential
+notwendig;erforderlich;synonym;necessary;required
+obligatorisch;verpflichtend;synonym;obligatory;mandatory
+zwingend;bindend;synonym;compelling;binding
+verbindlich;verpflichtend;synonym;binding;obligatory
+definitiv;endgültig;synonym;definitive;final
+abschließend;ultimativ;synonym;concluding;ultimate
+kategorisch;absolut;synonym;categorical;absolute
+kompromisslos;unnachgiebig;synonym;uncompromising;unyielding
+strikt;rigide;synonym;strict;rigid
+starr;unflexibel;synonym;rigid;inflexible
+dogmatisch;unflexibel;synonym;dogmatic;inflexible
+orthodox;traditionell;synonym;orthodox;traditional
+konservativ;bewahrend;synonym;conservative;preserving
+reaktionär;rückschrittlich;synonym;reactionary;regressive
+altmodisch;veraltet;synonym;old-fashioned;outdated
+antiquiert;überholt;synonym;antiquated;obsolete
+obsolet;veraltet;synonym;obsolete;outdated
+überflüssig;unnötig;synonym;superfluous;unnecessary
+redundant;überflüssig;synonym;redundant;superfluous
+entbehrlich;verzichtbar;synonym;dispensable;expendable
+nebensächlich;unwichtig;synonym;incidental;unimportant
+nichtig;wertlos;synonym;null;worthless
+bedeutungslos;geringfügig;synonym;meaningless;trivial
+bagatellhaft;trivial;synonym;trifling;trivial
+lächerlich;absurd;synonym;ridiculous;absurd
+grotesk;absurd;synonym;grotesque;absurd
+bizarr;skurril;synonym;bizarre;peculiar
+sonderbar;merkwürdig;synonym;odd;strange
+seltsam;kurios;synonym;strange;curious
+eigenartig;befremdlich;synonym;peculiar;odd
+ungewöhnlich;außergewöhnlich;synonym;unusual;extraordinary
+exzentrisch;ausgefallen;synonym;eccentric;unusual
+extravagant;auffällig;synonym;extravagant;conspicuous
+auffallend;markant;synonym;striking;distinctive
+charakteristisch;prägnant;synonym;characteristic;concise
+eindeutig;unmissverständlich;synonym;unambiguous;unequivocal
+klar;eindeutig;synonym;clear;unambiguous
+offensichtlich;evident;synonym;obvious;evident
+augenfällig;eklatant;synonym;manifest;blatant
+flagrant;eklatant;synonym;flagrant;blatant
+offenkundig;manifest;synonym;patent;manifest
+nachweislich;beweisbar;synonym;demonstrable;provable
+evident;selbstverständlich;synonym;evident;self-evident
+axiomatisch;selbstverständlich;synonym;axiomatic;self-evident
+trivial;offensichtlich;synonym;trivial;obvious
+banal;abgedroschen;synonym;banal;trite
+abgegriffen;abgenutzt;synonym;hackneyed;worn-out
+klischeehaft;stereotyp;synonym;clichéd;stereotypical
+konventionell;standardisiert;synonym;conventional;standardized
+uniform;einheitlich;synonym;uniform;standardized
+homogen;gleichartig;synonym;homogeneous;uniform
+identisch;gleich;synonym;identical;same
+ähnlich;vergleichbar;synonym;similar;comparable
+analog;entsprechend;synonym;analogous;corresponding
+parallel;gleichlaufend;synonym;parallel;concurrent
+simultan;gleichzeitig;synonym;simultaneous;concurrent
+synchron;gleichzeitig;synonym;synchronous;simultaneous
+zeitgleich;simultan;synonym;contemporaneous;simultaneous
+koexistent;nebeneinander;synonym;coexistent;side by side
+harmonisch;abgestimmt;synonym;harmonious;coordinated
+kohärent;zusammenhängend;synonym;coherent;connected
+konsistent;widerspruchsfrei;synonym;consistent;non-contradictory
+logisch;folgerichtig;synonym;logical;coherent
+schlüssig;stimmig;synonym;conclusive;consistent
+plausibel;einleuchtend;synonym;plausible;reasonable
+nachvollziehbar;verständlich;synonym;traceable;understandable
+transparent;durchsichtig;synonym;transparent;clear
+richtig;falsch;antonym;right;wrong
+leicht;schwer;antonym;easy;hard
+hell;dunkel;antonym;bright;dark
+laut;leise;antonym;loud;quiet
+voll;leer;antonym;full;empty
+offen;geschlossen;antonym;open;closed
+dick;dünn;antonym;thick;thin
+breit;schmal;antonym;wide;narrow
+hoch;niedrig;antonym;high;low
+tief;flach;antonym;deep;shallow
+lang;kurz;antonym;long;short
+früh;spät;antonym;early;late
+nah;fern;antonym;near;far
+oben;unten;antonym;above;below
+vorne;hinten;antonym;front;back
+links;rechts;antonym;left;right
+innen;außen;antonym;inside;outside
+stark;schwach;antonym;strong;weak
+hart;weich;antonym;hard;soft
+fest;locker;antonym;firm;loose
+eng;weit;antonym;tight;wide
+dicht;locker;antonym;dense;sparse
+schwer;leicht;antonym;heavy;light
+teuer;billig;antonym;expensive;cheap
+reich;arm;antonym;rich;poor
+sauber;schmutzig;antonym;clean;dirty
+ordentlich;unordentlich;antonym;tidy;messy
+schön;hässlich;antonym;beautiful;ugly
+klug;dumm;antonym;smart;stupid
+fleißig;faul;antonym;diligent;lazy
+pünktlich;unpünktlich;antonym;punctual;late
+gesund;krank;antonym;healthy;sick
+glücklich;unglücklich;antonym;happy;unhappy
+fröhlich;traurig;antonym;cheerful;sad
+lustig;ernst;antonym;funny;serious
+freundlich;unfreundlich;antonym;friendly;unfriendly
+höflich;unhöflich;antonym;polite;rude
+ehrlich;unehrlich;antonym;honest;dishonest
+mutig;feige;antonym;brave;cowardly
+stolz;bescheiden;antonym;proud;modest
+einfach;kompliziert;antonym;simple;complicated
+klar;unklar;antonym;clear;unclear
+deutlich;undeutlich;antonym;clear;unclear
+genau;ungenau;antonym;exact;inexact
+möglich;unmöglich;antonym;possible;impossible
+erlaubt;verboten;antonym;allowed;forbidden
+nötig;unnötig;antonym;necessary;unnecessary
+wichtig;unwichtig;antonym;important;unimportant
+nützlich;nutzlos;antonym;useful;useless
+erfolgreich;erfolglos;antonym;successful;unsuccessful
+privat;öffentlich;antonym;private;public
+bekannt;unbekannt;antonym;known;unknown
+sicher;unsicher;antonym;safe;unsafe
+ruhig;unruhig;antonym;calm;restless
+aktiv;passiv;antonym;active;passive
+wach;müde;antonym;awake;tired
+hungrig;satt;antonym;hungry;full
+durstig;nicht durstig;antonym;thirsty;not thirsty
+trocken;nass;antonym;dry;wet
+sauber;dreckig;antonym;clean;dirty
+frisch;alt;antonym;fresh;stale
+süß;sauer;antonym;sweet;sour
+salzig;fade;antonym;salty;bland
+scharf;mild;antonym;spicy;mild
+bitter;süß;antonym;bitter;sweet
+warm;kühl;antonym;warm;cool
+flüssig;fest;antonym;liquid;solid
+weich;hart;antonym;soft;hard
+glatt;rau;antonym;smooth;rough
+spitz;stumpf;antonym;sharp;blunt
+gerade;krumm;antonym;straight;crooked
+rund;eckig;antonym;round;angular
+zusammen;getrennt;antonym;together;separated
+vereint;geteilt;antonym;united;divided
+verbunden;getrennt;antonym;connected;disconnected
+gleich;verschieden;antonym;same;different
+ähnlich;unterschiedlich;antonym;similar;different
+identisch;verschieden;antonym;identical;different
+ganz;halb;antonym;whole;half
+vollständig;unvollständig;antonym;complete;incomplete
+alles;nichts;antonym;everything;nothing
+viel;wenig;antonym;much;little
+mehr;weniger;antonym;more;less
+viele;wenige;antonym;many;few
+alle;keine;antonym;all;none
+einige;keine;antonym;some;none
+oft;selten;antonym;often;rarely
+immer;nie;antonym;always;never
+manchmal;nie;antonym;sometimes;never
+jetzt;später;antonym;now;later
+heute;gestern;antonym;today;yesterday
+morgen;gestern;antonym;tomorrow;yesterday
+Tag;Nacht;antonym;day;night
+Sommer;Winter;antonym;summer;winter
+Frühling;Herbst;antonym;spring;autumn
+Leben;Tod;antonym;life;death
+Anfang;Ende;antonym;beginning;end
+Start;Ziel;antonym;start;finish
+Eingang;Ausgang;antonym;entrance;exit
+kommen;gehen;antonym;to come;to go
+ankommen;abfahren;antonym;to arrive;to depart
+steigen;fallen;antonym;to rise;to fall
+aufstehen;sich hinsetzen;antonym;to stand up;to sit down
+öffnen;schließen;antonym;to open;to close
+aufmachen;zumachen;antonym;to open;to close
+finden;verlieren;antonym;to find;to lose
+suchen;finden;antonym;to search;to find
+gewinnen;verlieren;antonym;to win;to lose
+kaufen;verkaufen;antonym;to buy;to sell
+geben;nehmen;antonym;to give;to take
+bringen;holen;antonym;to bring;to fetch
+senden;empfangen;antonym;to send;to receive
+fragen;antworten;antonym;to ask;to answer
+sprechen;schweigen;antonym;to speak;to be silent
+reden;schweigen;antonym;to talk;to be silent
+lachen;weinen;antonym;to laugh;to cry
+lächeln;weinen;antonym;to smile;to cry
+lieben;hassen;antonym;to love;to hate
+mögen;nicht mögen;antonym;to like;to dislike
+erlauben;verbieten;antonym;to allow;to forbid
+gestatten;verbieten;antonym;to permit;to prohibit
+erlauben;verweigern;antonym;to allow;to refuse
+akzeptieren;ablehnen;antonym;to accept;to reject
+zustimmen;widersprechen;antonym;to agree;to disagree
+bejahen;verneinen;antonym;to affirm;to deny
+loben;tadeln;antonym;to praise;to criticize
+loben;kritisieren;antonym;to praise;to criticize
+helfen;schaden;antonym;to help;to harm
+unterstützen;hindern;antonym;to support;to hinder
+fördern;behindern;antonym;to promote;to obstruct
+bauen;zerstören;antonym;to build;to destroy
+aufbauen;abbauen;antonym;to construct;to dismantle
+errichten;abreißen;antonym;to erect;to demolish
+schaffen;vernichten;antonym;to create;to destroy
+erschaffen;vernichten;antonym;to create;to annihilate
+bewahren;zerstören;antonym;to preserve;to destroy
+schützen;gefährden;antonym;to protect;to endanger
+retten;opfern;antonym;to save;to sacrifice
+heilen;verletzen;antonym;to heal;to injure
+reparieren;beschädigen;antonym;to repair;to damage
+verbessern;verschlechtern;antonym;to improve;to worsen
+erhöhen;senken;antonym;to increase;to lower
+steigern;verringern;antonym;to increase;to reduce
+vergrößern;verkleinern;antonym;to enlarge;to reduce
+erweitern;verengen;antonym;to widen;to narrow
+wachsen;schrumpfen;antonym;to grow;to shrink
+zunehmen;abnehmen;antonym;to increase;to decrease
+vermehren;vermindern;antonym;to multiply;to diminish
+addieren;subtrahieren;antonym;to add;to subtract
+multiplizieren;dividieren;antonym;to multiply;to divide
+vereinen;trennen;antonym;to unite;to separate
+verbinden;trennen;antonym;to connect;to separate
+zusammenfügen;auseinandernehmen;antonym;to assemble;to disassemble
+vereinigen;spalten;antonym;to unify;to split
+füllen;leeren;antonym;to fill;to empty
+vollmachen;ausleeren;antonym;to fill up;to empty out
+einschenken;ausgießen;antonym;to pour in;to pour out
+einatmen;ausatmen;antonym;to inhale;to exhale
+einschalten;ausschalten;antonym;to switch on;to switch off
+anmachen;ausmachen;antonym;to turn on;to turn off
+anzünden;löschen;antonym;to light;to extinguish
+entzünden;löschen;antonym;to ignite;to extinguish
+brennen;erlöschen;antonym;to burn;to go out
+erwärmen;abkühlen;antonym;to warm;to cool
+erhitzen;kühlen;antonym;to heat;to cool
+heizen;kühlen;antonym;to heat;to cool
+kochen;gefrieren;antonym;to boil;to freeze
+schmelzen;erstarren;antonym;to melt;to solidify
+auftauen;einfrieren;antonym;to thaw;to freeze
+trocknen;befeuchten;antonym;to dry;to moisten
+nass machen;trocknen;antonym;to wet;to dry
+waschen;beschmutzen;antonym;to wash;to dirty
+reinigen;verschmutzen;antonym;to clean;to pollute
+putzen;verschmutzen;antonym;to clean;to dirty
+polieren;zerkratzen;antonym;to polish;to scratch
+glätten;zerknüllen;antonym;to smooth;to crumple
+bügeln;zerknittern;antonym;to iron;to wrinkle
+falten;entfalten;antonym;to fold;to unfold
+rollen;entrollen;antonym;to roll;to unroll
+wickeln;abwickeln;antonym;to wrap;to unwrap
+einpacken;auspacken;antonym;to pack;to unpack
+verpacken;entpacken;antonym;to package;to unpack
+verschließen;öffnen;antonym;to close;to open
+zuschließen;aufschließen;antonym;to lock;to unlock
+verriegeln;entriegeln;antonym;to bolt;to unbolt
+sperren;entsperren;antonym;to lock;to unlock
+blockieren;freigeben;antonym;to block;to release
+verstopfen;öffnen;antonym;to clog;to open
+verstecken;zeigen;antonym;to hide;to show
+verbergen;offenbaren;antonym;to conceal;to reveal
+bedecken;aufdecken;antonym;to cover;to uncover
+verschleiern;enthüllen;antonym;to veil;to unveil
+tarnen;enttarnen;antonym;to camouflage;to expose
+begraben;ausgraben;antonym;to bury;to dig up
+eingraben;ausgraben;antonym;to bury;to excavate
+versenken;heben;antonym;to sink;to lift
+tauchen;auftauchen;antonym;to dive;to surface
+sinken;schwimmen;antonym;to sink;to float
+untergehen;aufgehen;antonym;to set;to rise
+beginnen;beenden;synonym;to begin;to start
+anfangen;starten;synonym;to start;to begin
+aufhören;enden;synonym;to stop;to end
+stoppen;anhalten;synonym;to stop;to halt
+beenden;abschließen;synonym;to finish;to complete
+fertigstellen;vollenden;synonym;to complete;to finish
+machen;tun;synonym;to make;to do
+schaffen;herstellen;synonym;to create;to produce
+produzieren;erzeugen;synonym;to produce;to generate
+anfertigen;herstellen;synonym;to manufacture;to produce
+konstruieren;bauen;synonym;to construct;to build
+errichten;aufstellen;synonym;to erect;to set up
+sagen;äußern;synonym;to say;to express
+sprechen;reden;synonym;to speak;to talk
+erzählen;berichten;synonym;to tell;to report
+mitteilen;informieren;synonym;to inform;to notify
+benachrichtigen;informieren;synonym;to notify;to inform
+verkünden;bekanntgeben;synonym;to announce;to proclaim
+verkündigen;verkünden;synonym;to announce;to proclaim
+erklären;erläutern;synonym;to explain;to elucidate
+beschreiben;schildern;synonym;to describe;to depict
+darstellen;präsentieren;synonym;to present;to represent
+zeigen;vorführen;synonym;to show;to demonstrate
+demonstrieren;vorführen;synonym;to demonstrate;to show
+beweisen;nachweisen;synonym;to prove;to demonstrate
+belegen;nachweisen;synonym;to prove;to verify
+bestätigen;bekräftigen;synonym;to confirm;to affirm
+versichern;garantieren;synonym;to assure;to guarantee
+zusichern;versprechen;synonym;to assure;to promise
+schwören;geloben;synonym;to swear;to vow
+fragen;anfragen;synonym;to ask;to inquire
+erkundigen;nachfragen;synonym;to inquire;to ask
+bitten;ersuchen;synonym;to request;to ask
+auffordern;verlangen;synonym;to demand;to require
+fordern;beanspruchen;synonym;to demand;to claim
+verlangen;begehren;synonym;to demand;to desire
+wünschen;begehren;synonym;to wish;to desire
+wollen;möchten;synonym;to want;to would like
+bevorzugen;vorziehen;synonym;to prefer;to favor
+lieber mögen;bevorzugen;synonym;to prefer;to like better
+hoffen;erwarten;synonym;to hope;to expect
+erwarten;entgegensehen;synonym;to expect;to anticipate
+ahnen;vermuten;synonym;to suspect;to surmise
+vermuten;annehmen;synonym;to assume;to suppose
+glauben;meinen;synonym;to believe;to think
+denken;überlegen;synonym;to think;to consider
+nachdenken;überlegen;synonym;to ponder;to reflect
+grübeln;sinnieren;synonym;to brood;to ponder
+reflektieren;nachdenken;synonym;to reflect;to think
+erwägen;überdenken;synonym;to consider;to contemplate
+betrachten;ansehen;synonym;to view;to look at
+beobachten;betrachten;synonym;to observe;to watch
+zusehen;beobachten;synonym;to watch;to observe
+schauen;blicken;synonym;to look;to glance
+sehen;erblicken;synonym;to see;to perceive
+erkennen;wahrnehmen;synonym;to recognize;to perceive
+bemerken;feststellen;synonym;to notice;to realize
+entdecken;auffinden;synonym;to discover;to find
+finden;aufspüren;synonym;to find;to track down
+suchen;forschen;synonym;to search;to research
+erforschen;untersuchen;synonym;to research;to investigate
+untersuchen;prüfen;synonym;to examine;to test
+testen;ausprobieren;synonym;to test;to try out
+probieren;versuchen;synonym;to try;to attempt
+versuchen;bemühen;synonym;to try;to endeavor
+anstreben;erstreben;synonym;to strive for;to aspire to
+streben;trachten;synonym;to strive;to endeavor
+erreichen;erlangen;synonym;to achieve;to attain
+erzielen;erreichen;synonym;to achieve;to accomplish
+erlangen;gewinnen;synonym;to obtain;to gain
+erwerben;erhalten;synonym;to acquire;to obtain
+bekommen;erhalten;synonym;to get;to receive
+kriegen;bekommen;synonym;to get;to receive
+empfangen;entgegennehmen;synonym;to receive;to accept
+annehmen;akzeptieren;synonym;to accept;to receive
+nehmen;greifen;synonym;to take;to grasp
+fassen;packen;synonym;to grasp;to grab
+packen;ergreifen;synonym;to grab;to seize
+schnappen;fangen;synonym;to snatch;to catch
+fangen;einfangen;synonym;to catch;to capture
+festnehmen;verhaften;synonym;to arrest;to apprehend
+verhaften;in Haft nehmen;synonym;to arrest;to detain
+behalten;aufbewahren;synonym;to keep;to store
+bewahren;erhalten;synonym;to preserve;to maintain
+aufheben;verwahren;synonym;to keep;to store
+lagern;speichern;synonym;to store;to save
+sammeln;anhäufen;synonym;to collect;to accumulate
+ansammeln;aufhäufen;synonym;to accumulate;to pile up
+häufen;stapeln;synonym;to pile;to stack
+aufstapeln;schichten;synonym;to stack;to layer
+tragen;transportieren;synonym;to carry;to transport
+befördern;transportieren;synonym;to transport;to convey
+schleppen;zerren;synonym;to drag;to haul
+ziehen;zerren;synonym;to pull;to drag
+zerren;reißen;synonym;to pull;to tear
+reißen;zerreißen;synonym;to tear;to rip
+trennen;teilen;synonym;to separate;to divide
+spalten;teilen;synonym;to split;to divide
+aufteilen;verteilen;synonym;to divide;to distribute
+verteilen;austeilen;synonym;to distribute;to hand out
+ausgeben;verteilen;synonym;to distribute;to issue
+austeilen;zuerteilen;synonym;to distribute;to allocate
+zuweisen;zuteilen;synonym;to assign;to allocate
+geben;schenken;synonym;to give;to present
+schenken;verschenken;synonym;to give;to donate
+spenden;stiften;synonym;to donate;to contribute
+beitragen;beisteuern;synonym;to contribute;to add
+hinzufügen;anfügen;synonym;to add;to append
+ergänzen;vervollständigen;synonym;to supplement;to complete
+auffüllen;nachfüllen;synonym;to refill;to top up
+füllen;anfüllen;synonym;to fill;to fill up
+stopfen;vollstopfen;synonym;to stuff;to cram
+drücken;pressen;synonym;to press;to squeeze
+quetschen;zusammendrücken;synonym;to squeeze;to compress
+drücken;schieben;synonym;to push;to shove
+stoßen;schubsen;synonym;to push;to shove
+werfen;schleudern;synonym;to throw;to hurl
+schleudern;werfen;synonym;to hurl;to throw
+schmeißen;werfen;synonym;to throw;to toss
+kicken;treten;synonym;to kick;to boot
+treten;kicken;synonym;to kick;to step on
+schlagen;hauen;synonym;to hit;to strike
+hauen;schlagen;synonym;to beat;to hit
+prügeln;schlagen;synonym;to beat;to thrash
+kämpfen;streiten;synonym;to fight;to quarrel
+streiten;zanken;synonym;to argue;to quarrel
+disputieren;debattieren;synonym;to dispute;to debate
+diskutieren;erörtern;synonym;to discuss;to debate
+besprechen;bereden;synonym;to discuss;to talk over
+reden;sprechen;synonym;to talk;to speak
+plaudern;schwatzen;synonym;to chat;to chatter
+quatschen;plaudern;synonym;to chat;to talk
+schwätzen;schwatzen;synonym;to chatter;to babble
+flüstern;wispern;synonym;to whisper;to murmur
+tuscheln;munkeln;synonym;to whisper;to mutter
+murmeln;brummeln;synonym;to murmur;to mumble
+rufen;schreien;synonym;to call;to shout
+schreien;brüllen;synonym;to scream;to yell
+brüllen;heulen;synonym;to roar;to howl
+kreischen;quietschen;synonym;to screech;to squeal
+jammern;klagen;synonym;to wail;to complain
+klagen;bejammern;synonym;to lament;to bemoan
+weinen;heulen;synonym;to cry;to weep
+schluchzen;weinen;synonym;to sob;to cry
+seufzen;stöhnen;synonym;to sigh;to groan
+stöhnen;ächzen;synonym;to groan;to moan
+lachen;kichern;synonym;to laugh;to giggle
+grinsen;lächeln;synonym;to grin;to smile
+schmunzeln;lächeln;synonym;to smile;to smirk
+jubeln;jauchzen;synonym;to cheer;to rejoice
+feiern;zelebrieren;synonym;to celebrate;to commemorate
+ehren;würdigen;synonym;to honor;to pay tribute
+achten;respektieren;synonym;to respect;to esteem
+schätzen;wertschätzen;synonym;to appreciate;to value
+bewundern;verehren;synonym;to admire;to revere
+verehren;anbeten;synonym;to worship;to adore
+lieben;liebhaben;synonym;to love;to be fond of
+mögen;gern haben;synonym;to like;to be fond of
+gefallen;zusagen;synonym;to please;to appeal to
+freuen;erfreuen;synonym;to please;to delight
+begeistern;faszinieren;synonym;to inspire;to fascinate
+fesseln;packen;synonym;to captivate;to grip
+interessieren;faszinieren;synonym;to interest;to fascinate
+reizen;locken;synonym;to attract;to entice
+anziehen;fesseln;synonym;to attract;to captivate
+verführen;verlocken;synonym;to seduce;to tempt
+locken;ködern;synonym;to lure;to bait
+überreden;überzeugen;synonym;to persuade;to convince
+beeinflussen;einwirken;synonym;to influence;to affect
+wirken;einwirken;synonym;to affect;to impact
+bewirken;verursachen;synonym;to cause;to bring about
+verursachen;hervorrufen;synonym;to cause;to provoke
+auslösen;hervorrufen;synonym;to trigger;to cause
+erzeugen;hervorbringen;synonym;to generate;to produce
+erschaffen;kreieren;synonym;to create;to make
+gestalten;formen;synonym;to shape;to form
+bilden;formen;synonym;to form;to shape
+entwickeln;entfalten;synonym;to develop;to unfold
+wachsen;gedeihen;synonym;to grow;to thrive
+blühen;gedeihen;synonym;to flourish;to thrive
+prosperieren;florieren;synonym;to prosper;to flourish
+sich entwickeln;fortschreiten;synonym;to develop;to progress
+voranschreiten;vorwärtsgehen;synonym;to progress;to advance
+fortschreiten;weitergehen;synonym;to advance;to continue
+weitermachen;fortfahren;synonym;to continue;to proceed
+fortsetzen;weitermachen;synonym;to continue;to carry on
+dauern;andauern;synonym;to last;to continue
+anhalten;weitergehen;synonym;to continue;to persist
+verbleiben;bleiben;synonym;to remain;to stay
+verweilen;bleiben;synonym;to stay;to linger
+wohnen;leben;synonym;to live;to reside
+residieren;wohnen;synonym;to reside;to dwell
+hausen;wohnen;synonym;to dwell;to live
+existieren;bestehen;synonym;to exist;to subsist
+sein;existieren;synonym;to be;to exist
+leben;am Leben sein;synonym;to live;to be alive
+atmen;Atem holen;synonym;to breathe;to take breath
+schnaufen;keuchen;synonym;to pant;to gasp
+japsen;nach Luft schnappen;synonym;to gasp;to pant
+ersticken;erdrosseln;synonym;to suffocate;to strangle
+würgen;erdrosseln;synonym;to choke;to strangle
+töten;umbringen;synonym;to kill;to murder
+ermorden;umbringen;synonym;to murder;to kill
+erschießen;niederschießen;synonym;to shoot;to gun down
+erstechen;niederstechen;synonym;to stab;to knife
+verletzen;verwunden;synonym;to injure;to wound
+beschädigen;schädigen;synonym;to damage;to harm
+zerstören;ruinieren;synonym;to destroy;to ruin
+vernichten;auslöschen;synonym;to annihilate;to exterminate
+ausrotten;vernichten;synonym;to exterminate;to eradicate
+tilgen;auslöschen;synonym;to erase;to obliterate
+löschen;auslöschen;synonym;to delete;to erase
+entfernen;beseitigen;synonym;to remove;to eliminate
+beseitigen;wegschaffen;synonym;to eliminate;to dispose of
+wegwerfen;entsorgen;synonym;to throw away;to dispose
+fortwerfen;wegwerfen;synonym;to discard;to throw away
+loswerden;entledigen;synonym;to get rid of;to dispose of
+sich befreien;entledigen;synonym;to free oneself;to rid oneself
+befreien;freilassen;synonym;to free;to release
+freilassen;entlassen;synonym;to release;to set free
+loslassen;freilassen;synonym;to let go;to release
+lockern;lösen;synonym;to loosen;to release
+lösen;auflösen;synonym;to solve;to dissolve
+auflösen;zerlegen;synonym;to dissolve;to decompose
+zerlegen;auseinandernehmen;synonym;to disassemble;to take apart
+zerteilen;zerstückeln;synonym;to divide;to dismember
+zerbrechen;zerschlagen;synonym;to break;to shatter
+kaputtmachen;beschädigen;synonym;to break;to damage
+zerreißen;zerfetzen;synonym;to tear;to shred
+zerschneiden;zerteilen;synonym;to cut up;to divide
+schneiden;zerschneiden;synonym;to cut;to cut up
+hacken;zerhacken;synonym;to chop;to hack
+spalten;zerteilen;synonym;to split;to cleave
+kürzen;verkürzen;synonym;to shorten;to abbreviate
+abkürzen;verkürzen;synonym;to abbreviate;to shorten
+reduzieren;vermindern;synonym;to reduce;to diminish
+verringern;mindern;synonym;to reduce;to lessen
+mindern;schmälern;synonym;to lessen;to diminish
+senken;herabsetzen;synonym;to lower;to reduce
+verkleinern;vermindern;synonym;to reduce;to make smaller
+schrumpfen;zusammenschrumpfen;synonym;to shrink;to contract
+schwinden;abnehmen;synonym;to dwindle;to decrease
+nachlassen;abnehmen;synonym;to decrease;to diminish
+sinken;zurückgehen;synonym;to decline;to decrease
+fallen;sinken;synonym;to fall;to drop
+stürzen;fallen;synonym;to fall;to plunge
+abstürzen;herunterfallen;synonym;to crash;to fall down
+umfallen;umkippen;synonym;to fall over;to tip over
+kippen;neigen;synonym;to tilt;to tip
+neigen;sich neigen;synonym;to tilt;to incline
+beugen;krümmen;synonym;to bend;to curve
+biegen;krümmen;synonym;to bend;to curve
+winden;drehen;synonym;to wind;to twist
+drehen;wenden;synonym;to turn;to rotate
+rotieren;kreisen;synonym;to rotate;to revolve
+kreisen;umkreisen;synonym;to circle;to orbit
+schwenken;schwingen;synonym;to swing;to wave
+winken;schwenken;synonym;to wave;to signal
+grüßen;begrüßen;synonym;to greet;to welcome
+empfangen;willkommen heißen;synonym;to receive;to welcome
+einladen;bitten;synonym;to invite;to ask
+auffordern;einladen;synonym;to invite;to call upon
+befehlen;anordnen;synonym;to command;to order
+anordnen;verfügen;synonym;to order;to decree
+vorschreiben;bestimmen;synonym;to prescribe;to determine
+festlegen;bestimmen;synonym;to determine;to fix
+entscheiden;beschließen;synonym;to decide;to resolve
+beschließen;entschließen;synonym;to decide;to resolve
+wählen;auswählen;synonym;to choose;to select
+aussuchen;auswählen;synonym;to pick out;to select
+bevorzugen;präferieren;synonym;to prefer;to favor
+nehmen;ergreifen;synonym;to take;to seize
+übernehmen;annehmen;synonym;to take over;to accept
+hinnehmen;akzeptieren;synonym;to accept;to put up with
+dulden;tolerieren;synonym;to tolerate;to endure
+ertragen;aushalten;synonym;to endure;to bear
+aushalten;durchhalten;synonym;to endure;to hold out
+durchhalten;durchstehen;synonym;to persevere;to endure
+bestehen;überstehen;synonym;to survive;to get through
+überleben;durchkommen;synonym;to survive;to get by
+bewältigen;meistern;synonym;to overcome;to master
+bezwingen;besiegen;synonym;to overcome;to defeat
+schlagen;besiegen;synonym;to beat;to defeat
+niederringen;überwältigen;synonym;to overcome;to overpower
+überwältigen;besiegen;synonym;to overpower;to defeat
+erobern;einnehmen;synonym;to conquer;to capture
+besetzen;einnehmen;synonym;to occupy;to take
+besitzen;haben;synonym;to own;to possess
+gehören;zustehen;synonym;to belong;to be entitled to
+verfügen;besitzen;synonym;to possess;to have at disposal
+innehaben;besitzen;synonym;to hold;to possess
+halten;festhalten;synonym;to hold;to keep hold
+festhalten;greifen;synonym;to hold on;to grasp
+klammern;festhalten;synonym;to cling;to hold on
+anhängen;befestigen;synonym;to attach;to fasten
+befestigen;anbringen;synonym;to fasten;to attach
+anbringen;montieren;synonym;to install;to mount
+installieren;einbauen;synonym;to install;to fit
+einbauen;einsetzen;synonym;to install;to insert
+einfügen;einsetzen;synonym;to insert;to fit in
+stecken;hineinstecken;synonym;to insert;to put in
+schieben;stecken;synonym;to push;to insert
+stopfen;hineinstopfen;synonym;to stuff;to cram in
+vollstopfen;ausstopfen;synonym;to stuff full;to fill
+auffüllen;füllen;synonym;to fill up;to replenish
+nachfüllen;auffüllen;synonym;to refill;to top up
+ergänzen;hinzufügen;synonym;to add;to supplement
+beifügen;hinzufügen;synonym;to add;to enclose
+anlegen;hinzufügen;synonym;to add;to create
+erstellen;anfertigen;synonym;to create;to make
+verfassen;schreiben;synonym;to write;to compose
+niederschreiben;aufschreiben;synonym;to write down;to note down
+notieren;aufschreiben;synonym;to note;to jot down
+vermerken;notieren;synonym;to note;to record
+aufzeichnen;festhalten;synonym;to record;to note down
+registrieren;erfassen;synonym;to register;to record
+protokollieren;niederschreiben;synonym;to record;to take minutes
+dokumentieren;festhalten;synonym;to document;to record
+belegen;dokumentieren;synonym;to document;to prove
+nachweisen;beweisen;synonym;to prove;to demonstrate
+zeigen;demonstrieren;synonym;to show;to demonstrate
+aufzeigen;darlegen;synonym;to show;to demonstrate
+veranschaulichen;verdeutlichen;synonym;to illustrate;to clarify
+verdeutlichen;klarmachen;synonym;to clarify;to make clear
+klären;aufklären;synonym;to clarify;to clear up
+aufklären;erklären;synonym;to clarify;to explain
+erläutern;ausführen;synonym;to explain;to elaborate
+ausführen;darlegen;synonym;to explain;to set forth
+schildern;beschreiben;synonym;to describe;to depict
+beschreiben;wiedergeben;synonym;to describe;to reproduce
+wiedergeben;darstellen;synonym;to reproduce;to represent
+abbilden;wiedergeben;synonym;to depict;to reproduce
+kopieren;abschreiben;synonym;to copy;to transcribe
+nachmachen;imitieren;synonym;to copy;to imitate
+nachahmen;nachbilden;synonym;to imitate;to replicate
+simulieren;nachahmen;synonym;to simulate;to imitate
+vortäuschen;fingieren;synonym;to fake;to feign
+fingieren;vorgeben;synonym;to feign;to pretend
+vorgeben;behaupten;synonym;to claim;to allege
+behaupten;geltend machen;synonym;to claim;to assert
+versichern;beteuern;synonym;to assure;to affirm
+beteuern;versichern;synonym;to affirm;to assure
+bekräftigen;bestärken;synonym;to affirm;to strengthen
+bestärken;ermutigen;synonym;to encourage;to strengthen
+ermutigen;aufmuntern;synonym;to encourage;to cheer up
+aufmuntern;ermuntern;synonym;to cheer up;to encourage
+trösten;beruhigen;synonym;to comfort;to calm
+beruhigen;beschwichtigen;synonym;to calm;to soothe
+besänftigen;beruhigen;synonym;to soothe;to pacify
+dämpfen;mildern;synonym;to dampen;to soften
+abschwächen;mildern;synonym;to weaken;to mitigate
+lindern;mildern;synonym;to alleviate;to mitigate
+erleichtern;lindern;synonym;to ease;to relieve
+entlasten;erleichtern;synonym;to relieve;to ease
+befreien;erlösen;synonym;to free;to liberate
+erlösen;befreien;synonym;to redeem;to free
+retten;erlösen;synonym;to save;to rescue
+bergen;retten;synonym;to rescue;to salvage
+schonen;bewahren;synonym;to spare;to preserve
+verschonen;schonen;synonym;to spare;to save
+sparen;einsparen;synonym;to save;to economize
+einsparen;ersparen;synonym;to save;to spare
+ersparen;sparen;synonym;to save;to economize
+ansparen;zurücklegen;synonym;to save up;to put aside
+horten;sammeln;synonym;to hoard;to accumulate
+aufhäufen;ansammeln;synonym;to accumulate;to amass
+aufstapeln;auftürmen;synonym;to pile up;to stack up
+anhäufen;zusammentragen;synonym;to accumulate;to gather
+zusammenbringen;versammeln;synonym;to gather;to assemble
+versammeln;zusammenkommen;synonym;to assemble;to gather
+treffen;zusammenkommen;synonym;to meet;to gather
+begegnen;treffen;synonym;to meet;to encounter
+antreffen;vorfinden;synonym;to find;to encounter
+entdecken;finden;synonym;to discover;to find
+aufstöbern;aufspüren;synonym;to track down;to unearth
+ausfindig machen;ermitteln;synonym;to locate;to find out
+herausfinden;ermitteln;synonym;to find out;to determine
+feststellen;erkennen;synonym;to determine;to realize
+erfahren;hören;synonym;to learn;to hear
+hören;vernehmen;synonym;to hear;to perceive
+lauschen;horchen;synonym;to listen;to eavesdrop
+horchen;aufhorchen;synonym;to listen;to prick up ears
+aufpassen;achtgeben;synonym;to pay attention;to watch out
+achten;beachten;synonym;to heed;to observe
+beobachten;überwachen;synonym;to observe;to monitor
+kontrollieren;überprüfen;synonym;to check;to verify
+nachprüfen;überprüfen;synonym;to verify;to check
+verifizieren;bestätigen;synonym;to verify;to confirm
+bekräftigen;bestätigen;synonym;to confirm;to corroborate
+bezeugen;bestätigen;synonym;to testify;to confirm
+aussagen;bezeugen;synonym;to testify;to state
+angeben;mitteilen;synonym;to state;to indicate
+nennen;bezeichnen;synonym;to name;to designate
+benennen;bezeichnen;synonym;to name;to call
+bezeichnen;kennzeichnen;synonym;to designate;to mark
+markieren;kennzeichnen;synonym;to mark;to label
+etikettieren;kennzeichnen;synonym;to label;to tag
+klassifizieren;kategorisieren;synonym;to classify;to categorize
+einordnen;einstufen;synonym;to classify;to categorize
+einstufen;bewerten;synonym;to classify;to evaluate
+bewerten;einschätzen;synonym;to evaluate;to assess
+einschätzen;beurteilen;synonym;to assess;to judge
+urteilen;beurteilen;synonym;to judge;to assess
+richten;urteilen;synonym;to judge;to pass judgment
+verurteilen;verdammen;synonym;to condemn;to sentence
+verdammen;verurteilen;synonym;to condemn;to damn
+anklagen;beschuldigen;synonym;to accuse;to charge
+beschuldigen;bezichtigen;synonym;to accuse;to blame
+vorwerfen;beschuldigen;synonym;to accuse;to reproach
+tadeln;rügen;synonym;to criticize;to rebuke
+rügen;schelten;synonym;to rebuke;to scold
+schelten;schimpfen;synonym;to scold;to rant
+meckern;nörgeln;synonym;to grumble;to nag
+nörgeln;quengeln;synonym;to nag;to whine
+jammern;klagen;synonym;to moan;to complain
+sich beschweren;reklamieren;synonym;to complain;to file a complaint
+beanstanden;kritisieren;synonym;to object to;to criticize
+bemängeln;kritisieren;synonym;to criticize;to find fault with
+monieren;beanstanden;synonym;to criticize;to object to
+anprangern;kritisieren;synonym;to denounce;to criticize
+angreifen;attackieren;synonym;to attack;to assault
+attackieren;anfallen;synonym;to attack;to assault
+überfallen;anfallen;synonym;to attack;to raid
+angreifen;verteidigen;antonym;to attack;to defend
+schützen;verteidigen;synonym;to protect;to defend
+abwehren;abhalten;synonym;to defend;to ward off
+wehren;abwehren;synonym;to defend;to resist
+widerstehen;sich widersetzen;synonym;to resist;to oppose
+sich wehren;sich sträuben;synonym;to resist;to struggle
+kämpfen;ringen;synonym;to fight;to struggle
+ringen;streiten;synonym;to struggle;to fight
+fechten;kämpfen;synonym;to fence;to fight
+duellieren;kämpfen;synonym;to duel;to fight
+konkurrieren;wetteifern;synonym;to compete;to rival
+wetteifern;rivalisieren;synonym;to compete;to rival
+rivalisieren;konkurrieren;synonym;to rival;to compete
+übertreffen;überflügeln;synonym;to surpass;to outdo
+überbieten;übertreffen;synonym;to outbid;to exceed
+überholen;übertreffen;synonym;to overtake;to surpass
+einholen;aufholen;synonym;to catch up;to make up
+nachholen;aufholen;synonym;to make up;to catch up
+aufholen;einholen;synonym;to catch up;to overtake
+verfolgen;jagen;synonym;to pursue;to chase
+jagen;hetzen;synonym;to chase;to hunt
+hetzen;jagen;synonym;to hunt;to rush
+verfolgen;nachgehen;synonym;to pursue;to follow
+folgen;nachfolgen;synonym;to follow;to succeed
+nachfolgen;folgen;synonym;to succeed;to follow
+gelingen;glücken;synonym;to succeed;to work out
+klappen;funktionieren;synonym;to work;to function
+funktionieren;laufen;synonym;to function;to work
+laufen;gehen;synonym;to run;to work
+rennen;laufen;synonym;to run;to race
+rasen;rennen;synonym;to race;to speed
+hetzen;eilen;synonym;to rush;to hurry
+eilen;beeilen;synonym;to hurry;to rush
+sich beeilen;sich sputen;synonym;to hurry;to make haste

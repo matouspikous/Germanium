@@ -1,0 +1,664 @@
+die Beschwerde;complaint
+die Reklamation;complaint/return claim
+der Ärger;annoyance/trouble
+die Wut;anger/rage
+die Frustration;frustration
+die Enttäuschung;disappointment
+die Unzufriedenheit;dissatisfaction
+der Unmut;discontent
+die Verärgerung;irritation
+die Empörung;outrage/indignation
+die Kritik;criticism
+der Vorwurf;accusation/reproach
+der Tadel;reprimand
+die Beanstandung;objection/complaint
+die Mängelrüge;notice of defect
+der Fehler;mistake/error
+der Defekt;defect
+der Schaden;damage
+die Panne;breakdown/mishap
+die Katastrophe;catastrophe/disaster
+das Fiasko;fiasko
+die Pleite;flop/bust
+der Reinfall;letdown/flop
+die Enttäuschung;disappointment
+die Blamage;embarrassment
+die Schande;shame/disgrace
+die Frechheit;cheek/impudence
+die Unverschämtheit;audacity/impertinence
+die Dreistigkeit;effrontery
+die Unhöflichkeit;impoliteness
+die Respektlosigkeit;disrespect
+die Arroganz;arrogance
+die Überheblichkeit;presumptuousness
+die Ignoranz;ignorance
+die Dummheit;stupidity
+die Blödheit;idiocy
+der Schwachsinn;nonsense/stupidity
+der Blödsinn;rubbish
+der Quatsch;nonsense
+der Unsinn;absurdity
+die Lüge;lie
+die Ausrede;excuse
+die Faulheit;laziness
+die Unzuverlässigkeit;unreliability
+die Unpünktlichkeit;unpunctuality
+die Verspätung;delay/lateness
+die Schlamperei;sloppiness
+die Nachlässigkeit;carelessness
+die Gleichgültigkeit;indifference
+die Rücksichtslosigkeit;thoughtlessness
+die Egoismus;egoism/selfishness
+die Gier;greed
+die Geizigkeit;stinginess
+die Habgier;avarice
+die Bosheit;malice
+die Gemeinheit;meanness
+die Niedertracht;baseness
+die Hinterhältigkeit;treachery
+die Heimtücke;maliciousness
+die Falschheit;falsehood
+die Heuchelei;hypocrisy
+die Verlogenheit;deceitfulness
+die Unehrlichkeit;dishonesty
+die Betrügerei;fraud
+der Betrug;deception
+die Abzocke;rip-off
+die Abzockerei;scam
+der Schwindel;swindle
+die Gaunerei;crookery
+der Schmarotzer;parasite/freeloader
+der Schnorrer;moocher
+der Geizhals;skinflint
+der Sturkopf;stubborn person
+die Sturheit;stubbornness
+die Engstirnigkeit;narrow-mindedness
+die Intoleranz;intolerance
+die Borniertheit;bigotry
+die Kleinlichkeit;petty-mindedness
+die Pingeligkeit;fussiness
+die Pedanterie;pedantry
+die Besserwisserei;know-it-all attitude
+die Rechthaberei;insistence on being right
+die Nörgelei;carping/nagging
+das Gemecker;whining/moaning
+das Gejammer;whimpering/complaining
+das Gequengel;whining (childish)
+das Gezeter;outcry/yelling
+das Geschrei;shouting
+der Lärm;noise
+die Ruhestörung;disturbance of the peace
+die Belästigung;harassment
+die Störung;disturbance
+die Beschwerde;complaint
+sich beschweren;to complain
+der Reklamation;claim / complaint (formal)
+reklamieren;to complain / to file a complaint
+der Mangel;defect
+mangelhaft;defective
+unzufrieden;dissatisfied
+die Unzufriedenheit;dissatisfaction
+der Fehler;error
+fehlerhaft;faulty
+der Schaden;damage
+beschädigt;damaged
+die Enttäuschung;disappointment
+enttäuscht;disappointed
+der Kundenservice;customer service
+die Rückerstattung;refund
+zurückerstatten;to refund
+die Entschuldigung;apology
+sich entschuldigen;to apologize
+inakzeptabel;unacceptable
+der Ärger;annoyance
+ärgerlich;annoying
+sich ärgern;to be annoyed
+die Beanstandung;objection / complaint
+beanstanden;to object / to complain
+der Vorwurf;accusation
+vorwerfen;to accuse
+die Kritik;criticism
+kritisieren;to criticize
+kritisch;critical
+der Missstand;problematic condition
+unzureichend;insufficient
+die Unannehmlichkeit;inconvenience
+unangenehm;unpleasant
+der Nachteil;disadvantage
+nachteilig;disadvantageous
+die Verzögerung;delay
+sich verzögern;to be delayed
+verspätet;late
+die Verspätung;lateness
+der Ausfall;failure / outage
+ausfallen;to fail
+defekt;broken
+die Fehlfunktion;malfunction
+nicht funktionsfähig;not functional
+der Schadenersatz;compensation
+entschädigen;to compensate
+die Entschädigung;compensation
+der Anspruch;claim / entitlement
+Anspruch erheben;to make a claim
+der Verlust;loss
+verlieren;to lose
+die schlechte Qualität;poor quality
+minderwertig;inferior
+die Nachbesserung;repair / correction
+nachbessern;to fix / improve
+der Umtausch;exchange
+umtauschen;to exchange
+die Rückgabe;return
+zurückgeben;to return
+die Frist;deadline
+die Überschreitung;exceeding
+überschreiten;to exceed
+inakzeptabel;unacceptable
+unzumutbar;unreasonable
+die Forderung;demand
+fordern;to demand
+die Ablehnung;rejection
+ablehnen;to reject
+der Protest;protest
+protestieren;to protest
+der Einspruch;objection
+Einspruch einlegen;to file an objection
+die Mahnung;reminder / warning
+mahnen;to warn / remind
+die Warnung;warning
+warnen;to warn
+der Ärgernis;source of annoyance
+das Problem;problem
+problematisch;problematic
+die Schwierigkeit;difficulty
+schwierig;difficult
+die Beschädigung;damage
+beschädigen;to damage
+der Defekt;defect
+der Qualitätsmangel;quality defect
+der Lieferfehler;delivery error
+die Falschlieferung;wrong delivery
+falsch geliefert;delivered incorrectly
+die Unpünktlichkeit;unpunctuality
+unzuverlässig;unreliable
+die Zuverlässigkeit;reliability
+der Servicefehler;service error
+schlechter Service;poor service
+der Kundenärger;customer frustration
+die Reklamationsnummer;complaint number
+die Bearbeitung;processing
+bearbeiten;to process
+die Verzögerung bei der Bearbeitung;processing delay
+die Wartezeit;waiting time
+lange Wartezeit;long waiting time
+ignorieren;to ignore
+die Ignoranz;ignorance
+die Verantwortung;responsibility
+verantwortlich;responsible
+die Zuständigkeit;jurisdiction / responsibility
+zuständig;responsible
+der Nachweis;proof
+nachweisen;to prove
+die Stellungnahme;statement
+Stellung nehmen;to comment
+der Vorfall;incident
+die Angelegenheit;matter / issue
+klären;to resolve
+die Klärung;clarification
+der Konflikt;conflict
+konfliktfrei;conflict-free
+eskalieren;to escalate
+die Eskalation;escalation
+die Lösung;solution
+lösen;to solve
+unzufriedenstellend;unsatisfactory
+zufriedenstellend;satisfactory
+die Beschwerdestelle;complaints office
+der Ombudsmann;ombudsman
+die Verbraucherzentrale;consumer protection office
+das Recht;right
+rechtlich;legal
+die Rechtslage;legal situation
+rechtswidrig;unlawful
+der Vertrag;contract
+vertragswidrig;in breach of contract
+der Vertragsbruch;breach of contract
+kündigen;to terminate
+die Kündigung;termination
+der Widerruf;revocation
+widerrufen;to revoke
+die Garantie;warranty
+der Garantiefall;warranty case
+die Gewährleistung;statutory warranty
+der Anspruch auf Ersatz;right to replacement
+der Ersatz;replacement
+ersetzen;to replace
+die Unhöflichkeit;rudeness
+unhöflich;rude
+die Respektlosigkeit;disrespect
+respektlos;disrespectful
+der Tonfall;tone
+unangebracht;inappropriate
+inakzeptables Verhalten;unacceptable behavior
+die Beschwerdeeinreichung;complaint submission
+schriftlich;in writing
+mündlich;oral
+formell;formal
+informell;informal
+sich beschweren;to complain
+die Beschwerde;complaint
+reklamieren;to complain, make a claim
+die Reklamation;complaint, claim
+beanstanden;to complain about, object to
+die Beanstandung;complaint, objection
+meckern;to grumble, complain
+nörgeln;to nag, complain
+jammern;to whine, complain
+sich beklagen;to complain
+klagen;to complain, sue
+motzen;to grumble, complain
+schimpfen;to scold, complain
+murren;to grumble, mutter
+kritisieren;to criticize
+die Kritik;criticism
+monieren;to criticize, complain about
+protestieren;to protest
+der Protest;protest
+Einspruch erheben;to object, protest
+der Einspruch;objection
+widersprechen;to contradict, object
+der Widerspruch;contradiction, objection
+ablehnen;to reject, refuse
+die Ablehnung;rejection
+zurückweisen;to reject, dismiss
+anfechten;to challenge, contest
+die Anfechtung;challenge, contestation
+sich wehren;to defend oneself, resist
+die Gegenwehr;resistance, defense
+sich auflehnen;to rebel, resist
+die Auflehnung;rebellion, resistance
+rebellieren;to rebel
+die Rebellion;rebellion
+aufbegehren;to rebel, protest
+das Problem;problem
+die Schwierigkeit;difficulty
+der Mangel;defect, deficiency
+der Fehler;error, defect
+fehlerhaft;defective, faulty
+mangelhaft;defective, inadequate
+unzureichend;insufficient, inadequate
+ungenügend;insufficient, inadequate
+schlecht;bad, poor
+minderwertig;inferior, poor quality
+die Qualität;quality
+qualitativ schlecht;poor quality
+beschädigt;damaged
+der Schaden;damage
+defekt;defective, broken
+kaputt;broken
+funktioniert nicht;doesn't work
+geht nicht;doesn't work
+nicht funktionsfähig;not functional
+außer Betrieb;out of order
+der Defekt;defect
+die Störung;malfunction, disturbance
+die Panne;breakdown, mishap
+versagen;to fail
+das Versagen;failure
+der Ausfall;failure, breakdown
+ausgefallen;broken down, cancelled
+unbrauchbar;unusable
+nutzlos;useless
+wertlos;worthless
+unzumutbar;unreasonable, unacceptable
+inakzeptabel;unacceptable
+unannehmbar;unacceptable
+unerträglich;unbearable, intolerable
+untragbar;intolerable, unacceptable
+nicht hinnehmbar;unacceptable
+unmöglich;impossible
+unfair;unfair
+ungerecht;unjust, unfair
+skandalös;scandalous
+empörend;outrageous
+eine Frechheit;an impertinence
+eine Unverschämtheit;an impudence
+eine Zumutung;an imposition
+ärgerlich;annoying
+der Ärger;annoyance, trouble
+verärgert;annoyed
+sauer sein;to be angry
+wütend;angry, furious
+die Wut;anger, rage
+empört;outraged, indignant
+die Empörung;indignation, outrage
+entrüstet;indignant
+die Entrüstung;indignation
+aufgebracht;upset, furious
+außer sich;beside oneself
+frustriert;frustrated
+die Frustration;frustration
+enttäuscht;disappointed
+die Enttäuschung;disappointment
+unzufrieden;dissatisfied
+die Unzufriedenheit;dissatisfaction
+missfallen;to displease
+das Missfallen;displeasure
+der Unmut;displeasure, resentment
+verstimmt;displeased, upset
+verärgern;to annoy, anger
+ärgern;to annoy
+nerven;to annoy, get on nerves
+stören;to disturb, bother
+belästigen;to bother, harass
+die Belästigung;harassment, nuisance
+die Störung;disturbance
+die Unannehmlichkeit;inconvenience
+unangenehm;unpleasant
+peinlich;embarrassing, awkward
+beschämend;shameful
+schändlich;disgraceful
+eine Schande;a disgrace
+der Skandal;scandal
+katastrophal;catastrophic
+verheerend;disastrous
+desaströs;disastrous
+schrecklich;terrible
+furchtbar;awful
+entsetzlich;dreadful
+grauenhaft;horrible
+grässlich;ghastly, horrible
+abscheulich;abominable
+scheußlich;hideous, awful
+fürchterlich;terrible
+miserabel;miserable
+elend;miserable, wretched
+jämmerlich;pitiful, miserable
+erbärmlich;pathetic, miserable
+kläglich;pitiful, wretched
+armselig;pitiful, miserable
+lausig;lousy
+mies;lousy, rotten
+schlimm;bad
+übel;bad, nasty
+schäbig;shabby, mean
+schmutzig;dirty
+dreckig;filthy, dirty
+verdreckt;filthy, dirty
+unhygienisch;unhygienic
+ungepflegt;unkempt, neglected
+verwahrlost;neglected, dilapidated
+heruntergekommen;run-down, dilapidated
+verfallen;dilapidated, decayed
+marode;dilapidated, decrepit
+baufällig;dilapidated, ramshackle
+reparaturbedürftig;in need of repair
+erneuerungsbedürftig;in need of renewal
+renovierungsbedürftig;in need of renovation
+veraltet;outdated, obsolete
+altmodisch;old-fashioned
+überholt;outdated, obsolete
+antiquiert;antiquated
+zu spät;too late
+verspätet;delayed, late
+die Verspätung;delay, lateness
+die Verzögerung;delay
+verzögert;delayed
+aufgehalten;delayed, held up
+unpünktlich;unpunctual
+unzuverlässig;unreliable
+die Unzuverlässigkeit;unreliability
+nachlässig;negligent, careless
+die Nachlässigkeit;negligence
+fahrlässig;negligent
+die Fahrlässigkeit;negligence
+schlampig;sloppy, careless
+die Schlamperei;sloppiness
+pfuschen;to botch, bungle
+der Pfusch;botched work
+die Pfuscherei;botched work
+stümperhaft;amateurish, bungling
+dilettantisch;amateurish
+unprofessionell;unprofessional
+inkompetent;incompetent
+die Inkompetenz;incompetence
+unfähig;incapable, incompetent
+die Unfähigkeit;incapacity, incompetence
+unqualifiziert;unqualified
+ungeeignet;unsuitable
+untauglich;unsuitable, unfit
+unpassend;unsuitable, inappropriate
+unangemessen;inappropriate
+ungebührlich;improper
+respektlos;disrespectful
+unhöflich;impolite, rude
+die Unhöflichkeit;impoliteness, rudeness
+unfreundlich;unfriendly
+die Unfreundlichkeit;unfriendliness
+grob;rude, coarse
+die Grobheit;rudeness
+schroff;brusque, harsh
+barsch;brusque, curt
+kurz angebunden;curt, brusque
+abweisend;dismissive, standoffish
+unverschämt;impertinent, impudent
+die Unverschämtheit;impertinence
+frech;cheeky, impertinent
+die Frechheit;cheekiness, impudence
+dreist;brazen, impudent
+die Dreistigkeit;impudence, audacity
+arrogant;arrogant
+die Arroganz;arrogance
+überheblich;arrogant, overbearing
+eingebildet;conceited, arrogant
+hochnäsig;snobbish, stuck-up
+herablassend;condescending
+von oben herab;condescending
+geringschätzig;disdainful
+verächtlich;contemptuous
+die Verachtung;contempt
+ignorant;ignorant
+gleichgültig;indifferent
+die Gleichgültigkeit;indifference
+desinteressiert;disinterested
+teilnahmslos;apathetic
+apathisch;apathetic
+lethargisch;lethargic
+träge;sluggish, lazy
+faul;lazy
+langsam;slow
+die Langsamkeit;slowness
+ineffizient;inefficient
+die Ineffizienz;inefficiency
+verschwenderisch;wasteful
+die Verschwendung;waste
+zu teuer;too expensive
+überteuert;overpriced
+Wucher;usury, rip-off
+Wucherpreise;exorbitant prices
+abgezockt werden;to be ripped off
+abzocken;to rip off
+betrogen werden;to be cheated
+betrügen;to cheat, deceive
+der Betrug;fraud, deception
+die Abzocke;rip-off
+der Nepp;rip-off
+neppen;to rip off
+übervorteilen;to cheat, take advantage of
+täuschen;to deceive
+die Täuschung;deception
+irreführen;to mislead
+die Irreführung;misleading
+lügen;to lie
+die Lüge;lie
+verlogen;mendacious, false
+unehrlich;dishonest
+die Unehrlichkeit;dishonesty
+hintergehen;to deceive, cheat
+der Schwindel;fraud, swindle
+schwindeln;to lie, cheat
+mogeln;to cheat
+das Versprechen brechen;to break a promise
+der Vertragsbruch;breach of contract
+vertragswidrig;in breach of contract
+nicht einhalten;to not comply with
+die Nichteinhaltung;non-compliance
+verstoßen gegen;to violate
+der Verstoß;violation
+die Verletzung;violation, injury
+die Rechtsverletzung;infringement, violation
+rechtswidrig;unlawful, illegal
+illegal;illegal
+die Illegalität;illegality
+gesetzwidrig;illegal
+ungesetzlich;illegal
+unrechtmäßig;unlawful
+unzulässig;inadmissible, impermissible
+verboten;forbidden, prohibited
+nicht erlaubt;not allowed
+nicht gestattet;not permitted
+Vorschriften verletzen;to violate regulations
+die Vorschrift;regulation, rule
+die Regel;rule
+gegen die Regeln;against the rules
+regelwidrig;against the rules
+unfaire Bedingungen;unfair conditions
+die Klausel;clause
+die Kleingedruckte;fine print
+versteckte Kosten;hidden costs
+zusätzliche Gebühren;additional fees
+die Gebühr;fee, charge
+die Strafe;fine, penalty
+die Strafgebühr;penalty fee
+zahlen müssen;to have to pay
+die Zahlung;payment
+die Rechnung;bill, invoice
+falsch berechnet;incorrectly charged
+die Fehlberechnung;incorrect calculation
+der Irrtum;error, mistake
+sich irren;to be mistaken
+falsch;wrong, false
+inkorrekt;incorrect
+unrichtig;incorrect
+fehlerhaft;erroneous
+der Rechenfehler;calculation error
+der Tippfehler;typing error
+die Verwechslung;mix-up, confusion
+verwechseln;to confuse, mix up
+durcheinanderbringen;to mix up, confuse
+falsch verstehen;to misunderstand
+das Missverständnis;misunderstanding
+missverstehen;to misunderstand
+unklar;unclear
+undeutlich;unclear, indistinct
+mehrdeutig;ambiguous
+die Mehrdeutigkeit;ambiguity
+verwirrend;confusing
+die Verwirrung;confusion
+chaotisch;chaotic
+das Chaos;chaos
+unorganisiert;disorganized
+durcheinander;in disorder, confused
+nicht nachvollziehbar;incomprehensible
+unverständlich;incomprehensible
+rätselhaft;puzzling, mysterious
+absurd;absurd
+die Absurdität;absurdity
+sinnlos;senseless, meaningless
+widersinnig;absurd, nonsensical
+unlogisch;illogical
+irrational;irrational
+vernunftwidrig;contrary to reason
+lächerlich;ridiculous
+die Lächerlichkeit;ridiculousness
+albern;silly, foolish
+töricht;foolish
+dumm;stupid
+blödsinnig;nonsensical, stupid
+der Blödsinn;nonsense
+der Unsinn;nonsense
+Quatsch;nonsense, rubbish
+Unfug;nonsense, mischief
+eine Schande;a disgrace
+beschämend;shameful
+peinlich;embarrassing
+blamabel;embarrassing
+die Blamage;embarrassment
+sich blamieren;to embarrass oneself
+bloßstellen;to embarrass, expose
+die Bloßstellung;embarrassment
+kompromittieren;to compromise
+der Kompromiss;compromise
+ungelöst;unsolved
+das Problem;problem
+problematisch;problematic
+schwierig;difficult
+kompliziert;complicated
+die Komplikation;complication
+verschlimmern;to worsen, aggravate
+die Verschlimmerung;worsening
+sich verschlechtern;to deteriorate
+die Verschlechterung;deterioration
+eskalieren;to escalate
+die Eskalation;escalation
+zunehmen;to increase
+sich häufen;to accumulate, increase
+anhaltend;persistent, continuous
+fortwährend;continuous
+ständig;constant
+immer wieder;again and again
+wiederholt;repeated
+mehrmals;several times
+mehrfach;multiple
+dauerhaft;permanent, lasting
+andauernd;continuous, constant
+unaufhörlich;incessant
+pausenlos;nonstop
+ununterbrochen;uninterrupted
+durchgehend;continuous
+rund um die Uhr;around the clock
+Tag und Nacht;day and night
+nie;never
+niemals;never
+nicht ein einziges Mal;not once
+kein einziges Mal;not a single time
+bis jetzt nicht;not yet
+immer noch nicht;still not
+nach wie vor nicht;still not
+weiterhin;still, continuously
+fordern;to demand
+die Forderung;demand
+verlangen;to demand, require
+bestehen auf;to insist on
+erwarten;to expect
+die Erwartung;expectation
+beanspruchen;to claim, demand
+der Anspruch;claim, entitlement
+das Recht haben auf;to have the right to
+berechtigt sein;to be entitled
+die Berechtigung;entitlement, authorization
+die Entschädigung;compensation
+entschädigen;to compensate
+der Schadenersatz;damages, compensation
+erstatten;to refund, reimburse
+die Erstattung;refund, reimbursement
+zurückzahlen;to repay, refund
+die Rückzahlung;repayment, refund
+zurückerstatten;to refund
+der Umtausch;exchange
+umtauschen;to exchange
+zurückgeben;to return
+die Rückgabe;return
+rückgängig machen;to reverse, undo
+stornieren;to cancel
+die Stornierung;cancellation
+annullieren;to annul, cancel
+die Annullierung;annulment
+widerrufen;to revoke, retract
+der Widerruf;revocation
+kündigen;to terminate, cancel
+die Kündigung;termination, cancellation
+auflösen;to dissolve, terminate
+die Auflösung;dissolution, termination
+beenden;to end, terminate
+die Beendigung;ending, termination

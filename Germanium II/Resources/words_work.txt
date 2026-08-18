@@ -1,0 +1,529 @@
+der Arbeitsplatz;workplace
+die Arbeit;work/job
+der Job;job
+die Stelle;position
+die Karriere;career
+der Beruf;profession
+die Beschäftigung;employment
+die Vollzeitstelle;full-time job
+die Teilzeitstelle;part-time job
+das Praktikum;internship
+der Praktikant;intern
+die Praktikantin;female intern
+der Arbeitgeber;employer
+der Arbeitnehmer;employee
+der Kollege;colleague
+die Kollegin;female colleague
+der Chef;boss
+die Chefin;female boss
+die Abteilung;department
+das Team;team
+das Büro;office
+der Schreibtisch;desk
+der Computer;computer
+der Laptop;laptop
+das Telefon;telephone
+die E-Mail;email
+die Besprechung;meeting
+das Meeting;meeting
+die Präsentation;presentation
+der Bericht;report
+die Aufgabe;task
+die Verantwortung;responsibility
+die Frist;deadline
+der Termin;appointment
+der Kalender;calendar
+der Zeitplan;schedule
+die Überstunde;overtime
+die Pause;break
+die Mittagspause;lunch break
+der Feierabend;end of workday
+die Arbeitszeit;working time
+das Gehalt;salary
+der Lohn;wage
+die Bezahlung;payment
+die Gehaltserhöhung;salary increase
+die Bewerbung;application
+das Bewerbungsgespräch;job interview
+der Lebenslauf;CV/resume
+das Anschreiben;cover letter
+die Qualifikation;qualification
+die Erfahrung;experience
+die Fähigkeit;skill
+die Ausbildung;training/education
+das Studium;studies
+die Universität;university
+die Schule;school
+der Kurs;course
+die Weiterbildung;further training
+die Schulung;training session
+die Prüfung;exam
+das Zertifikat;certificate
+die Karrierechance;career opportunity
+die Arbeitslosigkeit;unemployment
+die Kündigung;termination/resignation
+der Vertrag;contract
+die Vertragsverlängerung;contract extension
+die Arbeitsbedingungen;working conditions
+die Arbeitskultur;work culture
+die Motivation;motivation
+die Produktivität;productivity
+die Effizienz;efficiency
+die Leistung;performance
+die Zielsetzung;goal setting
+das Ziel;goal
+der Erfolg;success
+der Misserfolg;failure
+die Herausforderung;challenge
+die Lösung;solution
+die Entscheidung;decision
+die Verantwortung;responsibility
+die Zusammenarbeit;collaboration
+die Kommunikation;communication
+das Feedback;feedback
+die Verbesserung;improvement
+die Innovation;innovation
+die Entwicklung;development
+die Planung;planning
+die Organisation;organization
+die Struktur;structure
+der Prozess;process
+die Regel;rule
+die Vorschrift;regulation
+die Sicherheit;safety
+die Gesundheit;health
+die Belastung;stress/burden
+arbeiten;to work
+anstellen;to hire
+kündigen;to resign/fire
+bewerben;to apply
+einladen;to invite (to interview)
+vorstellen;to introduce
+organisieren;to organize
+planen;to plan
+leiten;to lead
+verwalten;to manage
+koordinieren;to coordinate
+durchführen;to carry out
+erledigen;to complete
+abgeben;to submit
+überprüfen;to check
+verbessern;to improve
+entwickeln;to develop
+diskutieren;to discuss
+verhandeln;to negotiate
+kommunizieren;to communicate
+berichten;to report
+analysieren;to analyze
+entscheiden;to decide
+umsetzen;to implement
+kontrollieren;to control/check
+delegieren;to delegate
+motivieren;to motivate
+unterstützen;to support
+zusammenarbeiten;to collaborate
+effizient;efficient
+produktiv;productive
+kreativ;creative
+innovativ;innovative
+organisiert;organized
+diszipliniert;disciplined
+zuverlässig;reliable
+flexibel;flexible
+stressig;stressful
+anspruchsvoll;demanding
+herausfordernd;challenging
+langweilig;boring
+spannend;exciting
+anstrengend;exhausting
+gut bezahlt;well-paid
+unterbezahlt;underpaid
+überlastet;overworked
+motiviert;motivated
+unmotiviert;unmotivated
+erfolgreich;successful
+erfahren;experienced
+unerfahren;inexperienced
+qualifiziert;qualified
+unqualifiziert;unqualified
+verantwortlich;responsible
+unverantwortlich;irresponsible
+pünktlich;punctual
+unpünktlich;unpunctual
+professionell;professional
+unprofessionell;unprofessional
+transparent;transparent
+kompliziert;complicated
+einfach;simple
+strukturiert;structured
+chaotisch;chaotic
+die Unternehmensstrategie;corporate strategy
+die Geschäftsführung;executive management
+die Entscheidungsfindung;decision-making process
+die langfristige Planung;long-term planning
+die Zielvorgabe;target specification
+die Zielerreichung;goal achievement
+die Effizienzsteigerung;efficiency improvement
+die Prozessoptimierung;process optimization
+die Umstrukturierung;restructuring
+die Restrukturierungsmaßnahme;restructuring measure
+die Innovationstätigkeit;innovation activity
+die Wettbewerbsfähigkeit;competitiveness
+die Marktposition;market position
+die Marktanalyse;market analysis
+die Prognose;forecast
+die Trendanalyse;trend analysis
+die Risikobewertung;risk assessment
+die Nachhaltigkeitsstrategie;sustainability strategy
+die Unternehmensethik;corporate ethics
+die Compliance-Richtlinie;compliance guideline
+die Governance-Struktur;governance structure
+die Verantwortungsethik;ethics of responsibility
+die Führungsstruktur;leadership structure
+die Hierarchieebene;hierarchical level
+die Dezentralisierung;decentralization
+die Zentralisierung;centralization
+die Digitalisierung;digital transformation
+die Automatisierung;automation
+die Implementierung;implementation
+die Skalierbarkeit;scalability
+die Arbeitsablaufoptimierung;workflow optimization
+der Genehmigungsprozess;approval process
+die Dokumentationspflicht;documentation requirement
+die Berichtspflicht;reporting obligation
+die Aktenführung;record keeping
+die Datenverarbeitung;data processing
+die Informationsverarbeitung;information processing
+die Systemintegration;system integration
+die Schnittstelle;interface
+die Plattformlösung;platform solution
+die Cloud-Infrastruktur;cloud infrastructure
+die IT-Sicherheit;IT security
+der Datenschutz;data protection
+die Vertraulichkeit;confidentiality
+die Verschwiegenheitspflicht;confidentiality obligation
+die Auditierung;auditing
+die Qualitätskontrolle;quality control
+die Qualitätsprüfung;quality inspection
+die Zertifizierung;certification
+die Standardisierung;standardization
+die Normierung;normalization/standard setting
+die Prozesskette;process chain
+die Personalentwicklung;human resource development
+die Personalabteilung;HR department
+die Talentförderung;talent development
+die Mitarbeiterbindung;employee retention
+die Fluktuation;employee turnover
+die Arbeitszufriedenheit;job satisfaction
+die Leistungsbeurteilung;performance evaluation
+das Mitarbeitergespräch;employee review
+die Zielvereinbarung;target agreement
+die Bonusregelung;bonus scheme
+die Vergütungsstruktur;compensation structure
+die Sozialleistungen;employee benefits
+die Arbeitsrechtsprechung;labor law
+die Tarifverhandlung;collective bargaining
+der Betriebsrat;works council
+die Mitbestimmung;co-determination
+die Kündigungsfrist;notice period
+die Abfindung;severance pay
+die Arbeitsplatzsicherheit;job security
+die Karriereentwicklung;career development
+die Beförderung;promotion
+die Versetzung;transfer
+die Einarbeitungsphase;onboarding phase
+die Probezeit;probation period
+die Verhandlungsstrategie;negotiation strategy
+die Gesprächsführung;conducting a conversation
+die Argumentationsstruktur;argument structure
+die Überzeugungskraft;persuasiveness
+die Konfliktlösung;conflict resolution
+die Mediation;mediation
+die Konsensfindung;consensus building
+die Abstimmung;coordination/vote
+die Beschlussfassung;decision adoption
+die Protokollführung;minute taking
+die Tagesordnung;agenda
+die Sitzung;meeting/session
+die Videokonferenz;video conference
+die schriftliche Kommunikation;written communication
+die mündliche Kommunikation;oral communication
+die Kommunikationsstrategie;communication strategy
+die Öffentlichkeitsarbeit;public relations
+die Pressemitteilung;press release
+die Stellungnahme;statement
+die Rückmeldung;feedback response
+die Problemlösungskompetenz;problem-solving ability
+die Analysefähigkeit;analytical ability
+die Entscheidungskompetenz;decision-making competence
+die Führungskompetenz;leadership competence
+die Sozialkompetenz;social skills
+die Fachkompetenz;technical expertise
+die Methodenkompetenz;methodological competence
+die Belastbarkeit;resilience
+die Anpassungsfähigkeit;adaptability
+die Lernbereitschaft;willingness to learn
+die Eigenverantwortung;self-responsibility
+die Selbstorganisation;self-organization
+die Zeitmanagementfähigkeit;time management skills
+die Multitaskingfähigkeit;multitasking ability
+die Innovationsfähigkeit;capacity for innovation
+die Konjunktur;economic cycle
+die Inflation;inflation
+die Deflation;deflation
+das Wirtschaftswachstum;economic growth
+die Rezession;recession
+der Kapitalfluss;capital flow
+die Investition;investment
+die Rendite;return on investment
+die Liquidität;liquidity
+die Bilanz;balance sheet
+die Gewinn- und Verlustrechnung;profit and loss statement
+der Umsatz;revenue
+der Gewinn;profit
+der Verlust;loss
+die Kostenstruktur;cost structure
+die Preisgestaltung;pricing
+die Marktsegmentierung;market segmentation
+die Zielgruppe;target group
+die Nachfrage;demand
+das Angebot;supply
+die Wertschöpfung;value creation
+die empirische Analyse;empirical analysis
+die theoretische Grundlage;theoretical basis
+die Hypothesenbildung;hypothesis formation
+die Datenerhebung;data collection
+die Auswertung;evaluation
+die Interpretation;interpretation
+die Schlussfolgerung;conclusion
+die wissenschaftliche Methode;scientific method
+die Literaturrecherche;literature review
+die Fachpublikation;academic publication
+die Forschungsarbeit;research work
+die Untersuchung;study/investigation
+die Evidenz;evidence
+die Validität;validity
+die Reliabilität;reliability
+implementieren;to implement
+evaluieren;to evaluate
+analysieren;to analyze
+optimieren;to optimize
+restrukturieren;to restructure
+konsolidieren;to consolidate
+verifizieren;to verify
+validieren;to validate
+priorisieren;to prioritize
+koordinieren;to coordinate
+delegieren;to delegate
+moderieren;to moderate
+argumentieren;to argue (logically)
+verhandeln;to negotiate
+reflektieren;to reflect
+prognostizieren;to forecast
+dokumentieren;to document
+standardisieren;to standardize
+digitalisieren;to digitize
+transformieren;to transform
+die Unternehmensstrategie;corporate strategy
+implementieren;to implement
+strategisch;strategic
+die Entscheidungsfindung;decision-making
+evaluieren;to evaluate
+effizient;efficient
+die Prozessoptimierung;process optimization
+optimieren;to optimize
+die Umstrukturierung;restructuring
+restrukturieren;to restructure
+nachhaltig;sustainable
+die Wettbewerbsfähigkeit;competitiveness
+analysieren;to analyze
+analytisch;analytical
+die Marktposition;market position
+positionieren;to position
+marktführend;market-leading
+die Digitalisierung;digital transformation
+digitalisieren;to digitize
+innovativ;innovative
+die Innovation;innovation
+entwickeln;to develop
+die Entwicklung;development
+die Implementierung;implementation
+implementierbar;implementable
+die Skalierbarkeit;scalability
+skalieren;to scale
+die Geschäftsführung;executive management
+führen;to lead
+führend;leading
+die Hierarchie;hierarchy
+hierarchisch;hierarchical
+die Verantwortung;responsibility
+verantwortlich;responsible
+delegieren;to delegate
+die Delegation;delegation
+die Kommunikation;communication
+kommunizieren;to communicate
+kommunikativ;communicative
+verhandeln;to negotiate
+die Verhandlung;negotiation
+verhandlungsstark;strong in negotiation
+die Lösung;solution
+lösen;to solve
+lösungsorientiert;solution-oriented
+die Analyse;analysis
+analysieren;to analyze
+analytisch;analytical
+die Prognose;forecast
+prognostizieren;to forecast
+prognostisch;predictive
+die Strategie;strategy
+strategisch;strategic
+die Planung;planning
+planen;to plan
+planerisch;planning-related
+die Organisation;organization
+organisieren;to organize
+organisiert;organized
+die Struktur;structure
+strukturieren;to structure
+strukturiert;structured
+die Effizienz;efficiency
+effizient steigern;to increase efficiency
+effizient;efficient
+die Produktivität;productivity
+produktiv sein;to be productive
+produktiv;productive
+die Leistung;performance
+leisten;to perform
+leistungsstark;high-performing
+die Zielsetzung;goal setting
+zielen;to aim
+zielgerichtet;targeted
+die Zielerreichung;goal achievement
+erreichen;to achieve
+erreichbar;achievable
+die Kontrolle;control
+kontrollieren;to control/check
+kontrolliert;controlled
+die Qualität;quality
+qualitativ hochwertig;high-quality
+die Qualitätskontrolle;quality control
+kontrollieren;to inspect
+die Standardisierung;standardization
+standardisieren;to standardize
+standardisiert;standardized
+die Innovationstätigkeit;innovation activity
+innovativ sein;to be innovative
+innovationsgetrieben;innovation-driven
+die Wettbewerbsanalyse;competitive analysis
+vergleichen;to compare
+vergleichbar;comparable
+die Marktanalyse;market analysis
+analysieren;to analyze
+marktorientiert;market-oriented
+die Kundenorientierung;customer orientation
+kundenorientiert;customer-focused
+die Kundenbindung;customer retention
+binden;to retain
+bindend;binding
+die Mitarbeiterführung;employee leadership
+führen;to lead
+führungsstark;strong leadership
+die Teamarbeit;teamwork
+zusammenarbeiten;to collaborate
+kooperativ;cooperative
+die Kooperation;cooperation
+kooperieren;to cooperate
+kooperativ;cooperative
+die Belastbarkeit;resilience
+belastbar;resilient
+die Anpassungsfähigkeit;adaptability
+anpassen;to adapt
+anpassungsfähig;adaptable
+die Flexibilität;flexibility
+flexibel;flexible
+die Agilität;agility
+agil;agile
+die Innovationskraft;innovative power
+innovativ;innovative
+die Digitalisierung;digitalization
+digitalisieren;to digitize
+digital;digital
+die Automatisierung;automation
+automatisieren;to automate
+automatisiert;automated
+die Effizienzsteigerung;efficiency increase
+steigern;to increase
+steigerungsfähig;scalable
+die Restrukturierung;restructuring
+restrukturieren;to restructure
+restrukturiert;restructured
+die Verantwortungsethik;ethics of responsibility
+ethisch;ethical
+verantwortungsbewusst;responsible
+die Entscheidungsfreiheit;decision-making freedom
+entscheiden;to decide
+entscheidungsstark;decisive
+die Umsetzung;implementation
+umsetzen;to implement
+umsetzbar;feasible
+die Zusammenarbeit;collaboration
+zusammenarbeiten;to collaborate
+teamfähig;team-oriented
+die Konfliktlösung;conflict resolution
+lösen;to solve
+konfliktfähig;conflict-capable
+die Führungskompetenz;leadership competence
+führen;to lead
+führungsstark;strong leadership
+die Fachkompetenz;technical expertise
+kompetent;competent
+fachlich;technical/professional
+die Sozialkompetenz;social competence
+sozial;social
+kommunikativ;communicative
+die Methodenkompetenz;methodological competence
+methodisch;methodological
+die Lernbereitschaft;willingness to learn
+lernen;to learn
+lernorientiert;learning-oriented
+die Selbstorganisation;self-organization
+organisieren;to organize
+selbstorganisiert;self-organized
+die Eigenverantwortung;self-responsibility
+verantworten;to take responsibility
+eigenverantwortlich;self-responsible
+die Entscheidungsstärke;decisiveness
+entscheiden;to decide
+entscheidungsstark;decisive
+die Zielstrebigkeit;determination
+zielstrebig;determined
+die Durchsetzungskraft;assertiveness
+durchsetzen;to enforce/assert
+durchsetzungsstark;assertive
+die Überzeugungskraft;persuasiveness
+überzeugen;to convince
+überzeugend;convincing
+die Argumentationsfähigkeit;argumentation skill
+argumentieren;to argue
+argumentativ;argumentative
+die Präsentationsfähigkeit;presentation skills
+präsentieren;to present
+präsentationsstark;strong at presenting
+die Dokumentation;documentation
+dokumentieren;to document
+dokumentiert;documented
+die Analysefähigkeit;analytical ability
+analysieren;to analyze
+analytisch;analytical
+die Informationsverarbeitung;information processing
+verarbeiten;to process
+verarbeitet;processed
+die Datenverarbeitung;data processing
+verarbeiten;to process
+datengetrieben;data-driven
+die Entscheidungsgrundlage;decision basis
+entscheiden;to decide
+entscheidungsrelevant;decision-relevant
+die Zielvorgabe;target specification
+vorgeben;to set (goals)
+vorgegeben;predefined

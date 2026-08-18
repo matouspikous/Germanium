@@ -1,0 +1,1085 @@
+das Brot;bread
+die Milch;milk
+das Brot;bread
+die Milch;milk
+der Käse;cheese
+das Fleisch;meat
+die Wurst;sausage
+das Ei;egg
+die Butter;butter
+der Honig;honey
+die Marmelade;jam
+der Zucker;sugar
+das Salz;salt
+der Pfeffer;pepper
+das Öl;oil
+die Suppe;soup
+die Nudeln;pasta/noodles
+der Reis;rice
+die Kartoffel;potato
+die Tomate;tomato
+die Gurke;cucumber
+der Salat;lettuce/salad
+die Zwiebel;onion
+der Knoblauch;garlic
+die Karotte;carrot
+der Apfel;apple
+die Banane;banana
+die Orange;orange
+die Erdbeere;strawberry
+die Himbeere;raspberry
+die Kirsche;cherry
+die Traube;grape
+der Kuchen;cake
+das Gebäck;pastry/baked goods
+der Schokoladenkuchen;chocolate cake
+das Eis;ice cream
+die Schokolade;chocolate
+der Kaffee;coffee
+der Tee;tea
+das Wasser;water
+die Limonade;lemonade
+der Saft;juice
+das Bier;beer
+der Wein;wine
+das Frühstück;breakfast
+das Mittagessen;lunch
+das Abendessen;dinner/supper
+der Snack;snack
+das Dessert;dessert
+die Vorspeise;starter/appetizer
+das Hauptgericht;main course
+die Beilage;side dish
+frisch;fresh
+lecker;delicious/tasty
+süß;sweet
+sauer;sour
+salzig;salty
+bitter;bitter
+scharf;spicy/hot
+mild;mild
+knusprig;crispy/crunchy
+weich;soft
+hart;hard
+heiß;hot
+kalt;cold
+warm;warm
+gekocht;cooked
+gebraten;fried
+gebacken;baked
+gegrillt;grilled
+roh;raw
+reif;ripe
+faul;rotten/spoiled
+essen;to eat
+trinken;to drink
+kochen;to cook
+backen;to bake
+braten;to fry/roast
+schneiden;to cut
+schmecken;to taste
+probieren;to try/taste
+hungern;to be hungry
+dürsten;to be thirsty
+satt sein;to be full/satisfied
+gut schmecken;to taste good
+sehr lecker;very delicious
+ziemlich süß;quite sweet
+nicht zu scharf;not too spicy
+ohne Zucker;without sugar
+vegetarisch;vegetarian
+vegan;vegan
+glutenfrei;gluten-free
+laktosefrei;lactose-free
+bio;organic
+das Brot;bread
+die Milch;milk
+der Käse;cheese
+das Fleisch;meat
+die Wurst;sausage
+das Ei;egg
+die Butter;butter
+der Honig;honey
+die Marmelade;jam
+der Zucker;sugar
+das Salz;salt
+der Pfeffer;pepper
+das Öl;oil
+die Suppe;soup
+die Nudeln;pasta/noodles
+der Reis;rice
+die Kartoffel;potato
+die Tomate;tomato
+die Gurke;cucumber
+der Salat;lettuce/salad
+die Zwiebel;onion
+der Knoblauch;garlic
+die Karotte;carrot
+der Apfel;apple
+die Banane;banana
+die Orange;orange
+die Erdbeere;strawberry
+die Himbeere;raspberry
+die Kirsche;cherry
+die Traube;grape
+der Kuchen;cake
+das Gebäck;pastry
+das Eis;ice cream
+die Schokolade;chocolate
+der Kaffee;coffee
+der Tee;tea
+das Wasser;water
+die Limonade;lemonade
+der Saft;juice
+das Bier;beer
+der Wein;wine
+das Frühstück;breakfast
+das Mittagessen;lunch
+das Abendessen;dinner/supper
+der Snack;snack
+das Dessert;dessert
+die Vorspeise;starter/appetizer
+das Hauptgericht;main course
+die Beilage;side dish
+frisch;fresh
+lecker;delicious/tasty
+süß;sweet
+sauer;sour
+salzig;salty
+bitter;bitter
+scharf;spicy/hot
+mild;mild
+knusprig;crispy/crunchy
+weich;soft
+hart;hard
+heiß;hot
+kalt;cold
+warm;warm
+gekocht;cooked
+gebraten;fried
+gebacken;baked
+gegrillt;grilled
+roh;raw
+reif;ripe
+faul;rotten/spoiled
+essen;to eat
+trinken;to drink
+kochen;to cook
+backen;to bake
+braten;to fry/roast
+schneiden;to cut
+schmecken;to taste
+probieren;to try/taste
+hungern;to be hungry
+dürsten;to be thirsty
+satt sein;to be full/satisfied
+gut schmecken;to taste good
+sehr lecker;very delicious
+ziemlich süß;quite sweet
+nicht zu scharf;not too spicy
+mit viel Gewürzen;with lots of spices
+ohne Zucker;without sugar
+vegetarisch;vegetarian
+vegan;vegan
+glutenfrei;gluten-free
+laktosefrei;lactose-free
+bio;organic
+das Brot;bread
+die Milch;milk
+der Käse;cheese
+das Fleisch;meat
+die Wurst;sausage
+das Ei;egg
+die Butter;butter
+der Honig;honey
+die Marmelade;jam
+der Zucker;sugar
+das Salz;salt
+der Pfeffer;pepper
+das Öl;oil
+die Suppe;soup
+die Nudeln;pasta
+der Reis;rice
+die Kartoffel;potato
+die Tomate;tomato
+die Gurke;cucumber
+der Salat;salad
+die Zwiebel;onion
+der Knoblauch;garlic
+die Karotte;carrot
+der Apfel;apple
+die Banane;banana
+die Orange;orange
+die Erdbeere;strawberry
+die Himbeere;raspberry
+die Kirsche;cherry
+die Traube;grape
+der Kuchen;cake
+das Gebäck;pastry
+das Brötchen;roll
+die Semmel;roll
+der Laib;loaf
+das Baguette;baguette
+das Ciabatta;ciabatta
+das Croissant;croissant
+das Hörnchen;croissant
+die Brezel;pretzel
+der Zopf;plaited loaf
+das Vollkornbrot;wholemeal bread
+das Roggenbrot;rye bread
+das Dinkelbrot;spelt bread
+das Pumpernickel;pumpernickel
+die Sahne;cream
+der Joghurt;yogurt
+der Quark;quark
+die Crème fraîche;crème fraîche
+der Schmand;sour cream
+der Frischkäse;cream cheese
+die Mozzarella;mozzarella
+der Gouda;gouda
+der Emmentaler;emmental
+der Camembert;camembert
+der Brie;brie
+der Gorgonzola;gorgonzola
+der Parmesan;parmesan
+der Feta;feta
+die Ricotta;ricotta
+der Ziegenkäse;goat cheese
+das Hackfleisch;minced meat
+das Rindfleisch;beef
+das Schweinefleisch;pork
+das Hähnchen;chicken
+die Pute;turkey
+das Lamm;lamb
+das Kalb;veal
+die Leber;liver
+das Kotelett;cutlet
+das Schnitzel;schnitzel
+die Bratwurst;bratwurst
+die Currywurst;currywurst
+die Weißwurst;white sausage
+die Salami;salami
+das Olivenöl;olive oil
+das Sonnenblumenöl;sunflower oil
+das Rapsöl;rapeseed oil
+der Essig;vinegar
+der Balsamico;balsamic vinegar
+die Mayonnaise;mayonnaise
+der Senf;mustard
+der Ketchup;ketchup
+die Sojasauce;soy sauce
+der Meerrettich;horseradish
+der Paprika;bell pepper
+das Chili;chili
+der Ingwer;ginger
+die Kurkuma;turmeric
+der Zimt;cinnamon
+der Kümmel;caraway
+der Koriander;coriander
+der Muskat;nutmeg
+der Safran;saffron
+die Vanille;vanilla
+die Schokolade;chocolate
+die Torte;torte
+der Strudel;strudel
+der Krapfen;doughnut
+das Berliner;berliner
+der Pfannkuchen;pancake
+die Waffel;waffle
+das Eis;ice cream
+der Kaffee;coffee
+der Espresso;espresso
+der Cappuccino;cappuccino
+der Tee;tea
+der Schwarztee;black tea
+der Grüntee;green tea
+der Kräutertee;herbal tea
+der Saft;juice
+der Orangensaft;orange juice
+die Limonade;lemonade
+das Mineralwasser;mineral water
+das Bier;beer
+der Wein;wine
+der Rotwein;red wine
+der Weißwein;white wine
+der Sekt;sparkling wine
+das Schnitzel;schnitzel
+der Braten;roast
+der Eintopf;stew
+die Gulaschsuppe;goulash soup
+die Lasagne;lasagna
+die Pizza;pizza
+das Gyros;gyros
+der Döner;döner
+die Falafel;falafel
+der Hummus;hummus
+der Tzatziki;tzatziki
+die Olive;olive
+der Artischocke;artichoke
+der Spargel;asparagus
+der Blumenkohl;cauliflower
+der Brokkoli;broccoli
+der Spinat;spinach
+der Lauch;leek
+der Sellerie;celery
+die Petersilie;parsley
+der Schnittlauch;chives
+das Basilikum;basil
+der Oregano;oregano
+der Thymian;thyme
+der Rosmarin;rosemary
+die Melone;melon
+die Ananas;pineapple
+die Mango;mango
+die Kiwi;kiwi
+die Feige;fig
+die Dattel;date
+die Pflaume;plum
+die Aprikose;apricot
+der Pfirsich;peach
+die Birne;pear
+die Johannisbeere;currant
+die Heidelbeere;blueberry
+die Brombeere;blackberry
+die Preiselbeere;lingonberry
+der Rhabarber;rhubarb
+die Kokosnuss;coconut
+die Mandel;almond
+die Haselnuss;hazelnut
+die Walnuss;walnut
+die Cashew;cashew
+die Pistazie;pistachio
+die Erdnuss;peanut
+das Müsli;muesli
+die Haferflocken;oat flakes
+der Couscous;couscous
+die Linsen;lentils
+die Bohnen;beans
+die Kichererbsen;chickpeas
+die Erbsen;peas
+der Tofu;tofu
+die Pilze;mushrooms
+der Champignon;button mushroom
+der Steinpilz;porcini
+der Pfifferling;chanterelle
+das Sauerkraut;sauerkraut
+die Zucchini;zucchini
+die Aubergine;eggplant
+der Rettich;radish
+das Radieschen;radish
+die Rote Bete;beetroot
+die Pastinake;parsnip
+der Fenchel;fennel
+der Rucola;arugula
+der Avocado;avocado
+die Zitrone;lemon
+die Limette;lime
+die Grapefruit;grapefruit
+die Mandarine;mandarin
+die Nektarine;nectarine
+die Kaki;persimmon
+die Granatapfel;pomegranate
+die Passionsfrucht;passion fruit
+die Guave;guava
+die Papaya;papaya
+die Litchi;lychee
+die Kokosmilch;coconut milk
+die Mandelmilch;almond milk
+die Sojamilch;soy milk
+die Hafermilch;oat milk
+der Ahornsirup;maple syrup
+der Agavendicksaft;agave syrup
+die Rosinen;raisins
+die Cranberries;cranberries
+die getrockneten Tomaten;sun-dried tomatoes
+die Gewürzgurke;pickled gherkin
+die saure Gurke;pickled cucumber
+der frische Ingwer;fresh ginger
+die frische Kurkuma;fresh turmeric
+die frische Minze;fresh mint
+die frische Petersilie;fresh parsley
+die frische Basilikum;fresh basil
+die frische Knoblauchzehe;fresh garlic clove
+die frische Chilischote;fresh chili pepper
+die Cherrytomate;cherry tomato
+die Ochsenherztomate;beefsteak tomato
+die reife Mango;ripe mango
+die reife Banane;ripe banana
+der knackige Apfel;crisp apple
+die saftige Orange;juicy orange
+die Blutorange;blood orange
+die Waldhimbeere;wild raspberry
+die frische Erdbeere;fresh strawberry
+die Bio-Möhre;organic carrot
+die regionale Kartoffel;regional potato
+die saisonale Spargel;seasonal asparagus
+die konventionelle Milch;conventional milk
+die Heumilch;hay milk
+die Rohmilch;raw milk
+die Demeter-Karotte;Demeter carrot
+das Messer;knife
+der Löffel;spoon
+die Gabel;fork
+das Besteck;cutlery
+der Teelöffel;teaspoon
+der Esslöffel;tablespoon
+die Suppenkelle;soup ladle
+der Pfannenwender;spatula/turner
+der Kochlöffel;wooden spoon
+der Schneebesen;whisk
+das Sieb;sieve/strainer
+die Schüssel;bowl
+das Schneidebrett;cutting board
+die Pfanne;frying pan
+der Topf;pot
+der Deckel;lid
+der Herd;stove
+der Backofen;oven
+die Mikrowelle;microwave
+der Kühlschrank;refrigerator
+der Geschirrspüler;dishwasher
+die Spüle;sink
+der Wasserhahn;faucet/tap
+die Dunstabzugshaube;exhaust hood
+der Toaster;toaster
+der Wasserkocher;kettle
+der Mixer;blender
+die Küchenmaschine;food processor
+die Waage;kitchen scale
+die Schere;kitchen scissors
+der Dosenöffner;can opener
+der Flaschenöffner;bottle opener
+der Korkenzieher;corkscrew
+die Reibe;grater
+der Schäler;peeler
+die Knoblauchpresse;garlic press
+die Zange;tongs
+der Spatel;spatle
+das Nudelholz;rolling pin
+die Backform;baking tin
+die Kuchenform;cake pan
+die Auflaufform;casserole dish
+das Blech;baking tray
+das Kuchengitter;cooling rack
+die Schürze;apron
+die Topflappen;oven mitts/potholders
+der Topfuntersetzer;trivet
+das Geschirrtuch;dish towel
+die Mülltonne;trash can
+kochen;to cook
+backen;to bake
+braten;to fry/roast
+schneiden;to cut
+würfeln;to dice
+hacken;to chop
+reiben;to grate
+schälen;to peel
+waschen;to wash
+spülen;to rinse/wash up
+abtropfen;to drain
+abseihen;to strain
+rühren;to stir
+schlagen;to whisk/beat
+mischen;to mix
+kneten;to knead
+rollen;to roll out
+ausrollen;to roll out
+füllen;to fill/stuff
+marinieren;to marinate
+würzen;to season
+abschmecken;to taste/season
+probieren;to taste/try
+aufkochen;to bring to a boil
+köcheln;to simmer
+dünsten;to steam/stew
+grillen;to grill
+bräunen;to brown
+anbraten;to sear
+abkühlen;to cool down
+einfrieren;to freeze
+auftauen;to thaw/defrost
+erhitzen;to heat up
+umrühren;to stir
+umdrehen;to turn over
+portionieren;to portion
+anrichten;to plate/serve
+servieren;to serve
+vorbereiten;to prepare
+zubereiten;to prepare/make
+zerkleinern;to chop up
+zerdrücken;to mash
+pürieren;to purée
+sieben;to sift
+bestäuben;to dust
+einsieben;to sift in
+kneten;to knead
+gehen lassen;to let rise
+backen;to bake
+überbacken;to bake au gratin
+gratinieren;to gratin
+reduzieren;to reduce (sauce)
+binden;to thicken
+abschrecken;to shock (in cold water)
+blanchieren;to blanch
+garen;to cook until done
+durchgaren;to cook through
+al dente;al dente
+heiss;hot
+kalt;cold
+knusprig;crispy
+weich;soft
+das Essen;food
+das Gericht;dish, meal
+die Speise;dish, food
+die Mahlzeit;meal
+das Frühstück;breakfast
+das Mittagessen;lunch
+das Abendessen;dinner
+die Zwischenmahlzeit;snack between meals
+der Snack;snack
+der Imbiss;snack, snack bar
+die Vorspeise;appetizer, starter
+die Hauptspeise;main course
+das Hauptgericht;main dish
+die Nachspeise;dessert
+der Nachtisch;dessert
+die Beilage;side dish
+das Getränk;drink, beverage
+das Frühstücksbuffet;breakfast buffet
+das Buffet;buffet
+die Portion;portion, serving
+die Hälfte;half
+das Drittel;third
+das Viertel;quarter
+der Happen;bite, morsel
+der Bissen;bite, mouthful
+der Schluck;sip, gulp
+das Fleisch;meat
+das Rindfleisch;beef
+das Schweinefleisch;pork
+das Kalbfleisch;veal
+das Lammfleisch;lamb
+das Hähnchen;chicken
+das Huhn;chicken
+die Pute;turkey
+der Truthahn;turkey
+die Ente;duck
+die Gans;goose
+das Hackfleisch;ground meat, mince
+die Wurst;sausage
+die Bratwurst;fried sausage
+die Currywurst;curry sausage
+die Bockwurst;bockwurst sausage
+die Wiener;Vienna sausage, hot dog
+das Würstchen;small sausage, hot dog
+der Schinken;ham
+der Speck;bacon
+die Salami;salami
+die Mortadella;mortadella
+die Leberwurst;liver sausage
+das Schnitzel;schnitzel, cutlet
+das Steak;steak
+der Braten;roast
+das Gulasch;goulash
+der Eintopf;stew
+die Frikadelle;meatball
+das Kotelett;chop, cutlet
+die Roulade;roulade
+der Fisch;fish
+der Lachs;salmon
+der Thunfisch;tuna
+die Forelle;trout
+der Hering;herring
+die Makrele;mackerel
+der Kabeljau;cod
+die Scholle;plaice
+die Meeresfrüchte;seafood
+die Garnele;shrimp, prawn
+die Krabbe;crab, shrimp
+der Krebs;crab, crayfish
+die Muschel;mussel, clam
+die Auster;oyster
+der Tintenfisch;squid
+der Hummer;lobster
+das Gemüse;vegetables
+die Kartoffel;potato
+die Pommes frites;french fries
+die Pommes;fries
+die Bratkartoffel;fried potato
+der Kartoffelbrei;mashed potatoes
+das Püree;puree, mash
+die Süßkartoffel;sweet potato
+die Tomate;tomato
+die Gurke;cucumber
+die Salatgurke;cucumber (for salad)
+die Karotte;carrot
+die Möhre;carrot
+die Paprika;bell pepper
+der Pfeffer;pepper
+die Zwiebel;onion
+die Frühlingszwiebel;spring onion, scallion
+der Knoblauch;garlic
+die Knoblauchzehe;garlic clove
+der Lauch;leek
+der Porree;leek
+der Sellerie;celery
+die Zucchini;zucchini, courgette
+die Aubergine;eggplant, aubergine
+der Kürbis;pumpkin, squash
+der Brokkoli;broccoli
+der Blumenkohl;cauliflower
+der Rosenkohl;Brussels sprouts
+der Kohl;cabbage
+der Weißkohl;white cabbage
+der Rotkohl;red cabbage
+das Sauerkraut;sauerkraut
+der Spinat;spinach
+der Salat;salad, lettuce
+der Kopfsalat;lettuce
+der Eisbergsalat;iceberg lettuce
+der Feldsalat;lamb's lettuce
+die Rucola;arugula, rocket
+der Chicorée;chicory, endive
+die Radieschen;radish
+die Rote Bete;beetroot
+die Erbse;pea
+die Bohne;bean
+die grüne Bohne;green bean
+die Linse;lentil
+die Kichererbse;chickpea
+die Sojabohne;soybean
+der Mais;corn, maize
+der Maiskolben;corn on the cob
+die Olive;olive
+die Avocado;avocado
+der Pilz;mushroom
+der Champignon;button mushroom
+der Steinpilz;porcini mushroom
+der Pfifferling;chanterelle
+das Obst;fruit
+der Apfel;apple
+die Birne;pear
+die Banane;banana
+die Orange;orange
+die Apfelsine;orange
+die Mandarine;mandarin, tangerine
+die Clementine;clementine
+die Zitrone;lemon
+die Limette;lime
+die Grapefruit;grapefruit
+die Pampelmuse;grapefruit
+die Erdbeere;strawberry
+die Himbeere;raspberry
+die Brombeere;blackberry
+die Heidelbeere;blueberry
+die Johannisbeere;currant
+die Stachelbeere;gooseberry
+die Kirsche;cherry
+die Pflaume;plum
+die Zwetschge;plum
+der Pfirsich;peach
+die Aprikose;apricot
+die Nektarine;nectarine
+die Melone;melon
+die Wassermelone;watermelon
+die Honigmelone;honeydew melon
+die Traube;grape
+die Weintraube;grape
+die Rosine;raisin
+die Dattel;date
+die Feige;fig
+die Ananas;pineapple
+die Mango;mango
+die Papaya;papaya
+die Kiwi;kiwi
+die Lychee;lychee
+die Kokosnuss;coconut
+die Passionsfrucht;passion fruit
+die Kaki;persimmon
+die Granatapfel;pomegranate
+das Brot;bread
+das Weißbrot;white bread
+das Vollkornbrot;whole grain bread
+das Schwarzbrot;black bread, rye bread
+das Roggenbrot;rye bread
+das Mischbrot;mixed grain bread
+das Toastbrot;toast bread
+das Brötchen;roll, bun
+die Semmel;roll (Austrian/Bavarian)
+die Brezel;pretzel
+das Baguette;baguette
+das Ciabatta;ciabatta
+das Croissant;croissant
+das Hörnchen;croissant
+der Zwieback;rusk
+der Keks;cookie, biscuit
+der Kuchen;cake
+die Torte;layer cake, tart
+der Muffin;muffin
+das Gebäck;pastry, baked goods
+der Krapfen;doughnut (South German)
+der Berliner;doughnut (North German)
+die Waffel;waffle
+der Pfannkuchen;pancake
+der Palatschinken;crepe (Austrian)
+der Crêpe;crepe
+der Strudel;strudel
+der Apfelstrudel;apple strudel
+die Sachertorte;Sacher torte
+die Schwarzwälder Kirschtorte;Black Forest cake
+der Käsekuchen;cheesecake
+der Apfelkuchen;apple cake
+der Marmorkuchen;marble cake
+der Schokoladenkuchen;chocolate cake
+der Mohnkuchen;poppy seed cake
+der Streuselkuchen;crumb cake
+das Bienenstich;bee sting cake
+der Gugelhupf;bundt cake
+die Zimtschnecke;cinnamon roll
+das Teilchen;pastry
+die Schnecke;sweet roll, cinnamon bun
+das Hörnchen;croissant, crescent roll
+der Donut;donut
+die Nudelgerichte;pasta dishes
+die Nudeln;noodles, pasta
+die Spaghetti;spaghetti
+die Penne;penne
+die Fusilli;fusilli
+die Tagliatelle;tagliatelle
+die Lasagne;lasagna
+die Ravioli;ravioli
+die Tortellini;tortellini
+die Gnocchi;gnocchi
+die Spätzle;spaetzle
+die Pizza;pizza
+die Pasta;pasta
+die Soße;sauce, gravy
+die Sauce;sauce
+die Tomatensoße;tomato sauce
+die Sahnesoße;cream sauce
+die Käsesoße;cheese sauce
+die Bolognese;Bolognese sauce
+die Carbonara;carbonara sauce
+das Pesto;pesto
+der Ketchup;ketchup
+die Mayonnaise;mayonnaise
+die Mayo;mayo
+der Senf;mustard
+der Essig;vinegar
+das Öl;oil
+das Olivenöl;olive oil
+das Sonnenblumenöl;sunflower oil
+das Rapsöl;rapeseed oil
+die Butter;butter
+die Margarine;margarine
+das Salz;salt
+der Pfeffer;pepper
+die Gewürze;spices
+das Gewürz;spice
+der Zimt;cinnamon
+der Ingwer;ginger
+die Muskatnuss;nutmeg
+die Nelke;clove
+der Koriander;coriander, cilantro
+der Kreuzkümmel;cumin
+die Kurkuma;turmeric
+der Paprikapulver;paprika powder
+das Chilipulver;chili powder
+der Curry;curry
+die Kräuter;herbs
+das Kraut;herb
+das Basilikum;basil
+der Oregano;oregano
+der Thymian;thyme
+der Rosmarin;rosemary
+der Dill;dill
+die Petersilie;parsley
+der Schnittlauch;chives
+die Minze;mint
+der Salbei;sage
+der Estragon;tarragon
+der Koriander;cilantro
+der Zucker;sugar
+der Würfelzucker;sugar cube
+der Puderzucker;powdered sugar, icing sugar
+der Braunzucker;brown sugar
+der Honig;honey
+die Marmelade;jam
+die Konfitüre;jam, preserves
+das Gelee;jelly
+der Aufstrich;spread
+der Brotaufstrich;bread spread
+die Nutella;Nutella
+der Schokocreme;chocolate spread
+die Erdnussbutter;peanut butter
+die Milch;milk
+die Vollmilch;whole milk
+die Magermilch;skim milk
+die fettarme Milch;low-fat milk
+die H-Milch;UHT milk
+die Frischmilch;fresh milk
+die Buttermilch;buttermilk
+die Sahne;cream
+die Schlagsahne;whipping cream
+die saure Sahne;sour cream
+der Schmand;sour cream
+der Joghurt;yogurt
+der Naturjoghurt;plain yogurt
+der Fruchtjoghurt;fruit yogurt
+der Quark;quark, curd cheese
+der Käse;cheese
+der Frischkäse;cream cheese
+der Schnittkäse;sliced cheese
+der Hartkäse;hard cheese
+der Weichkäse;soft cheese
+der Schmelzkäse;processed cheese
+der Gouda;Gouda
+der Emmentaler;Emmental
+der Edamer;Edam
+der Camembert;Camembert
+der Brie;Brie
+der Mozzarella;mozzarella
+der Parmesan;Parmesan
+der Feta;feta
+der Ziegenkäse;goat cheese
+der Schafskäse;sheep cheese
+der Blauschimmelkäse;blue cheese
+das Ei;egg
+die Eier;eggs
+das Spiegelei;fried egg
+das Rührei;scrambled eggs
+das gekochte Ei;boiled egg
+das weiche Ei;soft-boiled egg
+das harte Ei;hard-boiled egg
+das Omelett;omelet
+das Eigelb;egg yolk
+das Eiweiß;egg white
+die Reis;rice
+der Vollkornreis;brown rice
+der Basmatireis;basmati rice
+der Risotto;risotto
+die Sushi;sushi
+das Getreide;grain, cereal
+die Haferflocken;oatmeal, rolled oats
+das Müsli;muesli, granola
+die Cornflakes;cornflakes
+die Frühstücksflocken;breakfast cereal
+der Pudding;pudding
+der Nachtisch;dessert
+das Eis;ice cream
+die Eiscreme;ice cream
+das Vanilleeis;vanilla ice cream
+das Schokoladeneis;chocolate ice cream
+das Erdbeereis;strawberry ice cream
+das Fruchteis;fruit ice cream
+das Sorbet;sorbet
+die Schokolade;chocolate
+die Milchschokolade;milk chocolate
+die Zartbitterschokolade;dark chocolate
+die weiße Schokolade;white chocolate
+der Schokoriegel;chocolate bar
+die Praline;praline, chocolate
+die Süßigkeit;sweet, candy
+die Bonbon;candy, sweet
+das Bonbon;candy, sweet
+der Lutscher;lollipop
+der Lolli;lollipop
+das Gummibärchen;gummy bear
+die Lakritz;licorice
+der Kaugummi;chewing gum
+die Chips;chips, crisps
+die Erdnüsse;peanuts
+die Nüsse;nuts
+die Haselnuss;hazelnut
+die Walnuss;walnut
+die Mandel;almond
+die Cashewnuss;cashew
+die Pistazie;pistachio
+die Paranuss;Brazil nut
+die Pekannuss;pecan
+das Popcorn;popcorn
+die Salzstangen;pretzel sticks
+die Cracker;crackers
+das Sandwich;sandwich
+der Hamburger;hamburger
+der Cheeseburger;cheeseburger
+der Hotdog;hot dog
+der Döner;döner kebab
+die Pommes;fries
+die Currywurst;curry sausage
+der Wrap;wrap
+der Salat;salad
+der gemischte Salat;mixed salad
+der grüne Salat;green salad
+der Kartoffelsalat;potato salad
+der Nudelsalat;pasta salad
+der Gurkensalat;cucumber salad
+der Tomatensalat;tomato salad
+der Coleslaw;coleslaw
+die Suppe;soup
+die Brühe;broth
+die Bouillon;bouillon
+die Gemüsesuppe;vegetable soup
+die Hühnersuppe;chicken soup
+die Tomatensuppe;tomato soup
+die Kürbissuppe;pumpkin soup
+die Erbsensuppe;pea soup
+die Linsensuppe;lentil soup
+die Gulaschsuppe;goulash soup
+die Zwiebelsupe;onion soup
+das Wasser;water
+das Mineralwasser;mineral water
+das stille Wasser;still water
+das Sprudelwasser;sparkling water
+das Leitungswasser;tap water
+der Saft;juice
+der Orangensaft;orange juice
+der Apfelsaft;apple juice
+der Traubensaft;grape juice
+der Multivitaminsaft;multivitamin juice
+die Limonade;lemonade, soda
+die Cola;cola
+die Coca-Cola;Coca-Cola
+die Sprite;Sprite
+die Fanta;Fanta
+das Energy-Drink;energy drink
+der Eistee;iced tea
+der Tee;tea
+der schwarze Tee;black tea
+der grüne Tee;green tea
+der Kräutertee;herbal tea
+der Früchtetee;fruit tea
+der Pfefferminztee;peppermint tea
+der Kamillentee;chamomile tea
+der Kaffee;coffee
+der Espresso;espresso
+der Cappuccino;cappuccino
+der Latte Macchiato;latte macchiato
+der Milchkaffee;coffee with milk
+der Filterkaffee;filter coffee
+der entkoffeinierte Kaffee;decaffeinated coffee
+der Koffeinfrei;decaf
+die Kakao;cocoa, hot chocolate
+die heiße Schokolade;hot chocolate
+der Smoothie;smoothie
+der Milchshake;milkshake
+der Shake;shake
+das Bier;beer
+das Pils;pilsner
+das Weißbier;wheat beer
+das Weizenbier;wheat beer
+das Helles;pale lager
+das Dunkle;dark beer
+das alkoholfreie Bier;non-alcoholic beer
+der Wein;wine
+der Rotwein;red wine
+der Weißwein;white wine
+der Rosé;rosé wine
+der Sekt;sparkling wine, champagne
+der Champagner;champagne
+der Prosecco;prosecco
+der Schnaps;schnapps, liquor
+der Wodka;vodka
+der Rum;rum
+der Gin;gin
+der Whisky;whisky
+der Likör;liqueur
+der Cocktail;cocktail
+der Longdrink;long drink
+die Schorle;spritzer
+die Apfelschorle;apple spritzer
+kochen;to cook
+braten;to fry, roast
+backen;to bake
+grillen;to grill, barbecue
+rösten;to roast, toast
+dünsten;to steam, braise
+dämpfen;to steam
+schmoren;to braise, stew
+frittieren;to deep-fry
+anbraten;to sear, brown
+aufwärmen;to warm up, reheat
+erhitzen;to heat
+kochen lassen;to boil
+sieden;to simmer
+köcheln;to simmer
+schneiden;to cut
+hacken;to chop
+würfeln;to dice
+raspeln;to grate
+reiben;to grate, rub
+schälen;to peel
+rühren;to stir
+mischen;to mix
+vermengen;to mix, blend
+verrühren;to stir, mix
+schlagen;to beat, whisk
+aufschlagen;to beat, crack (eggs)
+kneten;to knead
+würzen;to season, spice
+salzen;to salt
+pfeffern;to pepper
+abschmecken;to taste, season
+probieren;to taste, try
+kosten;to taste
+schmecken;to taste
+riechen;to smell
+duften;to smell good
+essen;to eat
+trinken;to drink
+frühstücken;to have breakfast
+zu Mittag essen;to have lunch
+zu Abend essen;to have dinner
+naschen;to snack on sweets
+knabbern;to nibble, munch
+schlucken;to swallow
+kauen;to chew
+beißen;to bite
+abbeißen;to bite off
+lecken;to lick
+schlürfen;to slurp
+nippen;to sip
+satt;full, satisfied
+hungrig;hungry
+durstig;thirsty
+lecker;delicious, tasty
+köstlich;delicious
+appetitlich;appetizing
+schmackhaft;tasty
+delikat;delicate, delicious
+vorzüglich;excellent, exquisite
+herrlich;wonderful, delicious
+saftig;juicy
+zart;tender
+knusprig;crispy, crunchy
+kross;crispy
+weich;soft
+hart;hard
+fest;firm
+frisch;fresh
+roh;raw
+gekocht;cooked, boiled
+gebraten;fried, roasted
+gebacken;baked
+gegrillt;grilled
+gedünstet;steamed, braised
+gedämpft;steamed
+geräuchert;smoked
+mariniert;marinated
+gewürzt;seasoned, spiced
+scharf;spicy, hot
+mild;mild
+süß;sweet
+sauer;sour
+bitter;bitter
+salzig;salty
+fade;bland
+geschmacklos;tasteless
+fettig;fatty, greasy
+ölig;oily
+trocken;dry
+feucht;moist
+cremig;creamy
+flüssig;liquid
+dickflüssig;thick
+dünnflüssig;thin, runny

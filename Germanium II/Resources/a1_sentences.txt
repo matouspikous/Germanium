@@ -1,0 +1,1218 @@
+Ich bin.;I am.
+Der Mann ist alt.;The man is old.
+Die Frau ist jung.;The woman is young.
+Das Kind ist klein.;The child is small.
+Wir sind hier.;We are here.
+Ihr seid spät.;You all are late.
+Sie sind müde.;They are tired.
+Das Buch ist interessant.;The book is interesting.
+Die Tasche ist schwer.;The bag is heavy.
+Der Tisch ist neu.;The table is new.
+Die Stadt ist groß.;The city is big.
+Ich war gestern zu Hause.;I was at home yesterday.
+Er war krank.;He was sick.
+Wir waren im Park.;We were in the park.
+Sie war sehr freundlich.;She was very friendly.
+Ihr wart laut.;You all were loud.
+Ich habe ein Auto.;I have a car.
+Du hast einen Bruder.;You have a brother.
+Er hat eine Idee.;He has an idea.
+Wir haben viel Zeit.;We have a lot of time.
+Sie haben Hunger.;They are hungry.
+Ich hatte früher einen Hund.;I had a dog before.
+Sie hatte keine Zeit.;She had no time.
+Wir hatten Glück.;We had luck.
+Er hatte viele Freunde.;He had many friends.
+Ich gehe in den Laden.;I go into the shop.
+Du gehst zur Arbeit.;You go to work.
+Er geht nach Hause.;He goes home.
+Wir gehen durch den Park.;We go through the park.
+Sie gehen am Abend spazieren.;They go for a walk in the evening.
+Ich ging gestern ins Kino.;I went to the cinema yesterday.
+Er ging schnell weg.;He went away quickly.
+Wir gingen zusammen.;We went together.
+Ich komme aus Deutschland.;I come from Germany.
+Sie kommt aus der Stadt.;She comes from the city.
+Wir kommen später.;We come later.
+Er kam zu spät.;He came too late.
+Ich mache die Tür auf.;I open the door.
+Du machst das Fenster zu.;You close the window.
+Er macht seine Hausaufgaben.;He does his homework.
+Wir machen eine Pause.;We take a break.
+Sie machten einen Fehler.;They made a mistake.
+Ich sehe den Hund.;I see the dog.
+Du siehst die Berge.;You see the mountains.
+Er sieht einen Vogel.;He sees a bird.
+Wir sehen das Meer.;We see the sea.
+Ich sah einen Film.;I watched a movie.
+Ich esse mit der Familie.;I eat with the family.
+Du isst gern Obst.;You like to eat fruit.
+Er isst ein Sandwich.;He eats a sandwich.
+Wir essen im Restaurant.;We eat in the restaurant.
+Sie aßen zusammen.;They ate together.
+Ich trinke ohne Zucker.;I drink without sugar.
+Du trinkst ein Glas Wasser.;You drink a glass of water.
+Er trinkt Bier.;He drinks beer.
+Wir trinken am Abend Tee.;We drink tea in the evening.
+Sie tranken Kaffee.;They drank coffee.
+Ich schlafe lange.;I sleep long.
+Du schläfst wenig.;You sleep little.
+Er schläft im Bett.;He sleeps in the bed.
+Wir schlafen gut.;We sleep well.
+Ich schlief schlecht.;I slept badly.
+Ich kaufe im Supermarkt.;I shop in the supermarket.
+Du kaufst ein Brot.;You buy a bread.
+Er kauft Kleidung.;He buys clothes.
+Wir kaufen für die Party.;We buy for the party.
+Sie kauften viel.;They bought a lot.
+Ich wohne in Berlin.;I live in Berlin.
+Du wohnst bei deinen Eltern.;You live with your parents.
+Er wohnt allein.;He lives alone.
+Wir wohnen zusammen.;We live together.
+Sie wohnten dort.;They lived there.
+Ich fahre mit dem Bus.;I travel by bus.
+Du fährst nach Hause.;You drive home.
+Er fährt schnell.;He drives fast.
+Wir fahren ans Meer.;We go to the sea.
+Sie fuhren gestern.;They drove yesterday.
+Ich lese ein Buch.;I read a book.
+Du liest die Zeitung.;You read the newspaper.
+Er liest langsam.;He reads slowly.
+Wir lesen zusammen.;We read together.
+Ich las lange.;I read for a long time.
+Ich schreibe einen Brief.;I write a letter.
+Du schreibst eine Nachricht.;You write a message.
+Er schreibt viel.;He writes a lot.
+Wir schreiben im Unterricht.;We write in class.
+Sie schrieben schnell.;They wrote quickly.
+Ich nehme den Zug.;I take the train.
+Du nimmst das Geld.;You take the money.
+Er nimmt ein Bad.;He takes a bath.
+Wir nehmen Platz.;We take a seat.
+Sie nahmen alles.;They took everything.
+Ich finde den Weg.;I find the way.
+Du findest das gut.;You find that good.
+Er findet einen Job.;He finds a job.
+Wir finden Lösungen.;We find solutions.
+Ich fand es schwer.;I found it difficult.
+Ich bleibe zu Hause.;I stay at home.
+Du bleibst hier.;You stay here.
+Er bleibt ruhig.;He stays calm.
+Wir bleiben lange.;We stay long.
+Sie blieben zusammen.;They stayed together.
+Ich beginne um acht.;I start at eight.
+Du beginnst heute.;You start today.
+Er beginnt früh.;He starts early.
+Wir beginnen jetzt.;We start now.
+Ich begann gestern.;I started yesterday.
+Ich lerne in der Schule.;I learn in school.
+Du lernst schnell.;You learn quickly.
+Er lernt Deutsch.;He learns German.
+Wir lernen zusammen.;We learn together.
+Sie lernten viel.;They learned a lot.
+Ich arbeite im Büro.;I work in the office.
+Du arbeitest hart.;You work hard.
+Er arbeitet viel.;He works a lot.
+Wir arbeiten heute.;We work today.
+Sie arbeiteten dort.;They worked there.
+Ich spiele im Garten.;I play in the garden.
+Du spielst gern.;You like to play.
+Er spielt Fußball.;He plays football.
+Wir spielen Karten.;We play cards.
+Sie spielten lange.;They played long.
+Ich wohne neben dem Park.;I live next to the park.
+Die Katze liegt auf dem Tisch.;The cat lies on the table.
+Der Hund sitzt unter dem Tisch.;The dog sits under the table.
+Das Bild hängt an der Wand.;The picture hangs on the wall.
+Wir gehen über die Straße.;We go across the street.
+Das Geschenk ist für dich.;The gift is for you.
+Ich komme ohne dich.;I come without you.
+Er geht gegen den Wind.;He walks against the wind.
+Sie fährt durch die Stadt.;She drives through the city.
+Wir laufen um den See.;We walk around the lake.
+Ich kann schwimmen.;I can swim.
+Du kannst helfen.;You can help.
+Er kann gut kochen.;He can cook well.
+Wir können kommen.;We can come.
+Sie konnten nicht bleiben.;They could not stay.
+Ich muss arbeiten.;I must work.
+Du musst lernen.;You must learn.
+Er muss gehen.;He must go.
+Wir müssen warten.;We must wait.
+Sie mussten früh aufstehen.;They had to get up early.
+Ich will schlafen.;I want to sleep.
+Du willst essen.;You want to eat.
+Er will reisen.;He wants to travel.
+Wir wollen bleiben.;We want to stay.
+Sie wollten gehen.;They wanted to go.
+Ich werde morgen kommen.;I will come tomorrow.
+Du wirst es sehen.;You will see it.
+Er wird helfen.;He will help.
+Wir werden lernen.;We will learn.
+Sie werden später anrufen.;They will call later.
+Der alte Mann kauft einen frischen Apfel auf dem Markt.;The old man buys a fresh apple at the market.
+Die junge Frau liest ein interessantes Buch im Café.;The young woman reads an interesting book in the café.
+Das kleine Kind spielt mit einem roten Ball im Garten.;The small child plays with a red ball in the garden.
+Wir besuchen unsere guten Freunde am Wochenende.;We visit our good friends on the weekend.
+Ihr bringt den neuen Tisch in das große Zimmer.;You all bring the new table into the big room.
+Die freundliche Lehrerin erklärt den schwierigen Text sehr langsam.;The friendly teacher explains the difficult text very slowly.
+Der kluge Student schreibt eine lange E-Mail an seinen Professor.;The smart student writes a long email to his professor.
+Die nette Nachbarin gibt dem alten Mann eine warme Suppe.;The nice neighbor gives the old man a warm soup.
+Ich kaufe meiner kleinen Schwester ein schönes Geschenk.;I buy my little sister a nice present.
+Er zeigt dem interessierten Kind ein spannendes Spiel.;He shows the interested child an exciting game.
+Wir gehen mit unseren guten Freunden in ein kleines Restaurant.;We go with our good friends to a small restaurant.
+Sie fährt mit dem schnellen Zug in die große Stadt.;She travels with the fast train to the big city.
+Ich wohne in einer kleinen Wohnung mit einem schönen Balkon.;I live in a small apartment with a nice balcony.
+Du arbeitest in einem großen Büro mit vielen Kollegen.;You work in a big office with many colleagues.
+Er schläft in einem bequemen Bett nach einem langen Tag.;He sleeps in a comfortable bed after a long day.
+Wir lernen die neuen Wörter mit einem guten Buch.;We learn the new words with a good book.
+Sie trinken einen heißen Kaffee mit kalter Milch am Morgen.;They drink a hot coffee with cold milk in the morning.
+Ich esse einen frischen Salat mit leckerem Brot zum Mittag.;I eat a fresh salad with tasty bread for lunch.
+Du kaufst im Supermarkt eine große Flasche mit kaltem Wasser.;You buy a big bottle with cold water in the supermarket.
+Er findet den alten Schlüssel unter dem schweren Tisch.;He finds the old key under the heavy table.
+Wir sehen einen schönen Film im neuen Kino.;We watch a nice movie in the new cinema.
+Sie hören die laute Musik aus dem kleinen Radio.;They hear the loud music from the small radio.
+Ich schreibe einen langen Brief an meine beste Freundin.;I write a long letter to my best friend.
+Du liest die interessante Zeitung mit deinem Kaffee am Morgen.;You read the interesting newspaper with your coffee in the morning.
+Er öffnet das große Fenster mit der linken Hand.;He opens the big window with the left hand.
+Wir schließen die alte Tür nach dem langen Gespräch.;We close the old door after the long conversation.
+Sie nehmen den ersten Bus zur neuen Arbeit.;They take the first bus to the new job.
+Ich bringe meiner netten Mutter frische Blumen aus dem Garten.;I bring my nice mother fresh flowers from the garden.
+Du gibst deinem kleinen Bruder ein neues Spiel.;You give your little brother a new game.
+Er hilft seiner alten Großmutter mit der schweren Tasche.;He helps his old grandmother with the heavy bag.
+Wir fragen den freundlichen Lehrer nach der neuen Aufgabe.;We ask the friendly teacher about the new task.
+Sie antworten dem jungen Mann mit einer klaren Stimme.;They answer the young man with a clear voice.
+Ich beginne den langen Tag mit einem guten Frühstück.;I begin the long day with a good breakfast.
+Du beendest die schwere Arbeit mit einem kleinen Erfolg.;You finish the hard work with a small success.
+Er besucht seinen alten Freund in einer anderen Stadt.;He visits his old friend in another city.
+Wir bleiben nach dem langen Film in einem kleinen Café.;We stay in a small café after the long movie.
+Sie gehen durch den großen Park mit ihren kleinen Kindern.;They walk through the big park with their small children.
+Ich laufe schnell über die breite Straße.;I run quickly across the wide street.
+Du sitzt auf dem bequemen Stuhl neben dem großen Tisch.;You sit on the comfortable chair next to the big table.
+Er steht vor dem alten Haus mit einer schweren Tasche.;He stands in front of the old house with a heavy bag.
+Wir legen das neue Buch auf den kleinen Tisch.;We put the new book on the small table.
+Sie hängen das schöne Bild an die helle Wand.;They hang the beautiful picture on the bright wall.
+Ich stelle die kalte Milch in den großen Kühlschrank.;I put the cold milk into the big fridge.
+Du legst den alten Schlüssel auf den runden Tisch.;You put the old key on the round table.
+Er stellt die schwere Tasche neben die offene Tür.;He puts the heavy bag next to the open door.
+Wir kochen eine warme Suppe mit frischem Gemüse.;We cook a warm soup with fresh vegetables.
+Sie backen einen süßen Kuchen für den kleinen Geburtstag.;They bake a sweet cake for the small birthday.
+Ich wasche die schmutzigen Hände mit kaltem Wasser.;I wash the dirty hands with cold water.
+Du reinigst den großen Tisch mit einem nassen Tuch.;You clean the big table with a wet cloth.
+Er kauft einen neuen Computer für die schwere Arbeit.;He buys a new computer for the hard work.
+Wir verkaufen das alte Auto zu einem guten Preis.;We sell the old car at a good price.
+Sie öffnen die kleinen Fenster am warmen Morgen.;They open the small windows in the warm morning.
+Ich schließe die schwere Tür mit einem alten Schlüssel.;I close the heavy door with an old key.
+Du lernst die deutschen Wörter mit großer Motivation.;You learn the German words with great motivation.
+Er übt die schwierige Grammatik mit einem guten Lehrer.;He practices the difficult grammar with a good teacher.
+Wir wiederholen die alten Sätze vor der wichtigen Prüfung.;We repeat the old sentences before the important exam.
+Sie erklären die neuen Regeln mit klaren Beispielen.;They explain the new rules with clear examples.
+Komm bitte in das große Zimmer mit dem runden Tisch!;Please come into the big room with the round table!
+Öffne das kleine Fenster mit der rechten Hand!;Open the small window with the right hand!
+Lies den langen Text mit großer Aufmerksamkeit!;Read the long text with great attention!
+Schreib eine kurze Nachricht an deinen guten Freund!;Write a short message to your good friend!
+Nimm den ersten Bus zur neuen Schule!;Take the first bus to the new school!
+Gib dem alten Mann eine freundliche Antwort!;Give the old man a friendly answer!
+Hilf deiner kleinen Schwester mit der schweren Aufgabe!;Help your little sister with the difficult task!
+Kauf eine frische Banane auf dem großen Markt!;Buy a fresh banana at the big market!
+Bring mir bitte ein kaltes Wasser aus der Küche!;Bring me a cold water from the kitchen please!
+Erzähl mir eine interessante Geschichte aus deinem Leben!;Tell me an interesting story from your life!
+Der Kellner bringt dem hungrigen Gast eine heiße Suppe aus der Küche.;The waiter brings the hungry guest a hot soup from the kitchen.
+Die Ärztin gibt dem kranken Kind eine gute Medizin.;The doctor gives the sick child a good medicine.
+Der Lehrer zeigt den neuen Schülern die große Schule.;The teacher shows the new students the big school.
+Die Mutter kauft für ihre kleine Tochter ein warmes Kleid.;The mother buys a warm dress for her little daughter.
+Der Vater repariert das kaputte Fahrrad in der alten Garage.;The father repairs the broken bicycle in the old garage.
+Die Familie verbringt den sonnigen Tag am ruhigen See.;The family spends the sunny day at the quiet lake.
+Der Tourist macht viele schöne Fotos von der alten Stadt.;The tourist takes many beautiful photos of the old city.
+Die Kinder bauen einen großen Turm mit bunten Steinen.;The children build a big tower with colorful stones.
+Der Verkäufer erklärt dem neuen Kunden das teure Produkt.;The seller explains the expensive product to the new customer.
+Die Studentin stellt dem klugen Professor eine wichtige Frage.;The student asks the smart professor an important question.
+Der Bäcker verkauft frisches Brot aus dem kleinen Laden.;The baker sells fresh bread from the small shop.
+Die alte Frau erzählt ihrem jungen Enkel eine lange Geschichte.;The old woman tells her young grandson a long story.
+Der Fahrer parkt das schnelle Auto vor dem großen Haus.;The driver parks the fast car in front of the big house.
+Die Freunde treffen sich in einer gemütlichen Bar am Abend.;The friends meet in a cozy bar in the evening.
+Der Junge trägt einen schweren Rucksack zur neuen Schule.;The boy carries a heavy backpack to the new school.
+Die Lehrerin korrigiert die langen Texte mit einem roten Stift.;The teacher corrects the long texts with a red pen.
+Der Koch bereitet ein leckeres Essen mit frischen Zutaten zu.;The cook prepares a tasty meal with fresh ingredients.
+Die Gäste bestellen einen guten Wein in dem teuren Restaurant.;The guests order a good wine in the expensive restaurant.
+Der Musiker spielt ein ruhiges Lied auf der alten Gitarre.;The musician plays a calm song on the old guitar.
+Die Sängerin singt ein schönes Lied mit einer starken Stimme.;The singer sings a beautiful song with a strong voice.
+Der Polizist kontrolliert den schnellen Fahrer auf der Straße.;The police officer checks the fast driver on the street.
+Die Katze schläft auf dem weichen Sofa im warmen Zimmer.;The cat sleeps on the soft sofa in the warm room.
+Der Hund läuft durch den großen Garten mit viel Energie.;The dog runs through the big garden with a lot of energy.
+Die Sonne scheint über den blauen Himmel am Morgen.;The sun shines over the blue sky in the morning.
+Der Regen fällt auf die nasse Straße am Abend.;The rain falls on the wet street in the evening.
+Die Frau trägt einen eleganten Mantel im kalten Winter.;The woman wears an elegant coat in the cold winter.
+Der Mann kauft einen warmen Schal für den kalten Tag.;The man buys a warm scarf for the cold day.
+Die Kinder lernen neue Lieder in der kleinen Schule.;The children learn new songs in the small school.
+Der Student schreibt wichtige Notizen während der langen Vorlesung.;The student writes important notes during the long lecture.
+Die Freundin bringt ihrem besten Freund eine kleine Überraschung.;The friend brings her best friend a small surprise.
+Der Nachbar gießt die grünen Pflanzen im schönen Garten.;The neighbor waters the green plants in the beautiful garden.
+Die Familie feiert einen großen Geburtstag mit vielen Gästen.;The family celebrates a big birthday with many guests.
+Der Junge öffnet vorsichtig die alte Holztür.;The boy carefully opens the old wooden door.
+Die Frau schließt schnell das kleine Fenster wegen des Windes.;The woman quickly closes the small window because of the wind.
+Der Mann liest die kurzen Nachrichten auf seinem neuen Handy.;The man reads the short messages on his new phone.
+Die Kinder sehen einen lustigen Film im gemütlichen Wohnzimmer.;The children watch a funny movie in the cozy living room.
+Der Lehrer erklärt die neue Regel mit einfachen Worten.;The teacher explains the new rule with simple words.
+Die Schülerin beantwortet die schwere Frage mit großer Sicherheit.;The student answers the difficult question with great confidence.
+Der Arzt untersucht den kranken Patienten im hellen Zimmer.;The doctor examines the sick patient in the bright room.
+Die Krankenschwester bringt dem alten Mann ein frisches Wasser.;The nurse brings the old man fresh water.
+Der Verkäufer zeigt der Frau ein günstiges Kleid.;The seller shows the woman an affordable dress.
+Die Kundin bezahlt die teure Rechnung mit einer Kreditkarte.;The customer pays the expensive bill with a credit card.
+Der Reisende nimmt den frühen Zug zum nächsten Bahnhof.;The traveler takes the early train to the next station.
+Die Touristen besuchen ein berühmtes Museum in der großen Stadt.;The tourists visit a famous museum in the big city.
+Der Schüler lernt die deutschen Artikel mit einem guten Beispiel.;The student learns the German articles with a good example.
+Die Lehrerin stellt eine klare Aufgabe für die ganze Klasse.;The teacher sets a clear task for the whole class.
+Der Junge fragt seine Mutter nach einem neuen Spiel.;The boy asks his mother for a new game.
+Die Mutter antwortet ihrem Sohn mit einer ruhigen Stimme.;The mother answers her son with a calm voice.
+Der Vater hilft seinem Kind bei den schwierigen Hausaufgaben.;The father helps his child with the difficult homework.
+Die Familie isst ein warmes Abendessen an dem großen Tisch.;The family eats a warm dinner at the big table.
+Der Kellner bringt die schnelle Rechnung nach dem Essen.;The waiter brings the quick bill after the meal.
+Die Gäste verlassen das laute Restaurant nach einem langen Abend.;The guests leave the loud restaurant after a long evening.
+Der Mann bestellt ein kaltes Bier in der kleinen Bar.;The man orders a cold beer in the small bar.
+Die Frau trinkt einen heißen Tee mit etwas Zucker.;The woman drinks a hot tea with some sugar.
+Der Junge spielt mit seinem neuen Spielzeug im hellen Zimmer.;The boy plays with his new toy in the bright room.
+Die Kinder laufen über die grüne Wiese hinter dem Haus.;The children run across the green meadow behind the house.
+Der Lehrer ruft die Namen der neuen Schüler laut.;The teacher calls the names of the new students loudly.
+Die Schülerin öffnet ihr altes Buch auf der ersten Seite.;The student opens her old book on the first page.
+Der Mann wartet auf den nächsten Bus an der Haltestelle.;The man waits for the next bus at the stop.
+Die Frau steigt in den vollen Zug mit einer schweren Tasche.;The woman gets into the full train with a heavy bag.
+Der Fahrer fährt durch den langen Tunnel unter der Stadt.;The driver drives through the long tunnel under the city.
+Die Sonne geht hinter den hohen Bergen langsam unter.;The sun sets slowly behind the high mountains.
+Der Wind weht durch die offenen Fenster in der Nacht.;The wind blows through the open windows at night.
+Die Leute tanzen zu lauter Musik auf der großen Party.;The people dance to loud music at the big party.
+Der DJ spielt moderne Lieder für die jungen Gäste.;The DJ plays modern songs for the young guests.
+Die Freundin schenkt ihrem Freund ein schönes Armband.;The girlfriend gives her boyfriend a beautiful bracelet.
+Der Freund bedankt sich bei seiner Freundin mit einem Kuss.;The boyfriend thanks his girlfriend with a kiss.
+Lerne die neuen Wörter mit einem klaren Beispiel aus dem Buch!;Learn the new words with a clear example from the book!
+Wiederhole die schwierigen Sätze mit großer Geduld jeden Tag!;Repeat the difficult sentences with great patience every day!
+Schreibe die richtige Antwort mit einem blauen Stift in dein Heft!;Write the correct answer with a blue pen in your notebook!
+Sprich mit deinem Lehrer über die neue Grammatik im Unterricht!;Speak with your teacher about the new grammar in class!
+Hör gut zu und verstehe den einfachen Text Schritt für Schritt!;Listen carefully and understand the simple text step by step!
+Lies den interessanten Artikel in der Zeitung am Morgen!;Read the interesting article in the newspaper in the morning!
+Nimm einen warmen Mantel für den kalten Abend mit!;Take a warm coat for the cold evening with you!
+Geh mit deinen guten Freunden in ein schönes Café in der Stadt!;Go with your good friends to a nice café in the city!
+Komm pünktlich zu dem wichtigen Termin am frühen Morgen!;Come on time to the important appointment in the early morning!
+Bleib ruhig in der schwierigen Situation mit dem neuen Problem!;Stay calm in the difficult situation with the new problem!
+Der junge Arzt untersucht den kranken Patienten in einem ruhigen Zimmer.;The young doctor examines the sick patient in a quiet room.
+Die fleißige Studentin beantwortet die schwierige Frage mit großer Sicherheit.;The hardworking student answers the difficult question with great confidence.
+Ein alter Baum steht neben dem kleinen Haus am ruhigen See.;An old tree stands next to the small house by the quiet lake.
+Der neue Chef spricht mit den wichtigen Kunden über ein großes Projekt.;The new boss speaks with the important clients about a big project.
+Die kleine Katze schläft auf dem warmen Sofa im hellen Wohnzimmer.;The small cat sleeps on the warm sofa in the bright living room.
+Ein freundlicher Kellner bringt den Gästen das frische Essen auf einem großen Teller.;A friendly waiter brings the guests the fresh food on a big plate.
+Die moderne Firma entwickelt neue Produkte für den internationalen Markt.;The modern company develops new products for the international market.
+Ein junger Mann wartet auf den nächsten Zug am großen Bahnhof.;A young man waits for the next train at the big train station.
+Die alte Dame erzählt dem netten Kind eine spannende Geschichte.;The old lady tells the nice child an exciting story.
+Ein guter Freund hilft mir bei einem wichtigen Problem.;A good friend helps me with an important problem.
+Der schnelle Fahrer fährt das neue Auto durch eine enge Straße.;The fast driver drives the new car through a narrow street.
+Die schöne Stadt bietet viele interessante Sehenswürdigkeiten für die Touristen.;The beautiful city offers many interesting sights for the tourists.
+Ein kleines Mädchen malt ein buntes Bild mit vielen Farben.;A small girl paints a colorful picture with many colors.
+Der erfahrene Lehrer erklärt den Schülern die neue Grammatik mit einfachen Worten.;The experienced teacher explains the new grammar to the students with simple words.
+Ein hungriger Hund sucht nach einem leckeren Essen im Garten.;A hungry dog looks for tasty food in the garden.
+Die junge Familie plant einen langen Urlaub in einem warmen Land.;The young family plans a long vacation in a warm country.
+Ein fleißiger Arbeiter baut ein großes Haus mit starken Materialien.;A hardworking worker builds a big house with strong materials.
+Der kleine Junge fragt seine Mutter nach einem neuen Spielzeug.;The small boy asks his mother for a new toy.
+Die nette Verkäuferin zeigt dem Kunden ein günstiges Produkt.;The nice saleswoman shows the customer an affordable product.
+Ein alter Mann liest eine dicke Zeitung auf einer ruhigen Bank.;An old man reads a thick newspaper on a quiet bench.
+Der kluge Schüler versteht die schwierige Aufgabe ohne Hilfe.;The smart student understands the difficult task without help.
+Die aktive Sportlerin trainiert jeden Tag für einen wichtigen Wettkampf.;The active athlete trains every day for an important competition.
+Ein neugieriges Kind öffnet vorsichtig eine alte Kiste im Keller.;A curious child carefully opens an old box in the basement.
+Der berühmte Sänger singt ein neues Lied vor vielen Menschen.;The famous singer sings a new song in front of many people.
+Die freundlichen Nachbarn feiern zusammen eine kleine Party im Garten.;The friendly neighbors celebrate a small party together in the garden.
+Ein starker Wind bewegt die hohen Bäume im dunklen Wald.;A strong wind moves the tall trees in the dark forest.
+Der kleine Laden verkauft frisches Obst und Gemüse aus der Region.;The small shop sells fresh fruits and vegetables from the region.
+Die kluge Frau löst das schwierige Problem mit einer guten Idee.;The smart woman solves the difficult problem with a good idea.
+Ein junger Student sucht eine günstige Wohnung in der großen Stadt.;A young student looks for an affordable apartment in the big city.
+Der freundliche Polizist hilft den Touristen mit klaren Informationen.;The friendly police officer helps the tourists with clear information.
+Die warme Sonne scheint auf die ruhige Straße am Morgen.;The warm sun shines on the quiet street in the morning.
+Ein kleines Restaurant bietet leckeres Essen zu einem guten Preis.;A small restaurant offers tasty food at a good price.
+Der erfahrene Koch bereitet ein besonderes Gericht mit frischen Zutaten zu.;The experienced cook prepares a special dish with fresh ingredients.
+Die junge Frau trägt ein schönes Kleid mit einem eleganten Design.;The young woman wears a beautiful dress with an elegant design.
+Ein alter Freund besucht mich nach einer langen Zeit.;An old friend visits me after a long time.
+Der große Hund bewacht das ruhige Haus in der Nacht.;The big dog guards the quiet house at night.
+Die fleißigen Schüler lernen die neuen Wörter vor der wichtigen Prüfung.;The hardworking students learn the new words before the important exam.
+Ein moderner Computer verarbeitet viele Daten in kurzer Zeit.;A modern computer processes a lot of data in a short time.
+Der nette Lehrer stellt den Schülern eine interessante Frage.;The nice teacher asks the students an interesting question.
+Die junge Mutter kauft ihrem kleinen Kind warme Kleidung für den Winter.;The young mother buys her small child warm clothes for the winter.
+Ein schneller Zug verbindet die zwei großen Städte miteinander.;A fast train connects the two big cities with each other.
+Der alte Markt bietet viele frische Produkte aus der Region.;The old market offers many fresh products from the region.
+Die schöne Landschaft zeigt hohe Berge und klare Seen.;The beautiful landscape shows high mountains and clear lakes.
+Ein fleißiger Mitarbeiter erledigt die wichtige Aufgabe mit großer Sorgfalt.;A hardworking employee completes the important task with great care.
+Der kleine Vogel fliegt über den ruhigen Garten am Abend.;The small bird flies over the quiet garden in the evening.
+Die kluge Entscheidung bringt dem Unternehmen einen großen Erfolg.;The smart decision brings the company great success.
+Ein freundlicher Nachbar leiht mir ein nützliches Werkzeug für die Arbeit.;A friendly neighbor lends me a useful tool for the work.
+Der junge Fahrer parkt das Auto vor dem großen Gebäude.;The young driver parks the car in front of the big building.
+Die aktive Gruppe organisiert ein spannendes Event für viele Gäste.;The active group organizes an exciting event for many guests.
+Ein alter Film erzählt eine traurige Geschichte aus der Vergangenheit.;An old film tells a sad story from the past.
+Der nette Kollege erklärt mir die neue Aufgabe mit viel Geduld.;The nice colleague explains the new task to me with a lot of patience.
+Die kleine Schule liegt in einem ruhigen Dorf in den Bergen.;The small school lies in a quiet village in the mountains.
+Ein junger Künstler malt ein großes Bild mit modernen Ideen.;A young artist paints a big picture with modern ideas.
+Der erfahrene Fahrer kennt den schnellen Weg durch die Stadt.;The experienced driver knows the fast way through the city.
+Die freundliche Familie lädt uns zu einem leckeren Abendessen ein.;The friendly family invites us to a tasty dinner.
+Ein neugieriger Tourist fotografiert die alten Gebäude im Zentrum.;A curious tourist photographs the old buildings in the center.
+Der starke Regen fällt auf die leere Straße am Abend.;The heavy rain falls on the empty street in the evening.
+Die kluge Antwort überzeugt den strengen Lehrer sofort.;The smart answer convinces the strict teacher immediately.
+Ein kleiner Hund spielt mit einem bunten Ball auf der grünen Wiese.;A small dog plays with a colorful ball on the green meadow.
+Der große Supermarkt bietet viele Produkte aus verschiedenen Ländern.;The big supermarket offers many products from different countries.
+Die junge Studentin arbeitet an einem wichtigen Projekt für die Universität.;The young student works on an important project for the university.
+Ein erfahrener Arzt gibt dem Patienten einen guten Rat.;An experienced doctor gives the patient good advice.
+Der freundliche Verkäufer empfiehlt dem Kunden ein günstiges Angebot.;The friendly seller recommends the customer a good deal.
+Die schöne Musik klingt durch das ganze große Haus.;The beautiful music sounds through the whole big house.
+Ein alter Lehrer erinnert sich an seine ersten Schüler.;An old teacher remembers his first students.
+Der schnelle Läufer gewinnt das wichtige Rennen mit großem Abstand.;The fast runner wins the important race by a big margin.
+Die nette Freundin bringt mir ein kleines Geschenk zum Geburtstag.;The nice friend brings me a small gift for my birthday.
+Ein kluger Plan hilft dem Team bei einem schwierigen Problem.;A smart plan helps the team with a difficult problem.
+Der Schüler beantwortet die einfache Frage mit einer richtigen Antwort im Unterricht.;The student answers the simple question with a correct answer in class.
+Die Lehrerin erklärt den neuen Schülern die deutsche Grammatik mit vielen Beispielen.;The teacher explains German grammar to the new students with many examples.
+Der Tourist fragt nach dem Weg zum berühmten Museum in der Stadt.;The tourist asks for the way to the famous museum in the city.
+Die Verkäuferin empfiehlt dem Kunden ein günstiges Produkt aus dem Sortiment.;The saleswoman recommends an affordable product from the selection to the customer.
+Der Arzt verschreibt dem kranken Mann eine starke Medizin gegen die Schmerzen.;The doctor prescribes strong medicine to the sick man against the pain.
+Die Krankenschwester kümmert sich um den alten Patienten mit großer Geduld.;The nurse takes care of the old patient with great patience.
+Der Mechaniker repariert das kaputte Auto in der kleinen Werkstatt.;The mechanic repairs the broken car in the small workshop.
+Die Sekretärin organisiert einen wichtigen Termin für den neuen Chef.;The secretary organizes an important appointment for the new boss.
+Der Chef spricht mit den Mitarbeitern über das neue Projekt im Büro.;The boss talks with the employees about the new project in the office.
+Die Firma produziert hochwertige Produkte für den internationalen Markt.;The company produces high-quality products for the international market.
+Der Kunde beschwert sich über das schlechte Essen in dem Restaurant.;The customer complains about the bad food in the restaurant.
+Die Kellnerin bringt dem Gast eine saubere Speisekarte auf den Tisch.;The waitress brings a clean menu to the guest on the table.
+Der Koch schneidet frisches Gemüse mit einem scharfen Messer in der Küche.;The cook cuts fresh vegetables with a sharp knife in the kitchen.
+Die Familie plant einen langen Urlaub in einem warmen Land am Meer.;The family plans a long vacation in a warm country by the sea.
+Der Reisende packt seine schweren Koffer für die wichtige Reise.;The traveler packs his heavy suitcases for the important trip.
+Die Passagiere warten auf den verspäteten Flug am großen Flughafen.;The passengers wait for the delayed flight at the big airport.
+Der Fahrer tankt das Auto an der nächsten Tankstelle außerhalb der Stadt.;The driver refuels the car at the next gas station outside the city.
+Die Polizei sucht nach dem verlorenen Schlüssel in der dunklen Straße.;The police search for the lost key in the dark street.
+Der Feuerwehrmann löscht das große Feuer mit viel Wasser.;The firefighter extinguishes the big fire with a lot of water.
+Die Nachbarn sprechen über das laute Geräusch in der Nacht.;The neighbors talk about the loud noise at night.
+Der Mann telefoniert mit seiner Frau über den wichtigen Termin.;The man talks on the phone with his wife about the important appointment.
+Die Frau schreibt eine kurze Nachricht an ihren Kollegen im Büro.;The woman writes a short message to her colleague in the office.
+Der Junge erklärt seinem Freund die schwierige Aufgabe aus dem Buch.;The boy explains the difficult task from the book to his friend.
+Die Mädchen unterhalten sich über die neue Mode in der Schule.;The girls talk about the new fashion in school.
+Der Student diskutiert mit dem Professor über ein interessantes Thema.;The student discusses an interesting topic with the professor.
+Die Gruppe arbeitet gemeinsam an einem wichtigen Projekt im Raum.;The group works together on an important project in the room.
+Der Teilnehmer beantwortet die Fragen in der schweren Prüfung.;The participant answers the questions in the difficult exam.
+Die Lehrerin korrigiert die Fehler in den langen Texten der Schüler.;The teacher corrects the mistakes in the long texts of the students.
+Der Junge vergisst seine Hausaufgaben zu Hause auf dem Tisch.;The boy forgets his homework at home on the table.
+Die Mutter erinnert ihr Kind an die wichtige Aufgabe für morgen.;The mother reminds her child of the important task for tomorrow.
+Der Vater bringt sein Kind zur neuen Schule am frühen Morgen.;The father brings his child to the new school early in the morning.
+Die Familie frühstückt zusammen an einem großen Tisch in der Küche.;The family has breakfast together at a big table in the kitchen.
+Der Mann liest die Nachrichten auf seinem Laptop im Büro.;The man reads the news on his laptop in the office.
+Die Frau arbeitet konzentriert an einem wichtigen Dokument.;The woman works with concentration on an important document.
+Der Kollege hilft seinem Freund bei einem schwierigen Problem.;The colleague helps his friend with a difficult problem.
+Die Chefin lobt den Mitarbeiter für seine gute Arbeit im Team.;The boss praises the employee for his good work in the team.
+Der Kunde bezahlt die Rechnung mit Bargeld an der Kasse.;The customer pays the bill with cash at the checkout.
+Die Kassiererin gibt dem Kunden das Wechselgeld mit einem Lächeln.;The cashier gives the customer the change with a smile.
+Der Junge leiht sich ein spannendes Buch aus der Bibliothek.;The boy borrows an exciting book from the library.
+Die Bibliothekarin zeigt dem Besucher den richtigen Bereich.;The librarian shows the visitor the correct section.
+Der Sportler trainiert jeden Tag im großen Fitnessstudio.;The athlete trains every day in the big gym.
+Die Spieler gewinnen das wichtige Spiel gegen die starke Mannschaft.;The players win the important game against the strong team.
+Der Trainer erklärt die neue Strategie vor dem schweren Spiel.;The coach explains the new strategy before the difficult game.
+Die Zuschauer sehen das spannende Spiel im großen Stadion.;The spectators watch the exciting game in the big stadium.
+Der Läufer läuft eine lange Strecke durch den ruhigen Wald.;The runner runs a long distance through the quiet forest.
+Die Wanderer steigen auf den hohen Berg mit viel Energie.;The hikers climb the high mountain with a lot of energy.
+Der Fotograf macht schöne Bilder von der Natur am Morgen.;The photographer takes beautiful pictures of nature in the morning.
+Die Sonne wärmt die kalte Luft nach der langen Nacht.;The sun warms the cold air after the long night.
+Der Regen macht die Straßen in der Stadt sehr nass.;The rain makes the streets in the city very wet.
+Die Leute tragen warme Kleidung bei dem kalten Wetter.;The people wear warm clothes in the cold weather.
+Der Winter bringt viel Schnee in die kleinen Dörfer.;The winter brings a lot of snow to the small villages.
+Der Sommer bringt lange Tage und warme Nächte.;The summer brings long days and warm nights.
+Die Kinder schwimmen im klaren Wasser des großen Sees.;The children swim in the clear water of the big lake.
+Der Mann angelt ruhig am Ufer mit einer langen Angel.;The man fishes calmly at the shore with a long fishing rod.
+Die Frau pflanzt schöne Blumen in den kleinen Garten.;The woman plants beautiful flowers in the small garden.
+Der Nachbar schneidet das hohe Gras mit einer Maschine.;The neighbor cuts the tall grass with a machine.
+Die Katze jagt eine kleine Maus hinter dem alten Haus.;The cat hunts a small mouse behind the old house.
+Der Hund bellt laut vor der geschlossenen Tür.;The dog barks loudly in front of the closed door.
+Das Pferd läuft schnell über die grüne Wiese.;The horse runs fast across the green meadow.
+Der Vogel sitzt auf einem hohen Baum und singt ein Lied.;The bird sits on a tall tree and sings a song.
+Die Leute kaufen frisches Obst und Gemüse auf dem Markt.;The people buy fresh fruit and vegetables at the market.
+Der Verkäufer wiegt die roten Äpfel mit einer alten Waage.;The seller weighs the red apples with an old scale.
+Die Kundin wählt eine schöne Jacke in der richtigen Größe.;The customer chooses a beautiful jacket in the right size.
+Der Junge probiert neue Schuhe in dem großen Geschäft.;The boy tries new shoes in the big shop.
+Die Frau bezahlt mit ihrer Karte an der modernen Kasse.;The woman pays with her card at the modern checkout.
+Der Mann sucht nach einem guten Restaurant in der Nähe.;The man looks for a good restaurant nearby.
+Die Freunde reservieren einen Tisch für den besonderen Abend.;The friends reserve a table for the special evening.
+Der Kellner empfiehlt ein leckeres Gericht mit frischem Fisch.;The waiter recommends a tasty dish with fresh fish.
+Die Gäste genießen das ruhige Ambiente und das gute Essen.;The guests enjoy the calm atmosphere and the good food.
+Bestelle ein kaltes Getränk mit Eis in dem kleinen Café!;Order a cold drink with ice in the small café!
+Frage den freundlichen Verkäufer nach einem besseren Preis!;Ask the friendly seller for a better price!
+Erkläre deinem neuen Kollegen die wichtige Aufgabe im Büro!;Explain the important task in the office to your new colleague!
+Rufe deine Familie nach dem langen Arbeitstag am Abend an!;Call your family after the long workday in the evening!
+Pack deine Sachen für die kurze Reise am Wochenende!;Pack your things for the short trip on the weekend!
+Vergiss deinen Schlüssel nicht vor dem Verlassen des Hauses!;Do not forget your key before leaving the house!
+Hilf den alten Leuten beim Tragen der schweren Taschen!;Help the old people carry the heavy bags!
+Zeig dem Touristen den richtigen Weg zur alten Brücke!;Show the tourist the right way to the old bridge!
+Bleib bei deinen Freunden in der schwierigen Situation!;Stay with your friends in the difficult situation!
+Genieße den schönen Tag mit deiner Familie im Park!;Enjoy the beautiful day with your family in the park!
+Ich heiße Anna und komme aus Deutschland.;My name is Anna and I come from Germany.
+Der Hund ist groß und sehr freundlich.;The dog is big and very friendly.
+Wir essen gerne Pizza am Wochenende.;We like to eat pizza on the weekend.
+Mein Bruder spielt Fußball im Park.;My brother plays football in the park.
+Das Wetter ist heute schön und warm.;The weather is nice and warm today.
+Ich trinke jeden Morgen Kaffee mit Milch.;I drink coffee with milk every morning.
+Die Katze schläft auf dem Sofa.;The cat sleeps on the sofa.
+Wir fahren morgen nach Berlin mit dem Zug.;We are going to Berlin by train tomorrow.
+Meine Mutter kocht sehr gut und lecker.;My mother cooks very well and deliciously.
+Das Auto ist rot und ziemlich neu.;The car is red and quite new.
+Ich lerne Deutsch in der Schule.;I learn German at school.
+Die Kinder spielen im Garten zusammen.;The children play together in the garden.
+Mein Vater arbeitet in einem Büro.;My father works in an office.
+Wir wohnen in einer kleinen Wohnung.;We live in a small apartment.
+Das Buch ist interessant und nicht teuer.;The book is interesting and not expensive.
+Ich habe einen Bruder und eine Schwester.;I have one brother and one sister.
+Der Apfel schmeckt süß und frisch.;The apple tastes sweet and fresh.
+Wir gehen oft ins Kino am Abend.;We often go to the cinema in the evening.
+Meine Freundin heißt Lisa und ist nett.;My friend is called Lisa and is nice.
+Das Haus hat drei Zimmer und einen Garten.;The house has three rooms and a garden.
+Ich stehe um sieben Uhr auf.;I get up at seven o'clock.
+Die Blumen sind schön und bunt.;The flowers are beautiful and colorful.
+Wir kaufen Brot beim Bäcker ein.;We buy bread at the bakery.
+Mein Lehrer ist sehr freundlich und geduldig.;My teacher is very friendly and patient.
+Das Kind ist fünf Jahre alt.;The child is five years old.
+Ich mag Schokolade sehr gern.;I like chocolate very much.
+Die Straße ist lang und breit.;The street is long and wide.
+Wir haben einen kleinen Hund zu Hause.;We have a small dog at home.
+Meine Oma wohnt in Hamburg.;My grandma lives in Hamburg.
+Das Wasser ist kalt und klar.;The water is cold and clear.
+Ich lese gerne Bücher am Abend.;I like to read books in the evening.
+Der Stuhl ist bequem und weich.;The chair is comfortable and soft.
+Wir besuchen oft unsere Großeltern.;We often visit our grandparents.
+Mein Zimmer ist klein aber gemütlich.;My room is small but cozy.
+Das Fahrrad ist kaputt und alt.;The bicycle is broken and old.
+Ich schreibe eine E-Mail an meinen Freund.;I write an email to my friend.
+Die Sonne scheint hell am Himmel.;The sun shines brightly in the sky.
+Wir trinken Tee mit Zucker.;We drink tea with sugar.
+Mein Onkel fährt ein schnelles Auto.;My uncle drives a fast car.
+Das Bett ist groß und weich.;The bed is big and soft.
+Ich höre gerne Musik im Radio.;I like to listen to music on the radio.
+Die Tür ist offen und weiß.;The door is open and white.
+Wir machen eine Pause um zehn Uhr.;We take a break at ten o'clock.
+Meine Tante kocht leckeren Kuchen.;My aunt bakes delicious cake.
+Das Fenster ist groß und sauber.;The window is big and clean.
+Ich sehe einen Vogel im Baum.;I see a bird in the tree.
+Die Schuhe sind neu und bequem.;The shoes are new and comfortable.
+Wir spielen oft Karten am Tisch.;We often play cards at the table.
+Mein Opa liest die Zeitung täglich.;My grandpa reads the newspaper daily.
+Das Essen ist warm und gut.;The food is warm and good.
+Ich komme aus einer kleinen Stadt.;I come from a small town.
+Die Tasche ist schwer und voll.;The bag is heavy and full.
+Wir gehen spazieren im Park.;We go for a walk in the park.
+Meine Schwester singt sehr schön.;My sister sings very beautifully.
+Der Tisch ist rund und groß.;The table is round and big.
+Ich brauche eine neue Jacke.;I need a new jacket.
+Die Lampe ist hell und schön.;The lamp is bright and beautiful.
+Wir sehen einen Film im Fernsehen.;We watch a film on television.
+Mein Freund kommt aus Spanien.;My friend comes from Spain.
+Das Glas ist leer und sauber.;The glass is empty and clean.
+Ich finde den Schlüssel nicht.;I cannot find the key.
+Die Uhr zeigt drei Uhr an.;The clock shows three o'clock.
+Wir lernen Englisch in der Schule.;We learn English at school.
+Meine Nachbarin ist sehr alt.;My neighbor is very old.
+Der Baum ist hoch und grün.;The tree is tall and green.
+Ich esse ein Brötchen zum Frühstück.;I eat a roll for breakfast.
+Die Jacke ist warm und rot.;The jacket is warm and red.
+Wir tanzen gerne auf Partys.;We like to dance at parties.
+Mein Cousin wohnt in München.;My cousin lives in Munich.
+Das Telefon klingelt sehr laut.;The telephone rings very loudly.
+Ich schwimme gerne im Sommer.;I like to swim in summer.
+Die Banane ist gelb und reif.;The banana is yellow and ripe.
+Wir kochen zusammen am Sonntag.;We cook together on Sunday.
+Mein Chef ist streng aber fair.;My boss is strict but fair.
+Der Bus kommt um acht Uhr.;The bus comes at eight o'clock.
+Ich kaufe Milch im Supermarkt.;I buy milk at the supermarket.
+Die Orange schmeckt sauer und frisch.;The orange tastes sour and fresh.
+Wir putzen das Haus am Samstag.;We clean the house on Saturday.
+Meine Lehrerin erklärt alles gut.;My teacher explains everything well.
+Der Himmel ist blau und wolkenlos.;The sky is blue and cloudless.
+Ich suche meine Brille überall.;I search for my glasses everywhere.
+Die Tomate ist rot und saftig.;The tomato is red and juicy.
+Wir schlafen lange am Wochenende.;We sleep late on the weekend.
+Mein Nachbar hat zwei Kinder.;My neighbor has two children.
+Der Schnee ist weiß und kalt.;The snow is white and cold.
+Ich wasche meine Hände mit Seife.;I wash my hands with soap.
+Die Kartoffel ist groß und rund.;The potato is big and round.
+Wir laufen jeden Tag im Park.;We run in the park every day.
+Meine Kollegin ist jung und nett.;My colleague is young and nice.
+Der Regen fällt vom Himmel herab.;The rain falls from the sky.
+Ich öffne das Fenster am Morgen.;I open the window in the morning.
+Die Gurke ist grün und lang.;The cucumber is green and long.
+Wir singen Lieder im Unterricht.;We sing songs in class.
+Mein Arzt ist sehr kompetent.;My doctor is very competent.
+Der Wind weht stark heute.;The wind blows strongly today.
+Ich schließe die Tür am Abend.;I close the door in the evening.
+Die Birne schmeckt süß und weich.;The pear tastes sweet and soft.
+Wir rechnen Mathe in der Schule.;We do math at school.
+Meine Freunde sind lustig und sympathisch.;My friends are funny and likeable.
+Der Mond scheint hell in der Nacht.;The moon shines brightly at night.
+Ich lege das Buch auf den Tisch.;I put the book on the table.
+Die Kirsche ist klein und rot.;The cherry is small and red.
+Wir malen Bilder im Kunstunterricht.;We paint pictures in art class.
+Mein Zahnarzt arbeitet sehr vorsichtig.;My dentist works very carefully.
+Der Stern funkelt am Himmel.;The star twinkles in the sky.
+Ich nehme den Bus zur Arbeit.;I take the bus to work.
+Die Erdbeere schmeckt sehr süß.;The strawberry tastes very sweet.
+Wir turnen oft in der Sporthalle.;We do gymnastics often in the gym.
+Meine Familie ist groß und glücklich.;My family is big and happy.
+Der Nebel ist dicht am Morgen.;The fog is thick in the morning.
+Ich gebe dir das Geld zurück.;I give you the money back.
+Die Pflaume ist lila und süß.;The plum is purple and sweet.
+Wir basteln etwas im Kindergarten.;We craft something at kindergarten.
+Mein Nachbar grüßt mich immer freundlich.;My neighbor always greets me friendly.
+Das Gewitter ist laut und gefährlich.;The thunderstorm is loud and dangerous.
+Ich stelle die Vase auf das Regal.;I put the vase on the shelf.
+Die Melone ist groß und saftig.;The melon is big and juicy.
+Wir üben Deutsch jeden Tag fleißig.;We practice German diligently every day.
+Meine Kusine tanzt sehr elegant.;My cousin dances very elegantly.
+Der Donner rollt über den Himmel.;The thunder rolls across the sky.
+Ich hänge das Bild an die Wand.;I hang the picture on the wall.
+Die Zitrone schmeckt sehr sauer.;The lemon tastes very sour.
+Wir wiederholen die Vokabeln gemeinsam.;We review the vocabulary together.
+Mein Neffe ist drei Jahre alt.;My nephew is three years old.
+Der Blitz ist hell und schnell.;The lightning is bright and fast.
+Ich stelle den Wecker auf sechs Uhr.;I set the alarm clock for six o'clock.
+Die Ananas ist exotisch und lecker.;The pineapple is exotic and delicious.
+Wir üben Aussprache im Sprachkurs.;We practice pronunciation in the language course.
+Meine Nichte malt gerne bunte Bilder.;My niece likes to paint colorful pictures.
+Die Wolke ist grau und dunkel.;The cloud is gray and dark.
+Ich lege mich ins Bett um zehn.;I go to bed at ten.
+Die Traube ist klein und süß.;The grape is small and sweet.
+Wir fragen den Lehrer nach Hilfe.;We ask the teacher for help.
+Mein Bekannter grüßt mich auf der Straße.;My acquaintance greets me on the street.
+Der Hagel fällt auf das Dach.;The hail falls on the roof.
+Ich setze mich auf den Stuhl.;I sit down on the chair.
+Die Kokosnuss ist hart und groß.;The coconut is hard and big.
+Wir antworten auf die Fragen.;We answer the questions.
+Meine Verwandte wohnt weit weg.;My relative lives far away.
+Der Tau liegt auf dem Gras.;The dew lies on the grass.
+Ich lege den Stift auf den Schreibtisch.;I put the pen on the desk.
+Die Kiwi ist grün und gesund.;The kiwi is green and healthy.
+Wir hören dem Lehrer aufmerksam zu.;We listen to the teacher attentively.
+Mein Mitschüler sitzt neben mir.;My classmate sits next to me.
+Der Frost kommt im Winter oft.;The frost often comes in winter.
+Ich räume mein Zimmer schnell auf.;I tidy my room quickly.
+Die Mango schmeckt exotisch und süß.;The mango tastes exotic and sweet.
+Wir schreiben einen kurzen Text.;We write a short text.
+Meine Klassenkameradin ist sehr fleißig.;My classmate is very diligent.
+Das Eis schmilzt in der Sonne.;The ice melts in the sun.
+Ich putze die Fenster am Samstag.;I clean the windows on Saturday.
+Die Papaya ist orange und weich.;The papaya is orange and soft.
+Wir lesen laut im Unterricht.;We read aloud in class.
+Mein Sitznachbar ist sehr hilfsbereit.;My seat neighbor is very helpful.
+Der Raureif liegt auf den Blättern.;The hoarfrost lies on the leaves.
+Ich wasche das Auto am Sonntag.;I wash the car on Sunday.
+Die Passionsfrucht schmeckt sauer und süß.;The passion fruit tastes sour and sweet.
+Wir buchstabieren schwierige Wörter langsam.;We spell difficult words slowly.
+Meine Arbeitskollegin trinkt viel Kaffee.;My work colleague drinks a lot of coffee.
+Der Eisregen ist kalt und gefährlich.;The freezing rain is cold and dangerous.
+Ich koche Nudeln zum Mittagessen.;I cook noodles for lunch.
+Die Litschi ist klein und exotisch.;The lychee is small and exotic.
+Wir markieren wichtige Wörter im Text.;We mark important words in the text.
+Mein Zimmernachbar ist sehr laut nachts.;My room neighbor is very loud at night.
+Die Glätte ist gefährlich auf der Straße.;The ice is dangerous on the street.
+Ich backe einen Kuchen für Geburtstag.;I bake a cake for a birthday.
+Die Drachenfrucht sieht sehr exotisch aus.;The dragon fruit looks very exotic.
+Wir unterstreichen die Verben im Satz.;We underline the verbs in the sentence.
+Mein Schulfreund hilft mir oft.;My school friend often helps me.
+Der Bodenfrost schadet den Pflanzen.;The ground frost damages the plants.
+Ich brate ein Ei in der Pfanne.;I fry an egg in the pan.
+Die Sternfrucht hat eine besondere Form.;The starfruit has a special shape.
+Wir übersetzen den Text ins Deutsche.;We translate the text into German.
+Meine Studienkollegin lernt fleißig für Prüfungen.;My study colleague studies diligently for exams.
+Der Schneeregen fällt auf die Erde.;The sleet falls on the ground.
+Ich grille Fleisch im Garten.;I grill meat in the garden.
+Die Feige ist süß und gesund.;The fig is sweet and healthy.
+Wir konjugieren Verben im Präsens.;We conjugate verbs in the present tense.
+Mein Trainingspartner motiviert mich immer.;My training partner always motivates me.
+Der Graupel fällt vom Himmel.;The graupel falls from the sky.
+Ich schäle eine Kartoffel fürs Essen.;I peel a potato for the meal.
+Die Dattel schmeckt sehr süß.;The date tastes very sweet.
+Wir deklinieren Nomen richtig im Satz.;We decline nouns correctly in the sentence.
+Mein Lernpartner erklärt mir die Grammatik.;My learning partner explains the grammar to me.
+Der Nieselregen ist fein und nass.;The drizzle is fine and wet.
+Ich schneide Gemüse für den Salat.;I cut vegetables for the salad.
+Die Cranberry schmeckt herb und sauer.;The cranberry tastes tart and sour.
+Wir bilden Sätze mit neuen Wörtern.;We form sentences with new words.
+Meine Tanzpartnerin tanzt sehr gut.;My dance partner dances very well.
+Der Sprühregen fällt leicht vom Himmel.;The spray rain falls lightly from the sky.
+Ich rühre die Suppe im Topf um.;I stir the soup in the pot.
+Die Brombeere wächst im Wald wild.;The blackberry grows wild in the forest.
+Wir korrigieren unsere Fehler im Heft.;We correct our mistakes in the notebook.
+Mein Spielpartner gewinnt oft beim Schach.;My playing partner often wins at chess.
+Der Landregen dauert den ganzen Tag.;The steady rain lasts all day.
+Ich würze das Essen mit Salz.;I season the food with salt.
+Die Himbeere ist rot und weich.;The raspberry is red and soft.
+Wir vervollständigen die Übungen im Buch.;We complete the exercises in the book.
+Meine Wanderpartnerin kennt gute Wege.;My hiking partner knows good paths.
+Der Platzregen kommt plötzlich und stark.;The downpour comes suddenly and strongly.
+Ich probiere das neue Rezept aus.;I try out the new recipe.
+Die Blaubeere ist klein und gesund.;The blueberry is small and healthy.
+Wir verbessern unsere Aussprache täglich.;We improve our pronunciation daily.
+Mein Gesprächspartner spricht sehr deutlich.;My conversation partner speaks very clearly.
+Der Starkregen überflutet die Straßen schnell.;The heavy rain floods the streets quickly.
+Ich koche die Eier fünf Minuten lang.;I cook the eggs for five minutes.
+Die Johannisbeere hängt am Strauch rot.;The redcurrant hangs red on the bush.
+Wir erweitern unseren Wortschatz stetig.;We steadily expand our vocabulary.
+Meine Brieffreundin schreibt mir regelmäßig.;My pen pal writes to me regularly.
+Der Dauerregen macht alles nass draußen.;The continuous rain makes everything wet outside.
+Ich mixe einen Smoothie aus Früchten.;I mix a smoothie from fruits.
+Die Stachelbeere schmeckt säuerlich und erfrischend.;The gooseberry tastes sour and refreshing.
+Wir festigen die Grammatikregeln durch Übung.;We consolidate the grammar rules through practice.
+Mein Chatpartner antwortet schnell online.;My chat partner answers quickly online.
+Der Wolkenbruch kommt unerwartet und heftig.;The cloudburst comes unexpectedly and violently.
+Ich toaste das Brot im Toaster.;I toast the bread in the toaster.
+Die Preiselbeere wächst im Norden gut.;The lingonberry grows well in the north.
+Wir vertiefen unser Verständnis der Sprache.;We deepen our understanding of the language.
+Mein Austauschpartner kommt aus Frankreich.;My exchange partner comes from France.
+Der Gewitterregen ist laut und intensiv.;The thunderstorm rain is loud and intense.
+Ich mahle Kaffee für die Maschine.;I grind coffee for the machine.
+Die Holunderbeere ist dunkel und reif.;The elderberry is dark and ripe.
+Wir perfektionieren unsere Schreibfähigkeiten.;We perfect our writing skills.
+Meine Arbeitsgruppe trifft sich montags.;My work group meets on Mondays.
+Der Regenguss dauert nur kurze Zeit.;The rain shower lasts only a short time.
+Ich presse Orangen für frischen Saft.;I squeeze oranges for fresh juice.
+Die Sanddornbeere enthält viele Vitamine.;The sea buckthorn berry contains many vitamins.
+Wir praktizieren die Konversation im Alltag.;We practice conversation in everyday life.
+Mein Projektpartner arbeitet sehr organisiert.;My project partner works very organized.
+Der Schauer kommt schnell und geht schnell.;The shower comes quickly and goes quickly.
+Ich siebe das Mehl vor dem Backen.;I sift the flour before baking.
+Die Vogelbeere hängt rot am Baum.;The rowan berry hangs red on the tree.
+Wir trainieren das Hörverständnis mit Audio.;We train listening comprehension with audio.
+Meine Diskussionsgruppe debattiert jeden Donnerstag.;My discussion group debates every Thursday.
+Der Regenschauer erfrischt die heiße Luft.;The rain shower refreshes the hot air.
+Ich knete den Teig für das Brot.;I knead the dough for the bread.
+Die Schlehe schmeckt sehr herb.;The sloe tastes very tart.
+Wir meistern schwierige Grammatikthemen zusammen.;We master difficult grammar topics together.
+Mein Reisepartner plant die Route genau.;My travel partner plans the route precisely.
+Der Nieselschauer ist fein und kühl.;The drizzle shower is fine and cool.
+Ich forme Frikadellen aus Hackfleisch.;I form meatballs from ground meat.
+Die Maulbeere färbt die Finger lila.;The mulberry stains the fingers purple.
+Wir erlernen idiomatische Ausdrücke.;We learn idiomatic expressions.
+Meine Laufgruppe trifft sich morgens früh.;My running group meets early in the morning.
+Der Regentropfen fällt auf meine Hand.;The raindrop falls on my hand.
+Ich bestreue den Kuchen mit Zucker.;I sprinkle the cake with sugar.
+Die Kornelkirsche reift im Spätsommer.;The cornelian cherry ripens in late summer.
+Wir analysieren Texte im Sprachunterricht.;We analyze texts in language class.
+Mein Yogapartner zeigt mir neue Übungen.;My yoga partner shows me new exercises.
+Die Regenwolke zieht langsam vorbei.;The rain cloud passes by slowly.
+Ich garniere den Teller mit Kräutern.;I garnish the plate with herbs.
+Die Hagebutte enthält viel Vitamin C.;The rosehip contains a lot of vitamin C.
+Wir interpretieren komplexe Sätze korrekt.;We interpret complex sentences correctly.
+Meine Fitnessgruppe trainiert dreimal wöchentlich.;My fitness group trains three times weekly.
+Der Regenbogen erscheint nach dem Schauer.;The rainbow appears after the shower.
+Ich mariniere das Fleisch über Nacht.;I marinate the meat overnight.
+Die Weißdornbeere ist klein und rot.;The hawthorn berry is small and red.
+Wir formulieren eigene Gedanken auf Deutsch.;We formulate our own thoughts in German.
+Mein Kochpartner kennt viele Rezepte.;My cooking partner knows many recipes.
+Die Regenpfütze spiegelt den Himmel.;The rain puddle reflects the sky.
+Ich paniere das Schnitzel mit Semmelbröseln.;I bread the schnitzel with breadcrumbs.
+Die Berberitze schmeckt sehr sauer.;The barberry tastes very sour.
+Wir artikulieren die Laute klar.;We articulate the sounds clearly.
+Meine Theatergruppe probt jeden Freitag.;My theater group rehearses every Friday.
+Der Regenschirm schützt mich vor Nässe.;The umbrella protects me from wetness.
+Ich flambiere das Dessert mit Alkohol.;I flambé the dessert with alcohol.
+Die Aroniabeere ist dunkel und gesund.;The aronia berry is dark and healthy.
+Wir beherrschen die Grundgrammatik gut.;We master the basic grammar well.
+Mein Lesekreis bespricht monatlich Bücher.;My book club discusses books monthly.
+Die Regenrinne leitet Wasser ab.;The rain gutter drains water away.
+Ich glasiere den Kuchen mit Schokolade.;I glaze the cake with chocolate.
+Die Felsenbirne schmeckt süßlich und mild.;The serviceberry tastes sweetish and mild.
+Wir kommunizieren auf Deutsch im Kurs.;We communicate in German in the course.
+Meine Musikgruppe spielt Jazz am Abend.;My music group plays jazz in the evening.
+Die Regentonne sammelt Wasser vom Dach.;The rain barrel collects water from the roof.
+Ich dünste das Gemüse mit wenig Wasser.;I steam the vegetables with little water.
+Die Gojibeere gilt als sehr gesund.;The goji berry is considered very healthy.
+Wir kommunizieren klar und verständlich.;We communicate clearly and understandably.
+Mein Chor singt klassische Lieder.;My choir sings classical songs.
+Der Regentag ist grau und dunkel.;The rainy day is gray and dark.
+Ich blanchiere die Tomaten kurz.;I blanch the tomatoes briefly.
+Die Acaibeere kommt aus dem Regenwald.;The acai berry comes from the rainforest.
+Wir interagieren aktiv im Unterricht.;We interact actively in class.
+Meine Sportgruppe trifft sich im Stadion.;My sports group meets at the stadium.
+Die Regenzeit beginnt im Herbst hier.;The rainy season starts in autumn here.
+Ich pochiere die Eier im Wasser.;I poach the eggs in water.
+Die Boysenbeere ist eine Kreuzung.;The boysenberry is a crossbreed.
+Wir dialogisieren in Partnerübungen.;We engage in dialogue in partner exercises.
+Mein Buchclub liest moderne Romane.;My book club reads modern novels.
+Der Regenmantel hängt an der Garderobe.;The raincoat hangs on the coat rack.
+Ich reduziere die Soße beim Kochen.;I reduce the sauce while cooking.
+Die Loganbeere ähnelt der Himbeere.;The loganberry resembles the raspberry.
+Wir konversieren ungezwungen auf Deutsch.;We converse casually in German.
+Meine Debattiergruppe übt montags Rhetorik.;My debate group practices rhetoric on Mondays.
+Die Regenjacke ist wasserdicht und warm.;The rain jacket is waterproof and warm.
+Ich karamellisiere den Zucker in der Pfanne.;I caramelize the sugar in the pan.
+Die Taybeere ist süß und saftig.;The tayberry is sweet and juicy.
+Wir diskutieren aktuelle Themen im Kurs.;We discuss current topics in the course.
+Mein Diskussionskreis trifft sich donnerstags.;My discussion circle meets on Thursdays.
+Die Regenstiefel sind gelb und hoch.;The rain boots are yellow and tall.
+Ich confit das Fleisch langsam.;I confit the meat slowly.
+Die Marionbeere wächst an Ranken.;The marionberry grows on vines.
+Wir tauschen Meinungen im Plenum aus.;We exchange opinions in the plenum.
+Meine Filmgruppe sieht französische Filme.;My film group watches French films.
+Der Regenmesser zeigt die gefallene Menge.;The rain gauge shows the fallen amount.
+Ich sous-vide das Steak präzise.;I sous-vide the steak precisely.
+Die Ollaliebeere schmeckt aromatisch und süß.;The ollalieberry tastes aromatic and sweet.
+Wir erörtern verschiedene Standpunkte respektvoll.;We discuss different viewpoints respectfully.
+Mein Stammtisch trifft sich mittwochs.;My regulars' table meets on Wednesdays.
+Die Regenwolke ist dunkel und bedrohlich.;The rain cloud is dark and threatening.
+Ich sautiere die Pilze schnell.;I sauté the mushrooms quickly.
+Die Youngbeere ist eine amerikanische Züchtung.;The youngberry is an American cultivar.
+Wir debattieren kontroverse Fragen sachlich.;We debate controversial questions objectively.
+Meine Schreibgruppe trifft sich samstags.;My writing group meets on Saturdays.
+Der Regenschauer erfrischt die Pflanzen.;The rain shower refreshes the plants.
+Ich deglaziere die Pfanne mit Wein.;I deglaze the pan with wine.
+Die Nektarine ähnelt dem Pfirsich sehr.;The nectarine resembles the peach very much.
+Wir argumentieren logisch und strukturiert.;We argue logically and structured.
+Mein Gesprächskreis spricht über Literatur.;My conversation circle talks about literature.
+Die Regenbö kommt plötzlich und heftig.;The rain squall comes suddenly and violently.
+Ich emulgiere die Soße mit Butter.;I emulsify the sauce with butter.
+Die Clementine ist kernlos und süß.;The clementine is seedless and sweet.
+Wir reflektieren über unsere Lernfortschritte.;We reflect on our learning progress.
+Meine Kaffeerunde trifft sich nachmittags.;My coffee circle meets in the afternoon.
+Der Regenfall ist heute sehr stark.;The rainfall is very strong today.
+Ich montiere den Teller mit Sorgfalt.;I plate the dish with care.
+Die Mandarine schält sich leicht.;The mandarin peels easily.
+Wir evaluieren unsere Sprachkenntnisse regelmäßig.;We evaluate our language skills regularly.
+Mein Spieleabend findet freitags statt.;My game night takes place on Fridays.
+Die Regenmenge wird täglich gemessen.;The rainfall amount is measured daily.
+Ich aromatisiere das Öl mit Kräutern.;I flavor the oil with herbs.
+Die Satsuma ist eine japanische Zitrusfrucht.;The satsuma is a Japanese citrus fruit.
+Wir optimieren unsere Lerntechniken kontinuierlich.;We continuously optimize our learning techniques.
+Meine Runde trifft sich im Café.;My circle meets in the café.
+Der Regenwald ist feucht und grün.;The rainforest is humid and green.
+Ich infundiere den Tee mit Ingwer.;I infuse the tea with ginger.
+Die Tangelo ist eine Hybrid-Frucht.;The tangelo is a hybrid fruit.
+Wir kultivieren unsere Sprachfertigkeiten täglich.;We cultivate our language skills daily.
+Mein Freundeskreis trifft sich spontan.;My circle of friends meets spontaneously.
+Die Regensaison bringt viel Niederschlag.;The rainy season brings much precipitation.
+Ich confiere das Gemüse in Öl.;I confit the vegetables in oil.
+Die Minneola hat eine charakteristische Form.;The minneola has a characteristic shape.
+Wir intensivieren das Lernen vor Prüfungen.;We intensify learning before exams.
+Meine Clique geht oft zusammen weg.;My clique often goes out together.
+Der Regenbogen hat sieben Farben.;The rainbow has seven colors.
+Ich braisiere das Fleisch im Ofen.;I braise the meat in the oven.
+Die Kumquat isst man mit Schale.;You eat the kumquat with the peel.
+Wir systematisieren unseren Lernprozess.;We systematize our learning process.
+Mein Kreis trifft sich zum Austausch.;My circle meets for exchange.
+Die Regenperiode endet im Mai.;The rainy period ends in May.
+Ich lardiere den Braten mit Speck.;I lard the roast with bacon.
+Die Yuzu duftet sehr aromatisch.;The yuzu smells very aromatic.
+Wir konzentrieren uns auf schwache Bereiche.;We concentrate on weak areas.
+Meine Truppe organisiert regelmäßig Events.;My group organizes events regularly.
+Ich gehe jeden Tag zur Schule um acht Uhr.;I go to school every day at eight o'clock.
+Der Lehrer erklärt die Mathematikaufgabe an der Tafel.;The teacher explains the math problem on the board.
+Wir haben heute fünf Unterrichtsstunden am Vormittag.;We have five lessons this morning.
+Meine Schultasche ist schwer und voll mit Büchern.;My school bag is heavy and full of books.
+Das Klassenzimmer hat zwanzig Tische und viele Stühle.;The classroom has twenty desks and many chairs.
+Ich schreibe die Hausaufgaben ins Heft.;I write the homework in the notebook.
+Die Pause beginnt um zehn Uhr dreißig.;The break starts at ten thirty.
+Wir essen in der Cafeteria zu Mittag.;We eat lunch in the cafeteria.
+Mein Lieblingsfach ist Geschichte und Geografie.;My favorite subject is history and geography.
+Der Stundenplan hängt an der Wand im Flur.;The timetable hangs on the wall in the hallway.
+Ich lerne Vokabeln für den Englischtest morgen.;I learn vocabulary for the English test tomorrow.
+Die Schüler sitzen still und hören zu.;The students sit quietly and listen.
+Wir machen Experimente im Chemieunterricht.;We do experiments in chemistry class.
+Das Schuljahr endet im Juli hier.;The school year ends in July here.
+Ich brauche einen neuen Füller zum Schreiben.;I need a new fountain pen for writing.
+Die Lehrerin verteilt die Arbeitsblätter an alle.;The teacher distributes the worksheets to everyone.
+Wir rechnen Matheaufgaben im Arbeitsbuch.;We calculate math problems in the workbook.
+Der Schulbus fährt um sieben Uhr ab.;The school bus leaves at seven o'clock.
+Ich vergesse manchmal mein Federmäppchen zu Hause.;I sometimes forget my pencil case at home.
+Die Bibliothek ist im zweiten Stock links.;The library is on the second floor on the left.
+Wir lesen einen Text über das Wetter.;We read a text about the weather.
+Der Schulhof ist groß mit vielen Bäumen.;The schoolyard is big with many trees.
+Ich treffe meine Freunde vor dem Unterricht.;I meet my friends before class.
+Die Kreide liegt auf dem Lehrerpult vorne.;The chalk lies on the teacher's desk in front.
+Wir singen Lieder im Musikunterricht zusammen.;We sing songs together in music class.
+Das Zeugnis bekomme ich am Ende des Semesters.;I get the report card at the end of the semester.
+Ich mache meine Hausaufgaben nach der Schule.;I do my homework after school.
+Die Turnhalle ist neben dem Hauptgebäude.;The gymnasium is next to the main building.
+Wir zeichnen Bilder im Kunstunterricht heute.;We draw pictures in art class today.
+Der Radiergummi liegt neben meinem Lineal.;The eraser lies next to my ruler.
+Ich beantworte die Fragen vom Lehrer schnell.;I answer the teacher's questions quickly.
+Die Schulglocke klingelt sehr laut immer.;The school bell always rings very loudly.
+Wir haben am Mittwoch keine Hausaufgaben auf.;We have no homework on Wednesday.
+Das Wörterbuch hilft mir beim Übersetzen sehr.;The dictionary helps me a lot with translating.
+Ich sitze in der zweiten Reihe am Fenster.;I sit in the second row by the window.
+Die Klassenarbeit dauert neunzig Minuten lang.;The class test lasts ninety minutes long.
+Wir spielen Basketball in der Sportstunde.;We play basketball in the sports lesson.
+Der Spitzer ist kaputt und schneidet nicht.;The pencil sharpener is broken and doesn't cut.
+Ich leihe mir Bücher aus der Bibliothek aus.;I borrow books from the library.
+Die Schülerversammlung findet am Montag statt.;The student assembly takes place on Monday.
+Wir üben die Aussprache von schwierigen Wörtern.;We practice the pronunciation of difficult words.
+Das Schulgebäude wurde vor zehn Jahren gebaut.;The school building was built ten years ago.
+Ich trage meine Bücher im Rucksack.;I carry my books in the backpack.
+Die Tafel ist grün und sehr groß.;The board is green and very big.
+Wir lernen die Zeiten im Deutschunterricht.;We learn the tenses in German class.
+Der Klassensprecher sammelt das Geld ein.;The class representative collects the money.
+Ich wiederhole die Grammatikregeln jeden Tag.;I review the grammar rules every day.
+Die Sommerferien dauern sechs Wochen lang.;The summer holidays last six weeks long.
+Wir besuchen das Museum mit der Klasse.;We visit the museum with the class.
+Der Overheadprojektor steht in der Ecke dort.;The overhead projector stands in the corner there.
+Ich schreibe mit einem blauen Kugelschreiber.;I write with a blue ballpoint pen.
+Die Klassenfahrt geht nach Berlin im Mai.;The class trip goes to Berlin in May.
+Wir arbeiten in Gruppen zu viert zusammen.;We work together in groups of four.
+Das Klassenbuch liegt auf dem Lehrertisch.;The class register lies on the teacher's table.
+Ich melde mich und warte bis drangenommen.;I raise my hand and wait to be called on.
+Die Schulordnung hängt neben der Eingangstür.;The school rules hang next to the entrance door.
+Wir machen Notizen während des Vortrags.;We take notes during the presentation.
+Der Schwamm wischt die Tafel sauber.;The sponge wipes the board clean.
+Ich lerne für die Prüfung am Wochenende.;I study for the exam on the weekend.
+Die Schulleitung organisiert das Sportfest jährlich.;The school administration organizes the sports festival annually.
+Wir diskutieren über aktuelle Themen im Unterricht.;We discuss current topics in class.
+Das Schullogo ist blau und gelb.;The school logo is blue and yellow.
+Ich packe meinen Ranzen am Abend vorher.;I pack my school bag the evening before.
+Die Vertretungsstunde haben wir im Computerraum.;We have the substitute lesson in the computer room.
+Wir präsentieren unsere Projekte vor der Klasse.;We present our projects in front of the class.
+Der Stundenplan ändert sich manchmal kurzfristig.;The timetable sometimes changes at short notice.
+Ich putze die Tafel nach dem Unterricht.;I clean the board after class.
+Die Schulkonferenz tagt zweimal im Jahr.;The school conference meets twice a year.
+Wir schreiben einen Aufsatz über die Ferien.;We write an essay about the holidays.
+Das Lehrerzimmer ist im Erdgeschoss rechts.;The staff room is on the ground floor on the right.
+Ich unterstreiche wichtige Wörter mit Textmarker.;I underline important words with a highlighter.
+Die Elternsprechstunde ist am Donnerstag nachmittag.;The parent-teacher conference is on Thursday afternoon.
+Wir korrigieren die Fehler gemeinsam an Tafel.;We correct the mistakes together on the board.
+Der Schulchor probt jeden Dienstag nachmittags.;The school choir rehearses every Tuesday afternoon.
+Ich hole mir Hilfe vom Nachhilfelehrer.;I get help from the tutor.
+Die Projektwoche findet im Juni dieses Jahr statt.;The project week takes place in June this year.
+Wir füllen die Lücken im Arbeitsblatt aus.;We fill in the gaps in the worksheet.
+Das Schultheater führt ein Stück im Dezember auf.;The school theater performs a play in December.
+Ich kopiere die wichtigen Sätze ins Vokabelheft.;I copy the important sentences into the vocabulary notebook.
+Die Schulbücher sind teuer aber notwendig.;The textbooks are expensive but necessary.
+Wir bilden Sätze mit den neuen Wörtern.;We form sentences with the new words.
+Der Hausmeister repariert die kaputten Stühle.;The caretaker repairs the broken chairs.
+Ich wiederhole den Stoff vor der Prüfung.;I review the material before the exam.
+Die Schulküche kocht gesundes Essen täglich.;The school kitchen cooks healthy food daily.
+Wir analysieren Texte im Literaturunterricht genau.;We analyze texts precisely in literature class.
+Das Sekretariat öffnet um halb acht morgens.;The secretary's office opens at half past seven in the morning.
+Ich markiere Fehler mit rotem Stift.;I mark mistakes with a red pen.
+Die Schulzeitung erscheint monatlich mit Artikeln.;The school newspaper appears monthly with articles.
+Wir üben Dialoge in Partnerarbeit zusammen.;We practice dialogues in partner work together.
+Der Schulpsychologe berät Schüler bei Problemen.;The school psychologist advises students with problems.
+Ich schreibe das Datum an den Rand.;I write the date in the margin.
+Die Schulmensa bietet vegetarisches Essen an.;The school cafeteria offers vegetarian food.
+Wir lösen Rechenaufgaben an der Tafel.;We solve math problems on the board.
+Das Schulorchester spielt bei der Abschlussfeier.;The school orchestra plays at the graduation ceremony.
+Ich hefte die Blätter in meinen Ordner ein.;I file the sheets in my folder.
+Die Schulbibliothek hat viele interessante Bücher.;The school library has many interesting books.
+Wir konjugieren Verben im Grammatikunterricht.;We conjugate verbs in grammar class.
+Der Förderunterricht hilft schwächeren Schülern sehr.;The remedial class helps weaker students a lot.
+Ich nummeriere die Seiten in meinem Heft.;I number the pages in my notebook.
+Die Schulpartnerschaft besteht mit Frankreich seit Jahren.;The school partnership with France has existed for years.
+Wir deklinieren die Artikel korrekt im Satz.;We decline the articles correctly in the sentence.
+Das Schulradio sendet in den Pausen Musik.;The school radio broadcasts music during breaks.
+Ich streiche falsche Antworten durch mit Lineal.;I cross out wrong answers with a ruler.
+Die Schulordner enthalten alle wichtigen Dokumente.;The school binders contain all important documents.
+Wir transkribieren Hörtexte ins Heft genau.;We transcribe listening texts into the notebook precisely.
+Der Schulsanitätsdienst hilft bei kleinen Verletzungen.;The school first aid service helps with minor injuries.
+Ich klebe das Arbeitsblatt ins Heft ein.;I glue the worksheet into the notebook.
+Die Schulkonferenz bespricht neue Regeln für alle.;The school conference discusses new rules for everyone.
+Wir paraphrasieren komplizierte Sätze mit eigenen Worten.;We paraphrase complicated sentences in our own words.
+Das Schulfest findet im Sommer statt jährlich.;The school festival takes place in summer annually.
+Ich falte das Blatt und stecke es ein.;I fold the sheet and put it away.
+Die Schulküche verwendet regionale Produkte täglich.;The school kitchen uses regional products daily.
+Wir kategorisieren die Wörter nach Wortarten.;We categorize the words by parts of speech.
+Der Schulförderverein unterstützt Projekte finanziell hier.;The school support association financially supports projects here.
+Ich sortiere meine Notizen nach Fächern.;I sort my notes by subjects.
+Die Schülerfirma verkauft selbstgemachte Produkte.;The student company sells homemade products.
+Wir klassifizieren Tiere im Biologieunterricht.;We classify animals in biology class.
+Das Schularchiv bewahrt alte Dokumente auf.;The school archive preserves old documents.
+Ich ordne die Vokabeln alphabetisch im Heft.;I arrange the vocabulary alphabetically in the notebook.
+Die Schulhomepage zeigt aktuelle Termine an.;The school homepage displays current dates.
+Wir identifizieren Satzglieder in komplexen Sätzen.;We identify sentence parts in complex sentences.
+Der Schulelternbeirat vertritt die Eltern gegenüber Leitung.;The school parent council represents parents to administration.
+Ich heiße Maria und bin dreißig Jahre alt.;My name is Maria and I am thirty years old.
+Woher kommst du und wo wohnst du jetzt.;Where do you come from and where do you live now.
+Meine Familie ist klein, nur drei Personen.;My family is small, only three people.
+Guten Morgen, wie geht es dir heute.;Good morning, how are you today.
+Ich spreche Deutsch, Englisch und etwas Spanisch.;I speak German, English and a little Spanish.
+Das ist mein Bruder und das meine Schwester.;This is my brother and this is my sister.
+Auf Wiedersehen, bis morgen in der Schule.;Goodbye, see you tomorrow at school.
+Meine Telefonnummer ist null drei null vier fünf.;My telephone number is zero three zero four five.
+Guten Abend, schön dich zu sehen hier.;Good evening, nice to see you here.
+Ich komme aus Italien aber wohne in Deutschland.;I come from Italy but live in Germany.
+Das ist meine Adresse und meine E-Mail auch.;This is my address and my email too.
+Danke sehr, das ist wirklich nett von dir.;Thank you very much, that is really nice of you.
+Meine Mutter heißt Anna und ist Lehrerin.;My mother is called Anna and is a teacher.
+Wie heißt du und was machst du beruflich.;What is your name and what do you do professionally.
+Ich bin ledig und habe keine Kinder.;I am single and have no children.
+Entschuldigung, können Sie das bitte wiederholen.;Excuse me, can you please repeat that.
+Mein Vater arbeitet als Ingenieur in München.;My father works as an engineer in Munich.
+Gute Nacht, schlaf gut und träum schön.;Good night, sleep well and sweet dreams.
+Ich lerne Deutsch seit drei Monaten hier.;I have been learning German for three months here.
+Das verstehe ich nicht, kannst du helfen.;I don't understand that, can you help.
+Meine Schwester studiert Medizin an der Universität.;My sister studies medicine at the university.
+Wie geht es Ihnen heute, Herr Müller.;How are you today, Mr. Müller.
+Ich bin verheiratet und habe zwei Kinder.;I am married and have two children.
+Bitte sprechen Sie langsam, ich bin Anfänger.;Please speak slowly, I am a beginner.
+Mein Opa ist Rentner und wohnt alleine.;My grandpa is retired and lives alone.
+Vielen Dank für Ihre Hilfe und Geduld.;Thank you very much for your help and patience.
+Ich habe einen Sohn und eine Tochter.;I have one son and one daughter.
+Wie schreibt man das Wort auf Deutsch.;How do you write that word in German.
+Meine Oma backt die besten Kuchen immer.;My grandma always bakes the best cakes.
+Es tut mir leid, ich verstehe nicht.;I am sorry, I do not understand.
+Ich bin Studentin und arbeite auch Teilzeit.;I am a student and also work part-time.
+Was bedeutet dieses Wort hier genau.;What does this word mean here exactly.
+Mein Mann ist Arzt im Krankenhaus.;My husband is a doctor in the hospital.
+Können Sie mir bitte helfen mit Deutsch.;Can you please help me with German.
+Ich habe zwei Brüder aber keine Schwestern.;I have two brothers but no sisters.
+Wie alt bist du und wo arbeitest du.;How old are you and where do you work.
+Meine Tochter ist fünf und geht in Kindergarten.;My daughter is five and goes to kindergarten.
+Ich verstehe nur ein bisschen Deutsch noch.;I only understand a little German yet.
+Wir sind eine große Familie mit sechs Personen.;We are a big family with six people.
+Was ist dein Beruf und wo bist du geboren.;What is your profession and where were you born.
+Mein Sohn spielt gerne Fußball im Park.;My son likes to play football in the park.
+Bis bald, wir sehen uns nächste Woche.;See you soon, we will see each other next week.
+Ich wohne in einer kleinen Stadt in Bayern.;I live in a small town in Bavaria.
+Wie buchstabiert man Ihren Namen bitte.;How do you spell your name please.
+Meine Eltern leben noch in meiner Heimat.;My parents still live in my homeland.
+Ich habe einen Hund und zwei Katzen.;I have one dog and two cats.
+Das Wetter ist heute warm und sonnig.;The weather is warm and sunny today.
+Welche Sprachen sprichst du denn noch.;Which languages do you speak then.
+Mein Hobby ist Lesen und Musik hören.;My hobby is reading and listening to music.
+Es regnet stark, nimm einen Regenschirm mit.;It is raining heavily, take an umbrella with you.
+Ich trinke morgens immer Kaffee mit Zucker.;I always drink coffee with sugar in the morning.
+Ist es heute kalt oder warm draußen.;Is it cold or warm outside today.
+Zum Frühstück esse ich Brot mit Marmelade.;For breakfast I eat bread with jam.
+Die Sonne scheint hell, es ist schön.;The sun shines brightly, it is nice.
+Ich mag Pizza, Pasta und italienisches Essen.;I like pizza, pasta and Italian food.
+Wie ist das Wetter morgen in Berlin.;How is the weather tomorrow in Berlin.
+Mein Lieblingsessen ist Schnitzel mit Pommes.;My favorite food is schnitzel with fries.
+Es schneit viel, die Straßen sind weiß.;It snows a lot, the streets are white.
+Ich esse kein Fleisch, ich bin Vegetarier.;I don't eat meat, I am a vegetarian.
+Der Himmel ist grau und es ist bewölkt.;The sky is gray and it is cloudy.
+Zum Mittagessen koche ich Suppe mit Gemüse.;For lunch I cook soup with vegetables.
+Morgen wird es sonnig und sehr warm.;Tomorrow it will be sunny and very warm.
+Ich trinke gerne Tee mit Zitrone abends.;I like to drink tea with lemon in the evening.
+Es ist neblig und man sieht schlecht.;It is foggy and you can see poorly.
+Wir essen oft zusammen im Restaurant.;We often eat together in the restaurant.
+Heute ist es windig aber nicht kalt.;Today it is windy but not cold.
+Ich bestelle eine Pizza mit extra Käse.;I order a pizza with extra cheese.
+Im Herbst regnet es hier sehr oft.;In autumn it rains here very often.
+Magst du lieber Kaffee oder Tee.;Do you prefer coffee or tea.
+Im Winter schneit es und ist eisig.;In winter it snows and is icy.
+Ich möchte bitte ein Wasser ohne Gas.;I would like a water without gas please.
+Im Frühling blühen die Blumen schön.;In spring the flowers bloom beautifully.
+Zum Abendessen gibt es Salat und Brot.;For dinner there is salad and bread.
+Im Sommer ist es heiß und trocken.;In summer it is hot and dry.
+Ich esse gerne Obst, besonders Äpfel.;I like to eat fruit, especially apples.
+Welche Jahreszeit magst du am liebsten.;Which season do you like the most.
+Gemüse ist gesund, ich esse viel davon.;Vegetables are healthy, I eat a lot of them.
+Das Thermometer zeigt zwanzig Grad an.;The thermometer shows twenty degrees.
+Ich koche heute Reis mit Hähnchen.;I am cooking rice with chicken today.
+Die Temperatur sinkt am Abend schnell.;The temperature drops quickly in the evening.
+Trinkst du Milch oder Saft zum Frühstück.;Do you drink milk or juice for breakfast.
+Es gibt ein Gewitter mit Blitz heute.;There is a thunderstorm with lightning today.
+Ich backe einen Kuchen für die Party.;I am baking a cake for the party.
+Der Wind ist stark, halte den Schirm fest.;The wind is strong, hold the umbrella tight.
+Wir kaufen Brot, Butter und Eier ein.;We buy bread, butter and eggs.
+Draußen friert es, es sind minus fünf Grad.;Outside it is freezing, it is minus five degrees.
+Ich probiere gerne neue Gerichte aus.;I like to try new dishes.
+Die Luft ist frisch nach dem Regen.;The air is fresh after the rain.
+Welches Essen magst du überhaupt nicht.;Which food do you not like at all.
+Es ist schwül und drückend heute hier.;It is humid and oppressive here today.
+Ich esse dreimal am Tag regelmäßig.;I eat three times a day regularly.
+Gestern war es sonnig, heute regnet es.;Yesterday it was sunny, today it is raining.
+Wir grillen Würstchen im Garten draußen.;We grill sausages outside in the garden.
+Übermorgen soll es schön werden wieder.;The day after tomorrow it should be nice again.
+Ich decke den Tisch für das Essen.;I set the table for the meal.
+Heute Vormittag war es noch sehr kalt.;This morning it was still very cold.
+Nach dem Essen trinke ich einen Espresso.;After the meal I drink an espresso.
+Am Nachmittag wird es wärmer draußen.;In the afternoon it gets warmer outside.
+Ich wasche das Obst vor dem Essen.;I wash the fruit before eating.
+Die Vorhersage sagt Regen für morgen.;The forecast says rain for tomorrow.
+Schmeckt das Essen gut oder zu salzig.;Does the food taste good or too salty.
+Das Klima hier ist mild im Winter.;The climate here is mild in winter.
+Ich würze das Fleisch mit Salz.;I season the meat with salt.
+Wir haben vier Jahreszeiten im Jahr.;We have four seasons in the year.
+Die Rechnung bitte, ich möchte bezahlen.;The bill please, I would like to pay.
+Der Frühling beginnt im März offiziell.;Spring begins officially in March.
+Ich bin satt, das war sehr lecker.;I am full, that was very delicious.
+Der Herbst endet im November hier.;Autumn ends here in November.
+Hast du Hunger oder schon gegessen.;Are you hungry or have you already eaten.
+Der Sommer dauert drei Monate lang.;Summer lasts three months long.
+Ich habe Durst, gibt es etwas trinken.;I am thirsty, is there something to drink.
+Im Januar ist der Winter am kältesten.;In January winter is the coldest.
+Guten Appetit, lass es dir schmecken.;Enjoy your meal, let it taste good.
+Der Dezember ist der letzte Monat.;December is the last month.
+Ich räume den Tisch nach Essen ab.;I clear the table after the meal.
+Im Juli haben wir die längsten Tage.;In July we have the longest days.
+Das Restaurant ist heute leider geschlossen.;The restaurant is unfortunately closed today.
+Im Oktober fallen die Blätter von Bäumen.;In October the leaves fall from trees.
+Ich reserviere einen Tisch für vier Personen.;I reserve a table for four people.
+Der April bringt oft Aprilwetter mit.;April often brings April weather with it.
+Die Speisekarte bitte, wir möchten bestellen.;The menu please, we would like to order.
+Im Mai blüht alles in der Natur.;In May everything blooms in nature.
+Ich bin allergisch gegen Nüsse leider.;I am allergic to nuts unfortunately.
+Der Juni ist warm und angenehm.;June is warm and pleasant.
+Welche Beilage möchten Sie zum Hauptgericht.;Which side dish would you like with the main course.
+Im September beginnt der Herbst langsam.;In September autumn begins slowly.
+Ich nehme das Tagesgericht, bitte schön.;I will take the daily special, please.
+Der August ist der heißeste Monat.;August is the hottest month.
+Ist das Gericht scharf oder mild.;Is the dish spicy or mild.
+Im Februar gibt es oft noch Schnee.;In February there is often still snow.
+Kann ich bitte die Rechnung haben.;Can I have the bill please.
+Im November wird es dunkel früher.;In November it gets dark earlier.
+Ich möchte gerne noch ein Dessert.;I would like another dessert please.
+Der März ist wechselhaft beim Wetter.;March is changeable with the weather.
+Zahlen Sie bar oder mit Karte.;Do you pay cash or by card.
+Jeder Monat hat dreißig Tage ungefähr.;Every month has about thirty days.
+Ich lade dich zum Essen ein heute.;I invite you to dinner today.
+Das Jahr hat zwölf Monate insgesamt.;The year has twelve months in total.
+Trinkgeld ist in Deutschland üblich hier.;Tipping is customary here in Germany.
+Die Woche hat sieben Tage immer.;The week always has seven days.
+Ich bin mit dem Essen zufrieden.;I am satisfied with the meal.
+Montag ist der erste Tag der Woche.;Monday is the first day of the week.
+Das war sehr lecker, vielen Dank.;That was very delicious, thank you very much.
+Am Dienstag habe ich immer viel Arbeit.;On Tuesday I always have a lot of work.
+Können wir draußen sitzen im Garten.;Can we sit outside in the garden.
+Mittwoch ist die Mitte der Woche.;Wednesday is the middle of the week.
+Gibt es hier auch vegetarische Gerichte.;Are there also vegetarian dishes here.
+Am Donnerstag gehe ich einkaufen immer.;On Thursday I always go shopping.
+Ich hätte gerne die Vorspeise bitte.;I would like the appetizer please.
+Freitag ist mein Lieblingstag der Woche.;Friday is my favorite day of the week.
+Was empfehlen Sie als Hauptgericht heute.;What do you recommend as a main course today.
+Am Samstag schlafe ich lange aus.;On Saturday I sleep in late.
+Ich nehme ein Mineralwasser zum Essen.;I will take a mineral water with the meal.
+Sonntag ist ein Ruhetag für mich.;Sunday is a rest day for me.
+Haben Sie auch Kinderportionen im Angebot.;Do you also have children's portions available.
+Das Wochenende beginnt am Freitag Abend.;The weekend begins on Friday evening.
+Ich bin Vegetarier, was können Sie empfehlen.;I am a vegetarian, what can you recommend.
+Welcher Tag ist heute, Montag oder Dienstag.;Which day is today, Monday or Tuesday.
+Gibt es glutenfreie Optionen auf der Karte.;Are there gluten-free options on the menu.
+Gestern war Sonntag, heute ist Montag.;Yesterday was Sunday, today is Monday.
+Ich habe eine Laktoseintoleranz leider.;I have a lactose intolerance unfortunately.
+Morgen ist Mittwoch, übermorgen ist Donnerstag.;Tomorrow is Wednesday, the day after tomorrow is Thursday.
+Kann ich das Dressing separat bekommen bitte.;Can I get the dressing separately please.
+Vorgestern war Samstag, schon zwei Tage her.;The day before yesterday was Saturday, already two days ago.
+Ich möchte das Fleisch gut durchgebraten.;I would like the meat well done.
+Am Wochenende haben die Geschäfte geschlossen.;On the weekend the shops are closed.
+Welche Zutaten sind in diesem Gericht drin.;Which ingredients are in this dish.
+Unter der Woche arbeite ich von acht bis fünf.;During the week I work from eight to five.
+Ich bin auf Diät und esse wenig Kohlenhydrate.;I am on a diet and eat few carbohydrates.
+Jeden Tag stehe ich um sieben auf.;Every day I get up at seven.
+Können Sie das Salz bitte weglassen.;Can you please leave out the salt.
+Manchmal arbeite ich auch am Wochenende.;Sometimes I also work on the weekend.
+Ich esse kein Schweinefleisch aus religiösen Gründen.;I don't eat pork for religious reasons.
+Wochentags bin ich immer sehr beschäftigt.;On weekdays I am always very busy.
+Ist das Gericht vegan oder vegetarisch.;Is the dish vegan or vegetarian.
+Ich freue mich immer auf das Wochenende.;I always look forward to the weekend.
+Ich hätte gerne weniger Öl im Essen.;I would like less oil in the food.
+Von Montag bis Freitag arbeite ich.;From Monday to Friday I work.
+Können Sie das ohne Zwiebeln zubereiten.;Can you prepare that without onions.
+Samstag und Sonntag sind meine freien Tage.;Saturday and Sunday are my days off.
+Ich vertrage keine scharfen Gewürze gut.;I don't tolerate spicy seasonings well.
+Welchen Tag haben wir heute eigentlich.;Which day do we actually have today.
+Gibt es auch kleine Portionen für Kinder.;Are there also small portions for children.
+In einer Woche sind sieben Tage.;In one week there are seven days.
+Ich esse lieber Fisch als Fleisch.;I prefer to eat fish rather than meat.
+Der erste Tag im neuen Job war gut.;The first day in the new job was good.
+Kann ich statt Pommes einen Salat bekommen.;Can I get a salad instead of fries.
+Heute ist ein besonderer Tag für mich.;Today is a special day for me.
+Ich möchte das Dressing auf der Seite.;I would like the dressing on the side.
+An welchem Tag hast du Zeit.;On which day do you have time.
+Haben Sie auch zuckerfreie Getränke hier.;Do you also have sugar-free drinks here.
+Ich habe jeden Tag Deutschunterricht hier.;I have German lessons here every day.
+Ich bin Diabetiker und esse wenig Zucker.;I am diabetic and eat little sugar.
+Nächste Woche fahre ich in den Urlaub.;Next week I am going on vacation.
+Gibt es auch Bio-Produkte in der Küche.;Are there also organic products in the kitchen.
+Diese Woche habe ich viel zu tun.;This week I have a lot to do.
+Können Sie mir sagen, was darin ist.;Can you tell me what is in it.
+Letzte Woche war ich krank zu Hause.;Last week I was sick at home.
+Ich esse keine rohen Eier oder Fisch.;I don't eat raw eggs or fish.
+In zwei Wochen beginnt mein Kurs.;In two weeks my course begins.
+Ist das Fleisch aus der Region hier.;Is the meat from the region here.
+Vor einer Woche bin ich angekommen hier.;A week ago I arrived here.
+Ich möchte bitte keine Mayonnaise darauf.;I would like no mayonnaise on it please.
+Jede Woche lerne ich neue Wörter.;Every week I learn new words.
+Gibt es auch laktosefreie Milch für Kaffee.;Is there also lactose-free milk for coffee.
+Am Wochenende besuche ich meine Familie.;On the weekend I visit my family.
+Können Sie das Gemüse nur dämpfen bitte.;Can you just steam the vegetables please.
+Nächsten Montag habe ich einen Termin.;Next Monday I have an appointment.
+Ich vertrage keine Erdnüsse, bin allergisch.;I don't tolerate peanuts, I am allergic.
+Letzten Freitag war ich im Kino.;Last Friday I was at the cinema.
+Ist das Öl zum Braten Olivenöl.;Is the oil for frying olive oil.
+Diesen Samstag mache ich eine Party.;This Saturday I am having a party.
+Ich esse kein Fast Food mehr.;I don't eat fast food anymore.
+Vorigen Donnerstag hatte ich frei.;Last Thursday I had off.
+Haben Sie auch frisch gepressten Orangensaft.;Do you also have freshly squeezed orange juice.
+Kommenden Sonntag gehen wir wandern.;Next Sunday we are going hiking.
+Ich bevorzuge gedünstetes statt gebratenes Essen.;I prefer steamed instead of fried food.
+Ich gehe oft ins Kino am Wochenende.;I often go to the cinema on the weekend.
+Gibt es auch Vollkornbrot statt Weißbrot.;Is there also whole grain bread instead of white bread.
+Das Theater zeigt ein neues Stück heute.;The theater shows a new play today.
+Können Sie das ohne Butter kochen bitte.;Can you cook that without butter please.
+Ich besuche gerne Museen in meiner Freizeit.;I like to visit museums in my free time.
+Ich möchte gerne mageres Fleisch haben.;I would like to have lean meat.
+Wir gehen oft spazieren im Park.;We often go for walks in the park.
+Ist das Gericht kalorienarm oder fettarm.;Is the dish low in calories or low in fat.
+Ich treffe meine Freunde im Café.;I meet my friends at the café.
+Haben Sie auch salzarme Gerichte im Angebot.;Do you also have low-salt dishes available.
+Am Abend lese ich gerne Bücher.;In the evening I like to read books.
+Ich esse keine frittierten Sachen mehr.;I don't eat fried things anymore.
+Ich höre Musik beim Joggen immer.;I always listen to music while jogging.
+Gibt es auch Vollkornpasta statt normale.;Is there also whole grain pasta instead of regular.
+Wir machen oft Ausflüge am Wochenende.;We often make trips on the weekend.
+Können Sie mir die Nährwerte sagen bitte.;Can you tell me the nutritional values please.
+Ich schwimme zweimal pro Woche im Schwimmbad.;I swim twice a week at the swimming pool.
+Ich esse lieber gegrilltes als paniertes Fleisch.;I prefer grilled rather than breaded meat.
+Tanzen ist mein liebstes Hobby sehr.;Dancing is my favorite hobby very much.
+Haben Sie auch zuckerfreie Desserts da.;Do you also have sugar-free desserts there.
+Ich spiele Fußball jeden Samstag Vormittag.;I play football every Saturday morning.
+Ist in der Soße Sahne oder Milch.;Is there cream or milk in the sauce.
+Radfahren macht mir viel Spaß immer.;Cycling always gives me a lot of fun.
+Können Sie das ohne Käse machen bitte.;Can you make that without cheese please.
+Ich male und zeichne in meiner Freizeit.;I paint and draw in my free time.
+Ich hätte gerne Essig-Öl-Dressing statt Sahne.;I would like vinegar-oil dressing instead of cream.
+Fotografieren ist ein interessantes Hobby für mich.;Photography is an interesting hobby for me.
+Gibt es auch Süßstoff statt Zucker hier.;Is there also sweetener instead of sugar here.
+Ich koche gerne neue Rezepte aus.;I like to cook new recipes.
+Können Sie das Brot bitte nicht toasten.;Can you please not toast the bread.
+Gartenarbeit entspannt mich am Wochenende sehr.;Gardening relaxes me a lot on the weekend.
+Ich nehme lieber Senf statt Ketchup dazu.;I prefer to take mustard instead of ketchup with it.
+Ich sammle Briefmarken seit meiner Kindheit.;I have been collecting stamps since my childhood.
+Haben Sie auch Stevia zum Süßen.;Do you also have stevia for sweetening.
+Wandern in den Bergen ist schön.;Hiking in the mountains is beautiful.
+Ich möchte bitte kein Glutamat im Essen.;I would like no glutamate in the food please.
+Ich stricke und häkele gerne Pullover.;I like to knit and crochet sweaters.
+Gibt es Kokosmilch statt normaler Milch hier.;Is there coconut milk instead of regular milk here.
+Schach spielen trainiert das Gehirn gut.;Playing chess trains the brain well.
+Können Sie mir sagen welches Öl Sie verwenden.;Can you tell me which oil you use.
+Ich spiele Gitarre und singe gerne.;I play guitar and like to sing.
+Ich esse lieber gedämpften statt gebratenen Reis.;I prefer steamed rather than fried rice.
+Reisen und neue Länder entdecken ist toll.;Traveling and discovering new countries is great.
+Haben Sie auch Mandelmilch für den Kaffee.;Do you also have almond milk for the coffee.
+Ich gehe gerne auf Konzerte und Festivals.;I like to go to concerts and festivals.
+Können Sie das Fleisch bitte nicht würzen.;Can you please not season the meat.
+Yoga praktiziere ich jeden Morgen früh.;I practice yoga every morning early.
+Ich hätte gerne ungezuckerten Tee bitte.;I would like unsweetened tea please.
+Ich trainiere im Fitnessstudio regelmäßig.;I train at the gym regularly.
+Gibt es auch Mineralwasser ohne Kohlensäure.;Is there also mineral water without carbonation.
+Meditation hilft mir beim Entspannen abends.;Meditation helps me relax in the evening.
+Können Sie das Gemüse roh servieren.;Can you serve the vegetables raw.
+Ich lerne neue Sprachen in Kursen.;I learn new languages in courses.
+Ich esse lieber Vollkornprodukte statt Weißmehl.;I prefer to eat whole grain products instead of white flour.
+Filme schauen ist meine Lieblingsbeschäftigung.;Watching films is my favorite activity.
+Haben Sie auch ungesalzene Nüsse als Snack.;Do you also have unsalted nuts as a snack.
+Ich schreibe gerne Geschichten und Gedichte.;I like to write stories and poems.
+Können Sie das Essen ohne Geschmacksverstärker machen.;Can you make the food without flavor enhancers.
+Volleyball spielen wir oft am Strand.;We often play volleyball on the beach.
+Ich trinke lieber Kräutertee statt Schwarztee.;I prefer to drink herbal tea instead of black tea.
+Ich bastle gerne kreative Sachen selbst.;I like to craft creative things myself.
+Gibt es frisches Obst als Dessert Option.;Is there fresh fruit as a dessert option.
+Angeln am See ist sehr entspannend.;Fishing at the lake is very relaxing.
+Ich möchte bitte ungesüßten Joghurt haben.;I would like unsweetened yogurt please.
+Ich puzzel gerne in meiner Freizeit.;I like to do puzzles in my free time.
+Können Sie Honig statt Zucker verwenden.;Can you use honey instead of sugar.
+Segeln auf dem Meer macht Spaß.;Sailing on the sea is fun.
+Ich hätte gerne naturbelassene Produkte bitte.;I would like natural products please.
+Klettern ist ein aufregendes Hobby.;Climbing is an exciting hobby.
+Haben Sie auch Dinkelmehl statt Weizenmehl.;Do you also have spelt flour instead of wheat flour.
+Ich skate gerne im Park mit Freunden.;I like to skate in the park with friends.
+Können Sie Bio-Zutaten verwenden bitte.;Can you use organic ingredients please.
+Tischtennis spielen wir in der Pause.;We play table tennis during the break.
+Ich esse lieber frisch als aus Dosen.;I prefer to eat fresh rather than from cans.
+Bowling am Freitag Abend ist lustig.;Bowling on Friday evening is fun.
+Gibt es auch regional angebautes Gemüse.;Is there also regionally grown vegetables.
+Ich jongliere manchmal zum Üben hier.;I sometimes juggle here to practice.
+Können Sie mir bitte die Zutatenliste zeigen.;Can you please show me the ingredient list.
+Dart spielen entspannt mich nach Arbeit.;Playing darts relaxes me after work.
+Ich bevorzuge saisonale Produkte beim Kochen.;I prefer seasonal products when cooking.
+Billard spielen ist mein Hobby seit Jahren.;Playing billiards has been my hobby for years.
+Haben Sie auch hausgemachte Gerichte ohne Zusatzstoffe.;Do you also have homemade dishes without additives.

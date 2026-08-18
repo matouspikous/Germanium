@@ -1,0 +1,4328 @@
+gehen;ging;gegangen;zu;to go
+kommen;kam;gekommen;aus;to come
+gehen;ging;gegangen;zu;to go
+kommen;kam;gekommen;aus;to come
+sehen;sah;gesehen;auf;to see
+geben;gab;gegeben;an;to give
+nehmen;nahm;genommen;von;to take
+finden;fand;gefunden;in;to find
+denken;dachte;gedacht;an;to think
+bleiben;blieb;geblieben;bei;to stay
+bringen;brachte;gebracht;zu;to bring
+fahren;fuhr;gefahren;nach;to drive
+sprechen;sprach;gesprochen;mit;to speak
+laufen;lief;gelaufen;zu;to run
+arbeiten;arbeitete;gearbeitet;an;to work
+spielen;spielte;gespielt;mit;to play
+lernen;lernte;gelernt;für;to learn
+essen;aß;gegessen;mit;to eat
+trinken;trank;getrunken;aus;to drink
+schlafen;schlief;geschlafen;bei;to sleep
+lesen;las;gelesen;über;to read
+schreiben;schrieb;geschrieben;an;to write
+helfen;half;geholfen;bei;to help
+fragen;fragte;gefragt;nach;to ask
+antworten;antwortete;geantwortet;auf;to answer
+kaufen;kaufte;gekauft;bei;to buy
+verkaufen;verkaufte;verkauft;an;to sell
+öffnen;öffnete;geöffnet;für;to open
+schließen;schloss;geschlossen;mit;to close
+beginnen;begann;begonnen;mit;to begin
+enden;endete;geendet;mit;to end
+arbeiten;arbeitete;gearbeitet;für;to work
+reisen;reiste;gereist;nach;to travel
+wohnen;wohnte;gewohnt;in;to live
+leben;lebte;gelebt;mit;to live
+sterben;starb;gestorben;an;to die
+lieben;liebte;geliebt;über;to love
+hassen;hasste;gehasst;auf;to hate
+warten;wartete;gewartet;auf;to wait
+hoffen;hoffte;gehofft;auf;to hope
+glauben;glaubte;geglaubt;an;to believe
+versuchen;versuchte;versucht;zu;to try
+gewinnen;gewann;gewonnen;gegen;to win
+verlieren;verlor;verloren;gegen;to lose
+bezahlen;bezahlte;bezahlt;für;to pay
+verdienen;verdiente;verdient;mit;to earn
+kochen;kochte;gekocht;für;to cook
+backen;backte;gebacken;für;to bake
+putzen;putzte;geputzt;mit;to clean
+waschen;wusch;gewaschen;mit;to wash
+duschen;duschte;geduscht;mit;to shower
+anziehen;zog an;angezogen;mit;to put on
+ausziehen;zog aus;ausgezogen;aus;to take off
+sitzen;saß;gesessen;auf;to sit
+stehen;stand;gestanden;auf;to stand
+liegen;lag;gelegen;auf;to lie
+fallen;fiel;gefallen;auf;to fall
+steigen;stieg;gestiegen;in;to climb
+halten;hielt;gehalten;an;to hold
+werfen;warf;geworfen;auf;to throw
+fangen;fing;gefangen;mit;to catch
+ziehen;zog;gezogen;an;to pull
+drücken;drückte;gedrückt;auf;to press
+bauen;baute;gebaut;an;to build
+zerstören;zerstörte;zerstört;durch;to destroy
+reparieren;reparierte;repariert;an;to repair
+planen;plante;geplant;für;to plan
+organisieren;organisierte;organisiert;für;to organize
+entscheiden;entschied;entschieden;über;to decide
+wählen;wählte;gewählt;zwischen;to choose
+verstehen;verstand;verstanden;von;to understand
+erklären;erklärte;erklärt;zu;to explain
+unterrichten;unterrichtete;unterrichtet;in;to teach
+studieren;studierte;studiert;an;to study
+prüfen;prüfte;geprüft;auf;to check
+testen;testete;getestet;auf;to test
+nutzen;nutzte;genutzt;für;to use
+benutzen;benutzte;benutzt;für;to use
+finden;fand;gefunden;auf;to discover
+suchen;suchte;gesucht;nach;to search
+verlängern;verlängerte;verlängert;um;to extend
+verkürzen;verkürzte;verkürzt;um;to shorten
+ändern;änderte;geändert;an;to change
+bleiben;blieb;geblieben;bei;to remain
+verlassen;verließ;verlassen;auf;to leave
+besuchen;besuchte;besucht;bei;to visit
+treffen;traf;getroffen;mit;to meet
+kennen;lernte kennen;kennengelernt;von;to know
+erkennen;erkannte;erkannt;an;to recognize
+vergessen;vergaß;vergessen;über;to forget
+erinnern;erinnerte;erinnert;an;to remember
+beginnen;begann;begonnen;mit;to start
+aufhören;hörte auf;aufgehört;mit;to stop
+weitermachen;machte weiter;weitergemacht;mit;to continue
+fehlen;fehlte;gefehlt;an;to lack
+passen;passte;gepasst;zu;to fit
+gehören;gehörte;gehört;zu;to belong
+schützen;schützte;geschützt;vor;to protect
+warnen;warnte;gewarnt;vor;to warn
+erlauben;erlaubte;erlaubt;zu;to allow
+verbieten;verbot;verboten;zu;to forbid
+sparen;sparte;gespart;auf;to save
+ausgeben;gab aus;ausgegeben;für;to spend
+leihen;lieh;geliehen;von;to borrow
+verleihen;verlieh;verliehen;an;to lend
+mieten;mietete;gemietet;von;to rent
+vermieten;vermietete;vermietet;an;to rent out
+reisen;reiste;gereist;mit;to travel
+fliegen;flog;geflogen;nach;to fly
+ankommen;kam an;angekommen;in;to arrive
+abfahren;fuhr ab;abgefahren;von;to depart
+einsteigen;stieg ein;eingestiegen;in;to get in
+aussteigen;stieg aus;ausgestiegen;aus;to get out
+mitnehmen;nahm mit;mitgenommen;zu;to take along
+abholen;holte ab;abgeholt;von;to pick up
+wegbringen;brachte weg;weggebracht;zu;to take away
+zurückkommen;kam zurück;zurückgekommen;zu;to return
+anfangen;fing an;angefangen;mit;to begin
+aufmachen;machte auf;aufgemacht;für;to open
+zumachen;machte zu;zugemacht;mit;to close
+sprechen;sprach;gesprochen;mit;to speak
+reden;redete;geredet;mit;to talk
+erzählen;erzählte;erzählt;von;to tell
+plaudern;plauderte;geplaudert;mit;to chat
+diskutieren;diskutierte;diskutiert;über;to discuss
+fragen;fragte;gefragt;nach;to ask
+antworten;antwortete;geantwortet;auf;to answer
+zuhören;hörte zu;zugehört;bei;to listen
+mitreden;redete mit;mitgeredet;bei;to join the conversation
+unterhalten;unterhielt;unterhalten;mit;to converse
+lachen;lachte;gelacht;über;to laugh
+schmunzeln;schmunzelte;geschmunzelt;über;to chuckle
+witzeln;witzelte;gewitzelt;über;to joke
+scherzen;scherzte;gescherzt;über;to joke
+spaßen;spaßte;gespaßt;mit;to joke around
+flüstern;flüsterte;geflüstert;zu;to whisper
+rufen;rief;gerufen;nach;to call
+anschreien;schrie an;angeschrien;an;to shout at
+anschauen;schaute an;angeschaut;auf;to look at
+beobachten;beobachtete;beobachtet;bei;to observe
+nicken;nickte;genickt;zu;to nod
+zustimmen;stimmte zu;zugestimmt;zu;to agree
+ablehnen;lehnte ab;abgelehnt;gegen;to reject
+widersprechen;widersprach;widersprochen;gegen;to disagree
+meinen;meinte;gemeint;über;to think
+denken;dachte;gedacht;über;to think
+überlegen;überlegte;überlegt;zu;to consider
+erklären;erklärte;erklärt;zu;to explain
+beschreiben;beschrieb;beschrieben;als;to describe
+darstellen;stellte dar;dargestellt;als;to present
+betonen;betonte;betont;auf;to emphasize
+hinweisen;wies hin;hingewiesen;auf;to point out
+bestätigen;bestätigte;bestätigt;mit;to confirm
+verneinen;verneinte;verneint;mit;to deny
+zugeben;gab zu;zugegeben;zu;to admit
+gestehen;gestand;gestanden;zu;to confess
+verraten;verriet;verraten;an;to reveal
+mitteilen;teilte mit;mitgeteilt;an;to inform
+berichten;berichtete;berichtet;über;to report
+erzählen;erzählte;erzählt;über;to recount
+klagen;klagte;geklagt;über;to complain
+jammern;jammerte;gejammert;über;to complain
+meckern;meckerte;gemeckert;über;to nag
+loben;lobte;gelobt;für;to praise
+kritisieren;kritisierte;kritisiert;an;to criticize
+beschweren;beschwerte;beschwert;bei;to complain
+sich entschuldigen;entschuldigte sich;entschuldigt;bei;to apologize
+verzeihen;verzieh;verziehen;für;to forgive
+verstehen;verstand;verstanden;von;to understand
+missverstehen;missverstand;missverstanden;als;to misunderstand
+nachfragen;fragte nach;nachgefragt;bei;to ask again
+einwerfen;warf ein;eingeworfen;in;to interject
+unterbrechen;unterbrach;unterbrochen;bei;to interrupt
+ausreden;redete aus;ausgeredet;mit;to finish speaking
+zustimmen;stimmte zu;zugestimmt;bei;to agree
+einverstanden sein;war einverstanden;einverstanden gewesen;mit;to agree
+ablehnen;lehnte ab;abgelehnt;bei;to refuse
+überzeugen;überzeugte;überzeugt;von;to convince
+überreden;überredete;überredet;zu;to persuade
+diskutieren;diskutierte;diskutiert;mit;to debate
+argumentieren;argumentierte;argumentiert;für;to argue
+streiten;stritt;gestritten;mit;to argue
+sich vertragen;vertrug sich;vertragen;mit;to make up
+sich versöhnen;versöhnte sich;versöhnt;mit;to reconcile
+lachen;lachte;gelacht;mit;to laugh
+kichern;kicherte;gekichert;über;to giggle
+spotten;spottete;gespottet;über;to mock
+necken;neckte;geneckt;mit;to tease
+trösten;tröstete;getröstet;bei;to comfort
+ermutigen;ermutigte;ermutigt;zu;to encourage
+motivieren;motivierte;motiviert;zu;to motivate
+warnen;warnte;gewarnt;vor;to warn
+raten;riet;geraten;zu;to advise
+empfehlen;empfahl;empfohlen;zu;to recommend
+zustimmen;stimmte zu;zugestimmt;bei;to approve
+ablehnen;lehnte ab;abgelehnt;von;to decline
+nachdenken;dachte nach;nachgedacht;über;to reflect
+grübeln;grübelte;gegrübelt;über;to ponder
+erzürnen;erzürnte;erzürnt;über;to anger
+aufregen;regte auf;aufgeregt;über;to get upset
+beruhigen;beruhigte;beruhigt;bei;to calm
+lästern;lästerte;gelästert;über;to gossip
+tratschen;tratschte;getratscht;über;to gossip
+verabreden;verabredete;verabredet;mit;to arrange
+einladen;lud ein;eingeladen;zu;to invite
+zusagen;sagte zu;zugesagt;zu;to accept
+absagen;sagte ab;abgesagt;bei;to cancel
+planen;plante;geplant;mit;to plan
+vorschlagen;schlug vor;vorgeschlagen;zu;to suggest
+zustimmen;stimmte zu;zugestimmt;zu;to consent
+entscheiden;entschied;entschieden;über;to decide
+erzählen;erzählte;erzählt;von;to talk about
+schwärmen;schwärmte;geschwärmt;von;to rave about
+sich freuen;freute sich;gefreut;über;to be happy
+bedanken;bedankte sich;bedankt;bei;to thank
+gratulieren;gratulierte;gratuliert;zu;to congratulate
+begrüßen;begrüßte;begrüßt;mit;to greet
+verabschieden;verabschiedete;verabschiedet;von;to say goodbye
+nachhaken;hakte nach;nachgehakt;bei;to follow up
+zusammenfassen;fasste zusammen;zusammengefasst;zu;to summarize
+abschließen;schloss ab;abgeschlossen;mit;to conclude
+weitersprechen;sprach weiter;weitergesprochen;über;to continue talking
+arbeiten;arbeitete;gearbeitet;an;to work
+planen;plante;geplant;für;to plan
+organisieren;organisierte;organisiert;für;to organize
+koordinieren;koordinierte;koordiniert;mit;to coordinate
+verwalten;verwaltete;verwaltet;von;to manage
+leiten;leitete;geleitet;von;to lead
+führen;führte;geführt;durch;to lead
+delegieren;delegierte;delegiert;an;to delegate
+überwachen;überwachte;überwacht;von;to supervise
+kontrollieren;kontrollierte;kontrolliert;von;to control
+analysieren;analysierte;analysiert;von;to analyze
+auswerten;wertete aus;ausgewertet;nach;to evaluate
+bewerten;bewertete;bewertet;nach;to assess
+entscheiden;entschied;entschieden;über;to decide
+genehmigen;genehmigte;genehmigt;von;to approve
+ablehnen;lehnte ab;abgelehnt;von;to reject
+beantragen;beantragte;beantragt;bei;to apply for
+einreichen;reichte ein;eingereicht;bei;to submit
+prüfen;prüfte;geprüft;auf;to check
+testen;testete;getestet;auf;to test
+entwickeln;entwickelte;entwickelt;zu;to develop
+entwerfen;entwarf;entworfen;für;to design
+konzipieren;konzipierte;konzipiert;für;to design
+umsetzen;setzte um;umgesetzt;in;to implement
+durchführen;führte durch;durchgeführt;mit;to carry out
+optimieren;optimierte;optimiert;für;to optimize
+verbessern;verbesserte;verbessert;an;to improve
+anpassen;passte an;angepasst;an;to adapt
+ändern;änderte;geändert;an;to change
+aktualisieren;aktualisierte;aktualisiert;auf;to update
+dokumentieren;dokumentierte;dokumentiert;für;to document
+berichten;berichtete;berichtet;an;to report
+kommunizieren;kommunizierte;kommuniziert;mit;to communicate
+abstimmen;stimmte ab;abgestimmt;mit;to coordinate
+besprechen;besprach;besprochen;mit;to discuss
+moderieren;moderierte;moderiert;von;to moderate
+präsentieren;präsentierte;präsentiert;vor;to present
+vorstellen;stellte vor;vorgestellt;bei;to introduce
+erklären;erklärte;erklärt;zu;to explain
+schulen;schulte;geschult;in;to train
+einweisen;wies ein;eingewiesen;in;to brief
+unterstützen;unterstützte;unterstützt;bei;to support
+beraten;beriet;beraten;zu;to advise
+begleiten;begleitete;begleitet;bei;to accompany
+zusammenarbeiten;arbeitete zusammen;zusammengearbeitet;mit;to collaborate
+kooperieren;kooperierte;kooperiert;mit;to cooperate
+verhandeln;verhandelte;verhandelt;mit;to negotiate
+vereinbaren;vereinbarte;vereinbart;mit;to agree
+abschließen;schloss ab;abgeschlossen;mit;to conclude
+kündigen;kündigte;gekündigt;bei;to terminate
+einstellen;stellte ein;eingestellt;bei;to hire
+entlassen;entließ;entlassen;aus;to dismiss
+beauftragen;beauftragte;beauftragt;mit;to commission
+zuweisen;wies zu;zugewiesen;an;to assign
+einplanen;plante ein;eingeplant;für;to schedule
+terminieren;terminierte;terminiert;für;to schedule
+verschieben;verschob;verschoben;auf;to postpone
+priorisieren;priorisierte;priorisiert;nach;to prioritize
+fokussieren;fokussierte;fokussiert;auf;to focus
+konzentrieren;konzentrierte;konzentriert;auf;to concentrate
+recherchieren;recherchierte;recherchiert;zu;to research
+ermitteln;ermittelte;ermittelt;von;to determine
+kalkulieren;kalkulierte;kalkuliert;mit;to calculate
+budgetieren;budgetierte;budgetiert;für;to budget
+abrechnen;rechnete ab;abgerechnet;mit;to bill
+bezahlen;bezahlte;bezahlt;für;to pay
+finanzieren;finanzierte;finanziert;durch;to finance
+investieren;investierte;investiert;in;to invest
+einsparen;sparte ein;eingespart;bei;to save
+beschaffen;beschaffte;beschafft;von;to procure
+bestellen;bestellte;bestellt;bei;to order
+liefern;lieferte;geliefert;an;to deliver
+ausliefern;lieferte aus;ausgeliefert;an;to deliver
+lagern;lagerte;gelagert;in;to store
+verpacken;verpackte;verpackt;in;to package
+versenden;versendete;versendet;an;to ship
+transportieren;transportierte;transportiert;zu;to transport
+installieren;installierte;installiert;bei;to install
+warten;wartete;gewartet;auf;to maintain
+reparieren;reparierte;repariert;an;to repair
+instandhalten;hielt instand;instandgehalten;von;to maintain
+überholen;überholte;überholt;bei;to overhaul
+sichern;sicherte;gesichert;gegen;to secure
+schützen;schützte;geschützt;vor;to protect
+einhalten;hielt ein;eingehalten;von;to comply
+durchsetzen;setzte durch;durchgesetzt;gegen;to enforce
+überprüfen;überprüfte;überprüft;auf;to verify
+auditieren;auditierte;auditert;bei;to audit
+zertifizieren;zertifizierte;zertifiziert;nach;to certify
+freigeben;gab frei;freigegeben;für;to release
+blockieren;blockierte;blockiert;gegen;to block
+eskalieren;eskalierte;eskaliert;an;to escalate
+lösen;löst;gelöst;von;to solve
+bearbeiten;bearbeitete;bearbeitet;von;to process
+erledigen;erledigte;erledigt;für;to complete
+abschließen;schloss ab;abgeschlossen;bei;to finalize
+nachbereiten;bereitete nach;nachbereitet;von;to follow up
+archivieren;archivierte;archiviert;in;to archive
+protokollieren;protokollierte;protokolliert;für;to record
+melden;meldete;gemeldet;an;to report
+informieren;informierte;informiert;über;to inform
+abmelden;meldete ab;abgemeldet;von;to deregister
+teilnehmen;nahm teil;teilgenommen;an;to participate
+mitwirken;wirkte mit;mitgewirkt;bei;to contribute
+verantworten;verantwortete;verantwortet;für;to be responsible
+hafteten;haftete;gehaftet;für;to be liable
+evaluieren;evaluierte;evaluert;nach;to evaluate
+reisen;reiste;gereist;nach;to travel
+fahren;fuhr;gefahren;nach;to travel by vehicle
+fliegen;flog;geflogen;nach;to fly
+abfahren;fuhr ab;abgefahren;von;to depart
+ankommen;kam an;angekommen;in;to arrive
+umsteigen;stieg um;umgestiegen;in;to change trains
+einsteigen;stieg ein;eingestiegen;in;to board
+aussteigen;stieg aus;ausgestiegen;aus;to get off
+abholen;holte ab;abgeholt;von;to pick up
+wegfahren;fuhr weg;weggefahren;von;to leave
+zurückkehren;kehrte zurück;zurückgekehrt;zu;to return
+übernachten;übernachtete;übernachtet;in;to stay overnight
+bleiben;blieb;geblieben;in;to stay
+buchen;buchte;gebucht;bei;to book
+reservieren;reservierte;reserviert;bei;to reserve
+stornieren;stornierte;storniert;bei;to cancel
+einchecken;checkte ein;eingecheckt;bei;to check in
+auschecken;checkte aus;ausgecheckt;bei;to check out
+packen;packte;gepackt;in;to pack
+auspacken;packte aus;ausgepackt;in;to unpack
+mitnehmen;nahm mit;mitgenommen;auf;to take along
+vergessen;vergaß;vergessen;in;to forget
+verlieren;verlor;verloren;auf;to lose
+finden;fand;gefunden;in;to find
+tragen;trug;getragen;mit;to carry
+schleppen;schleppte;geschleppt;mit;to haul
+mieten;mietete;gemietet;bei;to rent
+vermieten;vermietete;vermietet;an;to rent out
+fahren lassen;ließ fahren;fahren lassen;mit;to have driven
+navigieren;navigierte;navigiert;nach;to navigate
+orientieren;orientierte;orientiert;an;to orient
+verfahren;verfuhr;verfahren;bei;to get lost
+folgen;folgte;gefolgt;nach;to follow
+abbiegen;bog ab;abgebogen;in;to turn
+wenden;wendete;gewendet;bei;to turn around
+parken;parkte;geparkt;bei;to park
+tanken;tankte;getankt;bei;to refuel
+laden;lud;geladen;an;to load
+entladen;entlud;entladen;von;to unload
+kontrollieren;kontrollierte;kontrolliert;bei;to check
+prüfen;prüfte;geprüft;auf;to check
+vorzeigen;zeigte vor;vorgezeigt;bei;to present
+einreisen;reiste ein;eingereist;in;to enter a country
+ausreisen;reiste aus;ausgereist;aus;to leave a country
+durchqueren;durchquerte;durchquert;durch;to cross
+passieren;passierte;passiert;durch;to pass
+besuchen;besuchte;besucht;in;to visit
+besichtigen;besichtigte;besichtigt;in;to sightsee
+erkunden;erkundete;erkundet;in;to explore
+entdecken;entdeckte;entdeckt;in;to discover
+fotografieren;fotografierte;fotografiert;von;to photograph
+filmen;filmte;gefilmt;von;to film
+wandern;wanderte;gewandert;durch;to hike
+spazieren;spazierte;spaziert;durch;to stroll
+klettern;kletterte;geklettert;auf;to climb
+baden;badete;gebadet;in;to bathe
+schwimmen;schwamm;geschwommen;in;to swim
+tauchen;tauchte;getaucht;in;to dive
+surfen;surfte;gesurft;auf;to surf
+skifahren;fuhr Ski;Ski gefahren;auf;to ski
+snowboarden;snowboardete;snowboardet;auf;to snowboard
+radeln;radelte;geradelt;durch;to cycle
+fahren;fuhr;gefahren;durch;to drive through
+segeln;segelte;gesegelt;auf;to sail
+bootfahren;fuhr Boot;Boot gefahren;auf;to boat
+kreuzen;kreuzte;gekreuzt;auf;to cruise
+anlegen;legte an;angelegt;in;to dock
+ablegen;legte ab;abgelegt;von;to set sail
+verspäten;verspätete;verspätet;bei;to delay
+verpassen;verpasste;verpasst;bei;to miss
+warten;wartete;gewartet;auf;to wait
+anstehen;stand an;angestanden;für;to queue
+bezahlen;bezahlte;bezahlt;für;to pay
+wechseln;wechselte;gewechselt;in;to exchange
+abheben;hob ab;abgehoben;von;to withdraw
+einzahlen;zahlte ein;eingezahlt;auf;to deposit
+versichern;versicherte;versichert;gegen;to insure
+schützen;schützte;geschützt;vor;to protect
+verlängern;verlängerte;verlängert;um;to extend
+verkürzen;verkürzte;verkürzt;um;to shorten
+planen;plante;geplant;für;to plan
+vorbereiten;bereitete vor;vorbereitet;auf;to prepare
+informieren;informierte;informiert;über;to inform
+fragen;fragte;gefragt;nach;to ask
+empfehlen;empfahl;empfohlen;zu;to recommend
+buchen;buchte;gebucht;für;to book
+umbuchen;buchte um;umgebucht;auf;to rebook
+eintragen;trug ein;eingetragen;in;to register
+abmelden;meldete ab;abgemeldet;von;to deregister
+mitfahren;fuhr mit;mitgefahren;mit;to ride along
+mitfliegen;flog mit;mitgeflogen;mit;to fly along
+teilnehmen;nahm teil;teilgenommen;an;to participate
+ausruhen;ruhte aus;ausgeruht;bei;to rest
+entspannen;entspannte;entspannt;bei;to relax
+genießen;genoss;genossen;in;to enjoy
+probieren;probierte;probiert;von;to try
+kosten;kostete;gekostet;von;to taste
+essen;aß;gegessen;in;to eat
+trinken;trank;getrunken;in;to drink
+feiern;feierte;gefeiert;in;to celebrate
+beobachten;beobachtete;beobachtet;von;to observe
+lauschen;lauschte;gelauscht;auf;to listen
+staunen;staunte;gestaunt;über;to marvel
+lernen;lernte;gelernt;über;to learn
+üben;übte;geübt;in;to practice
+kommunizieren;kommunizierte;kommuniziert;mit;to communicate
+übersetzen;übersetzte;übersetzt;in;to translate
+verstehen;verstand;verstanden;von;to understand
+verirren;verirrte;verirrt;in;to get lost
+retten;rettete;gerettet;aus;to rescue
+helfen;half;geholfen;bei;to help
+melden;meldete;gemeldet;bei;to report
+klären;klärte;geklärt;mit;to clarify
+abschließen;schloss ab;abgeschlossen;mit;to conclude
+zurückreisen;reiste zurück;zurückgereist;nach;to travel back
+lernen;lernte;gelernt;für;to learn
+studieren;studierte;studiert;an;to study
+unterrichtet;unterrichtete;unterrichtet;in;to teach
+erklären;erklärte;erklärt;zu;to explain
+beschreiben;beschrieb;beschrieben;als;to describe
+darstellen;stellte dar;dargestellt;als;to present
+diskutieren;diskutierte;diskutiert;über;to discuss
+fragen;fragte;gefragt;nach;to ask
+antworten;antwortete;geantwortet;auf;to answer
+mitmachen;machte mit;mitgemacht;bei;to participate
+zuhören;hörte zu;zugehört;bei;to listen
+aufschreiben;schrieb auf;aufgeschrieben;für;to write down
+notieren;notierte;notiert;für;to note
+prüfen;prüfte;geprüft;auf;to check
+testen;testete;getestet;auf;to test
+bewerten;bewertete;bewertet;nach;to assess
+kontrollieren;kontrollierte;kontrolliert;auf;to control
+überprüfen;überprüfte;überprüft;auf;to verify
+vorbereiten;bereitete vor;vorbereitet;auf;to prepare
+wiederholen;wiederholte;wiederholt;für;to repeat
+üben;übte;geübt;für;to practice
+einüben;übte ein;eingeübt;für;to drill
+lesen;las;gelesen;über;to read
+vorlesen;las vor;vorgelesen;für;to read aloud
+anschauen;schaute an;angeschaut;auf;to look at
+beobachten;beobachtete;beobachtet;bei;to observe
+schreiben;schrieb;geschrieben;an;to write
+aufsagen;sagte auf;aufgesagt;für;to recite
+mitarbeiten;arbeitete mit;mitgearbeitet;bei;to collaborate
+diskutieren;diskutierte;diskutiert;über;to debate
+präsentieren;präsentierte;präsentiert;vor;to present
+vorstellen;stellte vor;vorgestellt;bei;to introduce
+erforschen;erforschte;erforscht;zu;to research
+untersuchen;untersuchte;untersucht;auf;to examine
+analysieren;analysierte;analysiert;auf;to analyze
+experimentieren;experimentierte;experimentiert;mit;to experiment
+versuchen;versuchte;versucht;zu;to try
+entdecken;entdeckte;entdeckt;in;to discover
+erfinden;erfand;erfunden;zu;to invent
+konstruieren;konstruiere;konstruiert;aus;to construct
+zeichnen;zeichnete;gezeichnet;für;to draw
+malen;malte;gemalt;für;to paint
+basteln;bastelte;gebastelt;mit;to craft
+bauen;baute;gebaut;mit;to build
+modellieren;modellierte;modelliert;aus;to model
+gestalten;gestaltete;gestaltet;zu;to design
+recherchieren;recherchierte;recherchiert;zu;to research
+notieren;notierte;notiert;für;to note
+aufzeichnen;zeichnete auf;aufgezeichnet;für;to record
+protokollieren;protokollierte;protokolliert;für;to record
+vorbereiten;bereitete vor;vorbereitet;auf;to prepare
+nachbereiten;bereitete nach;nachbereitet;für;to review
+zusammenfassen;fasste zusammen;zusammengefasst;für;to summarize
+überarbeiten;überarbeitete;überarbeitet;an;to revise
+korrigieren;korrigierte;korrigiert;bei;to correct
+verbessern;verbesserte;verbessert;an;to improve
+wiederholen;wiederholte;wiederholt;für;to revise
+lernen;lernte;gelernt;für;to study
+pauken;paukte;gepaukt;für;to cram
+einprägen;prägte ein;einprägt;für;to memorize
+merken;merkte;gemerkt;für;to remember
+nachschlagen;schlug nach;nachgeschlagen;in;to look up
+überprüfen;überprüfte;überprüft;auf;to test
+anwenden;wandte an;angewandt;auf;to apply
+trainieren;trainierte;trainiert;für;to train
+diskutieren;diskutierte;diskutiert;über;to discuss
+argumentieren;argumentierte;argumentiert;für;to argue
+reflektieren;reflektierte;reflektiert;über;to reflect
+analysieren;analysierte;analysiert;auf;to analyze
+interpretieren;interpretierte;interpretiert;auf;to interpret
+bewerten;bewertete;bewertet;nach;to evaluate
+prüfen;prüfte;geprüft;auf;to check
+erarbeiten;erarbeitete;erarbeitet;zu;to develop
+erstellen;erstellte;erstellt;für;to create
+ausarbeiten;arbeitete aus;ausgearbeitet;zu;to elaborate
+vortragen;trug vor;vorgetragen;über;to present
+diskutieren;diskutierte;diskutiert;über;to discuss
+mitarbeiten;arbeitete mit;mitgearbeitet;bei;to collaborate
+mitdenken;dachte mit;mitgedacht;bei;to contribute ideas
+vorbereiten;bereitete vor;vorbereitet;für;to prepare
+nacharbeiten;arbeitete nach;nachgearbeitet;für;to revise
+üben;übte;geübt;für;to practice
+trainieren;trainierte;trainiert;für;to train
+besprechen;besprach;besprochen;mit;to discuss
+klären;klärte;geklärt;mit;to clarify
+organisieren;organisierte;organisiert;für;to organize
+planen;plante;geplant;für;to plan
+durchführen;führte durch;durchgeführt;mit;to carry out
+teilnehmen;nahm teil;teilgenommen;an;to participate
+beobachten;beobachtete;beobachtet;bei;to observe
+zuschauen;schaute zu;zugeschaut;bei;to watch
+mitmachen;machte mit;mitgemacht;bei;to join in
+anwenden;wandte an;angewandt;auf;to apply
+einsetzen;setzte ein;eingesetzt;für;to use
+testen;testete;getestet;auf;to test
+überprüfen;überprüfte;überprüft;auf;to check
+kontrollieren;kontrollierte;kontrolliert;auf;to control
+reflektieren;reflektierte;reflektiert;über;to reflect
+analysieren;analysierte;analysiert;auf;to analyze
+erklären;erklärte;erklärt;zu;to explain
+vergleichen;verglich;verglichen;mit;to compare
+diskutieren;diskutierte;diskutiert;über;to discuss
+vorbereiten;bereitete vor;vorbereitet;für;to prepare
+arbeiten;arbeitete;gearbeitet;an;to work
+bearbeiten;bearbeitete;bearbeitet;an;to process
+kooperieren;kooperierte;kooperiert;mit;to cooperate
+kommunizieren;kommunizierte;kommuniziert;mit;to communicate
+unterstützen;unterstützte;unterstützt;bei;to support
+anleiten;leitete an;angeleitet;bei;to guide
+erklären;erklärte;erklärt;zu;to explain
+unterrichten;unterrichtete;unterrichtet;in;to teach
+vorzeigen;zeigte vor;vorgezeigt;bei;to show
+demonstrieren;demonstrierte;demonstriert;für;to demonstrate
+testen;testete;getestet;auf;to test
+experimentieren;experimentierte;experimentiert;mit;to experiment
+malen;malte;gemalt;auf;to paint
+zeichnen;zeichnete;gezeichnet;mit;to draw
+skizzieren;skizzierte;skizziert;von;to sketch
+entwerfen;entwarf;entworfen;für;to design
+konzipieren;konzipierte;konzipiert;für;to conceptualize
+gestalten;gestaltete;gestaltet;zu;to shape
+bilden;bildete;gebildet;aus;to form
+modellieren;modellierte;modelliert;aus;to model
+plastizieren;plastizierte;plastiziert;mit;to sculpt
+gravieren;gravierte;graviert;in;to engrave
+ritzen;ritzte;geritzt;in;to carve
+meißeln;meißelte;gemeißelt;aus;to chisel
+schnitzen;schnitzte;geschnitzt;aus;to carve
+töpfern;töpferte;getöpfert;aus;to pot
+formen;formte;geformt;aus;to shape
+kolorieren;kolorierte;koloriert;mit;to color
+schattieren;schattierte;schattiert;auf;to shade
+lavieren;lavierte;laviert;auf;to glaze
+lasieren;lasierte;gelasert;auf;to glaze
+übermalen;übermalte;übermalt;auf;to paint over
+auftragen;trug auf;aufgetragen;auf;to apply
+mischen;mischte;gemischt;mit;to mix
+tupfen;tupfte;getupft;auf;to dab
+sprayen;sprayte;gesprayt;auf;to spray
+grafizieren;grafizierte;grafiziert;mit;to graphic
+zeichnen;zeichnete;gezeichnet;mit;to sketch
+kritzeln;kritzelte;gekritzelt;auf;to scribble
+zeichnen;zeichnete;gezeichnet;auf;to illustrate
+zeichnen;zeichnete;gezeichnet;für;to draft
+illustrieren;illustrierte;illustriert;für;to illustrate
+karikieren;karikierte;karikiert;von;to caricature
+porträtieren;porträtierte;porträtiert;von;to portrait
+zeichnen;zeichnete;gezeichnet;von;to trace
+kopieren;kopierte;kopiert;von;to copy
+abpausen;pauste ab;abgepaust;von;to trace
+skulpturieren;skulpturierte;skulpturiert;aus;to sculpt
+formen;formte;geformt;aus;to mold
+gießen;goss;gegossen;aus;to cast
+schweißen;schweißte;geschweißt;an;to weld
+löten;lötete;gelötet;an;to solder
+brennen;brannte;gebrannt;in;to fire
+trocknen;trocknete;getrocknet;bei;to dry
+polieren;polierte;poliert;auf;to polish
+lackieren;lackierte;lackiert;auf;to varnish
+versiegeln;versiegelte;versiegelt;mit;to seal
+überziehen;zog über;überzogen;mit;to coat
+applizieren;applizierte;appliziert;auf;to apply
+montieren;montierte;montiert;an;to mount
+installieren;installierte;installiert;an;to install
+arrangieren;arrangierte;arrangiert;zu;to arrange
+komponieren;komponierte;komponiert;für;to compose
+konstruieren;konstruiere;konstruiert;aus;to construct
+entwerfen;entwarf;entworfen;für;to design
+designen;designte;designt;für;to design
+grafisch gestalten;gestaltete grafisch;grafisch gestaltet;für;to create graphic
+layouten;layoutete;gelayoutet;für;to layout
+digital malen;malte digital;digital gemalt;auf;to paint digitally
+digitale gestalten;gestaltete digital;digital gestaltet;für;to create digitally
+animieren;animierte;animiert;für;to animate
+fotografieren;fotografierte;fotografiert;von;to photograph
+entwickeln;entwickelte;entwickelt;von;to develop photos
+retuschieren;retuschierte;retuschiert;auf;to retouch
+bearbeiten;bearbeitete;bearbeitet;mit;to edit
+collagieren;collagierte;collagiert;aus;to collage
+montieren;montierte;montiert;zu;to assemble
+installieren;installierte;installiert;in;to install
+ausstellen;stellte aus;ausgestellt;in;to exhibit
+präsentieren;präsentierte;präsentiert;vor;to present
+zeigen;zeigte;gezeigt;an;to show
+aufhängen;hängte auf;aufgehängt;an;to hang
+platzieren;platzierte;platziert;auf;to place
+arrangieren;arrangierte;arrangiert;für;to arrange
+beleuchten;beleuchtete;beleuchtet;mit;to light
+fotografieren;fotografierte;fotografiert;für;to photograph
+filmen;filmte;gefilmt;für;to film
+dokumentieren;dokumentierte;dokumentiert;von;to document
+zeichnen;zeichnete;gezeichnet;nach;to copy
+nachzeichnen;zeichnete nach;nachgezeichnet;auf;to trace
+skizzieren;skizzierte;skizziert;für;to sketch
+zeichnen;zeichnete;gezeichnet;für;to draw
+illustrationen erstellen;erstellte Illustrationen;Illustrationen erstellt;für;to illustrate
+zeichnen;zeichnete;gezeichnet;mit;to sketch
+zeichnen;zeichnete;gezeichnet;auf;to outline
+karikieren;karikierte;karikiert;für;to caricature
+porträtieren;porträtierte;porträtiert;für;to portrait
+zeichnen;zeichnete;gezeichnet;von;to trace
+zeichnen;zeichnete;gezeichnet;für;to illustrate
+kopieren;kopierte;kopiert;von;to copy
+pausen;pauste ab;abgepaust;von;to trace
+modellieren;modellierte;modelliert;aus;to model
+formen;formte;geformt;aus;to mold
+gießen;goss;gegossen;aus;to cast
+schweißen;schweißte;geschweißt;an;to weld
+löten;lötete;gelötet;an;to solder
+brennen;brannte;gebrannt;in;to fire
+trocknen;trocknete;getrocknet;bei;to dry
+polieren;polierte;poliert;auf;to polish
+lackieren;lackierte;lackiert;auf;to varnish
+versiegeln;versiegelte;versiegelt;mit;to seal
+überziehen;zog über;überzogen;mit;to coat
+applizieren;applizierte;appliziert;auf;to apply
+montieren;montierte;montiert;an;to mount
+installieren;installierte;installiert;an;to install
+arrangieren;arrangierte;arrangiert;zu;to arrange
+komponieren;komponierte;komponiert;für;to compose
+konstruieren;konstruiere;konstruiert;aus;to construct
+designen;designte;designt;für;to design
+grafisch gestalten;gestaltete grafisch;grafisch gestaltet;für;to create graphic
+layouten;layoutete;gelayoutet;für;to layout
+digital malen;malte digital;digital gemalt;auf;to paint digitally
+digitale gestalten;gestaltete digital;digital gestaltet;für;to create digitally
+animieren;animierte;animiert;für;to animate
+fotografieren;fotografierte;fotografiert;von;to photograph
+entwickeln;entwickelte;entwickelt;von;to develop photos
+retuschieren;retuschierte;retuschiert;auf;to retouch
+bearbeiten;bearbeitete;bearbeitet;mit;to edit
+collagieren;collagierte;collagiert;aus;to collage
+montieren;montierte;montiert;zu;to assemble
+installieren;installierte;installiert;in;to install
+ausstellen;stellte aus;ausgestellt;in;to exhibit
+präsentieren;präsentierte;präsentiert;vor;to present
+zeigen;zeigte;gezeigt;an;to show
+spielen;spielte;gespielt;auf;to play (an instrument)
+üben;übte;geübt;auf;to practice
+komponieren;komponierte;komponiert;für;to compose
+dirigieren;dirigierte;dirigiert;bei;to conduct
+singen;sang;gesungen;in;to sing
+vorsingen;sang vor;vorgesungen;für;to audition
+begleiten;begleitete;begleitet;mit;to accompany
+proben;probte;geprobt;für;to rehearse
+aufführen;führte auf;aufgeführt;für;to perform
+interpretieren;interpretierte;interpretiert;von;to interpret
+arrangieren;arrangierte;arrangiert;für;to arrange
+transponieren;transponierte;transponiert;in;to transpose
+improvisieren;improvisierte;improvisiert;auf;to improvise
+kommentieren;kommentierte;kommentiert;zu;to comment
+aufnehmen;nahm auf;aufgenommen;mit;to record
+mischen;mischte;gemischt;mit;to mix
+abmischen;mixte ab;abgemischt;mit;to mix down
+produzieren;produzierte;produziert;für;to produce
+master;masterte;gemastert;für;to master
+remixen;remixte;remixt;von;to remix
+transkribieren;transkribierte;transkribiert;von;to transcribe
+noten lesen;las Noten;Noten gelesen;von;to read sheet music
+noten schreiben;schrieb Noten;Noten geschrieben;für;to write sheet music
+intonieren;intonierte;intoniert;auf;to intonate
+stimmbildung machen;machte Stimmbildung;Stimmbildung gemacht;für;to train voice
+verstärken;verstärkte;verstärkt;mit;to amplify
+abspielen;spielte ab;abgespielt;von;to play back
+aufzeichnen;zeichnete auf;aufgezeichnet;für;to record
+kommentieren;kommentierte;kommentiert;zu;to comment on
+vorhören;hörte vor;vorgehört;bei;to audition
+dirigieren;dirigierte;dirigiert;bei;to conduct
+solieren;solierte;soliert;auf;to solo
+begleiten;begleitete;begleitet;mit;to accompany
+jammen;jammte;gejamt;mit;to jam
+improvisieren;improvisierte;improvisiert;auf;to improvise
+spielen;spielte;gespielt;mit;to perform together
+aufführen;führte auf;aufgeführt;vor;to perform for
+recorden;recordete;recordet;für;to record
+mischen;mischte;gemischt;mit;to mix
+komponieren;komponierte;komponiert;für;to compose
+arrangieren;arrangierte;arrangiert;für;to arrange
+orchestrieren;orchestrierte;orchestriert;für;to orchestrate
+transponieren;transponierte;transponiert;in;to transpose
+interpretieren;interpretierte;interpretiert;von;to interpret
+studieren;studierte;studiert;an;to study (music)
+analysieren;analysierte;analysiert;von;to analyze
+dirigieren;dirigierte;dirigiert;bei;to conduct
+proben;probte;geprobt;für;to rehearse
+aufnehmen;nahm auf;aufgenommen;im;to record
+editieren;editierte;editiert;an;to edit
+mischen;mischte;gemischt;für;to mix
+abmischen;mixte ab;abgemischt;für;to mix down
+master;masterte;gemastert;für;to master
+remixen;remixte;remixt;von;to remix
+komponieren;komponierte;komponiert;für;to compose
+improvisieren;improvisierte;improvisiert;auf;to improvise
+spielen;spielte;gespielt;auf;to play
+singen;sang;gesungen;für;to sing
+vorsingen;sang vor;vorgesungen;für;to audition
+begleiten;begleitete;begleitet;mit;to accompany
+solieren;solierte;soliert;auf;to solo
+noten lesen;las;Noten gelesen;von;to read music
+noten schreiben;schrieb;Noten geschrieben;für;to write music
+stimmbildung machen;machte;Stimmbildung gemacht;für;to do vocal training
+verstärken;verstärkte;verstärkt;mit;to amplify
+aufzeichnen;zeichnete auf;aufgezeichnet;für;to record
+abspielen;spielte ab;abgespielt;von;to play back
+mixen;mixte;gemixt;für;to mix
+kommentieren;kommentierte;kommentiert;zu;to comment
+vorhören;hörte vor;vorgehört;bei;to audition
+entwerfen;entwarf;entworfen;für;to design
+planen;plante;geplant;für;to plan
+skizzieren;skizzierte;skizziert;für;to sketch
+modellieren;modellierte;modelliert;aus;to model
+konstruieren;konstruiere;konstruiert;aus;to construct
+bauen;baute;gebaut;mit;to build
+errichten;errichtete;errichtet;für;to erect
+montieren;montierte;montiert;an;to assemble
+installieren;installierte;installiert;in;to install
+renovieren;renovierte;renoviert;an;to renovate
+restaurieren;restaurierte;restauriert;an;to restore
+modernisieren;modernisierte;modernisiert;an;to modernize
+planieren;planierte;planiert;für;to level
+verputzen;verputzte;verputzt;mit;to plaster
+streichen;strich;gestrichen;auf;to paint
+lackieren;lackierte;lackiert;auf;to varnish
+abdichten;dichtete ab;abgedichtet;mit;to seal
+isolieren;isolierte;isoliert;mit;to insulate
+verschalen;verschalte;verschalt;mit;to shutter
+gießen;goss;gegossen;aus;to cast
+betonieren;betonierte;betoniert;mit;to concrete
+mauern;mauerte;gemauert;mit;to brick
+verputzen;verputzte;verputzt;mit;to plaster
+verschönern;verschönerte;verschönert;mit;to beautify
+restaurieren;restaurierte;restauriert;an;to restore
+verkleiden;verkleidete;verkleidet;mit;to clad
+dämmmen;dämmte;gedämmt;mit;to insulate
+planen;plante;geplant;für;to plan
+zeichnen;zeichnete;gezeichnet;für;to draw
+skizzieren;skizzierte;skizziert;für;to sketch
+vermesssen;vermaß;vergemessen;für;to survey
+modellieren;modellierte;modelliert;mit;to model
+visualisieren;visualisierte;visualisiert;mit;to visualize
+berechnen;berechnete;berechnet;für;to calculate
+dimensionieren;dimensionierte;dimensioniert;für;to size
+prüfen;prüfte;geprüft;auf;to check
+kontrollieren;kontrollierte;kontrolliert;bei;to inspect
+überwachen;überwachte;überwacht;bei;to supervise
+entwerfen;entwarf;entworfen;für;to design
+architekturieren;architekturierte;architekturert;für;to architect
+konzipieren;konzipierte;konzipiert;für;to conceptualize
+planen;plante;geplant;für;to plan
+zeichnen;zeichnete;gezeichnet;für;to draw
+berechnen;berechnete;berechnet;für;to calculate
+bemessen;bemess;bemessen;für;to measure
+projetieren;projektierte;projiziert;für;to project
+ausarbeiten;arbeitete aus;ausgearbeitet;zu;to elaborate
+zeichnen;zeichnete;gezeichnet;für;to draw
+modellieren;modellierte;modelliert;aus;to model
+konstruieren;konstruiere;konstruiert;aus;to construct
+bauen;baute;gebaut;mit;to build
+installieren;installierte;installiert;in;to install
+montieren;montierte;montiert;an;to assemble
+prüfen;prüfte;geprüft;auf;to check
+überprüfen;überprüfte;überprüft;auf;to verify
+kontrollieren;kontrollierte;kontrolliert;bei;to supervise
+renovieren;renovierte;renoviert;an;to renovate
+restaurieren;restaurierte;restauriert;an;to restore
+modernisieren;modernisierte;modernisiert;an;to modernize
+verschönern;verschönerte;verschönert;mit;to beautify
+gestalten;gestaltete;gestaltet;zu;to design
+arrangieren;arrangierte;arrangiert;zu;to arrange
+beleuchten;beleuchtete;beleuchtet;mit;to illuminate
+einrichten;richtete ein;eingerichtet;mit;to furnish
+möblieren;möblierte;möbliert;mit;to furnish
+verlegen;verlegte;verlegt;von;to lay (tiles, floors)
+pflastern;pflasterte;gepflastert;mit;to pave
+begrünen;begrünte;begrünt;mit;to green
+bepflanzen;bepflanzte;bepflanzt;mit;to plant
+dekoration anbringen;brachte an;angebracht;mit;to decorate
+aufstellen;stellte auf;aufgestellt;für;to set up
+montieren;montierte;montiert;an;to assemble
+demontieren;demontierte;demontiert;von;to disassemble
+transportieren;transportierte;transportiert;zu;to transport
+lagern;lagerte;gelagert;in;to store
+sichern;sicherte;gesichert;gegen;to secure
+verstärken;verstärkte;verstärkt;mit;to reinforce
+abwägen;to weigh up
+abschweifen;to digress
+abtrotzen;to wrest from
+ablehnen;to decline
+abschaffen;to abolish
+abschwächen;to weaken
+abwehren;to ward off
+abwickeln;to process
+andeuten;to hint at
+anfechten;to contest
+anknüpfen;to link to
+anmahnen;to demand
+anprangern;to denounce
+anstreben;to strive for
+aufbauschen;to exaggerate
+auferlegen;to impose
+aufrechterhalten;to maintain
+ausbügeln;to iron out
+ausmerzen;to eliminate
+aushebeln;to undermine
+ausklammern;to exclude
+ausloten;to sound out
+ausrichten;to align
+beauftragen;to commission
+beeinträchtigen;to impair
+befürworten;to advocate
+begünstigen;to favor
+beharren;to insist
+beilegen;to settle
+beipflichten;to agree with
+bekräftigen;to affirm
+bemängeln;to criticize
+beschleunigen;to accelerate
+beschwichtigen;to appease
+bestärken;to reinforce
+bezichtigen;to accuse
+beziffern;to quantify
+durchsetzen;to enforce
+einbüßen;to forfeit
+eindämmen;to contain
+einengen;to restrict
+einfordern;to demand
+einschränken;to limit
+einstufen;to classify
+entfremden;to alienate
+entgegenwirken;to counteract
+entschärfen;to defuse
+entkräften;to refute
+entwerten;to devalue
+entwirren;to untangle
+entsagen;to renounce
+erörtern;to discuss
+erschließen;to develop
+erschüttern;to shake
+erstrecken;to extend
+erwägen;to consider
+feilschen;to haggle
+festigen;to consolidate
+gegenüberstellen;to contrast
+geltend machen;to assert
+gewährleisten;to ensure
+gleichstellen;to equate
+gravieren;to engrave
+heraufbeschwören;to conjure up
+herabsetzen;to reduce
+heranziehen;to consult
+herleiten;to derive
+hervorgehen;to emerge
+hindeuten;to indicate
+hinterfragen;to question
+hinwegtäuschen;to deceive
+relativieren;to put into perspective
+konstatieren;to ascertain
+konkretisieren;to specify
+kompensieren;to compensate
+legitimieren;to legitimize
+manipulieren;to manipulate
+mildern;to mitigate
+missachten;to disregard
+nachvollziehen;to comprehend
+niederschlagen;to suppress
+perpetuieren;to perpetuate
+plädieren;to plead
+polemisieren;to polemicize
+postulieren;to postulate
+prägen;to shape
+proklamieren;to proclaim
+rechtfertigen;to justify
+revidieren;to revise
+rücken;to move
+sanktionieren;to sanction
+schüren;to stoke
+schwächen;to weaken
+strapazieren;to strain
+tangieren;to affect
+unterbinden;to prevent
+untergraben;to undermine
+untermauern;to substantiate
+unterstreichen;to emphasize
+verabsäumen;to neglect
+veranschaulichen;to illustrate
+verankern;to anchor
+veranschlagen;to estimate
+vereiteln;to thwart
+verfechten;to champion
+verflachen;to flatten
+verfälschen;to falsify
+vergegenwärtigen;to visualize
+vergewissern;to make sure
+verherrlichen;to glorify
+verhehlen;to conceal
+verharmlosen;to trivialize
+verkennen;to misjudge
+verknüpfen;to link
+verkörpern;to embody
+verkümmern;to atrophy
+verlagern;to shift
+verleugnen;to deny
+vermengen;to mix
+vernachlässigen;to neglect
+verpflichten;to oblige
+verschärfen;to tighten
+verschleiern;to veil
+verschleppen;to drag out
+versinnbildlichen;to symbolize
+verstetigen;to stabilize
+verstricken;to entangle
+vertiefen;to deepen
+vertreten;to represent
+verübeln;to take amiss
+verwehren;to deny
+verweisen;to refer
+verwischen;to blur
+verzichten;to renounce
+vorgaukeln;to deceive
+voranschreiten;to progress
+vorbehalten;to reserve
+vorbeugen;to prevent
+vorpreschen;to rush ahead
+vortäuschen;to feign
+wappnen;to arm
+widerlegen;to refute
+widerrufen;to revoke
+widerspiegeln;to reflect
+würdigen;to appreciate
+zerstreuen;to dispel
+zögern;to hesitate
+zurechtweisen;to reprimand
+zurückdrängen;to push back
+zurückweisen;to reject
+zuschreiben;to attribute
+zusichern;to assure
+zuspitzen;to intensify
+zusteuern;to head for
+zuteilwerden;to be granted
+zuwiderlaufen;to run counter to
+abhandenkommen;to get lost
+abkoppeln;to decouple
+absegnen;to approve
+abtun;to dismiss
+abwandeln;to modify
+anheizen;to fuel
+anpassen;to adapt
+anrechnen;to credit
+antasten;to infringe upon
+anzetteln;to instigate
+aufbürden;to burden
+aufdröseln;to unravel
+aufgreifen;to take up
+aufschlüsseln;to break down
+aufstocken;to increase
+auftürmen;to pile up
+aufwerten;to upgrade
+aufwiegen;to outweigh
+aufzeigen;to demonstrate
+ausbalancieren;to balance
+ausbooten;to oust
+ausdehnen;to expand
+aushöhlen;to hollow out
+ausklingen;to fade out
+ausprägen;to develop
+ausradieren;to eradicate
+ausspielen;to play off
+austarieren;to balance out
+ausufern;to get out of hand
+bändigen;to tame
+befähigen;to enable
+beflügeln;to inspire
+befremden;to perplex
+begehen;to commit
+beglaubigen;to certify
+beirren;to confuse
+beisteuern;to contribute
+bemühen;to endeavor
+benennen;to name
+berufen;to appoint
+besänftigen;to soothe
+beschneiden;to curtail
+beschwören;to implore
+beteuern;to assert
+betören;to beguile
+bezwecken;to aim at
+bezwingen;to overcome
+billigen;to approve
+dahinschwinden;to dwindle
+darlegen;to explain
+dementieren;to deny
+domestizieren;to domesticate
+durchdringen;to penetrate
+durchforsten;to comb through
+durchkreuzen;to thwart
+durchschauen;to see through
+einbringen;to contribute
+eindringen;to penetrate
+einhegen;to contain
+einkalkulieren;to factor in
+einläuten;to herald
+einmünden;to flow into
+einpendeln;to settle down
+einprägen;to impress upon
+einschlagen;to take
+einsickern;to seep in
+einwirken;to affect
+emporsteigen;to rise
+entschwinden;to vanish
+entsinnen;to remember
+entspringen;to originate
+entzweien;to divide
+ergründen;to fathom
+erkiesen;to choose
+erlöschen;to expire
+ermessen;to assess
+ertüchtigen;to strengthen
+forcieren;to push
+gebieten;to command
+gebühren;to be due
+gereichen;to serve
+gleichkommen;to equal
+hegen;to cherish
+herbeiführen;to bring about
+hervorrufen;to cause
+hinauslaufen;to amount to
+hineinversetzen;to empathize
+hinnehmen;to accept
+kundtun;to make known
+lancieren;to launch
+mehren;to increase
+münden;to result in
+obliegen;to be incumbent upon
+polarisieren;to polarize
+reklamieren;to claim
+schinden;to torment
+schmälern;to diminish
+schmieden;to forge
+substituieren;to substitute
+tilgen;to erase
+überbrücken;to bridge
+übergehen;to ignore
+überwinden;to overcome
+umgehen;to deal with
+umkrempeln;to turn inside out
+umreißen;to outline
+umstoßen;to overturn
+unterlaufen;to undermine
+verblassen;to fade
+verdichten;to condense
+verdrängen;to displace
+vereinnahmen;to appropriate
+verfeinern;to refine
+verflüchtigen;to evaporate
+verheimlichen;to conceal
+verkehren;to frequent
+verklären;to transfigure
+verkürzen;to shorten
+versagen;to fail
+verschanzen;to entrench
+verschieben;to postpone
+verschlimmern;to worsen
+verschwimmen;to blur
+versichern;to assure
+versiegen;to dry up
+vorsehen;to provide for
+vorenthalten;to withhold
+vorzeichnen;to prefigure
+wahren;to preserve
+weichen;to yield
+wettmachen;to make up for
+widerfahren;to befall
+wiedergutmachen;to make amends
+zugrundegehen;to perish
+zunichtemachen;to destroy
+zurückhalten;to hold back
+zurückstecken;to lower one's sights
+zusammenraffen;to scrape together
+zustandekommen;to come about
+abändern;to alter
+abfärben;to rub off
+abfedern;to cushion
+abfinden;to compensate
+abflauen;to subside
+abgelten;to compensate
+abgleiten;to slide off
+abhärten;to harden
+abkanzeln;to rebuke
+abklingen;to fade away
+abmildern;to soften
+abnötigen;to extort
+abriegeln;to seal off
+abrunden;to round off
+absahnen;to skim off
+absättigen;to saturate
+abschirmen;to shield
+abschmieren;to grease
+abschneiden;to cut off
+abschöpfen;to skim off
+abschotten;to isolate
+abschrecken;to deter
+abschwören;to renounce
+abseifen;to soap
+absolvieren;to complete
+absondern;to secrete
+abspecken;to slim down
+abspeisen;to fob off
+absplittern;to splinter off
+abspulen;to unwind
+abstauben;to dust off
+abstecken;to mark out
+absteigen;to descend
+abstempeln;to stamp
+abstimmen;to coordinate
+abstoßen;to repel
+abstreifen;to strip off
+abtasten;to feel
+abtöten;to kill off
+abtragen;to demolish
+abtrennen;to separate
+abtropfen;to drip off
+abwandeln;to modify
+abwarten;to wait
+abweichen;to deviate
+abwenden;to avert
+abwerfen;to shed
+abwerten;to devalue
+abwracken;to scrap
+abzeichnen;to emerge
+abzielen;to aim at
+abzweigen;to branch off
+ächten;to ostracize
+adeln;to ennoble
+agitieren;to agitate
+ahnen;to suspect
+akklimatisieren;to acclimatize
+akkreditieren;to accredit
+aktualisieren;to update
+akzentuieren;to accentuate
+alarmieren;to alarm
+alimentieren;to support
+amortisieren;to amortize
+amplifizieren;to amplify
+amputieren;to amputate
+analysieren;to analyze
+anbahnen;to initiate
+anbelangen;to concern
+anbiedern;to ingratiate
+anblicken;to look at
+anbrechen;to begin
+andauern;to continue
+andichten;to impute
+andocken;to dock
+andrehen;to turn on
+androhen;to threaten
+anecken;to rub up
+aneignen;to appropriate
+anerbieten;to offer
+anerziehen;to train
+anfachen;to kindle
+anfahren;to approach
+anfallen;to attack
+anfeinden;to antagonize
+anfertigen;to manufacture
+anflehen;to implore
+anfügen;to append
+anführen;to lead
+angehen;to concern
+angeloben;to vow
+angieren;to hinge on
+angleichen;to adjust
+angliedern;to affiliate
+angrenzen;to border on
+angreifen;to attack
+anhaften;to adhere
+anhalten;to continue
+anhäufen;to accumulate
+anheben;to raise
+anheimfallen;to fall victim
+anheuern;to hire
+anketten;to chain
+anklagen;to accuse
+anklammern;to cling to
+ankleiden;to dress
+anklingen;to resonate
+anklopfen;to knock
+anknabbern;to gnaw at
+ankoppeln;to couple
+ankotzen;to disgust
+ankratzen;to scratch
+ankreiden;to chalk up
+ankündigen;to announce
+ankurbeln;to stimulate
+anlangen;to arrive
+anlassen;to start
+anlasten;to blame
+anlaufen;to start up
+anlegen;to invest
+anlehnen;to lean against
+anlernen;to train
+anliegen;to be important
+anlocken;to attract
+anlügen;to lie to
+anmelden;to register
+anmerken;to note
+anmessen;to fit
+anmieten;to rent
+annähen;to sew on
+annähern;to approach
+annehmen;to assume
+annektieren;to annex
+annoncieren;to advertise
+annullieren;to annul
+anordnen;to arrange
+anpeilen;to aim for
+anpirschen;to stalk
+anpreisen;to extol
+anprobieren;to try on
+anranzen;to snap at
+anraten;to advise
+anrechnen;to count toward
+anregen;to stimulate
+anreichern;to enrich
+anreihen;to line up
+anreisen;to travel to
+anreißen;to sketch
+anreizen;to incentivize
+anrempeln;to jostle
+anrichten;to cause
+anrücken;to advance
+anrufen;to call
+ansagen;to announce
+ansammeln;to accumulate
+ansäuern;to acidify
+ansäuseln;to tipple
+anschaffen;to procure
+anschalten;to switch on
+anschauen;to look at
+anschicken;to prepare
+anschieben;to push
+anschießen;to shoot at
+anschleichen;to sneak up
+anschleppen;to drag along
+anschließen;to connect
+anschmachten;to gaze at
+anschmieden;to chain
+anschmieren;to smear
+anschnallen;to buckle up
+anschnauzen;to snap at
+anschneiden;to broach
+anschreiben;to write to
+anschreien;to shout at
+anschuldigen;to accuse
+anschwärzen;to blacken
+anschwellen;to swell
+anschwemmen;to wash up
+ansehen;to regard
+ansetzen;to apply
+ansiedeln;to settle
+ansinnen;to demand
+anspannen;to tense
+anspielen;to allude
+anspitzen;to sharpen
+anspornen;to spur on
+ansprechen;to address
+anspringen;to start
+anspritzen;to spray
+anspruchsvoll;to be demanding
+anstacheln;to goad
+anstarren;to stare at
+anstauen;to dam up
+anstecken;to infect
+anstehen;to queue
+ansteigen;to rise
+anstellen;to employ
+ansteuern;to head for
+anstiften;to instigate
+anstimmen;to strike up
+anstoßen;to push
+anstrahlen;to illuminate
+anstreifen;to graze
+anstreichen;to paint
+anstrengen;to exert
+anstürmen;to storm
+ansuchen;to apply
+antauen;to thaw
+antäuschen;to feint
+antelefonieren;to phone
+antexten;to accost
+antippen;to tap
+antörnen;to turn on
+antreffen;to encounter
+antreiben;to drive
+antreten;to start
+antun;to inflict
+anvertrauen;to entrust
+anvisieren;to target
+anwachsen;to grow
+anwählen;to dial
+anwandeln;to come over
+anwärmen;to warm up
+anweisen;to instruct
+anwenden;to apply
+anwerben;to recruit
+anwidern;to disgust
+anwinkeln;to bend
+anwurzeln;to take root
+anzahlen;to pay deposit
+anzapfen;to tap
+anzeigen;to report
+anzischen;to hiss at
+anzünden;to ignite
+aufarbeiten;to process
+aufatmen;to breathe relief
+aufbäumen;to rear up
+aufbegehren;to rebel
+aufbehalten;to keep on
+aufbereiten;to prepare
+aufbessern;to improve
+aufbewahren;to store
+aufbieten;to muster
+aufbinden;to untie
+aufblättern;to leaf through
+aufblasen;to inflate
+aufbleiben;to stay up
+aufblenden;to turn up
+aufblicken;to look up
+aufblitzen;to flash
+aufblühen;to flourish
+aufbocken;to jack up
+aufbranden;to surge
+aufbrauchen;to use up
+aufbrausen;to flare up
+aufbrechen;to break open
+aufbringen;to raise
+aufbrummen;to impose
+aufdecken;to uncover
+aufdonnern;to dress up
+aufdrängen;to impose
+aufdrehen;to turn up
+aufdringen;to force upon
+aufdrucken;to print on
+aufeinandertreffen;to meet
+auffächern;to fan out
+auffahren;to drive up
+auffallen;to stand out
+auffangen;to catch
+auffassen;to conceive
+aufflammen;to flare up
+aufflechten;to unravel
+auffliegen;to be exposed
+auffordern;to request
+aufforsten;to reforest
+auffressen;to devour
+auffrischen;to refresh
+auffüllen;to fill up
+auffüttern;to fatten up
+aufgabeln;to pick up
+aufgehen;to rise
+aufgeilen;to arouse
+aufgießen;to infuse
+aufgliedern;to structure
+aufgraben;to dig up
+aufhabern;to have on
+aufhaken;to unhook
+aufhalsen;to burden with
+aufhängen;to hang up
+aufhäufen;to pile up
+aufheben;to pick up
+aufheizen;to heat up
+aufheitern;to cheer up
+aufhellen;to brighten
+aufhetzen;to incite
+aufheulen;to howl
+aufholen;to catch up
+aufhorchen;to prick up ears
+aufjaulen;to yelp
+aufjubeln;to cheer
+aufkaufen;to buy up
+aufkeimen;to germinate
+aufklappen;to fold up
+aufklären;to clarify
+aufkleben;to stick on
+aufknacken;to crack
+aufknöpfen;to unbutton
+aufknüpfen;to hang
+aufkochen;to boil up
+aufkommen;to arise
+aufkratzen;to scratch open
+aufkrempeln;to roll up
+aufkreuzen;to show up
+aufkriegen;to get open
+aufkündigen;to terminate
+auflachen;to burst out laughing
+aufladen;to charge
+auflassen;to leave open
+auflauern;to lie in wait
+auflaufen;to run aground
+aufleben;to revive
+auflecken;to lick up
+auflegen;to hang up
+auflehnen;to rebel
+auflesen;to pick up
+aufleuchten;to light up
+aufliegen;to rest on
+auflisten;to list
+auflodern;to blaze up
+auflockern;to loosen up
+auflösen;to dissolve
+aufmachen;to open
+aufmarschieren;to march up
+aufmerken;to pay attention
+aufmöbeln;to refurbish
+aufmotzen;to soup up
+aufmucken;to rebel
+aufmuntern;to cheer up
+aufnehmen;to record
+aufnötigen;to force upon
+aufopfern;to sacrifice
+aufpacken;to load
+aufpäppeln;to nurse back
+aufpassen;to pay attention
+aufpeitschen;to whip up
+aufpflanzen;to plant
+aufpfropfen;to graft on
+aufpicken;to peck up
+aufplatzen;to burst open
+aufplustern;to fluff up
+aufpolieren;to polish up
+aufprallen;to impact
+aufprägen;to imprint
+aufprobieren;to try on
+aufprotzen;to show off
+aufpulvern;to pep up
+aufpumpen;to pump up
+aufputschen;to agitate
+aufputzen;to clean up
+aufquellen;to swell up
+aufraffen;to rouse
+aufragen;to tower
+aufräumen;to tidy up
+aufrechnen;to offset
+aufregen;to excite
+aufreihen;to string
+aufreißen;to tear open
+aufreizen;to provoke
+aufrichten;to erect
+aufriegeln;to unbolt
+aufrollen;to roll up
+aufrücken;to move up
+aufrufen;to call up
+aufrühren;to stir up
+aufrunden;to round up
+aufrüsten;to arm
+aufrütteln;to shake up
+aufsacken;to sag
+aufsagen;to recite
+aufsatteln;to saddle up
+aufsaugen;to absorb
+aufschauen;to look up
+aufschäumen;to foam up
+aufscheuchen;to startle
+aufschichten;to stack up
+aufschieben;to postpone
+aufschlagen;to open
+aufschlitzen;to slit open
+aufschließen;to unlock
+aufschluchzen;to sob
+aufschlüsseln;to itemize
+aufschnallen;to strap on
+aufschnappen;to pick up
+aufschneiden;to cut open
+aufschrauben;to unscrew
+aufschrecken;to startle
+aufschreiben;to write down
+aufschreien;to cry out
+aufschürzen;to tuck up
+aufschütteln;to shake up
+aufschütten;to heap up
+aufschwatzen;to talk into
+aufschwellen;to swell
+aufschwingen;to soar
+aufsehen;to look up
+aufseufzen;to sigh
+aufsitzen;to mount
+aufspalten;to split
+aufspannen;to stretch
+aufsparen;to save up
+aufsperren;to open wide
+aufspielen;to play up
+aufspießen;to impale
+aufsplitten;to split up
+aufsprengen;to blast open
+aufspringen;to jump up
+aufspritzen;to spray on
+aufsprühen;to spray
+aufspulen;to wind up
+aufspüren;to track down
+aufstacheln;to incite
+aufstampfen;to stamp
+aufstauen;to dam up
+aufstechen;to pierce
+aufstecken;to put up
+aufstehen;to stand up
+aufstellen;to set up
+aufstemmen;to pry open
+aufstieg;to rise
+aufstöbern;to ferret out
+aufstocken;to increase
+aufstören;to disturb
+aufstoßen;to push open
+aufstrahlen;to beam
+aufstreben;to aspire
+aufstreichen;to spread on
+aufstreifen;to roll up
+aufstreuen;to sprinkle
+aufstülpen;to put on
+aufstützen;to prop up
+aufsuchen;to visit
+auftafeln;to serve up
+auftakeln;to rig
+auftanken;to refuel
+auftauen;to thaw
+aufteilen;to divide
+auftischen;to serve
+auftragen;to apply
+auftreiben;to procure
+auftrennen;to unpick
+auftreten;to appear
+auftun;to open
+auftürmen;to pile up
+aufwachen;to wake up
+aufwachsen;to grow up
+aufwallen;to boil up
+aufwärmen;to warm up
+aufwärts;to upward
+aufwecken;to wake up
+aufweichen;to soften
+aufweisen;to show
+aufwenden;to expend
+aufwerfen;to throw up
+aufwerten;to revalue
+aufwickeln;to wind up
+aufwiegeln;to incite
+aufwiegen;to outweigh
+aufwirbeln;to whirl up
+aufwischen;to wipe up
+aufwühlen;to churn up
+aufzäumen;to bridle
+aufzehren;to consume
+aufzeichnen;to record
+aufzeigen;to show
+aufziehen;to wind up
+aufzucken;to start
+aufzwingen;to force upon
+ausbaden;to suffer for
+ausbauen;to expand
+ausbedingen;to stipulate
+ausbessern;to repair
+ausbeuten;to exploit
+ausbiegen;to bend out
+ausbilden;to train
+ausbitten;to request
+ausbleiben;to fail to appear
+ausbleichen;to fade
+ausblenden;to fade out
+ausblicken;to look out
+ausbluten;to bleed out
+ausbojen;to buoy out
+ausborgen;to borrow
+ausboxen;to fight out
+ausbraten;to roast
+ausbrechen;to break out
+ausbreiten;to spread
+ausbrennen;to burn out
+ausbringen;to propose
+ausbrüten;to hatch
+ausbuchten;to bulge
+ausbüchsen;to escape
+ausbüffeln;to cram
+ausbügeln;to iron out
+ausbürgern;to expatriate
+ausbürsten;to brush out
+ausdampfen;to evaporate
+ausdauern;to persevere
+ausdehnen;to expand
+ausdeuten;to interpret
+ausdienen;to serve out
+ausdifferenzieren;to differentiate
+ausdiskutieren;to discuss fully
+ausdörren;to dry out
+ausdrehen;to turn off
+ausdreschen;to thresh
+ausdrillen;to drill
+ausdringen;to leak out
+ausdrucken;to print out
+ausdrücken;to express
+ausdünnen;to thin out
+ausdünsten;to evaporate
+auseinanderfallen;to fall apart
+auseinanderhalten;to distinguish
+auseinanderlaufen;to diverge
+auseinandersetzen;to explain
+auserkiesen;to choose
+auserkoren;to select
+auserwählen;to choose
+ausessen;to finish eating
+ausfachen;to fan out
+ausfächern;to spread out
+ausfallen;to be cancelled
+ausfällen;to precipitate
+ausfasern;to fray
+ausfechten;to fight out
+ausfegen;to sweep out
+ausfeilen;to file out
+ausfertigen;to issue
+ausfeuern;to fire
+ausfiltern;to filter out
+ausfindig machen;to locate
+ausflaggen;to flag
+ausflicken;to patch
+ausfließen;to flow out
+ausflippen;to freak out
+ausflocken;to flocculate
+ausformen;to shape
+ausforschen;to investigate
+ausfragen;to interrogate
+ausfransen;to fray
+ausfressen;to eat out
+ausfrieren;to freeze out
+ausfüllen;to fill out
+ausgären;to ferment
+ausgeben;to spend
+ausgeburt;to spawn
+ausgehen;to go out
+ausgeizen;to pinch out
+ausgelassen;to exuberant
+ausgemergelt;to emaciated
+ausgestalten;to design
+ausgewogen;to balanced
+ausgießen;to pour out
+ausgleichen;to balance
+ausgliedern;to spin off
+ausglühen;to anneal
+ausgraben;to excavate
+ausgrenzen;to exclude
+ausgucken;to look out
+aushaken;to unhook
+aushalten;to endure
+aushandeln;to negotiate
+aushändigen;to hand over
+aushängen;to hang out
+ausharren;to persevere
+aushauchen;to breathe out
+aushauen;to hew out
+ausheben;to lift out
+aushecken;to hatch
+ausheilen;to heal
+aushelfen;to help out
+ausheulen;to cry out
+aushobeln;to plane
+aushöhlen;to hollow out
+ausholen;to swing back
+aushorchen;to sound out
+aushülsen;to shell
+aushungern;to starve out
+aushuschen;to slip out
+aushüten;to guard
+auskämmen;to comb out
+auskarren;to cart away
+auskehren;to sweep out
+auskeilen;to wedge out
+auskeimen;to germinate
+auskennen;to know well
+auskippen;to tip out
+ausklammern;to bracket out
+ausklappen;to fold out
+auskleiden;to undress
+ausklingen;to fade away
+ausklinken;to unhook
+ausklopfen;to beat out
+ausklügeln;to devise
+auskneifen;to duck out
+ausknipsen;to switch off
+ausknocken;to knock out
+ausknöpfen;to unbutton
+auskochen;to boil out
+auskoffern;to suitcase
+auskohlen;to coal out
+auskolken;to scour out
+auskommen;to get by
+auskosten;to savor
+auskotzen;to vomit
+auskramen;to dig out
+auskratzen;to scrape out
+auskraxeln;to climb out
+auskriegen;to work out
+auskristallisieren;to crystallize
+auskugeln;to dislocate
+auskühlen;to cool down
+auskundschaften;to scout
+auskuppeln;to disengage
+auskurieren;to cure
+auslachen;to laugh at
+ausladen;to unload
+auslagem;to display
+auslassen;to omit
+auslasten;to utilize fully
+auslatschen;to wear out
+auslaufen;to expire
+auslaugen;to leach
+ausläuten;to ring out
+ausleben;to live out
+auslecken;to lick out
+ausleeren;to empty
+auslegen;to interpret
+ausleiern;to wear out
+ausleihen;to lend out
+ausleiten;to discharge
+auslernen;to finish learning
+auslesen;to select
+ausleuchten;to illuminate
+ausliefern;to deliver
+ausliegen;to be displayed
+auslöffeln;to spoon out
+auslöschen;to extinguish
+auslösen;to trigger
+ausloten;to sound out
+auslüften;to air out
+auslutschen;to suck out
+ausmachen;to matter
+ausmalen;to paint
+ausmanövrieren;to outmaneuver
+ausmarschieren;to march out
+ausmauern;to brick up
+ausmergeln;to emaciate
+ausmerzen;to weed out
+ausmessen;to measure
+ausmisten;to muck out
+ausmitteln;to determine
+ausmontieren;to dismantle
+ausmotten;to air out
+ausmummen;to mask out
+ausmünden;to flow into
+ausmustern;to discharge
+ausnageln;to nail out
+ausnähen;to sew out
+ausnehmen;to gut
+ausnetzen;to wet out
+ausnüchtern;to sober up
+ausnutzen;to exploit
+auspacken;to unpack
+auspellen;to peel
+auspendeln;to commute out
+auspeitschen;to whip
+auspfeifen;to boo
+auspflanzen;to plant out
+auspichen;to pitch
+auspinkeln;to piss out
+ausplappern;to blab
+ausplündern;to plunder
+auspobeln;to insult
+auspolstern;to pad
+ausposaunen;to trumpet
+auspowern;to exhaust
+ausprägen;to mint
+auspressen;to squeeze out
+ausprobieren;to try out
+auspuffen;to puff out
+auspumpen;to pump out
+auspusten;to blow out
+ausputzen;to clean out
+ausquartieren;to move out
+ausquasseln;to blurt out
+ausquetschen;to squeeze out
+ausradeln;to cycle out
+ausradieren;to erase
+ausrangieren;to discard
+ausrasen;to rage
+ausrasieren;to shave
+ausrasten;to rest
+ausrauben;to rob
+ausrauchen;to smoke out
+ausräuchern;to fumigate
+ausraufen;to tear out
+ausräumen;to clear out
+ausrechnen;to calculate
+ausrecken;to stretch out
+ausreden;to dissuade
+ausregnen;to stop raining
+ausreiben;to rub out
+ausreifen;to mature
+ausreißen;to tear out
+ausreiten;to ride out
+ausrenken;to dislocate
+ausrichten;to align
+ausriechen;to smell out
+ausriegeln;to bolt
+ausringen;to wring out
+ausrinnen;to run out
+ausroden;to clear
+ausrollen;to roll out
+ausrotten;to eradicate
+ausrücken;to move out
+ausrufen;to proclaim
+ausruhen;to rest
+ausrupfen;to pluck out
+ausrüsten;to equip
+ausrutschen;to slip
+aussäen;to sow
+aussagen;to testify
+aussalzen;to salt out
+aussätzig;to leprous
+aussatteln;to unsaddle
+aussaufen;to drink up
+aussaugen;to suck out
+ausschaben;to scrape out
+ausschachten;to excavate
+ausschalten;to switch off
+ausschälen;to peel
+ausschämen;to shame
+ausscharren;to scratch out
+ausschauen;to look out
+ausscheiden;to excrete
+ausschelten;to scold
+ausschenken;to pour out
+ausscheren;to break ranks
+ausschießen;to shoot out
+ausschiffen;to disembark
+ausschildern;to signpost
+ausschimpfen;to scold
+ausschirren;to unharness
+ausschlachten;to cannibalize
+ausschlafen;to sleep in
+ausschlagen;to refuse
+ausschlämmen;to wash out
+ausschlecken;to lick out
+ausschleichen;to sneak out
+ausschleifen;to grind out
+ausschleppen;to drag out
+ausschleudern;to spin out
+ausschleusen;to smuggle out
+ausschließen;to exclude
+ausschlotzen;to sob out
+ausschlüpfen;to hatch out
+ausschmieren;to grease
+ausschmücken;to decorate
+ausschmuggeln;to smuggle out
+ausschnauben;to blow nose
+ausschnaufen;to catch breath
+ausschneiden;to cut out
+ausschöpfen;to exhaust
+ausschreiben;to advertise
+ausschreien;to cry out
+ausschreiten;to step out
+ausschroten;to grind
+ausschuhen;to take off shoes
+ausschütteln;to shake out
+ausschütten;to pour out
+ausschwärmen;to swarm out
+ausschwatzen;to talk out of
+ausschweifen;to digress
+ausschwemmen;to wash out
+ausschwenken;to swing out
+ausschwitzen;to sweat out
+aussegnen;to bless
+aussehen;to look
+aussein;to be over
+aussenden;to send out
+aussetzen;to expose
+aussichern;to secure
+aussieben;to sieve out
+aussiedeln;to resettle
+aussinnen;to devise
+aussitzen;to sit out
+aussöhnen;to reconcile
+aussondern;to separate
+aussortieren;to sort out
+ausspähen;to spy out
+ausspannen;to relax
+aussparen;to leave out
+ausspeien;to spit out
+aussperren;to lock out
+ausspielen;to play out
+ausspinnen;to spin out
+ausspionieren;to spy out
+ausspitzen;to sharpen
+aussprechen;to pronounce
+ausspreizen;to spread out
+aussprengen;to blast out
+ausspringen;to jump out
+ausspritzen;to spray out
+ausspucken;to spit out
+ausspülen;to rinse out
+ausspüren;to track down
+ausstaffieren;to outfit
+ausstanzen;to punch out
+ausstatten;to equip
+ausstechen;to outdo
+ausstecken;to mark out
+ausstehen;to endure
+aussteigen;to get out
+ausstellen;to exhibit
+ausstemmen;to chisel out
+aussterben;to die out
+aussteuern;to endow
+ausstopfen;to stuff
+ausstoßen;to expel
+ausstrahlen;to radiate
+ausstrecken;to stretch out
+ausstreichen;to cross out
+ausstreuen;to scatter
+ausströmen;to emanate
+ausstudieren;to finish studies
+aussuchen;to choose
+austafeln;to panel
+austanzen;to finish dancing
+austapezieren;to paper
+austarifen;to rate
+austätowieren;to tattoo
+austauchen;to surface
+austaumeln;to stagger out
+austauschen;to exchange
+austeilen;to distribute
+austesten;to test out
+austilgen;to eradicate
+austimen;to time out
+austobben;to romp
+austollen;to romp
+austönen;to sound out
+austopfen;to pot out
+austragen;to deliver
+austrainieren;to train
+austrampeln;to trample
+austransportieren;to transport out
+austreiben;to drive out
+austreten;to resign
+austricksen;to outwit
+austrinken;to drink up
+austrippeln;to trip out
+austrocken;to dry out
+austrommeln;to drum out
+austropfen;to drip out
+austrotten;to exterminate
+austrudeln;to coast
+austrumpfen;to trump
+austüfteln;to devise
+austun;to take off
+austupfen;to dab
+austürmen;to storm out
+ausüben;to practice
+ausufern;to get out of hand
+auswachsen;to grow out
+auswählen;to select
+auswalken;to full
+auswalzen;to roll out
+auswandern;to emigrate
+auswärmen;to warm out
+auswaschen;to wash out
+auswaten;to wade through
+ausweben;to weave out
+auswechseln;to replace
+auswehen;to blow away
+ausweichen;to evade
+ausweinen;to cry out
+ausweisen;to expel
+ausweiten;to widen
+auswendig;to by heart
+auswerfen;to eject
+auswerten;to evaluate
+auswetzen;to compensate
+auswickeln;to unwrap
+auswildern;to release
+auswinden;to wring out
+auswintern;to winter
+auswirken;to affect
+auswischen;to wipe out
+auswittern;to weather
+auswölben;to bulge
+auswringen;to wring out
+auswuchten;to balance
+auswühlen;to root out
+auswürfeln;to dice out
+auswürgen;to regurgitate
+auszahlen;to pay out
+auszanken;to scold
+auszäunen;to fence
+auszehren;to consume
+auszeichnen;to award
+auszeigen;to display
+ausziehen;to move out
+auszirkeln;to compass
+auszischen;to hiss out
+auszucken;to freak out
+auszupfen;to pluck out
+baggern;to dredge
+bahnen;to pave
+balancieren;to balance
+bandagieren;to bandage
+bannen;to banish
+bauschen;to billow
+beabsichtigen;to intend
+beachten;to heed
+beackern;to till
+beängstigen;to frighten
+beanspruchen;to claim
+beanstanden;to complain
+beantragen;to apply for
+beantworten;to answer
+bearbeiten;to process
+beargwöhnen;to suspect
+beatmen;to ventilate
+beaufsichtigen;to supervise
+bebauen;to cultivate
+beben;to tremble
+bebildern;to illustrate
+bedenken;to consider
+bedienen;to serve
+bedingen;to require
+bedrängen;to harass
+bedrohen;to threaten
+bedrücken;to depress
+bedrucken;to print on
+bedünken;to seem
+bedürfen;to need
+beehren;to honor
+beeilen;to hurry
+beeiden;to swear
+beeinflussten;to influence
+beeinträchtigen;to impair
+beenden;to end
+beengen;to constrict
+beerdigen;to bury
+befahren;to drive on
+befallen;to afflict
+befangen;to biased
+befassen;to deal with
+befehden;to feud with
+befehlen;to command
+befehligen;to command
+befeinden;to be hostile
+befestigen;to fasten
+befeuchten;to moisten
+befeuern;to fire
+befilmen;to film
+befinden;to find
+befischen;to fish
+beflecken;to stain
+beflegeln;to be rude
+beflissen;to eager
+beflügeln;to inspire
+befolgen;to follow
+befördern;to promote
+befrachten;to load
+befragen;to question
+befreien;to liberate
+befreunden;to befriend
+befrieden;to pacify
+befriedigen;to satisfy
+befristen;to limit
+befruchten;to fertilize
+befugen;to authorize
+befühlen;to feel
+befummeln;to fondle
+befürchten;to fear
+begaffen;to gape at
+begangen;to committed
+begatten;to mate
+begaunern;to cheat
+begeifern;to slaver over
+begeistern;to inspire
+begießen;to water
+beglaubigen;to certify
+begleichen;to settle
+begleiten;to accompany
+beglotzen;to stare at
+beglücken;to delight
+beglückwünschen;to congratulate
+begnadigen;to pardon
+begnügen;to content
+begraben;to bury
+begradigen;to straighten
+begrapschen;to grope
+begreifen;to comprehend
+begrenzen;to limit
+begründen;to justify
+begrünen;to plant
+begrüßen;to greet
+begucken;to look at
+begünstigen;to favor
+begutachten;to assess
+begütern;to appease
+begütigen;to placate
+behäbig;to portly
+behaften;to afflict
+behagen;to please
+behalten;to keep
+behandeln;to treat
+behändigen;to seize
+behängen;to hang
+beharken;to rake
+beharren;to persist
+behauen;to hew
+behaupten;to claim
+behausen;to house
+beheben;to remedy
+beheimaten;to be native to
+beheizen;to heat
+behelfen;to make do
+behelligen;to bother
+beherbergen;to accommodate
+beherrschen;to master
+beherzigen;to heed
+behexen;to bewitch
+behindern;to hinder
+behüten;to protect
+behutsam;to careful
+beibehalten;to retain
+beibringen;to teach
+beichten;to confess
+beidrehen;to heave to
+beieinander;to together
+beifügen;to enclose
+beigeben;to add
+beigesellen;to join
+beikommen;to get at
+beilegen;to enclose
+beiliegen;to be enclosed
+beimessen;to attribute
+beimischen;to admix
+beinhalten;to contain
+beipflichten;to agree
+beirren;to confuse
+beisammenhaben;to have together
+beischlafen;to sleep with
+beisetzen;to bury
+beisitzen;to sit on
+beißen;to bite
+beistehen;to assist
+beisteuern;to contribute
+beistimmen;to agree
+beitreten;to join
+beiwohnen;to attend
+beizeiten;to in time
+beizen;to pickle
+bejahrt;to elderly
+bejahen;to affirm
+bejammern;to lament
+bejubeln;to cheer
+bekakeln;to mess up
+bekämpfen;to combat
+bekanntgeben;to announce
+bekanntmachen;to make known
+bekehren;to convert
+bekennen;to confess
+bekiffen;to get stoned
+beklagen;to complain
+beklatschen;to applaud
+bekleben;to paste
+bekleckern;to spill on
+beklecksen;to stain
+bekleiden;to clothe
+beklemmen;to oppress
+beklommen;to anxious
+beklopfen;to tap
+bekloppt;to crazy
+beknabbern;to nibble
+beknien;to beg
+bekohlen;to cheat
+bekommen;to receive
+beköstigen;to feed
+bekräftigen;to confirm
+bekriegen;to wage war on
+bekritteln;to criticize
+bekümmern;to worry
+bekunden;to express
+belächeln;to smile at
+belachen;to laugh at
+beladen;to load
+belagern;to besiege
+belangen;to concern
+belassen;to leave
+belasten;to burden
+belästigen;to harass
+belauben;to foliate
+belauern;to spy on
+belauschen;to eavesdrop
+beleben;to animate
+belecken;to lick
+belegen;to occupy
+belehren;to instruct
+beleidigen;to insult
+beleihen;to lend on
+beleuchten;to illuminate
+belichten;to expose
+belieben;to please
+beliefern;to supply
+bellen;to bark
+belohnen;to reward
+belüften;to ventilate
+belügen;to lie to
+belustig;to amuse
+bemächtigen;to seize
+bemäkeln;to criticize
+bemalen;to paint
+bemängeln;to criticize
+bemannen;to man
+bemänteln;to cloak
+bemerken;to notice
+bemessen;to measure
+bemitleiden;to pity
+bemogeln;to cheat
+bemoosen;to moss over
+bemühen;to trouble
+bemüßigen;to feel obliged
+bemuttern;to mother
+benachrichtigen;to notify
+benachteiligen;to disadvantage
+benagen;to gnaw
+benarben;to scar
+benebeln;to befog
+benedeien;to bless
+benefizen;to benefit
+benehmen;to behave
+beneiden;to envy
+benennen;to name
+benetzt;to wet
+benommen;to dazed
+benoten;to grade
+benötigen;to need
+benutzen;to use
+beobachten;to observe
+beordern;to order
+bepflanzen;to plant
+beplanen;to plan
+bepudern;to powder
+bequatschen;to persuade
+bequemen;to condescend
+berappen;to cough up
+beraten;to advise
+berauben;to rob
+berauschen;to intoxicate
+berechnen;to calculate
+berechtigen;to entitle
+bereden;to discuss
+beregnen;to irrigate
+bereichern;to enrich
+bereinigen;to settle
+bereisen;to travel
+bereiten;to prepare
+bereitstellen;to provide
+bereuen;to regret
+bergen;to salvage
+berichten;to report
+berichtigen;to correct
+beriechen;to sniff
+berieseln;to sprinkle
+beritten;to mounted
+berücken;to ensnare
+berücksichtigen;to consider
+berufen;to appoint
+beruhen;to be based on
+beruhigen;to calm
+berühmen;to boast
+berühren;to touch
+berußen;to soot
+besabbern;to drool on
+besagen;to say
+besamen;to inseminate
+besänftigen;to soothe
+besät;to studded
+besaufen;to get drunk
+beschädigen;to damage
+beschaffen;to procure
+beschäftigen;to employ
+beschallen;to sound
+beschämen;to shame
+beschatten;to shade
+beschauen;to view
+bescheid;to inform
+bescheiden;to modest
+bescheinen;to shine on
+bescheinigen;to certify
+beschenken;to give presents
+bescheren;to give
+beschicken;to send to
+beschieben;to shift
+beschießen;to bombard
+beschildern;to signpost
+beschimpfen;to insult
+beschirmen;to protect
+beschlafen;to sleep on
+beschlagen;to shoe
+beschlagnahmen;to confiscate
+beschleichen;to creep up on
+beschleunigen;to accelerate
+beschließen;to decide
+beschmeißen;to throw at
+beschmieren;to smear
+beschmutzen;to soil
+beschneiden;to circumcise
+beschnüffeln;to sniff at
+beschönigen;to gloss over
+beschränken;to limit
+beschreiben;to describe
+beschreien;to jinx
+beschreiten;to tread
+beschriften;to label
+beschuldigen;to accuse
+beschummeln;to cheat
+beschuppen;to scale
+beschürzen;to apron
+beschuss;to under fire
+beschützen;to protect
+beschwatzen;to talk into
+beschweren;to complain
+beschwindeln;to cheat
+beschwingen;to elate
+beschwipst;to tipsy
+beschwören;to conjure
+beseelen;to animate
+besehen;to view
+beseitigen;to remove
+besenden;to broadcast
+besessen;to obsessed
+besetzen;to occupy
+besichtigen;to view
+besiedelung;to settlement
+besiegeln;to seal
+besiegen;to defeat
+besinnen;to reflect
+besitzen;to own
+besoffen;to drunk
+besohlen;to sole
+besolden;to pay
+besonnen;to prudent
+besonnen;to level-headed
+besorgen;to obtain
+bespannen;to cover
+besparen;to save for
+bespaßen;to entertain
+bespicken;to lard
+bespielen;to play on
+bespitzeln;to spy on
+besprechen;to discuss
+besprengen;to sprinkle
+bespringen;to mount
+bespritzen;to spray
+besprühen;to spray
+bespucken;to spit on
+bessern;to improve
+besser stellen;to improve position
+bestallen;to appoint
+beständig;to constant
+bestärken;to strengthen
+bestatten;to bury
+bestauben;to pollinate
+bestaunen;to marvel at
+bestechen;to bribe
+bestecken;to stick
+bestehen;to exist
+bestehlen;to steal from
+besteigen;to climb
+bestellen;to order
+besteuern;to tax
+bestialisch;to bestial
+besticken;to embroider
+bestimmen;to determine
+bestrahlen;to irradiate
+bestrafen;to punish
+bestreben;to strive
+bestreichen;to spread
+bestreiken;to strike
+bestreiten;to contest
+bestreuen;to sprinkle
+bestricken;to bewitch
+bestücken;to equip
+bestuhlen;to seat
+bestürmen;to storm
+bestürzen;to dismay
+besuchen;to visit
+besudeln;to soil
+betasten;to feel
+betätigen;to operate
+betäuben;to stun
+beteiligen;to participate
+beten;to pray
+beteuern;to assure
+betexten;to write lyrics
+betiteln;to title
+betonen;to emphasize
+betören;to beguile
+betrachten;to consider
+betragen;to amount to
+betrauen;to entrust
+betrauern;to mourn
+betreffen;to concern
+betreiben;to operate
+betreten;to enter
+betreuen;to care for
+betrinken;to get drunk
+betrüben;to sadden
+betrügen;to deceive
+betrunken;to drunk
+betteln;to beg
+betten;to bed
+betiteln;to entitle
+bettlägerig;to bedridden
+betupfen;to dab
+beugen;to bend
+beulen;to bulge
+beunruhigen;to worry
+beurkunden;to document
+beurlauben;to give leave
+beurteilen;to judge
+beuteln;to shake
+bevölkern;to populate
+bevollmächtigen;to authorize
+bevormunden;to patronize
+bevorrechten;to privilege
+bevorstehen;to be imminent
+bevorraten;to stock
+bevorzugen;to prefer
+bewachen;to guard
+bewaffnen;to arm
+bewahren;to preserve
+bewahrheiten;to prove true
+bewähren;to prove oneself
+bewaldung;to afforestation
+bewältigen;to cope with
+bewandert;to versed
+bewässern;to irrigate
+bewegen;to move
+beweiben;to marry
+beweihräuchern;to flatter
+beweinen;to mourn
+beweisen;to prove
+bewenden;to leave it at
+bewerben;to apply
+bewerfen;to throw at
+bewerkstelligen;to accomplish
+bewerten;to evaluate
+bewettern;to ventilate
+bewilligen;to grant
+bewirken;to cause
+bewirten;to entertain
+bewirtschaften;to manage
+bewogen;to moved
+bewohnen;to inhabit
+bewölken;to cloud over
+bewundern;to admire
+bewurzeln;to root
+bezahlen;to pay
+bezähmen;to tame
+bezaubern;to enchant
+bezeichnen;to designate
+bezeigen;to show
+bezeugen;to testify
+beziehen;to refer to
+beziffern;to quantify
+bezirzen;to bewitch
+bezuschussen;to subsidize
+bezwecken;to aim at
+bezweifeln;to doubt
+bezwingen;to conquer
+bibern;to shiver
+biegen;to bend
+biestern;to rage
+bieten;to offer
+bilanzieren;to balance
+bilden;to form
+billigen;to approve
+bimmeln;to ring
+binden;to bind
+blähen;to bloat
+blaken;to smoke
+blamieren;to embarrass
+blanchieren;to blanch
+blankziehen;to draw
+bläuen;to blue
+bläulich;to bluish
+blecken;to bare
+blenden;to blind
+blicken;to look
+blinken;to flash
+blinzeln;to blink
+blitzen;to flash
+blockieren;to block
+blödeln;to fool around
+blöken;to bleat
+blondieren;to bleach
+bloßlegen;to expose
+bloßstellen;to expose
+blühen;to bloom
+bluffen;to bluff
+bluten;to bleed
+blutig;to bloody
+bockig;to stubborn
+bohren;to drill
+bollern;to rumble
+bolzen;to bolt
+bombardieren;to bombard
+bosseln;to tinker
+boxen;to box
+boykottieren;to boycott
+brabbeln;to babble
+brackieren;to track
+brandmarken;to brand
+brandschatzen;to plunder
+braten;to roast
+bratfertig;to ready to roast
+brauchen;to need
+brauen;to brew
+bräunen;to tan
+brausen;to roar
+brav;to well-behaved
+brechen;to break
+breitmachen;to spread out
+bremsen;to brake
+brennen;to burn
+bretteln;to ski
+briefen;to brief
+bröseln;to crumble
+brodeln;to bubble
+bröckeln;to crumble
+brummen;to growl
+brunften;to rut
+brüskieren;to offend
+brüsten;to boast
+brüten;to brood
+brutalisieren;to brutalize
+buchen;to book
+buchstabieren;to spell
+bücken;to bend down
+buddeln;to dig
+büffeln;to cram
+bügeln;to iron
+buhlen;to court
+buhrufen;to boo
+bummeln;to stroll
+bündeln;to bundle
+bunkern;to hoard
+bürden;to burden
+bürgen;to vouch
+bürsten;to brush
+bußen;to atone
+buttern;to butter
+changieren;to shimmer
+charakterisieren;to characterize
+chauffieren;to chauffeur
+chillen;to chill
+chirpen;to chirp
+choreographieren;to choreograph
+christianisieren;to Christianize
+codieren;to encode
+dagegenstemmen;to resist
+daherkommen;to come along
+dahinraffen;to carry off
+dahinsiechen;to languish
+dahinvegetieren;to vegetate
+dalassen;to leave behind
+daliegen;to lie there
+dämmen;to insulate
+dämmern;to dawn
+dämonisieren;to demonize
+dämpfen;to dampen
+danebengehen;to miss
+danebenhauen;to miss
+daniederliegen;to be laid low
+darbringen;to offer
+darben;to suffer want
+darbieten;to present
+darlegen;to explain
+darstellen;to represent
+darüberliegen;to be above
+dasitzen;to sit there
+dastehen;to stand there
+datieren;to date
+davonkommen;to escape
+davonlaufen;to run away
+davonmachen;to make off
+davontragen;to carry away
+dazugehören;to belong to
+dazukommen;to arrive
+dazulernen;to learn more
+dazurechnen;to add
+dazutun;to add
+dazwischenfunken;to interfere
+dazwischenkommen;to intervene
+dazwischenreden;to interrupt
+dazwischenrufen;to interject
+dazwischentreten;to intervene
+debattieren;to debate
+decken;to cover
+definieren;to define
+deformieren;to deform
+degradieren;to degrade
+dehnen;to stretch
+dehydrieren;to dehydrate
+deichseln;to wangle
+deklamieren;to declaim
+deklarieren;to declare
+deklassieren;to outclass
+deklinieren;to decline
+dekolletieren;to wear low-cut
+dekorieren;to decorate
+delegieren;to delegate
+delektieren;to delight
+delinquieren;to commit offense
+demolieren;to demolish
+demontieren;to dismantle
+demoralisieren;to demoralize
+demütigen;to humiliate
+denaturieren;to denature
+dengeln;to whet
+denkbar;to conceivable
+denken;to think
+denkmalgeschützt;to listed
+denunzieren;to denounce
+deponieren;to deposit
+deportieren;to deport
+deprimieren;to depress
+dequetschen;to squash
+derivieren;to derive
+desavouieren;to disavow
+desertieren;to desert
+desinfizieren;to disinfect
+desillusionieren;to disillusion
+desintegrieren;to disintegrate
+desinteressieren;to lose interest
+desorientieren;to disorient
+desorganisieren;to disorganize
+destabilisieren;to destabilize
+destillieren;to distill
+destruieren;to destroy
+detachieren;to detach
+detaillieren;to detail
+dethronisieren;to dethrone
+detonieren;to detonate
+deuten;to interpret
+dezentralisieren;to decentralize
+dezimieren;to decimate
+diagnostizieren;to diagnose
+dichten;to write poetry
+dichtmachen;to close
+dickköpfig;to stubborn
+dienen;to serve
+differenzieren;to differentiate
+diffundieren;to diffuse
+digitalisieren;to digitize
+diktieren;to dictate
+dilettieren;to dabble
+dimensionieren;to dimension
+dinieren;to dine
+dingfestmachen;to apprehend
+dirigieren;to conduct
+diskreditieren;to discredit
+diskriminieren;to discriminate
+diskutieren;to discuss
+dispensieren;to exempt
+disponieren;to dispose
+disqualifizieren;to disqualify
+dissimulieren;to dissimulate
+dissonieren;to be dissonant
+distanzieren;to distance
+distinguieren;to distinguish
+distribuieren;to distribute
+disziplinieren;to discipline
+divergieren;to diverge
+diversifizieren;to diversify
+dividieren;to divide
+dopen;to dope
+dösen;to doze
+dosieren;to dose
+dotieren;to endow
+doubeln;to double
+downgraden;to downgrade
+drahten;to wire
+drängen;to urge
+drangeben;to sacrifice
+dranhaben;to be next
+drankommen;to be next
+dranmachen;to get on with
+drannehmen;to call on
+dransein;to be next
+draufgehen;to perish
+draufhauen;to hit hard
+draufkommen;to remember
+draufkriegen;to get told off
+drauflegen;to add
+drauflosreden;to talk away
+draufmachen;to hurry
+draufzahlen;to pay extra
+drechseln;to turn
+drehen;to turn
+dreingeben;to add
+dreinreden;to interfere
+dreinsehen;to look
+dreist;to brazen
+dreschen;to thresh
+dressieren;to train
+dribbeln;to dribble
+drillen;to drill
+dringen;to penetrate
+dritteln;to divide by three
+dröhnen;to roar
+drohen;to threaten
+drückebergen;to shirk
+drücken;to press
+drucksen;to hem and haw
+dudeln;to tootle
+duellieren;to duel
+duften;to smell
+dulden;to tolerate
+dumpfen;to muffle
+düngen;to fertilize
+dünken;to seem
+dunsten;to steam
+dupieren;to dupe
+duplizieren;to duplicate
+durchackern;to plough through
+durcharbeiten;to work through
+durchatmen;to breathe deeply
+durchbacken;to bake through
+durchbeißen;to bite through
+durchbetteln;to beg through
+durchbiegen;to bend through
+durchblättern;to leaf through
+durchblicken;to see through
+durchbohren;to pierce
+durchboxen;to push through
+durchbrennen;to burn through
+durchbringen;to get through
+durchdenken;to think through
+durchdiskutieren;to discuss thoroughly
+durchdrehen;to go crazy
+durchdringen;to penetrate
+durchdrücken;to push through
+durcheinandergeraten;to get mixed up
+durcheinanderkommen;to get confused
+durchfahren;to drive through
+durchfallen;to fail
+durchfechten;to fight through
+durchfegen;to sweep through
+durchfeiern;to celebrate through
+durchfinden;to find one's way
+durchflechten;to interweave
+durchfließen;to flow through
+durchfluten;to flood
+durchforsten;to thin out
+durchforschen;to research thoroughly
+durchfragen;to ask one's way
+durchfressen;to eat through
+durchfrieren;to freeze through
+durchfüllen;to fill through
+durchführen;to carry out
+durchfurchen;to furrow
+durchfüttern;to feed through
+durchgeben;to pass through
+durchgehen;to go through
+durchgeistigen;to spiritualize
+durchglühen;to glow through
+durchgreifen;to take action
+durchhalten;to persevere
+durchhängen;to sag
+durchhauen;to cut through
+durchhecheln;to gossip about
+durchheizen;to heat through
+durchhelfen;to help through
+durchhören;to listen through
+durchirren;to wander through
+durchjagen;to chase through
+durchkämmen;to comb through
+durchkämpfen;to fight through
+durchkauen;to chew through
+durchkneten;to knead thoroughly
+durchknöpfen;to button through
+durchkommen;to get through
+durchkönnen;to be able to pass
+durchkosten;to taste all
+durchkreuzen;to cross
+durchkriechen;to crawl through
+durchkriegen;to get through
+durchlassen;to let through
+durchlaufen;to run through
+durchleben;to live through
+durchleiten;to conduct through
+durchlesen;to read through
+durchleuchten;to x-ray
+durchliegen;to get bedsores
+durchlöchern;to perforate
+durchlotsen;to pilot through
+durchlüften;to air thoroughly
+durchmachen;to go through
+durchmarschieren;to march through
+durchmessen;to traverse
+durchmischen;to mix thoroughly
+durchmogeln;to wangle through
+durchmüssen;to have to go through
+durchnässen;to soak through
+durchnehmen;to go through
+durchnumerieren;to number consecutively
+durchorganisieren;to organize thoroughly
+durchpausen;to trace
+durchpeitschen;to rush through
+durchpflügen;to plough through
+durchpressen;to press through
+durchprobieren;to try out
+durchprügeln;to beat thoroughly
+durchpusten;to blow through
+durchqueren;to cross
+durchrasen;to race through
+durchrechnen;to calculate
+durchregieren;to rule autocratically
+durchregnen;to rain through
+durchreiben;to rub through
+durchreichen;to pass through
+durchreifen;to mature
+durchreisen;to travel through
+durchreißen;to tear through
+durchreiten;to ride through
+durchrennen;to run through
+durchrieseln;to trickle through
+durchringen;to bring oneself to
+durchrinnen;to run through
+durchrosten;to rust through
+durchrütteln;to shake thoroughly
+durchsacken;to drop through
+durchsägen;to saw through
+durchsagen;to announce
+durchsaufen;to drink through
+durchsausen;to rush through
+durchschaben;to scrape through
+durchschalten;to switch through
+durchschauen;to see through
+durchscheinen;to shine through
+durchscheuern;to rub through
+durchschicken;to send through
+durchschieben;to push through
+durchschießen;to shoot through
+durchschiffen;to sail through
+durchschimmern;to shimmer through
+durchschlafen;to sleep through
+durchschlagen;to break through
+durchschlängeln;to wind through
+durchschleifen;to drag through
+durchschleppen;to drag through
+durchschleusen;to channel through
+durchschlüpfen;to slip through
+durchschmecken;to taste through
+durchschmelzen;to melt through
+durchschneiden;to cut through
+durchschnüffeln;to sniff through
+durchschreiben;to write through
+durchschreiten;to stride through
+durchschwimmen;to swim through
+durchschwitzen;to sweat through
+durchsegeln;to sail through
+durchsehen;to look through
+durchseihen;to strain
+durchsetzen;to enforce
+durchseuchen;to infect
+durchsickern;to seep through
+durchsieben;to sieve
+durchsitzen;to sit through
+durchsollen;to be supposed to pass
+durchspalten;to split through
+durchspielen;to play through
+durchspinnen;to spin through
+durchsprechen;to discuss
+durchsprengen;to blow through
+durchspringen;to jump through
+durchspritzen;to spray through
+durchspülen;to rinse through
+durchstarten;to take off again
+durchstauben;to dust through
+durchstechen;to pierce
+durchstecken;to stick through
+durchstehen;to endure
+durchsteigen;to climb through
+durchstellen;to put through
+durchsteuern;to steer through
+durchstöbern;to rummage through
+durchstoßen;to push through
+durchstreichen;to cross out
+durchstreifen;to roam through
+durchstreiten;to argue through
+durchströmen;to flow through
+durchstudieren;to study thoroughly
+durchstürmen;to storm through
+durchsuchen;to search
+durchtanzen;to dance through
+durchtragen;to carry through
+durchtränken;to soak
+durchträumen;to dream through
+durchtrennen;to sever
+durchtrieben;to cunning
+durchwachen;to stay awake
+durchwachsen;to grow through
+durchwählen;to dial direct
+durchwälzen;to roll through
+durchwandern;to hike through
+durchwärmen;to warm through
+durchwaten;to wade through
+durchweben;to interweave
+durchwechseln;to alternate
+durchweichen;to soften
+durchweinen;to cry through
+durchwetzen;to wear through
+durchwirbeln;to whirl through
+durchwirken;to interlace
+durchwollen;to want to pass
+durchwühlen;to rummage through
+durchwursteln;to muddle through
+durchwurzeln;to permeate with roots
+durchzählen;to count through
+durchzeichnen;to trace
+durchziehen;to pull through
+durchzucken;to flash through
+durchzwängen;to squeeze through
+dürfen;to be allowed
+dürsten;to thirst
+düsen;to zoom
+duseln;to doze
+duschen;to shower
+düster;to gloomy
+duzend;to informal
+duzen;to address informally
+dynamisieren;to dynamize
+ebben;to ebb
+ebenen;to level
+echauffieren;to get excited
+editieren;to edit
+effektuieren;to effect
+egalisieren;to equalize
+ehelichten;to marry
+ehren;to honor
+eichen;to calibrate
+eiern;to wobble
+eifern;to be zealous
+eilen;to hurry
+einäschern;to incinerate
+einarbeiten;to train
+einatmen;to inhale
+einäugig;to one-eyed
+einbalsamieren;to embalm
+einbändigen;to bind in one volume
+einbauen;to install
+einbehalten;to retain
+einberufen;to convene
+einbeschreiben;to inscribe
+einbetten;to embed
+einbetonieren;to concrete in
+einbeulen;to dent
+einbeziehen;to include
+einbiegen;to turn into
+einbilden;to imagine
+einbimsen;to drum into
+einbinden;to bind
+einblasen;to blow in
+einbleuen;to drum into
+einblenden;to fade in
+einbohren;to drill in
+einbrechen;to break in
+einbrennen;to burn in
+einbrocken;to get into
+einbrühen;to scald
+einbuchen;to book
+einbuchten;to indent
+einbuddeln;to bury
+einbürgern;to naturalize
+einchecken;to check in
+eincremen;to cream
+eindämmen;to dam
+eindampfen;to evaporate
+eindecken;to stock up
+eindeichen;to dike
+eindellen;to dent
+eindeutschen;to Germanize
+eindicken;to thicken
+eindosen;to can
+eindrehen;to screw in
+eindrillen;to drill in
+eindringen;to penetrate
+eindrücken;to press in
+eindunkeln;to darken
+einduseln;to doze off
+einebnen;to level
+eineinhalbfach;to one and a half
+einengen;to narrow
+einerseits;to on one hand
+einfachen;to simple
+einfädeln;to thread
+einfahren;to drive in
+einfallen;to occur to
+einfältig;to simple-minded
+einfangen;to capture
+einfärben;to dye
+einfassen;to border
+einfetten;to grease
+einfeuern;to fire up
+einfinden;to appear
+einflechten;to braid in
+einflicken;to patch
+einfliegen;to fly in
+einfließen;to flow in
+einflößen;to instill
+einflüstern;to whisper
+einfordern;to demand
+einfressen;to eat into
+einfrieden;to fence in
+einfrieren;to freeze
+einfügen;to insert
+einfühlen;to empathize
+einfüllen;to pour in
+eingeben;to enter
+eingeboren;to native
+eingedenk;to mindful
+eingehen;to agree to
+eingemachtes;to preserves
+eingestehen;to admit
+eingewöhnen;to accustom
+eingießen;to pour in
+eingleisen;to channel
+eingleisig;to single-track
+eingliedern;to integrate
+eingraben;to bury
+eingravieren;to engrave
+eingreifen;to intervene
+eingrenzen;to delimit
+eingruppieren;to classify
+einhacken;to chop into
+einhaken;to hook in
+einhalten;to keep
+einhämmern;to hammer in
+einhandeln;to incur
+einhändigen;to hand over
+einhängen;to hang in
+einharken;to rake in
+einhauen;to smash in
+einheften;to file
+einhegen;to fence in
+einheilen;to heal in
+einheimisch;to native
+einheimsen;to rake in
+einheiraten;to marry into
+einheizen;to heat
+einhellig;to unanimous
+einhergehen;to go along
+einherrschen;to reign
+einholen;to catch up
+einhörnen;to unicorn
+einhüllen;to wrap
+einigeln;to huddle
+einigen;to agree
+einimpfen;to vaccinate
+einjährig;to one-year
+einkalkulieren;to factor in
+einkapseln;to encapsulate
+einkassieren;to collect
+einkaufen;to shop
+einkehren;to stop at
+einkeilen;to wedge in
+einkeimen;to germinate
+einkeltern;to press
+einkerben;to notch
+einkerkern;to incarcerate
+einkesseln;to encircle
+einkitten;to putty in
+einklagen;to sue for
+einklammern;to bracket
+einklappen;to fold in
+einkleben;to paste in
+einkleiden;to clothe
+einklemmen;to jam
+einklinken;to latch
+einklöppeln;to lace in
+einklopfen;to knock in
+einkneten;to knead in
+einknickbar;to collapsible
+einknicken;to bend
+einknöpfen;to button in
+einkochen;to preserve
+einkommen;to come in
+einkomponieren;to compose into
+einkreisen;to encircle
+einkriegen;to get in
+einkuppeln;to engage clutch
+einkuscheln;to snuggle
+einladen;to invite
+einlagern;to store
+einlangen;to arrive
+einlassen;to let in
+einlatschen;to walk in
+einlaufen;to shrink
+einläuten;to ring in
+einleben;to settle in
+einlegen;to insert
+einleimen;to glue in
+einleiten;to introduce
+einlenken;to give in
+einlernen;to learn
+einlesen;to read in
+einleuchten;to be evident
+einliefern;to deliver
+einliegen;to be enclosed
+einloggen;to log in
+einlösen;to redeem
+einlöten;to solder in
+einlullen;to lull
+einmachen;to preserve
+einmahlen;to grind
+einmaleins;to multiplication table
+einmarschieren;to march in
+einmassieren;to massage in
+einmaßig;to unique
+einmaßlich;to uniformly
+einmauern;to wall in
+einmeißeln;to chisel in
+einmengen;to interfere
+einmieten;to rent
+einmischen;to interfere
+einmotten;to mothball
+einmütig;to unanimous
+einmummen;to wrap up
+einmünden;to flow into
+einnageln;to nail in
+einnähen;to sew in
+einnahme;to revenue
+einnehmen;to take
+einnisten;to nest
+einnorden;to align north
+einöden;to desolate
+einölen;to oil
+einordnen;to classify
+einpacken;to pack
+einparken;to park
+einpassen;to fit in
+einpauken;to cram
+einpendeln;to settle down
+einpeitschen;to whip up
+einpellen;to peel
+einpennen;to fall asleep
+einpferchen;to pen in
+einpflanzen;to implant
+einpflöcken;to peg
+einpfropfen;to graft
+einpinseln;to paint on
+einplagen;to torment
+einplanen;to plan in
+einpökeln;to pickle
+einpolig;to unipolar
+einprägen;to imprint
+einpressen;to press in
+einprogrammieren;to program
+einprügeln;to beat in
+einpudern;to powder
+einpuppen;to pupate
+einquartieren;to quarter
+einquellen;to soak
+einquetschen;to squeeze in
+einrahmen;to frame
+einrammen;to ram in
+einrangieren;to rank
+einrasten;to lock in
+einräuchern;to smoke
+einräumen;to concede
+einrechnen;to include
+einreden;to talk into
+einregnen;to get rained in
+einreiben;to rub in
+einreichen;to submit
+einreihen;to line up
+einreimen;to rhyme in
+einreisen;to enter country
+einreißen;to tear down
+einreiten;to break in
+einrenken;to set
+einrennen;to ram in
+einrichten;to furnish
+einrieseln;to trickle in
+einritzen;to scratch in
+einrollen;to roll in
+einrosten;to rust
+einrücken;to move in
+einrühren;to stir in
+einsacken;to pocket
+einsäen;to sow
+einsagen;to prompt
+einsalben;to rub with ointment
+einsalzen;to salt
+einsam;to lonely
+einsammeln;to collect
+einsargen;to put in coffin
+einsaugen;to absorb
+einsäumen;to hem
+einschalten;to switch on
+einschärfen;to impress upon
+einschätzen;to assess
+einschenken;to pour
+einscheren;to merge
+einschichten;to layer
+einschieben;to insert
+einschiffen;to embark
+einschirren;to harness
+einschlachten;to slaughter
+einschlafen;to fall asleep
+einschläfern;to lull to sleep
+einschlagen;to smash in
+einschleichen;to sneak in
+einschleifen;to grind in
+einschleppen;to drag in
+einschleusen;to smuggle in
+einschließen;to lock in
+einschlummern;to doze off
+einschlürfen;to slurp
+einschmeicheln;to ingratiate
+einschmelzen;to melt down
+einschmeißen;to smash in
+einschmieren;to grease
+einschmugeln;to smuggle in
+einschnappen;to snap shut
+einschneiden;to cut into
+einschneien;to snow in
+einschnitzen;to carve in
+einschnüren;to lace up
+einschränken;to restrict
+einschrauben;to screw in
+einschreiben;to register
+einschreien;to shout at
+einschreiten;to intervene
+einschrumpfen;to shrink
+einschüchtern;to intimidate
+einschulen;to enroll
+einschweißen;to weld in
+einschwenken;to swing in
+einschwören;to swear in
+einsegnen;to confirm
+einsehen;to realize
+einseifen;to soap
+einseitig;to one-sided
+einsenden;to send in
+einsenken;to sink in
+einsetzen;to use
+einsichtig;to understanding
+einsickern;to seep in
+einsieden;to boil down
+einsiegeln;to seal
+einsilbig;to monosyllabic
+einsinken;to sink in
+einsitzen;to serve time
+einspannen;to clamp
+einsparen;to save
+einspeicheln;to salivate
+einspeichern;to store
+einspeisen;to feed in
+einsperren;to lock up
+einspiegel;to reflect in
+einspielen;to play in
+einspinnen;to spin in
+einsprechen;to record
+einsprengen;to sprinkle in
+einspringen;to stand in
+einspritzen;to inject
+einspurig;to single-lane
+einstampfen;to pulp
+einstanzen;to punch in
+einstäuben;to dust
+einstechen;to pierce
+einstecken;to pocket
+einstehen;to vouch for
+einsteigen;to get in
+einstellen;to adjust
+einstemmen;to chisel in
+einsteuern;to steer toward
+einsticheln;to needle
+einstieren;to stare at
+einstimmen;to join in
+einstöpseln;to plug in
+einstoßen;to push in
+einstrahlen;to radiate into
+einstreichen;to pocket
+einstreuen;to scatter
+einströmen;to stream in
+einstudieren;to rehearse
+einstufen;to classify
+einstülpen;to turn in
+einstürmen;to storm into
+einstürzen;to collapse
+einstutzen;to cut short
+eintägig;to one-day
+eintakten;to time
+eintanzen;to dance in
+eintätowieren;to tattoo
+eintauchen;to immerse
+eintauschen;to exchange
+eintaxieren;to assess
+einteeren;to tar
+einteilen;to divide
+eintexten;to text
+eintippen;to type in
+eintönen;to tint
+eintönig;to monotonous
+eintopfen;to pot
+eintragen;to enter
+einträglich;to profitable
+eintränken;to soak
+eintreffen;to arrive
+eintreiben;to collect
+eintreten;to enter
+eintrichtern;to drum into
+eintrocknen;to dry up
+eintröpfeln;to drip in
+eintrüben;to cloud
+eintrudeln;to drift in
+einüben;to practice
+einverleiben;to incorporate
+einverstanden;to agreed
+einwachsen;to grow in
+einwählen;to dial in
+einwandern;to immigrate
+einweben;to weave in
+einwechseln;to substitute
+einweichen;to soak
+einweihen;to inaugurate
+einweisen;to admit
+einwenden;to object
+einwerfen;to throw in
+einwickeln;to wrap
+einwiegen;to lull
+einwilligen;to consent
+einwirken;to affect
+einwölben;to vault
+einwurzeln;to take root
+einzahlen;to deposit
+einzäunen;to fence in
+einzeichnen;to draw in
+einzementieren;to cement in
+einziehen;to move in
+einzirkeln;to compass in
+einzwängen;to squeeze in
+ekeln;to disgust
+elaborieren;to elaborate
+emanzipieren;to emancipate
+emittieren;to emit
+empfangen;to receive
+empfehlen;to recommend
+empfinden;to feel
+empören;to outrage
+emporarbeiten;to work one's way up
+emporheben;to lift up
+emporkommen;to rise
+emporragen;to tower
+emporrecken;to stretch up
+emporschnellen;to shoot up
+emporschwingen;to soar
+emporsteigen;to ascend
+emporstrecken;to stretch up
+emporstreben;to aspire
+emulieren;to emulate
+emsig;to busy
+endigen;to end
+engagieren;to engage
+engen;to narrow
+entarten;to degenerate
+entästen;to prune
+entäußern;to divest
+entbehren;to do without
+entbeinen;to bone
+entbergen;to uncover
+entbinden;to deliver
+entbieten;to offer
+entblättern;to strip leaves
+entblöden;to have nerve
+entblößen;to bare
+entbrennen;to flare up
+entdeck;to discover
+entehrenvoll;to dishonorable
+enteignen;to expropriate
+enteisen;to de-ice
+entfalten;to unfold
+entfärben;to decolorize
+entfernen;to remove
+entfesseln;to unleash
+entfetten;to degrease
+entflammen;to inflame
+entflechten;to disentangle
+entfliegen;to fly away
+entfliehen;to escape
+entfremden;to alienate
+entfristen;to make permanent
+entführen;to abduct
+entgegenbringen;to show
+entgegeneilen;to hurry toward
+entgegenfahren;to drive toward
+entgegengehen;to approach
+entgegengesetzt;to opposite
+entgegenhalten;to object
+entgegenkommen;to meet halfway
+entgegenlaufen;to run counter
+entgegennehmen;to receive
+entgegenrufen;to call to
+entgegensehen;to look forward to
+entgegensetzen;to oppose
+entgegenstehen;to stand in way
+entgegenstellen;to oppose
+entgegenstemmen;to resist
+entgegenstreben;to strive toward
+entgegenstrecken;to stretch toward
+entgegentreten;to confront
+entgegenwirken;to counteract
+entgegnen;to reply
+entgehen;to escape
+entgeistert;to aghast
+entgelten;to pay for
+entgiften;to detoxify
+entgleisen;to derail
+entgleiten;to slip away
+entgräten;to bone
+entgrenzen;to remove boundaries
+enthaaren;to depilate
+enthalten;to contain
+enthaupten;to behead
+entheben;to relieve
+entheiligen;to desecrate
+enthemmen;to disinhibit
+enthüllen;to reveal
+enthülsen;to shell
+entkalken;to decalcify
+entkernen;to core
+entkleiden;to undress
+entkoffeinieren;to decaffeinate
+entkolonialisieren;to decolonize
+entkommen;to escape
+entkorken;to uncork
+entkräften;to debilitate
+entkrampfen;to relax
+entladen;to unload
+entlang;to along
+entlarven;to unmask
+entlassen;to dismiss
+entlasten;to relieve
+entlauben;to defoliate
+entlaufen;to run away
+entledigen;to rid oneself
+entleeren;to empty
+entlegen;to remote
+entlehnen;to borrow
+entleiben;to kill
+entleihen;to borrow
+entlocken;to elicit
+entlohnen;to remunerate
+entlüften;to ventilate
+entmachten;to disempower
+entmagnetisieren;to demagnetize
+entmannen;to emasculate
+entmenschlichen;to dehumanize
+entmilitarisieren;to demilitarize
+entminen;to demine
+entmischen;to separate
+entmündigen;to declare incompetent
+entmutigen;to discourage
+entmystifizieren;to demystify
+entnazifizieren;to denazify
+entnehmen;to take from
+entnerven;to enervate
+entpflichten;to release from duty
+entpolitisieren;to depoliticize
+entpuppen;to reveal oneself
+entraten;to do without
+enträtseln;to solve
+entreißen;to snatch away
+entrichten;to pay
+entriegeln;to unlock
+entrinden;to debark
+entrinnen;to escape
+entrosten;to de-rust
+entrümpeln;to clear out
+entrüsten;to indignate
+entsaften;to extract juice
+entsagen;to renounce
+entsalzen;to desalinate
+entschädigen;to compensate
+entschärfen;to defuse
+entscheiden;to decide
+entschlafen;to pass away
+entschlagen;to rid oneself
+entschleiern;to unveil
+entschließen;to decide
+entschlossen;to determined
+entschlüpfen;to slip away
+entschlüsseln;to decode
+entschlummern;to fall asleep
+entschuldigen;to excuse
+entschweben;to float away
+entschwinden;to vanish
+entsenden;to dispatch
+entsetzen;to horrify
+entseuchen;to decontaminate
+entsichern;to unlock safety
+entsiegeln;to unseal
+entsinken;to sink away
+entsinnen;to remember
+entsittlichen;to demoralize
+entspannen;to relax
+entspiegeln;to dereflect
+entspinnen;to develop
+entsprechen;to correspond
+entspringen;to originate
+entstaatlichen;to denationalize
+entstammen;to stem from
+entstauben;to dust
+entstehen;to arise
+entsteigen;to emerge
+entsteinen;to pit
+entstellen;to disfigure
+entstören;to suppress interference
+entströmen;to emanate
+entsühnen;to expiate
+enttabuisieren;to detaboo
+enttarnen;to expose
+enttäuschen;to disappoint
+entthronisieren;to dethrone
+entvölkern;to depopulate
+entwachsen;to outgrow
+entwaffnen;to disarm
+entwalden;to deforest
+entwarnen;to sound all-clear
+entwässern;to drain
+entweder;to either
+entweichen;to escape
+entweihen;to desecrate
+entweisen;to expel
+entwenden;to purloin
+entwerfen;to design
+entwerten;to devalue
+entwickeln;to develop
+entwinden;to wrest from
+entwirren;to disentangle
+entwischen;to slip away
+entwöhnen;to wean
+entwölken;to clear of clouds
+entwurzeln;to uproot
+entwürmen;to deworm
+entzaubern;to disenchant
+entzerren;to correct distortion
+entziehen;to withdraw
+entziffern;to decipher
+entzücken;to delight
+entzünden;to ignite
+entzweien;to divide
+entzweibrechen;to break in two
+entzweigehen;to break apart
+entzweireißen;to tear apart
+entzweischlagen;to smash apart
+entzweispringen;to split apart
+epitomieren;to epitomize
+equalisieren;to equalize
+erbarmen;to have mercy
+erbauen;to edify
+erbeuten;to capture
+erbieten;to offer
+erbitten;to request
+erbittern;to embitter
+erblassen;to turn pale
+erbleichen;to pale
+erblicken;to catch sight of
+erblinden;to go blind
+erblühen;to blossom
+erbösen;to anger
+erbosten;to enrage
+erbrausen;to roar up
+erbrechen;to vomit
+erbringen;to provide
+erbrüten;to hatch
+erdauern;to endure
+erdenken;to conceive
+erdichten;to fabricate
+erdolchen;to stab
+erdreisten;to dare
+erdröhnen;to resound
+erdrosseln;to strangle
+erdrücken;to crush
+erdulden;to endure
+ereifern;to get excited
+ereignen;to occur
+ereilen;to overtake
+erektieren;to erect
+erfachen;to fan
+erfahren;to experience
+erfassen;to grasp
+erfechten;to win
+erfinden;to invent
+erflehen;to implore
+erfliegen;to fly to
+erfließen;to flow from
+erfolgen;to ensue
+erforderlich;to necessary
+erfordern;to require
+erforschen;to explore
+erfragen;to inquire
+erfrechen;to dare
+erfreuen;to please
+erfrieren;to freeze to death
+erfrischen;to refresh
+erfüllen;to fulfill
+ergänzen;to complement
+ergattern;to snag
+ergaunern;to swindle
+ergeben;to yield
+ergehen;to befall
+ergiebig;to productive
+ergießen;to pour forth
+erglänzen;to gleam
+erglimmen;to glow
+erglühen;to glow
+ergötzen;to delight
+ergrauen;to turn gray
+ergreifen;to seize
+ergrimmen;to become furious
+ergründen;to fathom
+erhaben;to sublime
+erhalten;to receive
+erhärten;to harden
+erhaschen;to catch
+erheben;to raise
+erheischen;to demand
+erheitern;to cheer up
+erhellen;to illuminate
+erhitzen;to heat
+erhoffen;to hope for
+erhöhen;to increase
+erholen;to recover
+erhören;to grant
+erinnern;to remember
+erkälten;to catch cold
+erkämpfen;to win by fighting
+erkalten;to cool down
+erkaufen;to buy
+erkennen;to recognize
+erklären;to explain
+erklecklich;to considerable
+erklimmen;to climb
+erklingen;to sound
+erklügeln;to devise
+erkranken;to fall ill
+erkriechen;to obtain by crawling
+erkunden;to explore
+erkundigen;to inquire
+erkünsteln;to contrive
+erkiesen;to choose
+erlaben;to refresh
+erlachen;to obtain by laughing
+erlahmen;to flag
+erlangen;to attain
+erlassen;to remit
+erlauben;to permit
+erläutern;to explain
+erleben;to experience
+erledigen;to finish
+erlegen;to kill
+erleichtern;to facilitate
+erleiden;to suffer
+erlernen;to learn
+erlesen;to select
+erleuchten;to illuminate
+erliegen;to succumb
+erlöschen;to expire
+erlösen;to redeem
+ermächtigen;to authorize
+ermahnen;to admonish
+ermangeln;to lack
+ermannen;to pluck up courage
+ermatten;to tire
+ermäßigen;to reduce
+ermessen;to assess
+ermitteln;to determine
+ermöglichen;to enable
+ermorden;to murder
+ermüden;to tire
+ermuntern;to encourage
+ermutigen;to encourage
+ernähren;to nourish
+ernennen;to appoint
+erneuern;to renew
+erniedrigen;to humiliate
+ernsten;to be serious
+ernüchtern;to sober up
+erobern;to conquer
+eröffnen;to open
+erörtern;to discuss
+erproben;to test
+erquicken;to refresh
+erraten;to guess
+errechnen;to calculate
+erregbar;to excitable
+erregen;to excite
+erreichbar;to reachable
+erreichen;to reach
+erretten;to rescue
+errichten;to erect
+erringen;to win
+erröten;to blush
+errungen;to achieved
+ersäufen;to drown
+ersaufen;to drown
+erschaffen;to create
+erschallen;to resound
+erschaudern;to shudder
+erschauern;to shiver
+erscheinen;to appear
+erschießen;to shoot dead
+erschlaffen;to slacken
+erschlagen;to strike dead
+erschleichen;to obtain by stealth
+erschließen;to open up
+erschöpfen;to exhaust
+erschrecken;to frighten
+erschüttern;to shake
+erschweren;to complicate
+erschwingen;to afford
+ersehen;to see from
+ersetzen;to replace
+ersinnen;to devise
+ersitzen;to acquire by prescription
+erspähen;to spy
+ersparen;to save
+erspielen;to win
+ersprießen;to be beneficial
+erstarken;to grow strong
+erstarren;to stiffen
+erstatten;to refund
+erstaunen;to astonish
+erstechen;to stab to death
+erstehen;to buy
+ersteigen;to climb
+ersteigern;to buy at auction
+erstellen;to produce
+ersticken;to suffocate
+erstrahlen;to shine
+erstreben;to strive for
+erstrecken;to extend
+erstreiten;to win by fighting
+ersuchen;to request
+ertappen;to catch
+ertasten;to feel out
+erteilen;to grant
+ertönen;to sound
+ertragen;to endure
+ertränken;to drown
+erträumen;to dream up
+ertrinken;to drown
+ertrotzen;to extort
+ertüchtigen;to make fit
+erübrigen;to spare
+erwachen;to awaken
+erwachsen;to grow up
+erwägen;to consider
+erwählen;to choose
+erwähnen;to mention
+erwandern;to hike to
+erwärmen;to warm
+erwarten;to expect
+erwecken;to awaken
+erweichen;to soften
+erweisen;to prove
+erweitern;to expand
+erwerben;to acquire
+erwidern;to reply
+erwirken;to obtain
+erwirtschaften;to earn
+erwischen;to catch
+erwürgen;to strangle
+erzählen;to tell
+erzeugen;to produce
+erziehen;to educate
+erzielen;to achieve
+erzittern;to tremble
+erzürnen;to anger
+erzwingen;to force
+eskalieren;to escalate
+eskamotieren;to conjure away
+eskortieren;to escort
+etablieren;to establish
+etikettieren;to label
+evakuieren;to evacuate
+evangelisieren;to evangelize
+evozieren;to evoke
+examinieren;to examine
+exekutieren;to execute
+exerzieren;to drill
+exhumieren;to exhume
+exilieren;to exile
+existieren;to exist
+exkommunizieren;to excommunicate
+exkulpieren;to exculpate
+exmatrikulieren;to unenroll
+expatriieren;to expatriate
+expedieren;to dispatch
+experimentieren;to experiment
+explodieren;to explode
+explorieren;to explore
+exponieren;to expose
+exportieren;to export
+exterminieren;to exterminate
+externalisieren;to externalize
+extrahieren;to extract
+extrapolieren;to extrapolate
+fabrizieren;to fabricate
+facettieren;to facet
+fachen;to fan
+fachsimpeln;to talk shop
+fadisieren;to bore
+fahnden;to search
+fallen;to fall
+fällen;to fell
+fälliger;to overdue
+falsifizieren;to falsify
+fälteln;to pleat
+falten;to fold
+fälschen;to forge
+familialisieren;to familiarize
+fangen;to catch
+fantasieren;to fantasize
+färben;to dye
+farcieren;to stuff
+faseln;to drivel
+fasen;to fray
+fassen;to grasp
+fasten;to fast
+faszinieren;to fascinate
+fauchen;to hiss
+faulen;to rot
+faulenzen;to laze
+favorisieren;to favor
+faxen;to fax
+fechten;to fence
+federn;to spring
+fegen;to sweep
+fehlen;to lack
+fehlgehen;to go wrong
+fehlgreifen;to make mistake
+fehlinterpretieren;to misinterpret
+fehlleiten;to misdirect
+fehlschlagen;to fail
+fehlschließen;to conclude wrongly
+fehltreten;to stumble
+fehlzünden;to misfire
+feien;to make invulnerable
+feiern;to celebrate
+feilen;to file
+feilschen;to haggle
+feixen;to smirk
+feldmäßig;to field
+feminisieren;to feminize
+ferkeln;to farrow
+fermentieren;to ferment
+fernbleiben;to stay away
+fernhalten;to keep away
+fernliegen;to be far from
+fernmelden;to telecommunicate
+fernsehen;to watch TV
+fernsteuern;to remote control
+fertigbringen;to manage
+fertigkriegen;to get finished
+fertigmachen;to finish
+fertigstellen;to complete
+fesseln;to tie up
+festbinden;to tie
+festbleiben;to remain firm
+festfahren;to get stuck
+festfressen;to seize up
+festhalten;to hold fast
+festigen;to consolidate
+festklammern;to cling to
+festkleben;to stick
+festklemmen;to jam
+festkrallen;to cling
+festlegen;to determine
+festliegen;to be fixed
+festmachen;to fasten
+festnageln;to nail down
+festnehmen;to arrest
+festrennen;to run into
+festschnallen;to strap
+festschnüren;to lace up
+festschrauben;to screw tight
+festsetzen;to fix
+festsitzen;to be stuck
+feststehen;to be certain
+feststellen;to ascertain
+feststopfen;to stuff
+festtreten;to tread firm
+festwachsen;to grow firm
+festwurzeln;to take root
+festzurren;to lash down
+fetten;to grease
+feuchthalten;to keep moist
+feuern;to fire
+fezen;to rush
+fiedeln;to fiddle
+fiebern;to have fever
+filieren;to fillet
+filmen;to film
+filtern;to filter
+filzen;to felt
+finalisieren;to finalize
+finanzieren;to finance
+finden;to find
+fingieren;to feign
+finten;to feint
+firmeln;to confirm
+firmen;to confirm
+fischen;to fish
+fixieren;to fix
+flachfallen;to fall through
+flachsen;to banter
+flackern;to flicker
+flaggen;to flag
+flambieren;to flambé
+flammen;to flame
+flanen;to stroll
+flanieren;to stroll
+flankieren;to flank
+flattern;to flutter
+flauchen;to hiss
+flauen;to slacken
+flausen;to joke
+flechten;to braid
+flecken;to stain
+fleddern;to loot
+flehen;to plead
+flehmen;to curl lip
+fleischen;to butcher
+fleißen;to be diligent
+flennen;to blubber
+fletschen;to bare teeth
+flexen;to flex
+flicken;to patch
+fliegen;to fly
+fliehen;to flee
+fließen;to flow
+flimmern;to shimmer
+flintschen;to wince
+flirren;to shimmer
+flirten;to flirt
+flitschen;to slip
+flitzen;to dash
+flocken;to flake
+flöten;to flute
+flößen;to float
+flottmachen;to refloat
+fluchen;to curse
+fluchten;to flee
+flügeln;to wing
+flugsanden;to drift sand
+fluktuieren;to fluctuate
+flunkern;to fib
+fluoreszieten;to fluoresce
+flüstern;to whisper
+fluten;to flood
+fodern;to demand
+fokussieren;to focus
+folgen;to follow
+folgern;to conclude
+folieren;to laminate
+foltern;to torture
+forcieren;to force
+fördern;to promote
+fordern;to demand
+formen;to form
+formalisieren;to formalize
+formatieren;to format
+formieren;to form
+formulieren;to formulate
+forschen;to research
+forsten;to afforest
+fortbegeben;to go away
+fortbewegen;to move away
+fortbilden;to continue education
+fortbleiben;to stay away
+fortbringen;to take away
+fortdauern;to continue
+fortdenken;to think ahead
+fortentwickeln;to develop further
+fortfahren;to continue
+fortfallen;to cease
+fortfegen;to sweep away
+fortfliegen;to fly away
+fortführen;to continue
+fortgehen;to go away
+forthelfen;to help away
+fortjagen;to chase away
+fortkommen;to get away
+fortkönnen;to be able to leave
+fortlassen;to let go
+fortlaufen;to run away
+fortleben;to live on
+fortlocken;to lure away
+fortmüssen;to have to leave
+fortnehmen;to take away
+fortpflanzen;to reproduce
+fortreißen;to tear away
+fortreiten;to ride away
+fortschaffen;to remove
+fortscheren;to clear off
+fortschicken;to send away
+fortschieben;to push away
+fortschleppen;to drag away
+fortschreiben;to continue writing
+fortschreiten;to progress
+fortschwemmen;to wash away
+fortsein;to be away
+fortsetzen;to continue
+fortstehlen;to steal away
+forttragen;to carry away
+forttreiben;to drive away
+fortwähren;to continue
+fortwollen;to want to leave
+fortziehen;to move away
+fossilieren;to fossilize
+fotografieren;to photograph
+fotonieren;to photon
+foulieren;to foul
+foppen;to tease
+foutieren;to not care
+foxen;to trick
+frächten;to freight
+fragmentieren;to fragment
+frakturieren;to fracture
+frankieren;to frank
+fransen;to fray
+fräsen;to mill
+fraternisieren;to fraternize
+fratzenhaft;to grotesque
+freilaufen;to run free
+freilegen;to expose
+freimachen;to frank
+freimütig;to candid
+freischalten;to unlock
+freispielen;to unlock
+freisprechen;to acquit
+freistellen;to exempt
+freitreten;to kick free
+fremdeln;to be shy with strangers
+fremdgehen;to cheat
+frequentieren;to frequent
+fressen;to eat (animals)
+freuen;to please
+freunden;to make friends
+freveln;to sin
+fricassieren;to fricassee
+frieren;to freeze
+frikadellieren;to make meatballs
+frischen;to refine
+frisieren;to style hair
+fristen;to eke out
+frittieren;to deep-fry
+fröhnen;to indulge
+frömmeln;to affect piety
+fronen;to do forced labor
+fronten;to front
+frösteln;to feel chilly
+frottieren;to rub
+fruchtbringen;to bear fruit
+fruchten;to avail
+frustieren;to frustrate
+frühstücken;to have breakfast
+fügen;to join
+fühlen;to feel
+führen;to lead
+fuhrwerken;to cart
+fulminieren;to fulminate
+fummeln;to fumble
+fundieren;to found
+fungieren;to function
+funken;to spark
+funkeln;to sparkle
+funktionalisieren;to functionalize
+funktionieren;to function
+furchen;to furrow
+fürchten;to fear
+furnieren;to veneer
+fusionieren;to merge
+fußen;to be based on
+futschgehen;to be lost
+futtern;to feed
+füttern;to feed
+gackern;to cackle
+gaffen;to gape
+galoppieren;to gallop
+galvanisieren;to galvanize
+gammeln;to loaf
+gängeln;to lead by hand
+garantieren;to guarantee
+gären;to ferment
+garnieren;to garnish
+garstig;to nasty
+gashebeln;to accelerate
+gassieren;to walk dog
+gastieren;to guest
+gatten;to pair
+gattern;to gather
+gaukeln;to juggle
+gauklern;to juggle
+gaunen;to steal
+gaunern;to swindle
+geben;to give
+gebärden;to gesticulate
+gebären;to give birth
+gebieten;to command
+gebühren;to be due
+gedenken;to remember
+gedeihen;to thrive
+gefährden;to endanger
+gefallen;to please
+gefangen;to captive
+gefügig;to compliant
+gegründen;to found
+gehaben;to behave
+gehabt;to had
+geharkt;to raked
+geharnischt;to armored
+gehässig;to spiteful
+gehen;to go
+gehenlassen;to let go
+gehören;to belong
+gehorsam;to obedient
+geifern;to slaver
+geigen;to play violin
+geilen;to be horny
+geiligten;to refined
+geißeln;to scourge
+geisten;to haunt
+geistern;to haunt
+geizen;to be stingy
+gekommen;to come
+gelangen;to reach
+gelassen;to calm
+gelblich;to yellowish
+gelegen;to situated
+geleiten;to escort
+gelenken;to steer
+gelenkig;to supple
+gellen;to shrill
+geloben;to vow
+gelten;to be valid
+gelüsten;to lust
+gemahnen;to remind
+gemeinen;to mean
+gemäßigen;to moderate
+gemäßigt;to moderate
+genehmigen;to approve
+genesen;to recover
+genieren;to embarrass
+genießen;to enjoy
+genormt;to standardized
+genossen;to comrade
+genugen;to suffice
+genügen;to suffice
+geraten;to turn out
+gerben;to tan
+gerecht;to just
+gereichen;to serve
+gerieren;to behave
+gerinnen;to coagulate
+gern;to gladly
+geruhsam;to leisurely
+gesagt;to said
+geschehen;to happen
+gescheit;to clever
+gesellen;to join
+gestalten;to shape
+gestehen;to confess
+gestikulieren;to gesticulate
+gestatten;to permit
+gesunden;to recover
+getragen;to carried
+getrauen;to dare
+gewachsen;to grown
+gewagt;to daring
+gewähren;to grant
+gewährleis;to ensure
+gewahren;to perceive
+gewalten;to rule
+gewanden;to garbed
+gewandt;to agile
+gewärtig;to expecting
+gewaschen;to washed
+gewichten;to weight
+gewinnen;to win
+gewiss;to certain
+gewissen;to conscience
+gewitzigt;to shrewd
+gewöhnen;to accustom
+geworden;to become
+gickeln;to giggle
+gießen;to pour
+giften;to poison
+gipfeln;to culminate
+girren;to coo
+gischen;to foam
+glänzen;to shine
+glätten;to smooth
+glasieren;to glaze
+glauben;to believe
+gleichbleiben;to remain same
+gleichen;to resemble
+gleichschalten;to coordinate
+gleichsetzen;to equate
+gleichstellen;to equate
+gleichstimmen;to tune
+gleichziehen;to catch up
+gleißen;to gleam
+gleiten;to glide
+gliedern;to structure
+glimmern;to glimmer
+glimmen;to glow
+glitschen;to slip
+glitzern;to glitter
+globalisieren;to globalize
+glommen;to glowed
+gloriöseren;to glorify
+glosen;to gloss
+glotzen;to stare
+glühen;to glow
+glucken;to cluck
+gluckern;to gurgle
+glucksen;to chuckle
+gnadenhaft;to merciful
+gnädig;to gracious
+gnatzen;to whine
+gnieseln;to drizzle
+gönnen;to grant
+gorgen;to gorge
+gradieren;to graduate
+grallen;to squawk
+grämen;to grieve
+grammeln;to fret
+granteln;to grumble
+granulieren;to granulate
+grapsen;to grope
+grassieren;to be rampant
+gratifizieren;to remunerate
+gratinieren;to gratinate
+gratulieren;to congratulate
+grauen;to dawn
+graupeln;to sleet
+grausen;to horrify
+gravieren;to engrave
+gravitieren;to gravitate
+grazieren;to grace
+greifen;to grasp
+greinen;to whine
+grell;to garish
+gremieren;to form committee
+grenzen;to border
+grienen;to grin
+griesgrämig;to grumpy
+griffeln;to scribble
+grillen;to grill
+grimassieren;to grimace
+grinsen;to grin
+grollen;to rumble
+grölen;to bawl
+grollen;to be angry
+grönen;to turn green
+grübeln;to brood
+grummeln;to grumble
+gründen;to found
+grundieren;to prime
+grunzen;to grunt
+gruppieren;to group
+gruseln;to creep
+grüßen;to greet
+gucken;to look
+gülden;to golden
+gummieren;to rubberize
+günstig;to favorable
+gurgeln;to gargle
+gurren;to coo
+gürten;to gird
+guttieren;to drop
+guttural;to guttural
