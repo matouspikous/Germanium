@@ -38,12 +38,24 @@ jobs:
           mkdir -p ~/Library/MobileDevice/Provisioning\ Profiles
           echo "$PROFILE_BASE64" | base64 --decode > ~/Library/MobileDevice/Provisioning\ Profiles/profile.mobileprovision
 
+      - name: Force manual signing in project file
+        run: |
+          sed -i '' 's/ProvisioningStyle = Automatic;/ProvisioningStyle = Manual;/g' Germanium.xcodeproj/project.pbxproj
+
+      - name: Show effective build settings (debug)
+        run: |
+          xcodebuild -showBuildSettings -project "Germanium.xcodeproj" -scheme "Germanium" -configuration Release | grep -i "PRODUCT_BUNDLE_IDENTIFIER\|PROVISIONING_PROFILE\|CODE_SIGN"
+
       - name: Archive
         run: |
           xcodebuild -project "Germanium.xcodeproj" \
             -scheme "Germanium" \
             -configuration Release \
             -archivePath build/Germanium.xcarchive \
+            CODE_SIGN_STYLE=Manual \
+            CODE_SIGN_IDENTITY="Apple Distribution" \
+            PROVISIONING_PROFILE_SPECIFIER="Germanium App Store Profile" \
+            DEVELOPMENT_TEAM=598KF94K56 \
             archive
 
       - name: Export IPA
