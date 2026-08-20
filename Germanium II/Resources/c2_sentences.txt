@@ -747,3 +747,593 @@ Der Sozialwissenschaftler analysiert die Reproduktion von Herrschaftsverhältnis
 Die Künstlergruppe praktiziert eine interventionistische Kunst der Gegenhegemonie.;The artist group practices an interventionist art of counter-hegemony.
 Es ist fraglich, ob gradualistische Strategien die Machtverhältnisse verschieben können.;It is questionable whether gradualist strategies can shift power relations.
 Der Historiker rekonstruiert die unterdrückten Traditionen antiautoritärer Kämpfe.;The historian reconstructs the suppressed traditions of anti-authoritarian struggles.
+Wäre das Brot noch warm, so schmeckte es doppelt so gut.;Were the bread still warm, it would taste twice as good.
+Hätte ich den Krug nicht fallen lassen, stünde er noch auf dem Sims.;Had I not dropped the jug, it would still stand on the ledge.
+Käme der Bote heute, so wüssten wir endlich Bescheid.;Were the messenger to come today, we would finally know.
+Ich ginge zum Markte, wenn der Regen nur endlich nachließe.;I would go to the market if only the rain would let up at last.
+Wüsste ich, wo der Schlüssel läge, so ersparte ich uns diese Mühe.;Did I know where the key lay, I would spare us this trouble.
+Es wäre mir lieb, wenn du die Pforte vor Einbruch der Nacht verschlössest.;It would please me if you would lock the gate before nightfall.
+Hätten wir mehr Holz gespalten, so fröre niemand in dieser Kammer.;Had we split more wood, no one would freeze in this chamber.
+Ich nähme das Kleid, wenn der Preis nur billiger wäre.;I would take the dress if only the price were lower.
+Bliebe der Ofen über Nacht warm, so brauchten wir am Morgen keine Glut.;Were the stove to stay warm overnight, we would need no embers in the morning.
+Wäre der Weg nicht so beschwerlich, so besuchte ich sie öfter.;Were the way not so arduous, I would visit her more often.
+Man täte gut daran, das Dach vor dem Winter auszubessern.;One would do well to repair the roof before winter.
+Gäbe es noch Milch im Hause, so kochte ich einen Brei.;Were there still milk in the house, I would cook a porridge.
+Ich schriebe ihr längst, wüsste ich nur ihre Anschrift.;I would have written to her long ago, did I but know her address.
+Hätte der Schmied das Messer geschliffen, so schnitte es leichter.;Had the smith honed the knife, it would cut more easily.
+Es wäre ratsam, den Vorrat bis zum Frühjahr einzuteilen.;It would be advisable to ration the supply until spring.
+Käme sie zur rechten Zeit, so fände sie das Mahl noch bereitet.;Were she to come at the right time, she would find the meal still prepared.
+Ich hülfe dir gern, wenn meine Hände nicht so steif wären.;I would gladly help you if my hands were not so stiff.
+Wäre der Zuber nicht undicht, so trüge ich nicht ständig Wasser.;Were the tub not leaky, I would not constantly carry water.
+Hätte ich es geahnt, so hätte ich niemals zugestimmt.;Had I suspected it, I would never have consented.
+Man sollte den Docht kürzen, ehe er zu blaken beginnt.;One ought to trim the wick before it begins to smoke.
+Es dünkte mich klug, den Handel noch heute abzuschließen.;It would seem wise to me to conclude the deal this very day.
+Zöge man den Vorhang zu, so hielte die Stube die Wärme besser.;Were one to draw the curtain, the parlor would hold the warmth better.
+Ich beköstigte gern den Gast, hätte ich nur mehr vorrätig.;I would gladly feed the guest, had I only more in store.
+Wäre das Tuch aus Leinen, so hielte es länger als dieses.;Were the cloth of linen, it would last longer than this one.
+Hätten wir früher gesät, so stünde das Korn nun höher.;Had we sown earlier, the grain would now stand taller.
+Es wäre schade, wenn die Früchte im Korbe verdürben.;It would be a shame if the fruits spoiled in the basket.
+Ich stiege hinauf, wenn die Leiter nicht so morsch wäre.;I would climb up if the ladder were not so rotten.
+Bliebe uns noch ein wenig Öl, so brennte die Lampe bis zum Morgen.;Were a little oil left to us, the lamp would burn till morning.
+Man müsste die Angeln ölen, damit die Türe nicht mehr ächzte.;One would have to oil the hinges so that the door would groan no more.
+Wüsste sie, wie schwer mir dies fiele, so verlangte sie es nicht.;Did she know how hard this would be for me, she would not demand it.
+Hätte der Wirt uns gewarnt, so wären wir früher aufgebrochen.;Had the innkeeper warned us, we would have set out earlier.
+Es wäre mir ein Leichtes, das Bündel für dich zu tragen.;It would be an easy matter for me to carry the bundle for you.
+Käme der Winter milde, so reichte das Brennholz vollauf.;Were the winter to come mild, the firewood would amply suffice.
+Ich schlüge vor, dass wir bis zum Morgengrauen warteten.;I would propose that we wait until daybreak.
+Wäre der Boden trockener, so ließe sich das Beet leichter umgraben.;Were the ground drier, the bed could be dug over more easily.
+Hätte man den Zaun geflickt, so entwiche das Vieh nicht immerfort.;Had one mended the fence, the cattle would not constantly escape.
+Es geziemte sich, dem Gaste zuerst aufzutragen.;It would be fitting to serve the guest first.
+Nähme sie Vernunft an, so bliebe uns viel Verdruss erspart.;Were she to see reason, much vexation would be spared us.
+Ich lüde ihn gern ein, wüsste ich nur, ob er noch weilte.;I would gladly invite him, did I but know whether he still dwelt there.
+Wäre das Wetter beständiger, so hinge die Wäsche längst trocken.;Were the weather more settled, the laundry would long since hang dry.
+Hätte ich nicht gezögert, so gehörte das Feld nun mir.;Had I not hesitated, the field would now be mine.
+Man täte besser daran, sich in Geduld zu fassen.;One would do better to muster patience.
+Es wäre unrecht, ihm die Schuld allein aufzubürden.;It would be wrong to lay the blame on him alone.
+Käme Hilfe von außen, so bewältigten wir die Ernte wohl.;Were help to come from outside, we would surely manage the harvest.
+Ich verwahrte das Geld sicherer, hätte ich eine feste Lade.;I would store the money more safely, had I a sturdy chest.
+Wäre die Suppe nicht versalzen, so äße man sie mit Vergnügen.;Were the soup not oversalted, one would eat it with pleasure.
+Hätten wir die Vorräte besser geordnet, so fänden wir alles gleich.;Had we ordered the provisions better, we would find everything at once.
+Es dünkte mich billig, ihm für seine Mühe zu danken.;It would seem only fair to me to thank him for his trouble.
+Löschte man das Licht, so schliefe das Kind wohl endlich ein.;Were one to extinguish the light, the child would surely fall asleep at last.
+Ich risse den alten Verputz herunter, hätte ich nur die Zeit.;I would tear down the old plaster, had I but the time.
+Wäre der Krug nicht gesprungen, so trüge man ihn noch zum Brunnen.;Were the jug not cracked, one would still carry it to the well.
+Hätte er auf mich gehört, so stünde er heute nicht mittellos da.;Had he listened to me, he would not stand penniless today.
+Man sollte die Kammer lüften, ehe die Feuchtigkeit sich festsetzte.;One ought to air the chamber before the damp settled in.
+Es wäre mir recht, wenn du mir zur Hand gingest.;It would suit me if you lent me a hand.
+Käme das Schiff bei Tage an, so ersparten wir uns die Fackeln.;Were the ship to arrive by day, we would spare ourselves the torches.
+Ich flickte den Ärmel, wäre der Zwirn nicht so grob.;I would mend the sleeve were the thread not so coarse.
+Bliebe der Sud noch länger auf dem Herde, so brennte er an.;Were the broth to stay longer on the stove, it would burn.
+Hätten sie das Brot geteilt, so hungerte jetzt niemand.;Had they shared the bread, no one would be hungry now.
+Es wäre klug, den Weg noch vor der Dämmerung anzutreten.;It would be wise to set out on the way before dusk.
+Wüsste ich um seine Not, so schickte ich ihm alsbald Beistand.;Did I know of his distress, I would send him aid at once.
+Trüge sie festere Schuhe, so ermüdete sie nicht so schnell.;Were she to wear sturdier shoes, she would not tire so quickly.
+Ich verkaufte das Kalb ungern, doch die Not zwänge mich dazu.;I would sell the calf reluctantly, but need would compel me to it.
+Wäre die Truhe verschlossen gewesen, so fehlte uns nichts.;Had the chest been locked, nothing would be missing.
+Hätte man den Riegel vorgeschoben, so wäre der Dieb nicht eingedrungen.;Had one slid the bolt shut, the thief would not have got in.
+Man müsste den Brunnen vertiefen, wollte man im Sommer Wasser haben.;One would have to deepen the well if one wanted water in summer.
+Es wäre nicht schicklich, ohne Gruß vorüberzugehen.;It would not be seemly to pass by without a greeting.
+Käme sie zu Besuch, so richteten wir die obere Stube her.;Were she to come visiting, we would prepare the upper room.
+Ich bäte dich um nichts, hätte ich einen anderen Ausweg.;I would ask nothing of you, had I another way out.
+Wäre der Winter vorüber, so sähe die Welt gleich freundlicher aus.;Were the winter over, the world would look at once friendlier.
+Hätte ich den Brief eher gelesen, so wäre ich längst aufgebrochen.;Had I read the letter sooner, I would long since have departed.
+Es dünkte mich vernünftig, den Handel schriftlich festzuhalten.;It would seem sensible to me to put the deal in writing.
+Nähme man das Sieb, so ginge die Arbeit weit schneller vonstatten.;Were one to take the sieve, the work would proceed far more quickly.
+Ich stellte den Napf hinaus, käme die Katze noch heute Nacht.;I would put the bowl out, were the cat to come tonight.
+Wäre der Faden fester, so risse er nicht bei jeder Naht.;Were the thread stronger, it would not tear at every seam.
+Hätten wir den Baum gefällt, so schiene nun Licht ins Fenster.;Had we felled the tree, light would now shine into the window.
+Man sollte das Fass umlagern, ehe der Wein umschlüge.;One ought to move the barrel before the wine turned.
+Es wäre gut, wenn du dich vor der Reise ausruhtest.;It would be good if you rested before the journey.
+Käme der Frost noch einmal, so erfröre die junge Saat.;Were the frost to come once more, the young seed would freeze.
+Ich beklagte mich nicht, hätte man mich nur rechtzeitig verständigt.;I would not complain, had I only been informed in time.
+Wäre die Diele nicht so glatt, so stürzte sie nicht so oft.;Were the floorboard not so slippery, she would not fall so often.
+Hätte ich Vorrat genug, so verschenkte ich gern die Hälfte.;Had I supply enough, I would gladly give away half.
+Es wäre töricht, in solchem Wetter das Haus zu verlassen.;It would be foolish to leave the house in such weather.
+Wüsste er um den Preis, so ließe er die Hand davon.;Did he know the price, he would keep his hands off it.
+Zöge man das Tuch straffer, so bliebe der Tisch ordentlich gedeckt.;Were one to pull the cloth tauter, the table would stay neatly laid.
+Ich löschte das Feuer, ehe ich zu Bette ginge.;I would extinguish the fire before going to bed.
+Wäre der Korb größer, so trüge man alles auf einmal.;Were the basket bigger, one would carry everything at once.
+Hätten wir gespart, so drückte uns die Schuld nun nicht.;Had we saved, the debt would not now weigh on us.
+Man täte klug daran, dem Fremden nicht sogleich zu trauen.;One would do wisely not to trust the stranger at once.
+Es wäre schön, säßen wir alle wieder an einem Tische.;It would be lovely if we all sat again at one table.
+Käme Antwort aus der Stadt, so wüssten wir, woran wir wären.;Were an answer to come from town, we would know where we stood.
+Ich sähe gern, dass die Kinder früher zu Bette gingen.;I would like to see the children go to bed earlier.
+Wäre das Gemäuer trockener, so hielten die Vorräte länger.;Were the masonry drier, the provisions would keep longer.
+Hätte man mich gefragt, so hätte ich abgeraten.;Had I been asked, I would have advised against it.
+Es wäre mir angenehm, wenn du morgen früher kämest.;It would be agreeable to me if you came earlier tomorrow.
+Nähme das Unwetter zu, so schlössen wir besser die Läden.;Were the storm to increase, we would do better to close the shutters.
+Ich ginge selber hin, wären meine Beine nicht so schwach.;I would go myself, were my legs not so weak.
+Wäre der Boden fester gestampft, so schwankte der Pfosten nicht.;Were the ground tamped firmer, the post would not sway.
+Hätte sie geschwiegen, so bliebe uns dieser Ärger erspart.;Had she kept silent, this trouble would be spared us.
+Man müsste die Kerzen sparen, wollte man den Winter überstehen.;One would have to ration the candles if one wanted to survive the winter.
+Es wäre unbillig, ihn für unser Versäumnis zu tadeln.;It would be unfair to reproach him for our omission.
+Käme der Frühling zeitig, so grünten die Wiesen bald.;Were spring to come early, the meadows would soon turn green.
+Ich böte ihm gern ein Lager an, hätte ich nur Platz.;I would gladly offer him a bed, had I but room.
+Wäre das Wasser klarer, so brauchte man es nicht zu sieden.;Were the water clearer, one would not need to boil it.
+Hätten wir den Weg gekannt, so wären wir nicht in die Irre gegangen.;Had we known the way, we would not have gone astray.
+Es dünkte mich unnötig, so viel Aufhebens davon zu machen.;It would seem unnecessary to me to make so much fuss about it.
+Träte er ein, so erhöben sich alle von ihren Plätzen.;Were he to enter, all would rise from their seats.
+Ich hielte es für ratsam, den Vorrat zu prüfen.;I would consider it advisable to check the supply.
+Wäre die Ernte reichlicher ausgefallen, so hätten wir zu verkaufen.;Had the harvest turned out more plentiful, we would have some to sell.
+Hätte ich die Wahl, so bliebe ich lieber daheim.;Had I the choice, I would rather stay at home.
+Man sollte den Kessel abnehmen, ehe das Wasser überliefe.;One ought to take off the kettle before the water boiled over.
+Es wäre besser gewesen, du hättest geschwiegen.;It would have been better had you kept silent.
+Käme das Fuhrwerk zur Stelle, so schafften wir alles vor Abend.;Were the wagon to arrive, we would manage everything before evening.
+Ich reichte dir das Salz, säßest du nicht so weit entfernt.;I would pass you the salt, did you not sit so far away.
+Wäre der Zug pünktlich, so erreichten wir noch den Anschluss.;Were the train punctual, we would still catch the connection.
+Hätten sie die Fenster geschlossen, so wäre der Regen nicht hereingedrungen.;Had they closed the windows, the rain would not have got in.
+Es wäre mir ein Trost, wüsste ich sie in Sicherheit.;It would be a comfort to me to know her safe.
+Nähme der Wind ab, so ließe sich das Feuer entfachen.;Were the wind to abate, the fire could be kindled.
+Ich schnitte das Brot dünner, wollten wir länger damit auskommen.;I would cut the bread thinner if we wanted to make it last longer.
+Wäre die Milch frischer, so gerönne sie nicht so rasch.;Were the milk fresher, it would not curdle so quickly.
+Hätte ich das gewusst, so hätte ich mich anders entschieden.;Had I known that, I would have decided differently.
+Man täte gut daran, den Kranken nicht zu stören.;One would do well not to disturb the sick man.
+Es wäre schade um das gute Tuch, verdürbe man es beim Zuschnitt.;It would be a shame about the good cloth were one to ruin it in the cutting.
+Käme sie zur Vernunft, so schlichtete sich der Streit von selbst.;Were she to come to her senses, the quarrel would settle itself.
+Ich bäte um Aufschub, ließe sich die Sache nicht anders regeln.;I would ask for a postponement, could the matter not be settled otherwise.
+Wäre der Pfad gekehrt, so rutschte niemand auf dem Eise aus.;Were the path swept, no one would slip on the ice.
+Hätten wir die Schuhe geflickt, so hielten sie noch einen Winter.;Had we mended the shoes, they would last another winter.
+Es dünkte mich angebracht, ihm einen Gruß zu senden.;It would seem appropriate to me to send him a greeting.
+Zöge man in ein kleineres Haus, so sänken die Kosten beträchtlich.;Were one to move into a smaller house, the costs would drop considerably.
+Ich verwahrte die Papiere gut, hätte ich einen sicheren Ort.;I would store the papers well, had I a safe place.
+Wäre die Stube geheizt, so fröre der Gast nicht so erbärmlich.;Were the parlor heated, the guest would not freeze so wretchedly.
+Hätte man die Vorräte gezählt, so wüsste man nun den Mangel.;Had one counted the provisions, one would now know the shortfall.
+Man müsste den Krug ersetzen, ehe er gänzlich zerbräche.;One would have to replace the jug before it broke entirely.
+Es wäre mir lieber, du bliebest über Nacht.;It would be dearer to me if you stayed the night.
+Käme der Arzt noch heute, so genäse sie wohl schneller.;Were the doctor to come today, she would surely recover faster.
+Ich flöchte den Korb neu, hätte ich frische Weiden.;I would weave the basket anew, had I fresh willows.
+Wäre der Herd befeuert, so dampfte längst der Kessel.;Were the hearth fired, the kettle would long since be steaming.
+Hätten wir mehr Hände, so wäre die Arbeit rascher getan.;Had we more hands, the work would be done more swiftly.
+Es wäre unklug, den Vorrat vorzeitig aufzubrauchen.;It would be unwise to use up the supply prematurely.
+Nähme sie das Angebot an, so änderte sich manches zum Guten.;Were she to accept the offer, much would change for the better.
+Ich stünde früher auf, wäre die Nacht nicht so kurz.;I would rise earlier, were the night not so short.
+Wäre das Fenster dicht, so pfiffe der Wind nicht herein.;Were the window sealed, the wind would not whistle in.
+Hätte er sich beeilt, so träfe er die Fähre noch an.;Had he hurried, he would still catch the ferry.
+Man sollte das Dach decken, ehe der Herbst hereinbräche.;One ought to roof the house before autumn set in.
+Es wäre ein Segen, gäbe es endlich Regen.;It would be a blessing if there were finally rain.
+Käme ein guter Preis zustande, so verkauften wir sogleich.;Were a good price to come about, we would sell at once.
+Ich sagte nichts, wüsste ich nicht, dass es dich beträfe.;I would say nothing, did I not know that it concerned you.
+Wäre der Kessel größer, so kochte man für alle auf einmal.;Were the kettle bigger, one would cook for all at once.
+Hätten wir Vorsorge getroffen, so stünden wir jetzt besser da.;Had we made provision, we would stand better now.
+Es dünkte mich müßig, darüber noch länger zu streiten.;It would seem futile to me to quarrel over it any longer.
+Träte Besserung ein, so ließen wir sogleich Nachricht zukommen.;Were improvement to set in, we would send word at once.
+Ich hütete die Kinder gern, hätte ich nicht das Feld zu bestellen.;I would gladly mind the children, had I not the field to tend.
+Wäre die Ware unversehrt, so nähme man sie ohne Weiteres an.;Were the goods undamaged, one would accept them without further ado.
+Hätte ich einen Wagen, so führe ich dich zur Stadt.;Had I a cart, I would drive you to town.
+Man täte wohl daran, die Rechnung nochmals zu prüfen.;One would do well to check the bill once more.
+Es wäre eine Schande, das gute Essen verderben zu lassen.;It would be a disgrace to let the good food spoil.
+Käme der Schnee früher, so bliebe die Saat geschützt.;Were the snow to come earlier, the seed would remain protected.
+Ich schriebe längst zurück, hätte ich nur Papier im Hause.;I would have written back long ago, had I but paper in the house.
+Wäre der Zaun höher, so entwiche das Federvieh nicht.;Were the fence higher, the poultry would not escape.
+Hätten sie beizeiten gewarnt, so wären wir vorbereitet gewesen.;Had they warned in good time, we would have been prepared.
+Es wäre mir eine Last, ihm dies mitteilen zu müssen.;It would be a burden to me to have to tell him this.
+Nähme man das Pferd, so wäre man vor Mittag zurück.;Were one to take the horse, one would be back before noon.
+Ich äße gern etwas Warmes, wäre der Herd nur befeuert.;I would gladly eat something warm, were the hearth but fired.
+Wäre der Weg gepflastert, so käme man auch bei Regen durch.;Were the road paved, one would get through even in rain.
+Hätte ich es vermocht, so hätte ich ihm Beistand geleistet.;Had I been able, I would have given him assistance.
+Man müsste sparsamer wirtschaften, wollte man über den Winter kommen.;One would have to manage more frugally to get through the winter.
+Es wäre nicht recht, ihn in dieser Lage allein zu lassen.;It would not be right to leave him alone in this situation.
+Käme sie noch heute, so richtete ich das Nachtlager her.;Were she to come today, I would prepare the bed.
+Ich verhandelte selbst, wäre ich der Sprache mächtig.;I would negotiate myself, were I master of the language.
+Wäre die Stube größer, so lüde ich mehr Gäste.;Were the parlor bigger, I would invite more guests.
+Hätten wir Salz genug, so pökelten wir das Fleisch.;Had we salt enough, we would salt the meat.
+Es dünkte mich geraten, den Streit auf sich beruhen zu lassen.;It would seem advisable to me to let the quarrel rest.
+Zöge man die Schuhe aus, so bliebe die Diele sauber.;Were one to take off one's shoes, the floorboards would stay clean.
+Ich weckte dich nicht, schliefest du nur endlich fest.;I would not wake you, were you but finally sleeping soundly.
+Wäre das Wetter beständig, so schnitte man morgen das Gras.;Were the weather settled, one would cut the grass tomorrow.
+Hätte man den Sack besser verschnürt, so ginge nichts verloren.;Had one tied the sack better, nothing would be lost.
+Man sollte den Gast nicht warten lassen, wäre es auch noch so spät.;One ought not to keep the guest waiting, be it ever so late.
+Es wäre mir eine Freude, dich wieder bei uns zu sehen.;It would be a joy to me to see you with us again.
+Käme das Geld beizeiten, so beglichen wir alle Schulden.;Were the money to come in good time, we would settle all debts.
+Ich vertraute ihm die Sache an, wäre er nur verschwiegener.;I would entrust the matter to him, were he only more discreet.
+Wäre die Ernte eingebracht, so ruhten wir uns endlich aus.;Were the harvest brought in, we would finally rest.
+Hätten wir den Rat befolgt, so ginge es uns heute besser.;Had we followed the advice, we would be better off today.
+Es wäre gescheit, sich beizeiten nach Ersatz umzusehen.;It would be sensible to look for a replacement in good time.
+Nähme die Kälte ab, so öffnete man wieder die Läden.;Were the cold to lessen, one would open the shutters again.
+Ich bliebe gern noch, drängte die Zeit nicht so sehr.;I would gladly stay longer, did time not press so.
+Wäre der Napf gefüllt, so bettelte der Hund nicht so.;Were the bowl filled, the dog would not beg so.
+Hätte ich es geahnt, so hätte ich früher Vorsorge getroffen.;Had I foreseen it, I would have made provision earlier.
+Man täte gut, den Brief zu versiegeln, ehe man ihn absendete.;One would do well to seal the letter before sending it off.
+Es wäre grausam, das Tier bei diesem Wetter draußen zu lassen.;It would be cruel to leave the animal outside in this weather.
+Käme sie zur Einsicht, so verzieh man ihr alles.;Were she to come to her senses, all would be forgiven her.
+Ich richtete das Mahl früher, wüsste ich um deine Ankunft.;I would prepare the meal earlier, did I know of your arrival.
+Wäre die Tür geölt, so hörte niemand mein Kommen.;Were the door oiled, no one would hear my coming.
+Hätten wir uns beeilt, so säßen wir jetzt im Trockenen.;Had we hurried, we would now sit in the dry.
+Es dünkte mich verkehrt, ihm dies zu verschweigen.;It would seem wrong to me to conceal this from him.
+Träte Ruhe ein, so genäse der Kranke wohl schneller.;Were quiet to set in, the sick man would surely recover faster.
+Ich zahlte gern mehr, wäre die Ware nur haltbarer.;I would gladly pay more, were the goods only more durable.
+Wäre der Krug voll, so brauchte niemand zum Brunnen zu gehen.;Were the jug full, no one would need to go to the well.
+Hätte man mir vertraut, so wäre alles anders gekommen.;Had one trusted me, everything would have turned out differently.
+Man müsste die Kammer räumen, wollte man den Gast beherbergen.;One would have to clear the chamber if one wanted to lodge the guest.
+Es wäre höflich, ihm zumindest zu antworten.;It would be polite at least to answer him.
+Käme der Sommer trocken, so litte das Vieh unter Durst.;Were the summer to come dry, the cattle would suffer from thirst.
+Ich löste die Knoten, hätte ich nur geschicktere Finger.;I would undo the knots, had I but nimbler fingers.
+Wäre der Herd sauber, so kochte es sich weit angenehmer.;Were the hearth clean, cooking would be far more pleasant.
+Hätten wir Feuer geschlagen, so wären wir längst gewärmt.;Had we struck fire, we would long since be warmed.
+Es wäre unverzeihlich, den Termin abermals zu versäumen.;It would be unforgivable to miss the appointment yet again.
+Nähme er Vernunft an, so ersparte er uns viel Kummer.;Were he to see reason, he would spare us much grief.
+Ich säte lieber später, drohte nicht noch einmal Frost.;I would rather sow later, were frost not threatening once more.
+Wäre die Nacht heller, so fände man den Pfad ohne Mühe.;Were the night brighter, one would find the path without trouble.
+Hätte ich mehr Zeit, so besserte ich das Dach eigenhändig aus.;Had I more time, I would repair the roof with my own hands.
+Man sollte das Vieh tränken, ehe die Sonne höher stiege.;One ought to water the cattle before the sun rose higher.
+Es wäre mir lieb, wenn wir uns bald wiedersähen.;It would be dear to me if we saw each other again soon.
+Der Regen fiel drei Tage lang, ehe die Straße wieder trocken war.;The rain fell for three days before the road was dry again.
+Sie hängte den Mantel über den Stuhl und setzte sich ans Feuer.;She hung the coat over the chair and sat down by the fire.
+Mein Vater trug den Schlüssel bis zu seinem Tod bei sich.;My father carried the key with him until his death.
+Der Bäcker öffnete den Laden, ehe es hell wurde.;The baker opened the shop before it grew light.
+Man brachte die Kranke in die untere Stube.;The sick woman was brought into the lower room.
+Hätten wir die Fenster geschlossen, so wäre das Wasser nicht eingedrungen.;Had we closed the windows, the water would not have got in.
+Sie schnitt das Brot in dünne Scheiben und legte es auf den Teller.;She cut the bread into thin slices and laid it on the plate.
+Der Hund lag vor der Tür und wartete auf seinen Herrn.;The dog lay before the door and waited for its master.
+Die Uhr im Flur ging seit Jahren zwei Minuten nach.;The clock in the hallway had been two minutes slow for years.
+Er zählte das Geld noch einmal, ehe er es einsteckte.;He counted the money once more before he pocketed it.
+Der Winter kam früh in jenem Jahr.;The winter came early that year.
+Sie schrieb ihm jeden Sonntag, doch er antwortete selten.;She wrote to him every Sunday, but he seldom answered.
+Man verkaufte das Haus, weil niemand darin wohnen wollte.;The house was sold because no one wanted to live in it.
+Der Knecht trug das Heu in die Scheune, ehe der Regen einsetzte.;The farmhand carried the hay into the barn before the rain set in.
+Wäre der Arzt früher gekommen, so lebte das Kind noch.;Had the doctor come earlier, the child would still be alive.
+Der Recke schwur seiner Herrin ewige Treue, ehe er in den Kampf zog.;The warrior swore eternal fidelity to his lady before he went into battle.
+Wonne durchströmte ihr Herz, als sie den Geliebten endlich wiedersah.;Bliss flowed through her heart when she finally saw her beloved again.
+Ein schwerer Fluch lastete auf dem geraubten Golde.;A heavy curse weighed upon the stolen gold.
+Die Kunde von seinem Tode drang bis in die fernsten Gaue.;The tidings of his death reached the most distant regions.
+Sehnsucht nach der Heimat verzehrte den einsamen Wanderer.;Longing for home consumed the lonely wanderer.
+Sie sang von Minne und von herbem Leid.;She sang of courtly love and of bitter sorrow.
+Der Held ergriff die Waffe, die kein Sterblicher zu führen wagte.;The hero seized the weapon that no mortal dared to wield.
+Weihe umfing den heiligen Hain in der Dämmerstunde.;Consecration enveloped the sacred grove at the twilight hour.
+Sein Sinnen und Trachten galt allein der Rache.;His thoughts and strivings were devoted to vengeance alone.
+Die Maid entbot dem Fremdling freundlichen Gruß.;The maiden offered the stranger a friendly greeting.
+Aus dunklen Tiefen stieg ein grauenvolles Raunen empor.;From dark depths rose a dreadful murmuring.
+Der greise König sann über sein verwirktes Erbe.;The aged king brooded over his forfeited inheritance.
+Sie floh in die Wildnis, wo kein Auge sie erspähte.;She fled into the wilderness where no eye espied her.
+Die Götter beschlossen den Untergang ihres eigenen Geschlechts.;The gods decreed the downfall of their own race.
+Sein Gemüt war von Wehmut und banger Ahnung erfüllt.;His spirit was filled with melancholy and anxious foreboding.
+Der Schwur band ihn fester als jede irdische Fessel.;The oath bound him tighter than any earthly fetter.
+Rasend vor Zorn erhob der Riese seine gewaltige Faust.;Raging with wrath, the giant raised his mighty fist.
+Ihm ward verkündet, dass kein Trank die Wunde heilen könne.;It was proclaimed to him that no potion could heal the wound.
+Der Wanderer nahte dem Felsen, den lodernde Flammen umschlossen.;The wanderer approached the rock encircled by blazing flames.
+Sie wähnte sich sicher, doch das Verhängnis nahte unaufhaltsam.;She imagined herself safe, yet doom approached unstoppably.
+In seinem Blicke las sie das nahe Verderben.;In his gaze she read the imminent ruin.
+Der Schmied härtete das Schwert in Blut und Feuer.;The smith tempered the sword in blood and fire.
+Kein Sterblicher vermochte des Zaubers Bann zu brechen.;No mortal was able to break the spell's enchantment.
+Sein Vater fiel in ferner Schlacht durch heimtückischen Speer.;His father fell in a distant battle by a treacherous spear.
+Der Trank entfachte eine Glut, die kein Verstand mehr zügelte.;The potion kindled an ardor that no reason could restrain.
+Sie erwachte aus langem Schlummer, den ein Gott ihr auferlegt hatte.;She awoke from a long slumber that a god had imposed upon her.
+Der Vertrag stand in Runen auf dem Schaft des Speers.;The covenant stood in runes upon the shaft of the spear.
+Trug und Falschheit zerstörten das einst so feste Bündnis.;Deceit and falsehood destroyed the once so firm alliance.
+Er ward gewahr, dass sein eigen Blut ihn verraten hatte.;He became aware that his own blood had betrayed him.
+Die Nornen spannen den Faden des unabwendbaren Schicksals.;The Norns spun the thread of inescapable fate.
+Der Jüngling kannte weder Furcht noch bange Zagheit.;The youth knew neither fear nor timid faintheartedness.
+Ihr Klagen hallte durch die menschenleeren Hallen.;Her lamentation echoed through the deserted halls.
+Aus Liebesnot entsprang die schwerste aller Sünden.;From love's anguish sprang the gravest of all sins.
+Der Schatz ruhte unberührt im Grunde des Stromes.;The treasure rested untouched at the bottom of the river.
+Sein Gelübde zwang ihn, die Heimstatt für immer zu meiden.;His vow compelled him to shun his homestead forever.
+Die Walküre trotzte dem Gebot ihres gewaltigen Vaters.;The Valkyrie defied the command of her mighty father.
+Reue erfüllte ihn erst, als die Tat unwiderruflich vollbracht war.;Remorse filled him only when the deed was irrevocably done.
+Er zog gen Osten, wo die Sonne über Bergen aufging.;He journeyed eastward, where the sun rose over the mountains.
+Kein Auge durfte den geweihten Kelch erblicken.;No eye was permitted to behold the consecrated chalice.
+Sie kürte ihn zum Gemahl vor allem Volk.;She chose him as her consort before all the people.
+Der Nebel wich, und das Burgtor ward sichtbar.;The mist receded, and the castle gate became visible.
+Sein Herz erbebte, als er die vertraute Weise vernahm.;His heart trembled when he heard the familiar melody.
+Die alte Wunde brach in jener Nacht aufs Neue auf.;The old wound broke open anew that night.
+Er entsagte der Welt und suchte Buße in der Einsamkeit.;He renounced the world and sought penance in solitude.
+Dem Frevler ward kein Erbarmen zuteil.;No mercy was granted to the transgressor.
+Ihre Stimme lockte die Schiffer in den sicheren Untergang.;Her voice lured the mariners to certain destruction.
+Der Held erschlug den Wurm, der den Hort bewachte.;The hero slew the dragon that guarded the hoard.
+Vermessenheit stürzte ihn in bodenloses Elend.;Presumption plunged him into bottomless misery.
+Kein Sang und kein Gebet vermochte den Zorn zu besänftigen.;No song and no prayer could appease the wrath.
+Die Sippe verstieß ihn wegen seiner unerhörten Tat.;The kin cast him out because of his outrageous deed.
+Er ahnte nicht, wessen Blut in seinen Adern floss.;He did not suspect whose blood flowed in his veins.
+Das Wonnemeer der Liebe verschlang beider Sinne.;The blissful sea of love engulfed the senses of both.
+Der Speer zerbarst, und mit ihm zerfiel alle Macht.;The spear shattered, and with it all power crumbled.
+Sie harrte am Fenster, bis das Segel am Horizont erschien.;She waited at the window until the sail appeared on the horizon.
+Aus Mitleid erwuchs ihm die höchste Erkenntnis.;From compassion the highest knowledge grew within him.
+Die Flammen loderten empor und verzehrten die Halle der Götter.;The flames blazed up and consumed the hall of the gods.
+Er ward zum Wanderer, dem keine Heimat mehr blieb.;He became a wanderer, to whom no homeland remained.
+Ihr Sehnen galt einem Manne, den sie nie erblickt hatte.;Her yearning was for a man she had never beheld.
+Der Schleier fiel, und die Wahrheit trat schonungslos hervor.;The veil fell, and the truth emerged mercilessly.
+Verhängnisvoll ward jener Tag für alle Geschlechter.;That day became fateful for all the races.
+Er schwang das Horn und rief die Getreuen zusammen.;He raised the horn and called the loyal ones together.
+Kein Gold der Welt vermochte den Verlust aufzuwiegen.;No gold in the world could outweigh the loss.
+Die Nacht barg, was der Tag nicht ertragen konnte.;The night sheltered what the day could not bear.
+Er trank und vergaß, wer er zuvor gewesen war.;He drank and forgot who he had been before.
+Am Grabe der Mutter gelobte er strenge Rache.;At his mother's grave he vowed stern vengeance.
+Die Botschaft kam zu spät, um das Unheil zu wenden.;The message came too late to avert the calamity.
+Sein Weib beklagte ihn mit herzzerreißender Klage.;His wife mourned him with heartrending lamentation.
+Der Ring kehrte zurück, woher er einst geraubt ward.;The ring returned whence it had once been stolen.
+Erlösung ward dem Verfluchten durch treue Liebe zuteil.;Redemption was granted to the cursed one through faithful love.
+Die Dämmerung sank über die Welt der Unsterblichen.;Twilight descended over the world of the immortals.
+Er verschmähte den Thron, den man ihm bereitwillig bot.;He spurned the throne that was readily offered to him.
+Ihre Tränen benetzten das kalte Antlitz des Gefallenen.;Her tears moistened the cold countenance of the fallen one.
+Kein Zauber und kein Trug bestanden vor dem reinen Herzen.;No magic and no deceit prevailed against the pure heart.
+Das Schweigen wog schwerer als jedes gesprochene Wort.;The silence weighed heavier than any spoken word.
+Er ritt durch Feuer, das keinen Feigen durchließ.;He rode through fire that let no coward pass.
+Die Weissagung erfüllte sich, wie es verkündet war.;The prophecy fulfilled itself as it had been foretold.
+Sie erkannte im Fremden den lang ersehnten Retter.;She recognized in the stranger the long-awaited savior.
+Sein Stolz verwehrte ihm jedes Wort der Versöhnung.;His pride denied him any word of reconciliation.
+Der Wald raunte von Taten längst vergangener Zeiten.;The forest murmured of deeds of long-past ages.
+Man bettete ihn auf Schilde und trug ihn zum Scheiterhaufen.;They laid him upon shields and bore him to the pyre.
+Was er begehrte, war ihm auf ewig versagt.;What he desired was denied him for all eternity.
+Die Türangel quietschte, sooft jemand den Dachboden betrat.;The door hinge squeaked whenever someone entered the attic.
+Der Wetterhahn auf dem Firstbalken drehte sich träge im Abendwind.;The weathervane on the ridge beam turned sluggishly in the evening wind.
+Sie schöpfte das Wasser mit einer Kelle aus dem irdenen Krug.;She ladled the water from the earthenware jug with a dipper.
+In der Truhe lagen vergilbte Briefe unter einer wollenen Decke.;In the chest lay yellowed letters beneath a woolen blanket.
+Der Docht der Petroleumlampe war längst verkohlt.;The wick of the kerosene lamp had long since charred.
+Ein rostiger Riegel versperrte die Kellerluke von innen.;A rusty bolt barred the cellar hatch from the inside.
+Auf dem Sims stand ein angeschlagener Tonkrug voller Trockenblumen.;On the ledge stood a chipped clay jug full of dried flowers.
+Die Dachrinne war von altem Laub vollständig verstopft.;The gutter was completely clogged with old leaves.
+Er hängte den Mantel an den Haken neben dem Türpfosten.;He hung the coat on the hook beside the doorpost.
+Der Mörser aus Marmor stand seit Jahrzehnten unbenutzt im Schrank.;The marble mortar had stood unused in the cupboard for decades.
+Sie stopfte den Riss im Ärmel mit grobem Zwirn.;She darned the tear in the sleeve with coarse thread.
+Ein zerschlissener Läufer bedeckte die knarrende Diele.;A threadbare runner covered the creaking floorboard.
+Der Zapfhahn am Fass tropfte unaufhörlich.;The tap on the barrel dripped incessantly.
+Auf der Anrichte lagen ein Wetzstein und ein stumpfes Messer.;On the sideboard lay a whetstone and a dull knife.
+Die Klinke ließ sich nur mit erheblichem Kraftaufwand herunterdrücken.;The door handle could only be pressed down with considerable effort.
+Er füllte den Eimer am Brunnen und trug ihn schwerfällig hinauf.;He filled the bucket at the well and carried it up laboriously.
+Der Schemel wackelte, weil ein Bein zu kurz geraten war.;The stool wobbled because one leg had turned out too short.
+Sie wickelte das Brot in ein sauberes Leinentuch.;She wrapped the bread in a clean linen cloth.
+Im Verschlag hinter dem Haus lagerte man das Brennholz.;Firewood was stored in the shed behind the house.
+Die Scharniere des Fensterladens bedurften dringend einer Ölung.;The shutter's hinges urgently needed oiling.
+Auf dem Herd stand ein gusseiserner Topf mit angesetztem Sud.;On the stove stood a cast-iron pot with a simmering broth.
+Er zog den Korken mit einem dumpfen Knall aus dem Flaschenhals.;He pulled the cork out of the bottleneck with a dull pop.
+Die Kufen des alten Schlittens waren völlig verrostet.;The runners of the old sled were completely rusted.
+Sie glättete die Falten des Tischtuchs mit flacher Hand.;She smoothed the creases of the tablecloth with a flat hand.
+Ein schmiedeeisernes Gitter schützte den Vorgarten vor Eindringlingen.;A wrought-iron grate protected the front garden from intruders.
+Der Wasserkessel pfiff schrill auf der heißen Herdplatte.;The kettle whistled shrilly on the hot stovetop.
+Im Spind hingen die Arbeitskittel ordentlich nebeneinander.;In the locker, the work smocks hung neatly side by side.
+Sie schnitt den Faden mit einer winzigen Nagelschere ab.;She cut the thread with a tiny pair of nail scissors.
+Der Fensterrahmen war an mehreren Stellen aufgequollen.;The window frame had swollen in several places.
+Auf dem Speicher stapelten sich staubige Kisten und leere Rahmen.;In the loft, dusty crates and empty frames were piled up.
+Er stellte den Stiefelknecht neben die Fußmatte.;He placed the bootjack beside the doormat.
+Der Schöpflöffel hing an einem Nagel über der Spüle.;The ladle hung on a nail above the sink.
+Die Zinken der Gabel waren vom langen Gebrauch verbogen.;The tines of the fork were bent from long use.
+Sie füllte die Vorratsdose bis zum Rand mit Grieß.;She filled the storage tin to the brim with semolina.
+Ein grober Besen lehnte in der Ecke der Diele.;A coarse broom leaned in the corner of the hallway.
+Der Sockel der Stehlampe war aus massivem Messing gefertigt.;The base of the floor lamp was made of solid brass.
+Er befestigte das Brett mit vier langen Schrauben an der Wand.;He fastened the board to the wall with four long screws.
+Die Kanne stand auf einem geflochtenen Untersetzer.;The pot stood on a woven trivet.
+Im Regal reihten sich Einmachgläser mit verblassten Etiketten.;On the shelf, preserving jars with faded labels stood in rows.
+Sie strich die Krümel mit dem Handrücken vom Wachstuch.;She brushed the crumbs off the oilcloth with the back of her hand.
+Der Dachfirst musste nach dem Sturm ausgebessert werden.;The roof ridge had to be repaired after the storm.
+Ein schmaler Spalt klaffte zwischen Schwelle und Tür.;A narrow gap yawned between the threshold and the door.
+Er goss den Rest der Brühe in eine Emailleschüssel.;He poured the rest of the broth into an enamel bowl.
+Das Sieb hing an einer Kordel neben dem Ausguss.;The sieve hung on a cord beside the drain.
+Die Schublade klemmte, seit die Feuchtigkeit ins Holz gezogen war.;The drawer stuck ever since the moisture had seeped into the wood.
+Auf dem Nachtkästchen lag eine abgegriffene Brille.;On the nightstand lay a worn pair of glasses.
+Sie hängte die Wäsche mit hölzernen Klammern an die Leine.;She hung the laundry on the line with wooden pegs.
+Der Griff des Kessels war mit einem Lappen umwickelt.;The kettle's handle was wrapped with a rag.
+Ein bröckelnder Verputz löste sich von der Kellerwand.;Crumbling plaster peeled off the cellar wall.
+Er schob den Riegel vor und löschte die Kerze.;He slid the bolt shut and extinguished the candle.
+Der Kamm lag zwischen Haarnadeln auf der Kommode.;The comb lay among hairpins on the dresser.
+Sie schüttelte den Läufer kräftig über dem Geländer aus.;She shook the runner vigorously over the railing.
+Das Scharnier der Brille war mit Draht notdürftig geflickt.;The glasses' hinge was crudely patched with wire.
+Auf der Fensterbank welkten die Kräuter im Blumentopf.;On the windowsill, the herbs in the flowerpot were wilting.
+Der Schürhaken stand neben dem erloschenen Ofen.;The poker stood beside the extinguished stove.
+Ein Wasserfleck breitete sich an der Zimmerdecke aus.;A water stain spread across the ceiling.
+Sie band die Schürze mit einer festen Schleife im Rücken.;She tied the apron with a firm bow at her back.
+Der Reisigbesen taugte nur noch für den Hof.;The twig broom was only good for the yard anymore.
+Er ölte das quietschende Gelenk der Schere.;He oiled the squeaking joint of the scissors.
+Im Weidenkorb lagen Zwiebeln und schrumpelige Kartoffeln.;In the wicker basket lay onions and shriveled potatoes.
+Die Zarge der Tür war von Holzwürmern durchsetzt.;The door frame was riddled with woodworms.
+Sie stellte die Milchkanne auf die kühle Steinplatte.;She placed the milk can on the cool stone slab.
+Der Rost über der Glut war mit Fett verkrustet.;The grate over the embers was encrusted with grease.
+Ein zersprungener Spiegel hing schief über dem Waschbecken.;A cracked mirror hung crooked above the washbasin.
+Er wischte den Staub vom Kerzenleuchter aus Zinn.;He wiped the dust from the pewter candlestick.
+Die Borsten der Bürste waren fast vollständig abgenutzt.;The bristles of the brush were almost completely worn down.
+Auf dem Dachboden roch es nach Mottenkugeln und altem Papier.;The attic smelled of mothballs and old paper.
+Sie hob den Deckel und rührte den Sud gemächlich um.;She lifted the lid and stirred the broth leisurely.
+Der Trichter erleichterte das Umfüllen des Öls erheblich.;The funnel made pouring the oil considerably easier.
+Ein Sprung zog sich quer durch die Kachel am Ofen.;A crack ran across the tile on the stove.
+Er hängte den Schlüsselbund an den Nagel im Flur.;He hung the keyring on the nail in the hallway.
+Die Nähmaschine stand verhüllt unter einem Leinentuch.;The sewing machine stood covered under a linen cloth.
+Sie füllte die Wärmflasche und schob sie unters Bettzeug.;She filled the hot-water bottle and pushed it under the bedding.
+Der Zwirn riss, kaum dass sie die Naht zusammenzog.;The thread tore as soon as she pulled the seam together.
+Ein Kratzer verlief quer über die polierte Tischplatte.;A scratch ran across the polished tabletop.
+Auf dem Bord standen Gewürzdosen aus geschwärztem Blech.;On the shelf stood spice tins of blackened tin.
+Er stützte das Regal mit einem Keil aus Hartholz ab.;He propped up the shelf with a hardwood wedge.
+Die Schnalle des Riemens war vom Rost angefressen.;The buckle of the strap was corroded by rust.
+Sie rieb das Silber mit einem weichen Tuch blank.;She rubbed the silver bright with a soft cloth.
+Der Bodenbelag löste sich an mehreren Stellen vom Estrich.;The floor covering was peeling off the screed in several places.
+Ein Kienspan diente ihm als notdürftige Lichtquelle.;A pine splinter served him as a makeshift light source.
+Die Ösen des Schuhs waren allesamt ausgerissen.;The eyelets of the shoe had all torn out.
+Er goss das Regenwasser aus der Tonne über die Beete.;He poured the rainwater from the barrel over the flowerbeds.
+Auf dem Waschbrett schrubbte sie die grauen Laken.;On the washboard she scrubbed the gray sheets.
+Der Kachelofen strahlte behagliche Wärme in die Stube.;The tiled stove radiated cozy warmth into the parlor.
+Ein Hobel und mehrere Feilen lagen auf der Werkbank.;A plane and several files lay on the workbench.
+Sie fädelte den Faden mühsam durch das winzige Nadelöhr.;She threaded the thread laboriously through the tiny needle eye.
+Der Kittel hing zerknittert über der Stuhllehne.;The smock hung wrinkled over the chair back.
+Die Speisekammer war bis unter die Decke gefüllt.;The pantry was filled to the ceiling.
+Er schnitt den Zwiebelstrunk mit dem Küchenbeil ab.;He cut off the onion stalk with the kitchen cleaver.
+Ein Stück Bindfaden hielt das Paket notdürftig zusammen.;A piece of twine held the parcel together makeshift.
+Die Fensterscheibe war von Fliegendreck getrübt.;The windowpane was clouded with fly specks.
+Sie legte den Deckel auf die Kanne und trug sie hinaus.;She placed the lid on the pot and carried it out.
+Das Fußbrett des Bettes war aus dunkler Eiche geschnitzt.;The footboard of the bed was carved from dark oak.
+Der Wischlappen hing über dem Rand des Zubers.;The rag hung over the edge of the tub.
+Ein verbeulter Napf stand vor der Hütte des Hofhundes.;A dented bowl stood in front of the yard dog's kennel.
+Er schliff die Klinge sorgfältig am Schleifstein.;He carefully honed the blade on the grindstone.
+Die Latten des Zauns wiesen deutliche Wetterschäden auf.;The slats of the fence showed clear weather damage.
+Sie verstaute die Vorräte in einem geflochtenen Korb.;She stowed the provisions in a woven basket.
+Der Ofenschieber ließ sich kaum noch bewegen.;The stove damper could hardly be moved anymore.
+Now maybe more older and high elevated language and older style, but still german.
+Auf dem Sims ruhte ein irdener Krug, dessen Henkel längst zersprungen war.;On the ledge rested an earthen jug whose handle had long since cracked.
+Der Kienspan warf sein flackernd Licht wider die getünchte Wand.;The pine splinter cast its flickering light against the whitewashed wall.
+Im Gemache herrschte jene Stille, die nur alte Häuser zu bergen vermögen.;In the chamber reigned that stillness which only old houses are able to harbor.
+Sie schöpfte des Wassers mit hölzerner Kelle aus dem Zuber.;She drew water with a wooden ladle from the tub.
+Der Riegel der Kammertür war von Rost zerfressen.;The bolt of the chamber door was eaten away by rust.
+Ein muffiger Hauch entstieg der geöffneten Truhe.;A musty breath issued from the opened chest.
+Auf der Anrichte standen zinnerne Becher in ordentlicher Reihe.;On the sideboard stood pewter cups in an orderly row.
+Des Wetterhahns Ächzen kündete den nahenden Sturm an.;The weathervane's groaning announced the approaching storm.
+Sie barg das Brot in einem Tuche von grobem Linnen.;She wrapped the bread in a cloth of coarse linen.
+Der Estrich war an manchen Stellen aufgebrochen und uneben.;The floor was broken open and uneven in some places.
+Ein schwerer Vorhang verhüllte das Fenster gen Norden.;A heavy curtain veiled the window facing north.
+Im Winkel der Stube lehnte ein Besen aus dürrem Reisig.;In the corner of the parlor leaned a broom of dry brushwood.
+Der Docht war niedergebrannt, ehe die Nacht zur Neige ging.;The wick had burned down before the night came to an end.
+Auf dem Herde brodelte ein Sud in eisernem Kessel.;On the hearth a broth bubbled in an iron kettle.
+Sie glättete des Tischtuchs Falten mit sorgsamer Hand.;She smoothed the tablecloth's creases with a careful hand.
+Der Dachstuhl ächzte unter der Last des feuchten Schnees.;The roof truss groaned under the weight of the wet snow.
+Vergilbtes Schriftwerk lag in der Lade des Schreibpults.;Yellowed writings lay in the drawer of the writing desk.
+Ein Zuber voll Regenwassers stand unterhalb der Traufe.;A tub full of rainwater stood beneath the eaves.
+Der Schemel, auf dem sie saß, war von vielem Gebrauch blank geworden.;The stool on which she sat had grown smooth from much use.
+Die Angeln der Pforte bedurften seit Jahren des Öles.;The gate's hinges had needed oil for years.
+Sie entzündete das Talglicht und trat in den Flur hinaus.;She lit the tallow candle and stepped out into the hallway.
+Auf dem Gesims verwelkten Kräuter in tönernen Töpfen.;On the ledge, herbs withered in clay pots.
+Der Schlüsselbund hing an einem Nagel neben dem Türgericht.;The keyring hung on a nail beside the door frame.
+Ein Sprung zog sich quer durch die geblümte Kachel.;A crack ran across the flowered tile.
+Sie stopfte den Riss im Ärmel mit gröbstem Zwirne.;She darned the tear in the sleeve with the coarsest thread.
+Des Kellers Luft war feucht und roch nach Erde.;The cellar's air was damp and smelled of earth.
+Der Zapfhahn am Fasse tropfte in unregelmäßigen Abständen.;The tap on the barrel dripped at irregular intervals.
+Auf dem Speicher lagerten Kisten voll unnützen Hausrats.;In the loft were stored crates full of useless household goods.
+Ein zerschlissener Läufer bedeckte die knarrenden Dielen.;A threadbare runner covered the creaking floorboards.
+Sie hing die Wäsche mit hölzernen Klammern an die Leine.;She hung the laundry on the line with wooden pegs.
+Der Mörser von Marmor war ein Erbstück ihrer Mutter.;The marble mortar was an heirloom from her mother.
+Das Schloss der Truhe ließ sich nur mit Mühe bewegen.;The chest's lock could only be moved with difficulty.
+Ein blakendes Licht erhellte kaum die Nische im Gemäuer.;A smoking light barely illuminated the niche in the masonry.
+Sie schüttete die Asche in einen bereitstehenden Eimer.;She poured the ashes into a waiting bucket.
+Der Wetzstein lag neben dem stumpf gewordenen Messer.;The whetstone lay beside the knife that had grown dull.
+Über der Spüle hing der Schöpflöffel an rostigem Haken.;Above the sink hung the ladle on a rusty hook.
+Im Verschlage hinter dem Hause lagerte das Brennholz.;In the shed behind the house the firewood was stored.
+Ein Wasserfleck breitete sich langsam über die Decke aus.;A water stain slowly spread across the ceiling.
+Der Kachelofen spendete behagliche Wärme bis in den Morgen.;The tiled stove gave off cozy warmth until morning.
+Sie strich die Krümel mit dem Handrücken vom Wachstuch.;She brushed the crumbs off the oilcloth with the back of her hand.
+Des Fensterrahmens Holz war von Feuchtigkeit aufgequollen.;The window frame's wood had swollen from moisture.
+Ein schmiedeeisernes Gitter umschloss den kleinen Vorgarten.;A wrought-iron grate enclosed the small front garden.
+Sie legte den Deckel auf die Kanne und trug sie hinweg.;She placed the lid on the pot and carried it away.
+Der Schürhaken stand neben dem erkalteten Ofen.;The poker stood beside the cooled stove.
+Auf dem Nachtkästchen ruhte eine abgegriffene Brille.;On the nightstand rested a worn pair of glasses.
+Ein Trichter erleichterte das Umfüllen des Öles beträchtlich.;A funnel considerably eased the pouring of the oil.
+Sie fädelte den Faden mühsam durch das winzige Nadelöhr.;She threaded the thread laboriously through the tiny needle's eye.
+Des Zaunes Latten wiesen deutliche Spuren der Witterung auf.;The fence's slats showed clear traces of the weather.
+Der Bodenbelag löste sich an mancher Stelle vom Grunde.;The floor covering peeled away from the base in many a place.
+Ein verbeulter Napf stand vor der Hütte des Hofhundes.;A dented bowl stood before the yard dog's kennel.
+Sie rieb das Zinngerät mit weichem Tuche blank.;She rubbed the pewter ware bright with a soft cloth.
+Die Speisekammer war bis unter das Gebälk gefüllt.;The pantry was filled up to the beams.
+Ein Stück Bindfadens hielt das Bündel notdürftig zusammen.;A piece of twine held the bundle together makeshift.
+Der Kittel hing zerknittert über der Lehne des Stuhles.;The smock hung wrinkled over the back of the chair.
+Sie schliff die Klinge sorgsam auf dem Schleifsteine.;She honed the blade carefully on the grindstone.
+Im Weidenkorbe lagen Zwiebeln und schrumpelige Erdäpfel.;In the wicker basket lay onions and shriveled potatoes.
+Des Spiegels Glas war an einer Ecke gesprungen.;The mirror's glass was cracked at one corner.
+Ein muffiger Geruch nach Mottenkugeln erfüllte den Dachboden.;A musty smell of mothballs filled the attic.
+Sie stellte die Milchkanne auf die kühle Steinplatte.;She placed the milk can on the cool stone slab.
+Der Rost über der Glut war von Fett verkrustet.;The grate over the embers was encrusted with grease.
+Auf dem Borde standen Büchsen von geschwärztem Blech.;On the shelf stood tins of blackened tin.
+Ein Keil aus Hartholz stützte das schiefe Regal.;A hardwood wedge propped up the crooked shelf.
+Sie wickelte das Bündel in ein Tuch von blauem Zwillich.;She wrapped the bundle in a cloth of blue ticking.
+Die Schnalle des Riemens war von Rost angefressen.;The buckle of the strap was corroded by rust.
+Der Ofenschieber ließ sich kaum mehr bewegen.;The stove damper could hardly be moved anymore.
+Ein Hobel und etliche Feilen lagen auf der Werkbank.;A plane and several files lay on the workbench.
+Sie füllte die Wärmflasche und schob sie unter das Bettzeug.;She filled the hot-water bottle and pushed it under the bedding.
+Des Ofens Kacheln waren an mancher Stelle geborsten.;The stove's tiles had burst in many a place.
+Auf dem Waschbrette schrubbte sie die grau gewordenen Laken.;On the washboard she scrubbed the sheets that had turned gray.
+Ein schmaler Spalt klaffte zwischen Schwelle und Türe.;A narrow gap yawned between threshold and door.
+Sie band die Schürze mit fester Schleife im Rücken.;She tied the apron with a firm bow at her back.
+Der Griff des Kessels war mit einem Lappen umwunden.;The kettle's handle was wound about with a rag.
+Im Spinde hingen die Kittel ordentlich nebeneinander.;In the locker the smocks hung neatly side by side.
+Ein bröckelnder Verputz löste sich vom Kellergemäuer.;Crumbling plaster peeled away from the cellar masonry.
+Sie schob den Riegel vor und löschte alsdann das Licht.;She slid the bolt shut and then extinguished the light.
+Die Borsten der Bürste waren fast gänzlich abgenutzt.;The bristles of the brush were almost entirely worn down.
+Auf der Fensterbank stand ein Topf mit dürrem Gewächs.;On the windowsill stood a pot with a withered plant.
+Der Wischlappen hing über dem Rande des Zubers.;The rag hung over the edge of the tub.
+Ein Kratzer verlief quer über die polierte Platte.;A scratch ran across the polished tabletop.
+Sie hob den Deckel und rührte den Sud gemächlich um.;She lifted the lid and stirred the broth leisurely.
+Des Hauses Gebälk knarrte in der Kälte der Nacht.;The house's beams creaked in the cold of the night.
+Ein Napf voll Milch stand für die Katze bereit.;A bowl full of milk stood ready for the cat.
+Die Zinken der Gabel waren vom Gebrauche verbogen.;The tines of the fork were bent from use.
+Sie verwahrte den Schlüssel in der Lade des Schrankes.;She kept the key in the drawer of the cupboard.
+Auf dem Tische lag ein Buch mit vergilbten Blättern.;On the table lay a book with yellowed leaves.
+Der Gartenzaun war an mehreren Stellen niedergebrochen.;The garden fence had broken down in several places.
+Ein Stapel Holzscheite lag geschichtet an der Wand.;A stack of logs lay piled against the wall.
+Sie fegte den Flur mit dem alten Reisigbesen aus.;She swept out the hallway with the old twig broom.
+Des Brunnens Wasser war kühl und von reinstem Geschmack.;The well's water was cool and of the purest taste.
+Ein Wandbrett trug die Töpfe der eingemachten Früchte.;A wall shelf bore the pots of preserved fruits.
+Die Kufen des Schlittens hatten der Rost zerfressen.;The rust had eaten away the sled's runners.
+Sie goss den Rest der Brühe in eine irdene Schüssel.;She poured the rest of the broth into an earthen bowl.
+Der Türklopfer aus Messing war blank gescheuert.;The brass door knocker was scoured bright.
+Auf dem Boden des Kastens lagen getrocknete Kräuter.;On the bottom of the box lay dried herbs.
+Ein Sieb hing an einer Kordel neben dem Ausgusse.;A sieve hung on a cord beside the drain.
+Sie legte die Wäsche säuberlich in den Schrank zurück.;She laid the laundry neatly back into the cupboard.
+Des Ofens Wärme währte bis in die frühen Morgenstunden.;The stove's warmth lasted into the early morning hours.
+Ein Krug mit abgestoßenem Rande diente als Blumenbehälter.;A jug with a chipped rim served as a flower vessel.
+Die Bohlen der Scheune waren von Wind und Wetter gezeichnet.;The barn's planks were marked by wind and weather.
+Reich mir den Krug, ehe der Durst mich gänzlich übermannt.;Hand me the jug before thirst wholly overcomes me.
+Verwahre den Schlüssel gut, denn ihn ersetzt uns niemand.;Keep the key well, for no one will replace it for us.
+Ich bitte dich, verschließe die Pforte, sobald die Dunkelheit hereinbricht.;I beg you, lock the gate as soon as darkness falls.
+Nimm den Mantel, sonst verkühlst du dich auf dem langen Wege.;Take the coat, otherwise you will catch cold on the long way.
+Sage mir, wer zu dieser späten Stunde noch an die Türe pocht.;Tell me who still knocks at the door at this late hour.
+Lass ab von diesem Vorhaben, ehe es dich ins Verderben stürzt.;Desist from this undertaking before it plunges you into ruin.
+Ich schwöre dir bei allem, was mir teuer ist, dass ich schweigen werde.;I swear to you by all that is dear to me that I shall keep silent.
+Bringe das Licht näher, denn meine Augen sind nicht mehr die besten.;Bring the light nearer, for my eyes are no longer the best.
+Warte, bis der Sturm sich gelegt hat, und ziehe dann deines Weges.;Wait until the storm has abated, and then go your way.
+Ich vermag dir nicht zu helfen, so leid es mir auch tut.;I am unable to help you, however sorry I may be.
+Höre auf meinen Rat, denn ich habe manches Unheil kommen sehen.;Heed my counsel, for I have seen many a calamity coming.
+Melde dem Herrn, dass ein Fremder um Einlass begehrt.;Announce to the master that a stranger desires admittance.
+Rühre nichts an, was in dieser Kammer verwahrt liegt.;Touch nothing that lies stored in this chamber.
+Ich danke dir von Herzen für die Gastfreundschaft dieser Nacht.;I thank you from the heart for this night's hospitality.
+Gehe nicht fort, ehe du mir dein Wort gegeben hast.;Do not depart before you have given me your word.
+Erzähle mir, was sich in jenen fernen Jahren zugetragen hat.;Tell me what came to pass in those distant years.
+Wehe dem, der dieses Bündnis leichtfertig bricht.;Woe to him who lightly breaks this covenant.
+Reiche mir die Hand, damit wir uns in Frieden trennen.;Give me your hand, that we may part in peace.
+Ich flehe dich an, verrate mich nicht an unsere Feinde.;I implore you, do not betray me to our enemies.
+Hüte dich vor jenem Manne, denn sein Wort trügt.;Beware of that man, for his word deceives.
+Bereite alles vor, ehe die Gäste bei Sonnenuntergang eintreffen.;Prepare everything before the guests arrive at sunset.
+Wisse, dass mein Herz dir stets gewogen bleiben wird.;Know that my heart shall ever remain favorable to you.
+Führe mich zu ihm, denn ich muss ihn noch einmal sehen.;Lead me to him, for I must see him once more.
+Ich entsage allem Reichtum, sofern ich nur deine Nähe behalte.;I renounce all riches, provided only that I keep your nearness.
+Verzeihe mir, dass ich dein Vertrauen so schwer enttäuscht habe.;Forgive me for having so gravely disappointed your trust.
+Rufe die Getreuen zusammen, ehe der Morgen graut.;Call the loyal ones together before the morning dawns.
+Es geziemt sich nicht, in dieser Stunde von Freuden zu reden.;It is not fitting to speak of joys in this hour.
+Nimm dieses Kleinod und gedenke meiner, wenn ich nicht mehr bin.;Take this jewel and remember me when I am no more.
+Ich harre deiner Antwort, so schwer sie auch fallen mag.;I await your answer, however difficult it may be.
+Schweige still, denn die Wände haben Ohren.;Be silent, for the walls have ears.
+Öffne das Fenster, auf dass frische Luft hereinströme.;Open the window, that fresh air may stream in.
+Ich gelobe, dieses Haus nicht eher zu verlassen, bis alles gesühnt ist.;I vow not to leave this house until all is atoned for.
+Erbarme dich meiner, denn ich habe keinen anderen Zufluchtsort.;Have mercy on me, for I have no other refuge.
+Sende Botschaft, sobald du wohlbehalten angekommen bist.;Send tidings as soon as you have arrived safely.
+Erspare mir die Worte, deren Sinn ich längst erraten habe.;Spare me the words whose meaning I have long since guessed.
+Lasse ab von deinem Zorne, ehe er dich selbst verzehrt.;Let go of your wrath before it consumes you yourself.
+Bezeuge vor allen, was du mit eigenen Augen gesehen hast.;Testify before all what you have seen with your own eyes.
+Ich will nichts hören, was der Wahrheit widerstreitet.;I will hear nothing that contradicts the truth.
+Bewahre dieses Geheimnis, so lange du zu atmen vermagst.;Guard this secret as long as you are able to breathe.
+Tritt näher, damit ich dein Antlitz deutlicher erkenne.;Step nearer, that I may discern your countenance more clearly.
+Es ziemt einem Manne, sein Wort zu halten, koste es, was es wolle.;It befits a man to keep his word, cost what it may.
+Bringe mir Kunde, sobald sich das Schicksal gewendet hat.;Bring me tidings as soon as fate has turned.
+Ich entbiete dir meinen Gruß und wünsche dir gute Fahrt.;I offer you my greeting and wish you a good journey.
+Wehre dich nicht, denn dein Widerstand ist vergebens.;Do not resist, for your resistance is in vain.
+Reiche dem Gaste Speise und Trank, wie es der Brauch gebietet.;Offer the guest food and drink, as custom demands.
+Ich zürne dir nicht, wiewohl du mich schwer gekränkt hast.;I bear you no wrath, even though you have grievously offended me.
+Erhebe dich und folge mir, ehe die Wachen zurückkehren.;Rise and follow me before the guards return.
+Sprich frei heraus, denn Verstellung hilft uns beiden nicht.;Speak freely, for dissembling helps neither of us.
+Ich lege mein Schicksal vertrauensvoll in deine Hände.;I place my fate trustingly in your hands.
+Verweile noch ein wenig, ehe die Trennung uns ereilt.;Linger yet a while before parting overtakes us.
+Nimm dich in Acht, denn der Weg durch den Wald ist unsicher.;Take heed, for the way through the forest is unsafe.
+Ich fordere Genugtuung für die Schmach, die man mir angetan hat.;I demand satisfaction for the disgrace done to me.
+Trage diese Botschaft zum Könige, und säume nicht dabei.;Carry this message to the king, and do not tarry.
+Vergib, dass ich dich zu so später Stunde störe.;Forgive me for disturbing you at such a late hour.
+Lasse uns Frieden schließen, ehe noch mehr Blut vergossen wird.;Let us make peace before more blood is shed.
+Ich bedarf deines Beistandes, so schwer die Bitte mir auch fällt.;I need your assistance, however hard the request comes to me.
+Halte inne und bedenke, was du soeben zu tun im Begriff stehst.;Halt and consider what you are about to do.
+Ich will nicht länger warten, denn die Zeit drängt unerbittlich.;I will wait no longer, for time presses inexorably.
+Bekenne dich zu deiner Schuld, und man wird dir gnädig sein.;Confess your guilt, and you shall be shown mercy.
+Führe mich hinaus ins Freie, denn diese Mauern erdrücken mich.;Lead me out into the open, for these walls oppress me.
+Bewache das Tor, bis der Morgen anbricht.;Guard the gate until morning breaks.
+Ich hoffe inständig, dass wir uns dereinst wiedersehen.;I fervently hope that we shall see each other again one day.
+Vernimm, was ich dir zu sagen habe, ehe es zu spät ist.;Hear what I have to say to you before it is too late.
+Es steht mir nicht zu, über dein Handeln zu urteilen.;It is not for me to judge your conduct.
+Löse den Riegel, damit der Bote eintreten kann.;Loosen the bolt, so that the messenger may enter.
+Ich entsinne mich noch wohl des Tages, da wir uns begegneten.;I still remember well the day on which we met.
+Schone deiner Kräfte, denn die Reise ist beschwerlich.;Spare your strength, for the journey is arduous.
+Verkünde allem Volke, dass die Fehde beendet sei.;Proclaim to all the people that the feud is ended.
+Wende dich ab, wenn dir der Anblick zu schwer wird.;Turn away if the sight becomes too much for you.
+Ich bürge mit meinem Leben für die Treue dieses Mannes.;I vouch with my life for this man's fidelity.
+Zögere nicht länger, sonst entrinnt uns die Gelegenheit.;Hesitate no longer, or the opportunity will escape us.
+Neige dein Ohr zu mir, denn meine Stimme versagt.;Incline your ear to me, for my voice is failing.
+Es sei dir vergeben, wiewohl der Schmerz noch lange währt.;Be forgiven, though the pain shall endure long.
+Reise wohl, und möge dich kein Unheil ereilen.;Travel well, and may no calamity befall you.
+Ich weiche nicht von dieser Stelle, ehe du mir geantwortet hast.;I shall not budge from this spot before you have answered me.
+Bezähme deine Zunge, ehe sie dir Verderben bringt.;Curb your tongue before it brings you ruin.
+Erhöre meine Bitte, so du noch ein Herz im Leibe hast.;Grant my request, if you still have a heart in your body.
+Nimm Platz und laß uns bereden, was zu tun bleibt.;Take a seat and let us discuss what remains to be done.
+Ich schwöre Rache jenem, der uns dies angetan hat.;I swear vengeance upon him who has done this to us.
+Bringe Wasser herbei, denn der Verwundete verschmachtet.;Bring water, for the wounded man is languishing.
+So sei es denn, wie du es bestimmt hast.;So be it, then, as you have determined.
+Hebe den Blick, denn Scham steht dir nicht an.;Raise your gaze, for shame does not become you.
+Ich lasse dich ungern ziehen, doch halte ich dich nicht.;I let you go reluctantly, yet I do not hold you back.
+Gedenke der Deinen, wenn du in der Fremde weilst.;Remember your own when you dwell in foreign lands.
