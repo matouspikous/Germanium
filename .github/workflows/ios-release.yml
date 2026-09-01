@@ -1,11 +1,16 @@
 name: Build and Upload to App Store
 
 on:
-  workflow_dispatch:   # lets you trigger it manually from the GitHub Actions tab
+  workflow_dispatch:
+    inputs:
+      marketing_version:
+        description: 'Version number shown on the App Store (e.g. 1.0.2)'
+        required: true
+        default: '1.0.2'
 
 jobs:
   build:
-    runs-on: macos-15   # GitHub's newest macOS runner, ships with recent Xcode
+    runs-on: macos-15
 
     steps:
       - name: Checkout code
@@ -44,7 +49,7 @@ jobs:
 
       - name: Show effective build settings (debug)
         run: |
-          xcodebuild -showBuildSettings -project "Germanium.xcodeproj" -scheme "Germanium" -configuration Release | grep -i "PRODUCT_BUNDLE_IDENTIFIER\|PROVISIONING_PROFILE\|CODE_SIGN"
+          xcodebuild -showBuildSettings -project "Germanium.xcodeproj" -scheme "Germanium" -configuration Release | grep -i "PRODUCT_BUNDLE_IDENTIFIER\|PROVISIONING_PROFILE\|CODE_SIGN\|CURRENT_PROJECT_VERSION\|MARKETING_VERSION"
 
       - name: Archive
         run: |
@@ -56,7 +61,8 @@ jobs:
             CODE_SIGN_IDENTITY="Apple Distribution" \
             PROVISIONING_PROFILE_SPECIFIER="Germanium App Store Profile" \
             DEVELOPMENT_TEAM=598KF94K56 \
-            CURRENT_PROJECT_VERSION=${{ github.run_number }} \
+            CURRENT_PROJECT_VERSION=${{ github.run_id }} \
+            MARKETING_VERSION=${{ github.event.inputs.marketing_version }} \
             archive
 
       - name: Export IPA
