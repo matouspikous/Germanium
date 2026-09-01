@@ -657,6 +657,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = piki.Germanium;
 				PRODUCT_MODULE_NAME = Germanium;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -682,6 +683,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
+				MARKETING_VERSION = 1.0.2;
 				PRODUCT_BUNDLE_IDENTIFIER = piki.Germanium;
 				PRODUCT_MODULE_NAME = Germanium;
 				PRODUCT_NAME = "$(TARGET_NAME)";
