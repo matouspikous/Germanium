@@ -1,0 +1,605 @@
+Ich bin.;I am.
+Ich kaufte gestern ein neues Fahrrad.;I bought a new bicycle yesterday.
+Du fragtest mich nach dem Weg zum Bahnhof.;You asked me the way to the station.
+Er wohnte damals in einer kleinen Wohnung.;He lived in a small flat back then.
+Sie lernte drei Jahre lang Spanisch.;She learned Spanish for three years.
+Wir arbeiteten den ganzen Sommer auf dem Hof.;We worked on the farm the whole summer.
+Ihr wartetet über eine Stunde auf den Bus.;You waited over an hour for the bus.
+Sie spielten jeden Abend Karten.;They played cards every evening.
+Ich hörte ein seltsames Geräusch im Keller.;I heard a strange noise in the cellar.
+Du machtest den Fehler zum zweiten Mal.;You made the mistake for the second time.
+Er antwortete erst nach mehreren Tagen.;He answered only after several days.
+Sie kochte für die ganze Familie.;She cooked for the whole family.
+Wir suchten stundenlang nach dem Schlüssel.;We searched for the key for hours.
+Ihr zeigtet uns die schönsten Ecken der Stadt.;You showed us the loveliest corners of the city.
+Sie erklärten uns die Regeln des Spiels.;They explained the rules of the game to us.
+Ich packte den Koffer schon am Abend vorher.;I packed the suitcase the evening before.
+Du glaubtest jedes Wort dieser Geschichte.;You believed every word of this story.
+Er öffnete das Fenster trotz der Kälte.;He opened the window despite the cold.
+Sie legte das Buch auf den Tisch.;She laid the book on the table.
+Wir besuchten unsere Großeltern jeden Sonntag.;We visited our grandparents every Sunday.
+Ihr redetet über nichts anderes als das Wetter.;You talked about nothing but the weather.
+Sie bezahlten die Rechnung sofort in bar.;They paid the bill immediately in cash.
+Ich vermisste meine Familie sehr.;I missed my family very much.
+Du folgtest dem Rat deines Vaters.;You followed your father's advice.
+Er dankte uns für die schnelle Hilfe.;He thanked us for the quick help.
+Sie stellte die Vase auf das Fensterbrett.;She put the vase on the windowsill.
+Wir feierten seinen Geburtstag im Garten.;We celebrated his birthday in the garden.
+Ihr bemerktet den Fehler leider zu spät.;You noticed the mistake unfortunately too late.
+Sie lachten über meine Aussprache.;They laughed at my pronunciation.
+Ich reparierte das Rad in einer halben Stunde.;I repaired the bike in half an hour.
+Du wiederholtest die Frage mehrmals.;You repeated the question several times.
+Er heiratete im Frühling seine Nachbarin.;He married his neighbor in the spring.
+Sie unterrichtete zwanzig Jahre an derselben Schule.;She taught at the same school for twenty years.
+Wir wanderten bis zum Gipfel des Berges.;We hiked to the summit of the mountain.
+Ihr bestelltet drei Getränke und einen Nachtisch.;You ordered three drinks and a dessert.
+Sie klopften laut an die Tür.;They knocked loudly at the door.
+Ich merkte sofort, dass etwas nicht stimmte.;I noticed immediately that something was wrong.
+Du erzähltest die Geschichte jedes Mal anders.;You told the story differently each time.
+Er verkaufte sein Auto unter Wert.;He sold his car below value.
+Sie mietete eine Wohnung im dritten Stock.;She rented a flat on the third floor.
+Wir bauten das Regal an einem Nachmittag auf.;We assembled the shelf in one afternoon.
+Ihr rauchtet damals noch beide.;Both of you still smoked back then.
+Sie tanzten bis weit nach Mitternacht.;They danced until well past midnight.
+Ich holte die Kinder von der Schule ab.;I picked the children up from school.
+Du parktest den Wagen direkt vor dem Haus.;You parked the car right in front of the house.
+Er putzte die Fenster zweimal im Jahr.;He cleaned the windows twice a year.
+Sie träumte oft von ihrer alten Heimat.;She often dreamed of her old homeland.
+Wir stellten viele Fragen an den Referenten.;We asked the speaker many questions.
+Ihr sammeltet Geld für den neuen Spielplatz.;You collected money for the new playground.
+Sie prüften jedes Dokument sehr genau.;They checked every document very carefully.
+Ich stellte den Wecker auf halb sechs.;I set the alarm for half past five.
+Du zeichnetest als Kind ausgezeichnet.;You drew excellently as a child.
+Er wechselte im Herbst die Stelle.;He changed jobs in the autumn.
+Sie ordnete die Papiere nach Datum.;She arranged the papers by date.
+Wir übernachteten in einem kleinen Gasthof.;We stayed overnight in a small inn.
+Ihr entschuldigtet euch für die Verspätung.;You apologized for the delay.
+Sie planten die Reise über ein halbes Jahr.;They planned the trip over half a year.
+Ich mietete ein Boot für den ganzen Tag.;I rented a boat for the whole day.
+Du kümmertest dich rührend um die Katze.;You looked after the cat touchingly.
+Er ärgerte sich über die eigene Ungeduld.;He was annoyed at his own impatience.
+Sie erinnerte sich an jedes Detail.;She remembered every detail.
+Wir gewöhnten uns schnell an das Klima.;We got used to the climate quickly.
+Ihr beeiltet euch, um den Zug zu erreichen.;You hurried to catch the train.
+Sie interessierten sich für alte Handschriften.;They were interested in old manuscripts.
+Ich bedankte mich herzlich bei den Gastgebern.;I thanked the hosts warmly.
+Du beschwertest dich beim Vermieter.;You complained to the landlord.
+Er entschied sich schließlich für das kleinere Modell.;He finally decided on the smaller model.
+Sie bewarb sich bei mehreren Firmen.;She applied to several companies.
+Wir freuten uns über den unerwarteten Besuch.;We were glad about the unexpected visit.
+Ihr wundertet euch über sein Verhalten.;You were surprised at his behavior.
+Sie verabschiedeten sich am Bahnsteig.;They said goodbye on the platform.
+Ich duschte kalt, weil die Heizung ausfiel.;I showered cold because the heating failed.
+Du übtest jeden Tag eine Stunde Klavier.;You practiced piano an hour every day.
+Er rechnete die Summe im Kopf aus.;He calculated the sum in his head.
+Sie frankierte den Umschlag und warf ihn ein.;She stamped the envelope and posted it.
+Wir bemerkten die Änderung erst später.;We noticed the change only later.
+Ihr wähltet den kürzeren Weg durch den Wald.;You chose the shorter way through the forest.
+Sie bedienten die Gäste sehr aufmerksam.;They served the guests very attentively.
+Ich beobachtete die Vögel vom Balkon aus.;I observed the birds from the balcony.
+Du begleitetest mich bis zur Haltestelle.;You accompanied me to the stop.
+Er beantwortete alle Fragen geduldig.;He answered all the questions patiently.
+Sie begründete ihre Entscheidung ausführlich.;She justified her decision in detail.
+Wir behandelten das Thema in mehreren Sitzungen.;We dealt with the topic in several sessions.
+Ihr bewahrtet die Ruhe in der schwierigen Lage.;You kept calm in the difficult situation.
+Sie beschäftigten damals über hundert Leute.;They employed over a hundred people at that time.
+Ich benutzte das Wörterbuch fast täglich.;I used the dictionary almost daily.
+Du berichtetest ausführlich über die Reise.;You reported in detail about the trip.
+Er beschrieb den Vorfall sehr genau.;He described the incident very precisely.
+Sie besichtigte die Wohnung am Vormittag.;She viewed the flat in the morning.
+Wir bestätigten den Termin schriftlich.;We confirmed the appointment in writing.
+Ihr bestraftet ihn viel zu hart.;You punished him far too harshly.
+Sie bestellten das Material im Voraus.;They ordered the material in advance.
+Ich betrachtete das Bild lange schweigend.;I contemplated the picture in silence for a long time.
+Du bezweifeltest seine Version der Ereignisse.;You doubted his version of events.
+Er hielt kaum eine Woche im neuen Job durch.;He lasted barely a week in the new job.
+Sie diente vier Jahre bei der Marine.;She served four years in the navy.
+Wir drehten den Schlüssel zweimal im Schloss.;We turned the key twice in the lock.
+Ihr drucktet die Einladungen selbst.;You printed the invitations yourselves.
+Sie eilten die Treppe hinunter.;They hurried down the stairs.
+Ich beendete meinen Vortrag mit einem Zitat.;I ended my talk with a quotation.
+Du entwickeltest die Idee ganz allein.;You developed the idea entirely on your own.
+Er erhitzte das Wasser auf dem Herd.;He heated the water on the stove.
+Sie erkundigte sich nach dem Preis.;She inquired about the price.
+Wir eröffneten das Konto im letzten Monat.;We opened the account last month.
+Ihr erwähntet den Vorfall mit keinem Wort.;You didn't mention the incident with a single word.
+Sie erwarteten uns bereits am Eingang.;They were already expecting us at the entrance.
+Ich fehlte drei Tage wegen einer Erkältung.;I was absent three days because of a cold.
+Du fürchtetest dich vor dem Gewitter.;You were afraid of the thunderstorm.
+Er füllte das Formular sorgfältig aus.;He filled out the form carefully.
+Sie gestaltete den Garten völlig neu.;She redesigned the garden completely.
+Wir gratulierten ihm zur bestandenen Prüfung.;We congratulated him on passing the exam.
+Ihr grüßtet den Nachbarn jeden Morgen.;You greeted the neighbor every morning.
+Sie handelten schnell und entschlossen.;They acted quickly and decisively.
+Ich hängte den Mantel an den Haken.;I hung the coat on the hook.
+Du heiztest die Stube schon am Nachmittag.;You heated the parlor already in the afternoon.
+Er hoffte auf eine baldige Antwort.;He hoped for a prompt answer.
+Sie informierte uns über die Änderungen.;She informed us about the changes.
+Wir interessierten uns für das ältere Haus.;We were interested in the older house.
+Ihr jagtet den Hund aus dem Beet.;You chased the dog out of the flowerbed.
+Sie klagten über die hohen Kosten.;They complained about the high costs.
+Ich klingelte dreimal, doch niemand öffnete.;I rang three times, but no one opened.
+Du kostetest die Suppe und nicktest.;You tasted the soup and nodded.
+Er kümmerte sich um die Anmeldung.;He took care of the registration.
+Sie kündigte die Wohnung zum Monatsende.;She gave notice on the flat at month's end.
+Wir landeten mit zwei Stunden Verspätung.;We landed two hours late.
+Ihr lebtet damals in einem anderen Land.;You lived in another country back then.
+Sie legten die Kabel unter dem Boden.;They laid the cables under the floor.
+Ich lieferte die Ware pünktlich ab.;I delivered the goods on time.
+Du liebtest dieses Lied über alles.;You loved this song above all.
+Er lobte die Arbeit des ganzen Teams.;He praised the work of the whole team.
+Sie lösten das Problem in wenigen Minuten.;They solved the problem in a few minutes.
+Wir machten uns früh auf den Weg.;We set off early.
+Ihr meldetet den Schaden der Versicherung.;You reported the damage to the insurance.
+Sie mischten die Karten sorgfältig.;They shuffled the cards carefully.
+Ich nutzte die Gelegenheit zu einem Gespräch.;I used the opportunity for a conversation.
+Du ordnetest die Bücher nach dem Alphabet.;You arranged the books alphabetically.
+Er passte auf die Kinder der Nachbarn auf.;He looked after the neighbors' children.
+Sie pflanzte im Herbst zwei junge Bäume.;She planted two young trees in autumn.
+Wir pflegten den Kontakt über viele Jahre.;We maintained contact over many years.
+Ihr prüftet die Rechnung Zeile für Zeile.;You checked the invoice line by line.
+Sie rechneten mit einem schlechteren Ergebnis.;They reckoned with a worse result.
+Ich regelte alles noch vor der Abreise.;I settled everything before departure.
+Du reichtest mir das Salz über den Tisch.;You passed me the salt across the table.
+Er reinigte den Boden mit heißem Wasser.;He cleaned the floor with hot water.
+Sie reiste allein durch mehrere Länder.;She traveled alone through several countries.
+Wir retteten die Katze vom Dach.;We rescued the cat from the roof.
+Ihr rütteltet am verschlossenen Tor.;You shook the locked gate.
+Sie sagten die Veranstaltung kurzfristig ab.;They cancelled the event at short notice.
+Ich sammelte alte Briefmarken.;I collected old stamps.
+Du schaltetest das Licht wieder aus.;You switched the light off again.
+Er schätzte die Entfernung auf zehn Kilometer.;He estimated the distance at ten kilometers.
+Sie schaute nachdenklich aus dem Fenster.;She looked pensively out of the window.
+Wir schenkten ihr ein Buch zum Abschied.;We gave her a book as a farewell present.
+Ihr schicktet die Karte viel zu spät.;You sent the card far too late.
+Sie schmückten den Saal mit frischen Blumen.;They decorated the hall with fresh flowers.
+Ich setzte mich auf die Bank am Weg.;I sat down on the bench by the path.
+Du siegtest im Finale ohne Mühe.;You won the final without effort.
+Er sorgte für Ruhe im ganzen Haus.;He ensured quiet in the whole house.
+Sie speicherte die Datei auf dem Stick.;She saved the file on the stick.
+Wir spielten das Stück zum ersten Mal.;We played the piece for the first time.
+Ihr spartet für ein größeres Auto.;You saved for a bigger car.
+Sie stellten den Antrag im Dezember.;They filed the application in December.
+Ich stopfte die Socken am Abend.;I darned the socks in the evening.
+Du störtest mich mitten in der Arbeit.;You disturbed me in the middle of my work.
+Er studierte drei Semester in München.;He studied three semesters in Munich.
+Sie stürzte auf dem vereisten Weg.;She fell on the icy path.
+Wir tauschten die Plätze miteinander.;We swapped places with each other.
+Ihr teiltet die Kosten gerecht auf.;You divided the costs fairly.
+Sie testeten das Gerät mehrere Wochen.;They tested the device for several weeks.
+Ich tippte den Brief in zehn Minuten.;I typed the letter in ten minutes.
+Du tröstetest das weinende Kind.;You comforted the crying child.
+Er turnte früher im örtlichen Verein.;He used to do gymnastics in the local club.
+Sie übersetzte den Text ins Deutsche.;She translated the text into German.
+Wir überzeugten ihn nach langem Reden.;We convinced him after long talking.
+Ihr verändertet die Anordnung der Möbel.;You changed the arrangement of the furniture.
+Sie verbesserten die Ergebnisse deutlich.;They improved the results considerably.
+Ich verdiente damals sehr wenig.;I earned very little back then.
+Du verfolgtest die Sendung jede Woche.;You followed the program every week.
+Er vergrößerte das Foto für den Rahmen.;He enlarged the photo for the frame.
+Sie verheimlichte die Wahrheit lange.;She concealed the truth for a long time.
+Wir verkauften den alten Schrank billig.;We sold the old cupboard cheaply.
+Ihr verlängertet den Vertrag um ein Jahr.;You extended the contract by a year.
+Sie vermieteten das Zimmer an Studenten.;They rented the room to students.
+Ich verpasste den Anschlusszug knapp.;I narrowly missed the connecting train.
+Du verteiltest die Blätter an alle.;You distributed the sheets to everyone.
+Er vertraute ihr bedingungslos.;He trusted her unconditionally.
+Sie verwendete nur regionale Zutaten.;She used only regional ingredients.
+Wir verzichteten freiwillig auf den Anteil.;We voluntarily renounced the share.
+Ihr wagtet den Sprung ins kalte Wasser.;You dared the leap into cold water.
+Sie wärmten die Suppe noch einmal auf.;They warmed the soup up again.
+Ich wechselte das Thema sehr geschickt.;I changed the subject very skillfully.
+Du wecktest mich um sechs Uhr morgens.;You woke me at six in the morning.
+Er weinte still in der letzten Reihe.;He wept quietly in the last row.
+Sie wiederholte die Übung mehrmals.;She repeated the exercise several times.
+Wir wirkten an diesem Abend erschöpft.;We seemed exhausted that evening.
+Ihr wünschtet euch mehr Zeit füreinander.;You wished for more time for each other.
+Sie zahlten die Miete immer pünktlich.;They always paid the rent on time.
+Ich zählte die Münzen zweimal nach.;I counted the coins twice.
+Du zeigtest uns die alten Fotografien.;You showed us the old photographs.
+Er zerstörte den Brief nach dem Lesen.;He destroyed the letter after reading it.
+Sie zögerte keinen Augenblick.;She didn't hesitate a moment.
+Wir züchteten damals Kaninchen.;We bred rabbits back then.
+Ihr zweifeltet an seiner Aufrichtigkeit.;You doubted his sincerity.
+Sie achteten genau auf die Aussprache.;They paid close attention to the pronunciation.
+Ich ähnelte meiner Mutter sehr.;I resembled my mother greatly.
+Du ändertest den Plan im letzten Moment.;You changed the plan at the last moment.
+Er atmete tief durch und begann.;He took a deep breath and began.
+Sie bedeckte den Tisch mit einem Tuch.;She covered the table with a cloth.
+Wir befestigten das Schild an der Wand.;We fastened the sign to the wall.
+Ihr begleitetet uns bis zur Grenze.;You accompanied us to the border.
+Sie begrüßten jeden Gast persönlich.;They greeted every guest personally.
+Ich beleuchtete den Weg mit einer Lampe.;I lit the path with a lamp.
+Du belohntest die Kinder mit Kuchen.;You rewarded the children with cake.
+Er bemühte sich um eine schnelle Lösung.;He strove for a quick solution.
+Sie benötigte dafür kaum eine Stunde.;She needed hardly an hour for it.
+Wir beruhigten das erschrockene Pferd.;We calmed the frightened horse.
+Ihr berührtet die heiße Platte versehentlich.;You touched the hot plate accidentally.
+Sie besorgten die Karten für uns alle.;They got the tickets for all of us.
+Ich bestimmte den Termin ganz allein.;I determined the date entirely alone.
+Du besuchtest deine Tante jeden Monat.;You visited your aunt every month.
+Er beteiligte sich an der Sammlung.;He took part in the collection.
+Sie betonte diesen Punkt mehrfach.;She emphasized this point repeatedly.
+Wir bewegten den schweren Schrank zu zweit.;We moved the heavy cupboard between the two of us.
+Ihr bewundertet ihre Geduld sehr.;You admired her patience greatly.
+Sie bezeichneten ihn als unzuverlässig.;They described him as unreliable.
+Ich blühte in der neuen Umgebung auf.;I flourished in the new surroundings.
+Du bremstest rechtzeitig vor der Kreuzung.;You braked in time before the intersection.
+Er buchte die Reise im Januar.;He booked the trip in January.
+Sie dankte uns mit einem Brief.;She thanked us with a letter.
+Wir deuteten das Zeichen völlig falsch.;We interpreted the sign completely wrongly.
+Ihr dichtetet das Fenster mit einem Tuch ab.;You sealed the window with a cloth.
+Sie dienten damals bei der Feuerwehr.;They served in the fire brigade back then.
+Ich dosierte das Mittel sehr vorsichtig.;I dosed the remedy very carefully.
+Du drücktest fest auf die Wunde.;You pressed firmly on the wound.
+Er eignete sich das Wissen selbst an.;He acquired the knowledge himself.
+Sie eilte zum nächsten Bahnsteig.;She hurried to the next platform.
+Wir einigten uns nach langem Streit.;We came to an agreement after a long quarrel.
+Ihr ekeltet euch vor dem Geruch.;You were disgusted by the smell.
+Sie entfernten den Fleck mit Seife.;They removed the stain with soap.
+Ich entwarf das Kleid nach eigenen Ideen.;I designed the dress after my own ideas.
+Du erfülltest alle Bedingungen des Vertrags.;You fulfilled all the conditions of the contract.
+Er erhöhte die Preise um zehn Prozent.;He raised the prices by ten percent.
+Sie erkundete die Gegend zu Fuß.;She explored the area on foot.
+Wir erlaubten ihm den Ausflug nicht.;We didn't allow him the outing.
+Ihr erledigtet die Aufgabe innerhalb eines Tages.;You completed the task within a day.
+Sie ermahnten die Kinder zur Vorsicht.;They admonished the children to be careful.
+Ich erntete in diesem Jahr besonders viel.;I harvested particularly much this year.
+Du eröffnetest den Abend mit einem Lied.;You opened the evening with a song.
+Er ersetzte das kaputte Teil sofort.;He replaced the broken part at once.
+Sie errichtete den Zaun mit einem Freund.;She erected the fence with a friend.
+Wir erschöpften unsere Kräfte völlig.;We exhausted our strength completely.
+Ihr erwidertet den Gruß freundlich.;You returned the greeting kindly.
+Sie erzielten einen sehr guten Preis.;They achieved a very good price.
+Ich feierte drei Tage lang.;I celebrated for three days.
+Du filtertest das Wasser durch ein Tuch.;You filtered the water through a cloth.
+Er flüsterte ihm die Antwort zu.;He whispered the answer to him.
+Sie forschte jahrelang an diesem Thema.;She researched this topic for years.
+Wir fotografierten die Landschaft im Nebel.;We photographed the landscape in the fog.
+Ihr füttertet die Hühner vor dem Frühstück.;You fed the chickens before breakfast.
+Sie gestatteten ihm den Zutritt nicht.;They didn't permit him entry.
+Ich gewöhnte mich rasch an die Umstände.;I quickly got used to the circumstances.
+Du glättetest das Papier mit der Hand.;You smoothed the paper with your hand.
+Er gründete den Verein vor zehn Jahren.;He founded the association ten years ago.
+Sie hämmerte den ganzen Vormittag.;She hammered the whole morning.
+Wir heilten die Wunde mit einer Salbe.;We healed the wound with an ointment.
+Ihr hindertet ihn an dieser Dummheit.;You prevented him from this folly.
+Sie hüteten das Geheimnis viele Jahre.;They guarded the secret for many years.
+Ich identifizierte den Täter sofort.;I identified the culprit at once.
+Du kämmtest dem Kind die Haare.;You combed the child's hair.
+Er kennzeichnete jede Kiste mit Kreide.;He marked every crate with chalk.
+Sie kletterte über die niedrige Mauer.;She climbed over the low wall.
+Wir kritisierten den Vorschlag scharf.;We criticized the proposal sharply.
+Ihr kürztet den Text um die Hälfte.;You shortened the text by half.
+Sie lagerten die Vorräte im Keller.;They stored the provisions in the cellar.
+Ich lauschte dem Gesang der Vögel.;I listened to the birdsong.
+Du leitetest die Sitzung zum ersten Mal.;You chaired the meeting for the first time.
+Er lenkte den Wagen sicher durch den Verkehr.;He steered the car safely through the traffic.
+Sie lieferte die Möbel am selben Tag.;She delivered the furniture the same day.
+Wir lockten den Hund mit einem Stück Brot.;We lured the dog with a piece of bread.
+Ihr lüftetet das Zimmer jeden Morgen.;You aired the room every morning.
+Sie markierten die Route auf der Karte.;They marked the route on the map.
+Ich meisterte die Prüfung ohne Probleme.;I mastered the exam without problems.
+Du mahntest ihn zu größerer Vorsicht.;You urged him to greater caution.
+Er montierte die Lampe an die Decke.;He mounted the lamp to the ceiling.
+Sie nagelte das Brett an den Pfosten.;She nailed the board to the post.
+Wir näherten uns langsam dem Tier.;We approached the animal slowly.
+Ihr notiertet alle wichtigen Punkte.;You noted down all the important points.
+Sie opferten ihren freien Tag dafür.;They sacrificed their day off for it.
+Ich ordnete die Fotos nach Jahren.;I arranged the photos by year.
+Du pflücktest Äpfel im Garten der Nachbarn.;You picked apples in the neighbors' garden.
+Er plagte sich mit dem schweren Koffer.;He struggled with the heavy suitcase.
+Sie polierte die Schuhe, bis sie glänzten.;She polished the shoes until they shone.
+Wir predigten fünfzehn Jahre in dieser Kirche.;We preached fifteen years in this church.
+Ihr probiertet den Kuchen alle zusammen.;You all tasted the cake together.
+Sie protestierten gegen den Abriss.;They protested against the demolition.
+Ich pumpte das Wasser aus dem Keller.;I pumped the water out of the cellar.
+Du quältest dich durch das dicke Buch.;You struggled through the thick book.
+Er raubte mir den letzten Nerv.;He got on my very last nerve.
+Sie rasierte sich zum ersten Mal selbst.;She shaved herself for the first time.
+Wir räumten den Schreibtisch komplett auf.;We tidied the desk completely.
+Ihr reagiertet sofort auf die Warnung.;You reacted immediately to the warning.
+Sie rechtfertigten ihr Vorgehen ausführlich.;They justified their approach in detail.
+Ich regelte die Angelegenheit unter vier Augen.;I settled the matter in private.
+Du registriertest dich noch am selben Tag.;You registered the same day.
+Er rettete das Manuskript aus dem Feuer.;He rescued the manuscript from the fire.
+Sie richtete das Zimmer für den Gast her.;She prepared the room for the guest.
+Wir rollten das Fass in den Keller.;We rolled the barrel into the cellar.
+Ihr rührtet den Teig eine Viertelstunde.;You stirred the dough for a quarter of an hour.
+Sie sättigten den Boden mit Wasser.;They saturated the soil with water.
+Ich schadete mir damit selbst am meisten.;I harmed myself most of all with that.
+Du schärftest das Messer am Stein.;You sharpened the knife on the stone.
+Ich ging jeden Morgen zu Fuß zur Arbeit.;I walked to work every morning.
+Du kamst viel zu spät zur Sitzung.;You came far too late to the meeting.
+Er nahm den Schlüssel vom Haken.;He took the key from the hook.
+Sie gab mir ihre neue Adresse.;She gave me her new address.
+Wir fuhren über die Berge nach Italien.;We drove over the mountains to Italy.
+Ihr saht den Unfall aus nächster Nähe.;You saw the accident from close up.
+Sie standen eine Stunde in der Schlange.;They stood in the queue for an hour.
+Ich schrieb ihr jede Woche einen Brief.;I wrote her a letter every week.
+Du sprachst damals kaum ein Wort Deutsch.;You spoke hardly a word of German back then.
+Er trug den Koffer den ganzen Weg allein.;He carried the suitcase the whole way alone.
+Sie fand den Ring unter dem Schrank.;She found the ring under the cupboard.
+Wir blieben bis zum Ende der Vorstellung.;We stayed until the end of the performance.
+Ihr trankt den Wein aus dem eigenen Keller.;You drank the wine from your own cellar.
+Sie aßen zusammen in der kleinen Wirtschaft.;They ate together in the small tavern.
+Ich las das Buch in einer einzigen Nacht.;I read the book in a single night.
+Du liefst schneller als alle anderen.;You ran faster than everyone else.
+Er hielt sein Versprechen bis zum Schluss.;He kept his promise to the end.
+Sie zog im Herbst in eine andere Stadt.;She moved to another city in the autumn.
+Wir sprangen von der Mauer in den Sand.;We jumped from the wall into the sand.
+Ihr schlieft bis weit in den Vormittag.;You slept far into the morning.
+Sie riefen dreimal an, doch niemand hob ab.;They called three times, but no one picked up.
+Ich vergaß den Termin vollständig.;I forgot the appointment completely.
+Du halfst mir beim Aufbau des Regals.;You helped me assemble the shelf.
+Er warf den Ball über den ganzen Platz.;He threw the ball across the whole field.
+Sie schnitt das Brot in dünne Scheiben.;She cut the bread into thin slices.
+Wir stiegen in den falschen Zug ein.;We got on the wrong train.
+Ihr fielt beide auf dem Eis hin.;Both of you fell on the ice.
+Sie brachen die Verhandlungen ab.;They broke off the negotiations.
+Ich verlor meinen Ausweis auf der Reise.;I lost my ID on the journey.
+Du gewannst das Turnier ohne Niederlage.;You won the tournament without a defeat.
+Er schloss die Tür leise hinter sich.;He closed the door quietly behind him.
+Sie bat mich um einen kleinen Gefallen.;She asked me for a small favor.
+Wir saßen bis Mitternacht am Feuer.;We sat by the fire until midnight.
+Ihr lagt den ganzen Sonntag im Bett.;You lay in bed all Sunday.
+Sie hingen das Bild über den Kamin.;They hung the picture above the fireplace.
+Ich schwamm jeden Morgen im kalten See.;I swam in the cold lake every morning.
+Du schobst den Schrank an die andere Wand.;You pushed the cupboard to the other wall.
+Er wusch das Hemd noch am selben Abend.;He washed the shirt that same evening.
+Sie brachte uns Kuchen aus der Stadt mit.;She brought us cake from the city.
+Wir dachten lange über den Vorschlag nach.;We thought about the proposal for a long time.
+Ihr kanntet die Familie schon seit Jahren.;You had known the family for years.
+Sie wussten von der Änderung nichts.;They knew nothing about the change.
+Ich zog die Vorhänge zu und setzte mich.;I drew the curtains and sat down.
+Du bliebst trotz des Regens draußen.;You stayed outside despite the rain.
+Er tat, als hätte er nichts gehört.;He acted as if he had heard nothing.
+Sie lud uns zum Abendessen ein.;She invited us to dinner.
+Wir luden das Holz auf den Wagen.;We loaded the wood onto the cart.
+Ihr betratet den Saal ohne anzuklopfen.;You entered the hall without knocking.
+Sie befahlen den Rückzug am Morgen.;They ordered the retreat in the morning.
+Ich empfahl ihm ein anderes Verfahren.;I recommended a different method to him.
+Du versprachst mir Hilfe beim Umzug.;You promised me help with the move.
+Er stahl das Werkzeug aus der Werkstatt.;He stole the tool from the workshop.
+Sie sang das Lied ihrer Großmutter.;She sang her grandmother's song.
+Wir sanken müde in die Sessel.;We sank wearily into the armchairs.
+Ihr trugt die Kisten in den Keller.;You carried the crates into the cellar.
+Sie schlugen den Nagel in die Wand.;They drove the nail into the wall.
+Ich biss versehentlich auf einen Stein.;I bit on a stone by accident.
+Du riefst mich mitten in der Nacht an.;You called me in the middle of the night.
+Er goss den Rest in den Ausguss.;He poured the rest into the drain.
+Sie schoss den Ball weit übers Tor.;She shot the ball far over the goal.
+Wir schlossen den Vertrag im Frühjahr.;We concluded the contract in the spring.
+Ihr flogt zum ersten Mal allein.;You flew alone for the first time.
+Sie froren in dem ungeheizten Zimmer.;They froze in the unheated room.
+Ich verschwand für zwei Stunden im Wald.;I disappeared into the forest for two hours.
+Du gefielst allen auf den ersten Blick.;You appealed to everyone at first sight.
+Er hob den schweren Sack allein an.;He lifted the heavy sack alone.
+Sie klang am Telefon sehr müde.;She sounded very tired on the phone.
+Wir maßen den Raum zweimal nach.;We measured the room twice.
+Ihr miedet dieses Thema ganz bewusst.;You deliberately avoided this topic.
+Sie rieben die Möbel mit Wachs ein.;They rubbed the furniture with wax.
+Ich riss das Blatt aus dem Heft.;I tore the sheet out of the notebook.
+Du rittest jeden Sonntag durch die Felder.;You rode through the fields every Sunday.
+Er roch den Rauch schon vom Hof aus.;He smelled the smoke from the yard already.
+Sie schien mit der Antwort zufrieden.;She seemed satisfied with the answer.
+Wir schwiegen den ganzen Rückweg.;We were silent the whole way back.
+Ihr schwort einander ewige Treue.;You swore each other eternal fidelity.
+Sie stachen sich an den Dornen.;They pricked themselves on the thorns.
+Ich stieß mit dem Kopf gegen den Balken.;I bumped my head against the beam.
+Du strichst die Wand in zwei Tagen.;You painted the wall in two days.
+Er stritt sich mit dem Nachbarn um den Zaun.;He quarreled with the neighbor about the fence.
+Sie trat dem Verein im Mai bei.;She joined the club in May.
+Wir trafen ihn zufällig am Bahnhof.;We met him by chance at the station.
+Ihr wicht keinen Schritt zurück.;You didn't yield a single step.
+Sie wiesen den Vorwurf entschieden zurück.;They firmly rejected the accusation.
+Ich wandte mich an die zuständige Stelle.;I turned to the responsible office.
+Du wogst das Paket vor dem Versand.;You weighed the parcel before shipping.
+Er zwang niemanden zu dieser Entscheidung.;He forced no one to this decision.
+Sie schrie vor Schreck laut auf.;She cried out loudly in fright.
+Wir schienen alle erleichtert zu sein.;We all seemed relieved.
+Ihr schobt die Schuld auf die Umstände.;You shifted the blame onto the circumstances.
+Sie sprossen im Frühjahr aus der Erde.;They sprouted from the earth in spring.
+Ich platzte beinahe vor Stolz.;I nearly burst with pride.
+Du sogst die Luft tief ein.;You drew the air in deeply.
+Er spann den Faden auf alte Weise.;He spun the thread in the old manner.
+Sie starb im hohen Alter zu Hause.;She died at a great age at home.
+Wir rochen nach dem Feuer stark nach Rauch.;After the fire we smelled strongly of smoke.
+Ihr verbargt die Wahrheit vor uns.;You concealed the truth from us.
+Sie verdarben den ganzen Abend.;They spoiled the whole evening.
+Ich vergalt ihm seine Hilfe mit Undank.;I repaid his help with ingratitude.
+Du verziehst ihm die alte Beleidigung.;You forgave him the old insult.
+Er wuchs schneller als seine Brüder.;He grew faster than his brothers.
+Sie wob den Stoff nach altem Muster.;She wove the cloth in the old pattern.
+Wir wanden das Seil um den Pfosten.;We wound the rope around the post.
+Ihr warbt jahrelang um sein Vertrauen.;You courted his trust for years.
+Sie zerrissen den Vertrag vor allen Augen.;They tore up the contract before everyone's eyes.
+Ich bat um Aufschub bis zum Monatsende.;I asked for a postponement until month's end.
+Du bewiesest deine Unschuld vor Gericht.;You proved your innocence in court.
+Er bog scharf in die Seitenstraße ein.;He turned sharply into the side street.
+Sie band das Bündel mit einer Schnur zu.;She tied the bundle shut with a cord.
+Wir boten ihm die Hälfte des Preises.;We offered him half the price.
+Ihr brietet den Fisch über offenem Feuer.;You fried the fish over an open fire.
+Sie erloschen kurz nach Mitternacht.;They went out shortly after midnight.
+Ich erschrak über den lauten Knall.;I was startled by the loud bang.
+Du empfingst die Gäste an der Tür.;You received the guests at the door.
+Er fror den ganzen Winter in der Kammer.;He froze all winter in the chamber.
+Sie genoss den Abend in vollen Zügen.;She enjoyed the evening to the fullest.
+Wir gruben ein tiefes Loch im Garten.;We dug a deep hole in the garden.
+Ihr grifft erst spät in den Streit ein.;You intervened in the quarrel only late.
+Sie hießen alle nach ihrem Großvater.;They were all named after their grandfather.
+Ich klomm die steile Leiter hinauf.;I climbed up the steep ladder.
+Du krochst unter den niedrigen Zaun.;You crawled under the low fence.
+Er lieh mir sein Fahrrad für den Tag.;He lent me his bike for the day.
+Sie litt jahrelang an starken Schmerzen.;She suffered severe pain for years.
+Wir logen den Eltern nichts vor.;We told our parents no lies.
+Ihr molkt die Kühe vor Sonnenaufgang.;You milked the cows before sunrise.
+Sie mahlten das Korn in der alten Mühle.;They ground the grain in the old mill.
+Ich pfiff dem Hund vom Feld her zu.;I whistled to the dog from the field.
+Du priest seine Arbeit vor allen.;You praised his work before everyone.
+Er quoll fast über vor Begeisterung.;He nearly overflowed with enthusiasm.
+Sie riet mir dringend davon ab.;She strongly advised me against it.
+Wir rangen lange um eine Einigung.;We wrestled long for an agreement.
+Ihr sandtet die Nachricht per Boten.;You sent the message by messenger.
+Sie schufen etwas völlig Neues.;They created something completely new.
+Ich schlich mich heimlich aus dem Haus.;I sneaked secretly out of the house.
+Du schliffst die Klinge bis sie glänzte.;You honed the blade until it gleamed.
+Er schmolz das Wachs über der Flamme.;He melted the wax over the flame.
+Sie schwang sich elegant in den Sattel.;She swung herself elegantly into the saddle.
+Wir sannen über den Ausweg nach.;We pondered the way out.
+Ihr schrittet langsam durch den Saal.;You strode slowly through the hall.
+Sie sotten das Wasser über dem Feuer.;They boiled the water over the fire.
+Ich spie den bitteren Bissen aus.;I spat out the bitter morsel.
+Du sprangst über den breiten Graben.;You jumped over the wide ditch.
+Er stritt jede Beteiligung ab.;He denied any involvement.
+Sie trog uns alle mit ihrem Lächeln.;She deceived us all with her smile.
+Wir wuschen die Wäsche im Bach.;We washed the laundry in the brook.
+Ihr wandtet euch von ihm ab.;You turned away from him.
+Sie zogen den Karren durch den Schlamm.;They pulled the cart through the mud.
+Ich zerbrach die Tasse aus Versehen.;I broke the cup by accident.
+Du befandst dich in einer schwierigen Lage.;You found yourself in a difficult situation.
+Er begann die Arbeit vor Sonnenaufgang.;He began the work before sunrise.
+Sie behielt das Geheimnis für sich.;She kept the secret to herself.
+Wir bekamen die Erlaubnis erst spät.;We got the permission only late.
+Ihr besaßt damals noch das alte Haus.;You still owned the old house back then.
+Sie bestanden auf einer schriftlichen Antwort.;They insisted on a written answer.
+Ich betrog niemanden in meinem Leben.;I deceived no one in my life.
+Du bewegtest den Schrank keinen Zentimeter.;You didn't move the cupboard a centimeter.
+Er bezog die Wohnung im Januar.;He moved into the flat in January.
+Sie brach in Tränen aus.;She burst into tears.
+Wir empfahlen ihm einen guten Anwalt.;We recommended a good lawyer to him.
+Ihr entkamt dem Feuer nur knapp.;You escaped the fire only narrowly.
+Sie entschieden sich für den längeren Weg.;They decided on the longer way.
+Ich entsprach den Erwartungen leider nicht.;I unfortunately didn't meet the expectations.
+Du erfandst diese Ausrede sofort.;You invented this excuse at once.
+Er erhielt die Nachricht am Abend.;He received the news in the evening.
+Sie erkannte ihn erst an der Stimme.;She recognized him only by his voice.
+Wir ertrugen die Hitze nur schwer.;We bore the heat with difficulty.
+Ihr erwogt alle Möglichkeiten sorgfältig.;You weighed all possibilities carefully.
+Sie fochten um jeden Meter Boden.;They fought for every meter of ground.
+Ich flocht den Korb aus frischen Weiden.;I wove the basket from fresh willows.
+Du gedachtest seiner mit einem Gruß.;You remembered him with a greeting.
+Er genas nach zwei Wochen vollständig.;He recovered completely after two weeks.
+Sie geriet in ernste Schwierigkeiten.;She got into serious difficulties.
+Wir taten dabei niemandem ein Unrecht.;We did no one an injustice in the process.
+Ihr gewannt das Vertrauen der Anwohner.;You won the residents' trust.
+Sie glichen einander wie Brüder.;They resembled each other like brothers.
+Ich glitt auf dem nassen Boden aus.;I slipped on the wet floor.
+Du glommst noch lange vor Zorn.;You still smoldered with anger for a long time.
+Er hielt die Rede ohne Manuskript.;He gave the speech without a manuscript.
+Sie kniff die Augen gegen die Sonne zusammen.;She squinted her eyes against the sun.
+Wir luden die Kisten auf den Anhänger.;We loaded the crates onto the trailer.
+Der erste Versuch misslang euch.;The first attempt failed for you.
+Sie nannten das Kind nach dem Vater.;They named the child after the father.
+Ich pries den Wein bei jeder Gelegenheit.;I praised the wine at every opportunity.
+Du ranntest den ganzen Weg zum Bahnhof.;You ran the whole way to the station.
+Er sah die Gefahr nicht rechtzeitig.;He didn't see the danger in time.
+Sie schalt ihn vor der ganzen Klasse.;She scolded him in front of the whole class.
+Wir schieden im Guten voneinander.;We parted on good terms.
+Ihr schient uns alle sehr zufrieden.;You all seemed very content to us.
+Sie schrien vor Freude laut auf.;They cried out loudly with joy.
+Ich schwand fast vor Erschöpfung.;I nearly fainted from exhaustion.
+Du schwollst am Knöchel stark an.;Your ankle swelled up badly.
+Er sprach die Wahrheit erst spät aus.;He spoke the truth only late.
+Sie sprang über den kleinen Bach.;She jumped over the little brook.
+Wir standen alle unter großem Druck.;We were all under great pressure.
+Ihr stiegt auf den höchsten Turm.;You climbed the highest tower.
+Sie taten so, als kennten sie mich nicht.;They pretended not to know me.
+Ich traf die Entscheidung ganz allein.;I made the decision entirely alone.
+Du triebst das Vieh auf die Weide.;You drove the cattle to the pasture.
+Er trat dem Verein nach Jahren wieder bei.;He rejoined the club after years.
+Sie unterschied die Zwillinge sofort.;She distinguished the twins at once.
+Wir verbanden die Wunde mit einem Tuch.;We bandaged the wound with a cloth.
+Ihr vergaßt die wichtigsten Unterlagen.;You forgot the most important documents.
+Sie verglichen die Preise sehr genau.;They compared the prices very carefully.
+Ich verlor den Faden mitten im Satz.;I lost the thread mid-sentence.
+Du miedst jede direkte Antwort.;You avoided every direct answer.
+Er verschwieg uns den wahren Grund.;He concealed the real reason from us.
+Sie verstand ihn ohne ein Wort.;She understood him without a word.
+Wir wichen dem Streit lieber aus.;We preferred to avoid the quarrel.
+Ihr wusstet mehr, als ihr zugabt.;You knew more than you admitted.
+Sie zerfielen nach dem Tod des Gründers.;They fell apart after the founder's death.
+Ich zwang mich zu einem Lächeln.;I forced myself to smile.
+Du befahlst dem Hund, sitzen zu bleiben.;You commanded the dog to stay seated.
+Er bewarb sich um die freie Stelle.;He applied for the vacant position.
+Sie brannte für ihre Arbeit.;She burned for her work.
+Wir brachten das Fass in den Keller hinunter.;We carried the barrel down into the cellar.
+Ihr durftet damals noch nicht wählen.;You weren't yet allowed to vote then.
+Sie fielen dem Betrüger zum Opfer.;They fell victim to the swindler.
+Ich fing den Ball mit einer Hand.;I caught the ball with one hand.
+Du gabst mir den letzten Rat.;You gave me the last piece of advice.
+Er gedieh in der neuen Umgebung prächtig.;He thrived splendidly in the new environment.
+Sie hielt sich streng an die Regeln.;She adhered strictly to the rules.
+Wir hoben das Kind über den Zaun.;We lifted the child over the fence.
+Ihr kamt gerade zur rechten Zeit.;You came just at the right time.
+Sie konnten die Rechnung nicht bezahlen.;They couldn't pay the bill.
+Ich ließ den Schlüssel im Schloss stecken.;I left the key in the lock.
+Du lagst mit deiner Vermutung richtig.;You were right with your guess.
+Er mochte diese Musik nie besonders.;He never particularly liked this music.
+Sie musste den Termin leider absagen.;She unfortunately had to cancel the appointment.
+Wir nahmen die Einladung dankend an.;We gratefully accepted the invitation.
+Ihr rietet uns damals zum Kauf.;You advised us to buy back then.
+Sie rissen die alte Scheune ab.;They tore down the old barn.
+Ich saß stundenlang über den Büchern.;I sat over the books for hours.
+Du sangst das Lied ohne einen Fehler.;You sang the song without a mistake.
+Er schwieg zu allen Vorwürfen.;He kept silent to all accusations.
+Sie sprang als Erste ins Wasser.;She was the first to jump into the water.
+Wir stritten uns über eine Kleinigkeit.;We quarreled over a trifle.
+Ihr trugt schwer an dieser Verantwortung.;You bore this responsibility heavily.
+Sie tranken auf das Wohl des Hauses.;They drank to the health of the house.
+Ich verband die beiden Enden mit Draht.;I joined the two ends with wire.
+Du vergaßt deine eigenen Worte.;You forgot your own words.
+Er verlieh dem Sieger den Kranz.;He awarded the winner the wreath.
+Sie verließ das Haus vor Tagesanbruch.;She left the house before daybreak.
+Wir verloren uns in der Menge.;We lost each other in the crowd.
+Ihr versankt fast im tiefen Schnee.;You nearly sank into the deep snow.
+Sie vertrieben die Fremden vom Grundstück.;They drove the strangers from the property.
+Ich wandte mich zum Gehen.;I turned to leave.
+Du warfst mir einen langen Blick zu.;You cast me a long look.
+Er wich der Frage geschickt aus.;He skillfully dodged the question.
+Sie wies uns den Weg zum Ausgang.;She showed us the way to the exit.
+Wir wollten schon um sechs aufbrechen.;We wanted to set off at six already.
+Ihr zogt den Schluss zu früh.;You drew the conclusion too early.
+Sie zwangen ihn zum Verkauf des Hofes.;They forced him to sell the farm.
+Ich aß an jenem Tag überhaupt nichts.;I ate nothing at all that day.
+Du bandest die Schnürsenkel doppelt.;You tied the shoelaces double.
+Ihn befiel plötzlich eine große Müdigkeit.;A great weariness suddenly came over him.
+Sie besann sich eines Besseren.;She thought better of it.
+Wir bissen in den sauren Apfel.;We bit the bullet.
+Ihr bliest in das kalte Horn.;You blew into the cold horn.
+Sie erschienen pünktlich zur Verhandlung.;They appeared punctually for the hearing.
+Ich fror mir die Finger fast ab.;I nearly froze my fingers off.
+Du gefielst dir in dieser Rolle.;You fancied yourself in this role.
+Er gewann die Wette um eine Sekunde.;He won the bet by one second.
+Sie half uns über die schlimmste Zeit.;She helped us through the worst time.
+Wir hielten an der alten Gewohnheit fest.;We held on to the old habit.
+Ihr knietet euch tief ins Thema ein.;You dug deep into the subject.
+Sie liefen den Berg hinunter.;They ran down the mountain.
+Ich lud die Nachbarn zum Kaffee ein.;I invited the neighbors for coffee.
+Du miedst solche Gespräche immer.;You always avoided such conversations.
+Er nahm sich die Kritik sehr zu Herzen.;He took the criticism very much to heart.
+Sie pfiff das Lied den ganzen Weg.;She whistled the song the whole way.
+Wir rieten ihm zur Vorsicht.;We advised him to be careful.
+Ihr sankt erschöpft auf die Bank.;You sank exhausted onto the bench.
+Sie schlugen den Weg durch den Wald ein.;They took the path through the forest.
+Ich schnitt mich am scharfen Blech.;I cut myself on the sharp metal.
+Du schriebst deinen Namen an die Tafel.;You wrote your name on the board.
+Er schwamm gegen die starke Strömung.;He swam against the strong current.
+Sie sprach ihm Mut zu.;She spoke words of courage to him.
+Wir stachen mit dem Boot in See.;We put out to sea with the boat.
+Ihr standet die ganze Zeit im Regen.;You stood in the rain the whole time.
+Sie stiegen über den umgestürzten Baum.;They climbed over the fallen tree.
+Ich strich die Butter aufs Brot.;I spread the butter on the bread.
+Du trugst dieselbe Jacke jahrelang.;You wore the same jacket for years.
+Er trat mir versehentlich auf den Fuß.;He accidentally stepped on my foot.
+Sie verbrachte den Sommer am Meer.;She spent the summer by the sea.
+Wir vergingen fast vor Ungeduld.;We nearly perished with impatience.
+Ihr verhieltet euch vorbildlich.;You behaved exemplarily.
+Sie verschliefen den ganzen Vormittag.;They slept through the whole morning.
+Ich versprach mich bei jedem zweiten Wort.;I misspoke at every second word.
+Du wuchst in einem kleinen Dorf auf.;You grew up in a small village.
+Er wandte kein Auge von ihr.;He didn't take his eyes off her.
+Sie warf einen Blick auf die Uhr.;She glanced at the clock.
+Wir wogen den Vorteil gegen das Risiko ab.;We weighed the advantage against the risk.
+Ihr zerbracht euch den Kopf darüber.;You racked your brains over it.
+Sie zogen die Reißleine im letzten Moment.;They pulled the ripcord at the last moment.

@@ -1,0 +1,304 @@
+Ich bin.;I am.
+Das neue Rathaus wird zurzeit gebaut.;The new town hall is currently being built.
+Die Rechnung wurde gestern bezahlt.;The bill was paid yesterday.
+Der Antrag ist bereits bearbeitet worden.;The application has already been processed.
+Das Paket war vor unserer Ankunft zugestellt worden.;The package had been delivered before our arrival.
+Die Ergebnisse werden morgen veröffentlicht werden.;The results will be published tomorrow.
+Der Fehler wird inzwischen behoben worden sein.;The error will have been fixed by now.
+Das Fenster ist seit Tagen geöffnet.;The window has been open for days.
+Die Tür war den ganzen Abend verschlossen.;The door was locked all evening.
+Der Vertrag muss bis Freitag unterschrieben werden.;The contract has to be signed by Friday.
+Die Aufgabe konnte in einer Stunde gelöst werden.;The task could be solved in an hour.
+Der Antrag sollte längst eingereicht werden.;The application should have been submitted long ago.
+Diese Frage lässt sich leicht beantworten.;This question can be answered easily.
+Das Gerät ist ohne Werkzeug reparierbar.;The device is repairable without tools.
+Die Tür öffnet sich automatisch.;The door opens automatically.
+Man baute die Brücke innerhalb eines Jahres.;The bridge was built within a year.
+Der Dieb wurde von der Polizei gefasst.;The thief was caught by the police.
+Die Ernte wurde durch den Hagel vernichtet.;The harvest was destroyed by the hail.
+Das Dokument wird gerade übersetzt.;The document is currently being translated.
+Die Straße wird wegen Bauarbeiten gesperrt.;The road is being closed because of construction work.
+Der Patient wurde sofort operiert.;The patient was operated on immediately.
+Die Kinder werden von den Großeltern abgeholt.;The children are being picked up by the grandparents.
+Das Haus ist im letzten Jahr renoviert worden.;The house was renovated last year.
+Der Brief war schon abgeschickt, als sie anrief.;The letter had already been sent when she called.
+Die neuen Regeln werden nächste Woche eingeführt werden.;The new rules will be introduced next week.
+Bis zum Abend wird alles erledigt sein.;By evening everything will be dealt with.
+Der Tisch ist bereits gedeckt.;The table is already set.
+Das Geschäft war über Mittag geschlossen.;The shop was closed over midday.
+Die Formulare müssen vollständig ausgefüllt werden.;The forms have to be filled out completely.
+Der Schaden konnte nicht mehr behoben werden.;The damage could no longer be repaired.
+Die Kosten dürfen nicht überschritten werden.;The costs may not be exceeded.
+Das Problem lässt sich nicht so einfach lösen.;The problem can't be solved so easily.
+Der Text ist gut lesbar.;The text is easily readable.
+Die Situation klärt sich von selbst.;The situation resolves itself.
+Man verkaufte das Grundstück an einen Investor.;The plot was sold to an investor.
+Die Rede wurde von tausend Menschen gehört.;The speech was heard by a thousand people.
+Das Dorf wurde durch das Hochwasser zerstört.;The village was destroyed by the flood.
+Die Waren werden nach Übersee verschifft.;The goods are being shipped overseas.
+Der Verdächtige wird gerade verhört.;The suspect is currently being interrogated.
+Die Wohnung wurde frisch gestrichen.;The flat was freshly painted.
+Ihm wurde für seine Hilfe gedankt.;He was thanked for his help.
+Der Preis ist ihr im Frühling verliehen worden.;The prize was awarded to her in spring.
+Uns war nichts von der Änderung mitgeteilt worden.;We had not been informed of the change.
+Die Verträge werden im Herbst verlängert werden.;The contracts will be extended in autumn.
+Der Bericht wird bis dahin fertiggestellt worden sein.;The report will have been completed by then.
+Das Museum ist montags geschlossen.;The museum is closed on Mondays.
+Die Fenster waren zur Sicherheit vergittert.;The windows were barred for safety.
+Die Regel muss unbedingt beachtet werden.;The rule absolutely has to be observed.
+Der Termin konnte leider nicht eingehalten werden.;The deadline unfortunately couldn't be met.
+Die Nüsse lassen sich mit der Hand knacken.;The nuts can be cracked by hand.
+Der Fleck ist kaum entfernbar.;The stain is hardly removable.
+Der Schlüssel fand sich unter dem Teppich.;The key turned up under the carpet.
+Man reparierte den Aufzug erst am nächsten Tag.;The lift wasn't repaired until the next day.
+Der Roman wurde von einer Unbekannten geschrieben.;The novel was written by an unknown woman.
+Die Fassade wurde durch den Rauch geschwärzt.;The facade was blackened by the smoke.
+Das Konzert wird live übertragen.;The concert is being broadcast live.
+Die Kranken werden im Nebengebäude untergebracht.;The sick are being accommodated in the annex.
+Der Wagen wurde gründlich gewaschen.;The car was thoroughly washed.
+Den Gästen wurde ein Aperitif gereicht.;The guests were served an aperitif.
+Die Urkunde ist ihm feierlich überreicht worden.;The certificate was ceremonially handed to him.
+Die Bäume werden im Winter zurückgeschnitten werden.;The trees will be cut back in winter.
+Der Schaden wird bis Montag begutachtet worden sein.;The damage will have been assessed by Monday.
+Der Laden ist bis auf Weiteres geschlossen.;The shop is closed until further notice.
+Die Straße war tagelang überflutet.;The street was flooded for days.
+Die Bestellung muss schriftlich bestätigt werden.;The order has to be confirmed in writing.
+Die Wunde konnte rasch versorgt werden.;The wound could be treated quickly.
+Das Auto lässt sich nur schwer starten.;The car is hard to start.
+Der Stoff ist bei sechzig Grad waschbar.;The fabric is washable at sixty degrees.
+Die Tür schließt sich langsam.;The door closes slowly.
+Man erhöhte die Preise ohne Vorankündigung.;The prices were raised without warning.
+Der Läufer wurde von den Zuschauern angefeuert.;The runner was cheered on by the spectators.
+Das Feld wurde durch Dünger fruchtbar gemacht.;The field was made fertile by fertilizer.
+Die Bühne wird für den Auftritt vorbereitet.;The stage is being prepared for the performance.
+Die Passagiere werden über die Verspätung informiert.;The passengers are being informed about the delay.
+Das Zimmer war für die Gäste hergerichtet.;The room was prepared for the guests.
+Ihr wurde eine zweite Chance gegeben.;She was given a second chance.
+Dem Kind ist ein Buch geschenkt worden.;The child was given a book.
+Die Löhne werden im nächsten Jahr angehoben werden.;The wages will be raised next year.
+Bis zum Fest wird der Saal geschmückt worden sein.;By the celebration the hall will have been decorated.
+Die Bücher sind alphabetisch geordnet.;The books are arranged alphabetically.
+Der Brief war mit Wachs versiegelt.;The letter was sealed with wax.
+Die Belege müssen aufbewahrt werden.;The receipts have to be kept.
+Der Zug konnte pünktlich abgefertigt werden.;The train could be dispatched on time.
+Die Software lässt sich kostenlos herunterladen.;The software can be downloaded for free.
+Der Vorschlag ist durchaus umsetzbar.;The proposal is entirely feasible.
+Das Missverständnis klärte sich schnell auf.;The misunderstanding cleared up quickly.
+Man untersagte das Rauchen im ganzen Gebäude.;Smoking was prohibited throughout the building.
+Der Redner wurde vom Publikum unterbrochen.;The speaker was interrupted by the audience.
+Die Küste wurde durch den Sturm verwüstet.;The coast was devastated by the storm.
+Die Gäste werden am Eingang begrüßt.;The guests are being greeted at the entrance.
+Die Akten werden derzeit geprüft.;The files are currently being examined.
+Das Beet war frisch bepflanzt.;The flowerbed was freshly planted.
+Ihm wurde geholfen, als er es am meisten brauchte.;He was helped when he needed it most.
+Der Familie ist eine Wohnung zugewiesen worden.;The family was assigned a flat.
+Die Renten werden zum Jahreswechsel erhöht werden.;The pensions will be raised at the turn of the year.
+Der Vorgang wird bis Freitag abgeschlossen worden sein.;The process will have been completed by Friday.
+Die Grenze ist nachts geschlossen.;The border is closed at night.
+Die Ware war beschädigt geliefert.;The goods were delivered damaged.
+Das Formular kann online eingereicht werden.;The form can be submitted online.
+Der Fehler hätte vermieden werden können.;The mistake could have been avoided.
+Die Flecken lassen sich mit Essig entfernen.;The stains can be removed with vinegar.
+Der Zugang ist nur schwer kontrollierbar.;Access is difficult to control.
+Gestern wurde das Denkmal endlich enthüllt.;Yesterday the monument was finally unveiled.
+Im Rathaus werden gerade die Stimmen ausgezählt.;At the town hall the votes are currently being counted.
+Nach dem Sturm mussten viele Bäume gefällt werden.;After the storm many trees had to be felled.
+Innerhalb weniger Tage war der Schaden behoben worden.;Within a few days the damage had been repaired.
+Ohne Vorwarnung wurde die Sitzung abgebrochen.;Without warning the meeting was broken off.
+Trotz des Regens wurde das Spiel fortgesetzt.;Despite the rain the game was continued.
+Bei diesem Wetter lässt sich kaum arbeiten.;In this weather one can hardly work.
+Auf Wunsch der Gäste wurde die Musik leiser gestellt.;At the guests' request the music was turned down.
+Wegen des Feiertags bleibt das Amt geschlossen.;Because of the holiday the office remains closed.
+Am Eingang werden die Karten kontrolliert.;At the entrance the tickets are being checked.
+Seit Jahren wird über den Umbau diskutiert.;For years the renovation has been discussed.
+Erst spät wurde uns die Wahrheit gesagt.;Only late were we told the truth.
+Ihm ist für seinen Einsatz herzlich gedankt worden.;He was warmly thanked for his commitment.
+Dem Verein wurden neue Räume zugewiesen.;The club was assigned new rooms.
+Diesmal wird niemand vergessen werden.;This time no one will be forgotten.
+Bis zum Abend wird alles vorbereitet sein.;By evening everything will be prepared.
+In diesem Betrieb wird sonntags nicht gearbeitet.;In this business no work is done on Sundays.
+Überall in der Stadt werden neue Radwege angelegt.;New bike paths are being laid throughout the city.
+Nach langem Zögern wurde der Vertrag doch unterschrieben.;After long hesitation the contract was signed after all.
+Vor der Abfahrt muss der Reifendruck geprüft werden.;Before departure the tire pressure has to be checked.
+Angeblich wurde das Gemälde für Millionen verkauft.;The painting was allegedly sold for millions.
+Damals wurde noch mit der Hand geschrieben.;Back then one still wrote by hand.
+Zum Glück konnte der Brand rasch gelöscht werden.;Fortunately the fire could be put out quickly.
+Leider ist der Termin wieder verschoben worden.;Unfortunately the appointment was postponed again.
+Hier darf nicht geparkt werden.;Parking is not allowed here.
+Draußen wird schon der Tisch gedeckt.;Outside the table is already being set.
+Über Nacht war der Weg zugeschneit.;Overnight the path had been snowed under.
+Aus Sicherheitsgründen wurde das Gebäude geräumt.;For safety reasons the building was evacuated.
+Mit etwas Übung lässt sich das Rezept leicht nachkochen.;With a little practice the recipe can be easily reproduced.
+Dank moderner Technik ist der Text mühelos entzifferbar.;Thanks to modern technology the text is effortlessly decipherable.
+Im Hintergrund wird leise musiziert.;In the background music is being softly played.
+Zunächst wurden alle Fenster geöffnet.;First all the windows were opened.
+Später wird darüber noch entschieden werden.;A decision on it will be made later.
+Kaum war das Signal gegeben, wurde gestartet.;Hardly was the signal given when the start was made.
+Bei der Feier wurde viel gelacht.;At the celebration there was much laughter.
+Nach der Reform wird alles anders geregelt.;After the reform everything is regulated differently.
+Vom Balkon aus konnte der ganze Umzug gesehen werden.;From the balcony the whole procession could be seen.
+Durch den Nebel war die Straße kaum zu erkennen.;Because of the fog the road was hardly recognizable.
+Selten wurde ein Werk so heftig kritisiert.;Rarely was a work criticized so fiercely.
+Endlich ist die Entscheidung gefallen.;At last the decision has been made.
+In der Küche wird noch gespült.;In the kitchen the dishes are still being washed.
+Auf dem Land wird früher zu Bett gegangen.;In the country one goes to bed earlier.
+Nach dem Unfall wurde ihm sofort geholfen.;After the accident he was helped immediately.
+Den Anwohnern ist der Lärm längst zugemutet worden.;The residents have long been expected to put up with the noise.
+Morgen werden die Preisträger bekannt gegeben werden.;Tomorrow the prizewinners will be announced.
+Bis dahin wird die Arbeit abgeschlossen sein.;By then the work will be finished.
+Sonntags wird in dieser Straße nicht geliefert.;On Sundays no deliveries are made on this street.
+Überraschend wurde die Veranstaltung abgesagt.;Surprisingly the event was cancelled.
+Trotz aller Mühe konnte der Fehler nicht gefunden werden.;Despite all effort the mistake couldn't be found.
+Vor Gericht muss die Wahrheit gesagt werden.;In court the truth has to be told.
+Solche Probleme lassen sich meist vermeiden.;Such problems can usually be avoided.
+Das Material ist erstaunlich formbar.;The material is astonishingly malleable.
+Nach und nach klärte sich das Missverständnis auf.;Bit by bit the misunderstanding cleared up.
+Früher stellte man solche Möbel selbst her.;In the past such furniture was made oneself.
+Von den Nachbarn wurde nichts bemerkt.;Nothing was noticed by the neighbors.
+Durch den Fund wurde die Theorie bestätigt.;The theory was confirmed by the find.
+Am frühen Morgen wird das Brot gebacken.;Early in the morning the bread is baked.
+Im Krankenhaus werden die Patienten rund um die Uhr betreut.;In the hospital the patients are cared for around the clock.
+Zur Erinnerung war ein Foto aufgestellt.;A photo was set up as a memento.
+Über den Winter waren die Beete abgedeckt.;Over the winter the flowerbeds were covered.
+Nach der Prüfung müssen die Blätter abgegeben werden.;After the exam the sheets have to be handed in.
+Ohne Genehmigung darf hier nicht gebaut werden.;Without a permit no building is allowed here.
+Mit dem alten Schlüssel lässt sich die Tür nicht mehr öffnen.;With the old key the door can no longer be opened.
+Diese Handschrift ist kaum entzifferbar.;This handwriting is hardly decipherable.
+Allmählich füllte sich der Saal.;Gradually the hall filled up.
+Damals wurde noch mit Kohle geheizt.;Back then one still heated with coal.
+Zum Abschied wurde ein Lied gesungen.;At the farewell a song was sung.
+Bei Regen wird die Vorstellung ins Zelt verlegt.;In case of rain the performance is moved into the tent.
+Auf der Baustelle wird auch nachts gearbeitet.;On the construction site work is done at night too.
+Nach der Renovierung wird die Bibliothek wiedereröffnet werden.;After the renovation the library will be reopened.
+Bis zum Wochenende wird der Umzug erledigt sein.;By the weekend the move will be finished.
+In diesem Haus wird viel musiziert.;In this house there is a lot of music-making.
+Überraschenderweise wurde der Antrag genehmigt.;Surprisingly the application was approved.
+Nach reiflicher Überlegung wurde die Idee verworfen.;After careful thought the idea was discarded.
+Vor dem Essen sollten die Hände gewaschen werden.;Before the meal the hands should be washed.
+Manche Wünsche lassen sich eben nicht erfüllen.;Some wishes simply can't be fulfilled.
+Der Beweis ist logisch nachvollziehbar.;The proof is logically comprehensible.
+Nach dem Sturm beruhigte sich das Meer wieder.;After the storm the sea calmed down again.
+Damals verkaufte man alles auf dem Markt.;Back then everything was sold at the market.
+Von wem wurde eigentlich die Rechnung bezahlt?;By whom was the bill actually paid?
+Durch das Beben wurden viele Häuser beschädigt.;Many houses were damaged by the earthquake.
+Im Foyer werden die Mäntel abgegeben.;In the foyer the coats are handed in.
+Auf allen Kanälen wurde darüber berichtet.;It was reported on all channels.
+Bei Dunkelheit ist das Schild schlecht lesbar.;In the dark the sign is hard to read.
+Über die Feiertage bleibt der Betrieb geschlossen.;Over the holidays the business stays closed.
+Nach dem Alarm musste das Kino geräumt werden.;After the alarm the cinema had to be evacuated.
+Ohne Ausweis wird niemand eingelassen.;Without an ID no one is admitted.
+Mit etwas Geduld lässt sich der Knoten lösen.;With a little patience the knot can be undone.
+Das Zelt ist in wenigen Minuten aufbaubar.;The tent is set up in a few minutes.
+Nach kurzer Zeit hatte sich die Menge zerstreut.;After a short time the crowd had dispersed.
+Früher wurde jeder Brief mit der Hand adressiert.;In the past every letter was addressed by hand.
+Den Kindern wurde ein Märchen vorgelesen.;The children were read a fairy tale.
+Ihr ist die Leitung des Projekts anvertraut worden.;She was entrusted with the leadership of the project.
+Nächstes Jahr werden die Fassaden neu gestrichen werden.;Next year the facades will be repainted.
+Bis zur Eröffnung wird das Programm festgelegt sein.;By the opening the program will be set.
+Auf dieser Wiese wird im Sommer gezeltet.;On this meadow camping is done in summer.
+Erstaunlicherweise wurde der Rekord gleich zweimal gebrochen.;Astonishingly the record was broken twice in a row.
+Nach langem Streit wurde endlich ein Kompromiss gefunden.;After a long dispute a compromise was finally found.
+Vor der Reise müssen die Papiere geprüft werden.;Before the trip the papers have to be checked.
+Solche Gerüchte lassen sich nur schwer widerlegen.;Such rumors are hard to refute.
+Der Mechanismus ist erstaunlich einfach bedienbar.;The mechanism is astonishingly easy to operate.
+Bei der Renovierung wurde besonders auf Details geachtet.;During the renovation particular attention was paid to details.
+Zum Abschluss des Kurses wird eine Prüfung abgelegt.;At the end of the course an examination is taken.
+Mitten im Satz wurde er unterbrochen.;In the middle of his sentence he was interrupted.
+Innerhalb kurzer Zeit war der Saal gefüllt.;Within a short time the hall was filled.
+Aus Rücksicht auf die Nachbarn wurde leiser gefeiert.;Out of consideration for the neighbors the party was quieter.
+Trotz der Kürze wurde die Rede stürmisch beklatscht.;Despite its brevity the speech was stormily applauded.
+Bei näherer Betrachtung ließ sich der Trick durchschauen.;On closer examination the trick could be seen through.
+Auf Beschluss des Rates wurde die Gebühr gesenkt.;By decision of the council the fee was lowered.
+Wegen der Bauarbeiten wird die Linie umgeleitet.;Because of the construction work the line is being diverted.
+Am Ausgang werden Broschüren verteilt.;At the exit brochures are being handed out.
+Seit der Eröffnung wird das Bad rege besucht.;Since the opening the pool has been busily frequented.
+Längst war beschlossen worden, den Betrieb zu verlagern.;It had long been decided to relocate the operation.
+Ihr wurde die Ehre eines Empfangs zuteil.;She was granted the honor of a reception.
+Den Anwohnern ist eine Umgehungsstraße zugesagt worden.;The residents were promised a bypass.
+Diesmal wird niemand übergangen werden.;This time no one will be passed over.
+Bis zum Herbst wird die Ausstellung aufgebaut sein.;By autumn the exhibition will be set up.
+In diesem Verlag wird sorgfältig lektoriert.;At this publisher careful editing is done.
+Überall auf dem Gelände wurden Lampions aufgehängt.;Lanterns were hung up all over the grounds.
+Nach zähem Ringen wurde eine Einigung erzielt.;After tough wrangling an agreement was reached.
+Vor dem Auftritt muss die Bühne abgesperrt werden.;Before the performance the stage has to be cordoned off.
+Anscheinend wurde die Frist stillschweigend verlängert.;Apparently the deadline was tacitly extended.
+Damals wurde jede Ernte gemeinsam eingebracht.;Back then every harvest was brought in together.
+Zum Glück konnte die Panne rasch behoben werden.;Fortunately the breakdown could be quickly fixed.
+Leider ist der Zuschuss wieder gekürzt worden.;Unfortunately the subsidy was cut again.
+An dieser Stelle darf nicht gehalten werden.;Stopping is not allowed at this point.
+Oben wird gerade renoviert.;Upstairs renovating is going on right now.
+Über Nacht war die Ausstellung komplett abgebaut worden.;Overnight the exhibition had been completely dismantled.
+Aus organisatorischen Gründen wurde der Ablauf geändert.;For organizational reasons the schedule was changed.
+Mit der richtigen Technik lässt sich der Fleck lösen.;With the right technique the stain can be removed.
+Dank der Spenden ist der Wiederaufbau finanzierbar.;Thanks to the donations the reconstruction is affordable.
+Hinten wird noch aufgeladen.;At the back loading is still going on.
+Zunächst wurde das Gelände vermessen.;First the site was surveyed.
+Hierüber wird beim nächsten Treffen entschieden werden.;This will be decided at the next meeting.
+Kaum war die Nachricht bekannt, wurde gefeiert.;Hardly was the news out when celebrating began.
+Auf der Hochzeit wurde ausgelassen getanzt.;At the wedding there was exuberant dancing.
+Nach der Fusion wird vieles zusammengelegt.;After the merger many things are being combined.
+Vom Ufer aus konnte das Wrack gesehen werden.;From the shore the wreck could be seen.
+Durch die Hitze wurde das Metall verformt.;The metal was deformed by the heat.
+Selten wurde ein Urteil so kontrovers aufgenommen.;Rarely was a verdict received so controversially.
+Endlich ist der Antrag bewilligt worden.;At last the application has been approved.
+Im Hof werden die Fahrräder abgestellt.;In the courtyard the bicycles are parked.
+Auf See wird nach anderen Regeln gefahren.;At sea one navigates by different rules.
+Nach dem Streit wurde ihm die Hand gereicht.;After the quarrel a hand was extended to him.
+Der Belegschaft ist eine Prämie in Aussicht gestellt worden.;The workforce was held out the prospect of a bonus.
+Nächste Woche werden die Container geleert werden.;Next week the containers will be emptied.
+Bis dahin wird die Adresse geändert sein.;By then the address will have been changed.
+Am Aschermittwoch wird gefastet.;On Ash Wednesday fasting is observed.
+Kurzerhand wurde die Feier ins Haus verlegt.;Without further ado the party was moved indoors.
+Trotz aller Zweifel wurde das Wagnis eingegangen.;Despite all doubts the risk was taken.
+Vor Antritt der Reise müssen die Papiere geordnet werden.;Before setting out on the journey the papers have to be sorted.
+Solche Zusagen lassen sich nur schwer einhalten.;Such pledges are hard to keep.
+Der Mechanismus ist von außen kaum erkennbar.;The mechanism is barely recognizable from outside.
+Nach dem Guss muss die Form abkühlen.;After the pour the mold has to cool down.
+Damals wurde noch mit Pferden gepflügt.;Back then plowing was still done with horses.
+Zum Gedenken wurde eine Tafel angebracht.;A plaque was put up in commemoration.
+Bei Wind wird das Segel gerefft.;In wind the sail is reefed.
+Auf allen Bühnen wurde geprobt.;Rehearsals were held on all the stages.
+Nach der Zählung wird das Ergebnis verkündet werden.;After the count the result will be announced.
+Bis zur Ernte wird das Feld bewässert worden sein.;By harvest the field will have been irrigated.
+Im Norden wird härter angepackt.;In the north things are tackled more toughly.
+Erstaunlicherweise wurde der Vorschlag einhellig begrüßt.;Astonishingly the proposal was unanimously welcomed.
+Nach reiflicher Prüfung wurde der Fund als echt bewertet.;After careful examination the find was assessed as genuine.
+Vor dem Servieren sollte die Soße abgeschmeckt werden.;Before serving the sauce should be seasoned to taste.
+Solche Konflikte lassen sich meist entschärfen.;Such conflicts can usually be defused.
+Das Schloss ist auch im Dunkeln bedienbar.;The lock is operable even in the dark.
+Nach dem Aufprall knickte der Pfosten ein.;After the impact the post buckled.
+Früher wurde der Weg nur zu Fuß zurückgelegt.;In the past the way was covered only on foot.
+Von der Gemeinde wurde der Bau genehmigt.;The construction was approved by the municipality.
+Durch das Leck wurde der Keller geflutet.;The cellar was flooded through the leak.
+An der Rezeption werden die Schlüssel ausgegeben.;At reception the keys are issued.
+Weit oben in den Bergen wird noch gesennt.;High up in the mountains alpine dairying is still done.
+Bei Stromausfall wird auf Notlicht umgeschaltet.;In a power failure switching to emergency lighting occurs.
+Über die Feiertage wird durchgehend produziert.;Over the holidays production runs continuously.
+Nach dem Warnschuss wurde die Menge zerstreut.;After the warning shot the crowd was dispersed.
+Ohne Termin wird man nicht empfangen.;Without an appointment one is not received.
+Mit vereinten Kräften wurde der Deich gehalten.;With combined effort the dike was held.
+Die Fassung ist auch für Kinder verständlich.;The version is comprehensible even for children.
+Nach dem Beben stürzten mehrere Mauern ein.;After the quake several walls collapsed.
+Damals wurde jede Rechnung mit Tinte geschrieben.;Back then every bill was written in ink.
+Vom Chor wurde ein feierliches Lied angestimmt.;A solemn song was struck up by the choir.
+Durch das Unwetter wurde die Straße unterspült.;The road was washed out by the storm.
+Im Foyer werden die Preise überreicht.;In the foyer the prizes are presented.
+Kreuz und quer wurde durch die Stadt gezogen.;Roaming crisscrossed through the city took place.
+Bei Ebbe wird der Strand zugänglich.;At low tide the beach becomes accessible.
+Über die Details wird noch verhandelt werden.;The details are still to be negotiated.
+Nach dem Umzug müssen die Kisten ausgepackt werden.;After the move the boxes have to be unpacked.
+Solche Missverständnisse lassen sich vorbeugen.;Such misunderstandings can be prevented.
+Der Vertrag ist innerhalb einer Frist kündbar.;The contract is terminable within a set period.
+Nach dem Regenguss dampfte der Asphalt.;After the downpour the asphalt steamed.
+Früher wurde jedes Fest im ganzen Dorf gefeiert.;In the past every festival was celebrated in the whole village.
+Von den Rettern wurde tagelang gesucht.;The rescuers searched for days.
+Durch den Zufall wurde der Betrug aufgedeckt.;The fraud was uncovered by chance.
+An der Wand werden die Gewinner ausgehängt.;On the wall the winners are posted.
+Von früh bis spät wurde geschuftet.;From morning to night there was toiling.
+Bei Frost wird der Brunnen abgestellt.;In frost the fountain is turned off.
+Über den Sommer bleibt das Theater geschlossen.;Over the summer the theater stays closed.
+Nach dem Startschuss wurde losgerannt.;After the starting shot running set off.
+Ohne Nachweis wird die Erstattung verweigert.;Without proof the refund is refused.
+Mit etwas Übung ist der Griff leicht erlernbar.;With a little practice the grip is easy to learn.
+Die Regelung ist bewusst offen gehalten worden.;The rule was deliberately kept open.
+Nach der langen Trockenheit versiegte die Quelle.;After the long drought the spring dried up.

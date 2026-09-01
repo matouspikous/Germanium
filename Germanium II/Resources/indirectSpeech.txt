@@ -1,0 +1,299 @@
+Er sagt, er kommt heute später.;He says he's coming later today.
+Sie meint, das lohnt sich nicht.;She thinks it's not worth it.
+Er hat gesagt, er ruft mich morgen an.;He said he'll call me tomorrow.
+Sie sagt, sie hat keine Zeit.;She says she has no time.
+Ich glaube, er ist schon gegangen.;I think he's already left.
+Er behauptet, er weiß nichts davon.;He claims he knows nothing about it.
+Sie hat erzählt, sie war letzte Woche krank.;She told me she was ill last week.
+Er sagt, das Auto ist wieder kaputt.;He says the car is broken again.
+Sie meint, wir sollten früher losfahren.;She thinks we should set off earlier.
+Ich denke, sie hat recht.;I think she's right.
+Er sagt, er hat den Termin vergessen.;He says he forgot the appointment.
+Sie hat gesagt, sie kommt bestimmt.;She said she'll definitely come.
+Er glaubt, das Wetter wird besser.;He thinks the weather will get better.
+Sie erzählt, ihr neuer Job gefällt ihr sehr.;She says she likes her new job very much.
+Ich habe gehört, der Laden macht bald zu.;I heard the shop is closing soon.
+Er sagt, er kann uns leider nicht helfen.;He says he unfortunately can't help us.
+Sie meint, das Essen war zu teuer.;She thinks the food was too expensive.
+Er hat gesagt, er hat alles schon erledigt.;He said he's already dealt with everything.
+Sie sagt, sie fühlt sich nicht gut.;She says she doesn't feel well.
+Ich glaube, wir haben uns verfahren.;I think we've taken a wrong turn.
+Er behauptet, er hat pünktlich bezahlt.;He claims he paid on time.
+Sie sagt, ihr Zug hat Verspätung.;She says her train is delayed.
+Er meint, das ist gar nicht so schwer.;He thinks it's not that hard at all.
+Sie hat erzählt, sie zieht bald um.;She told me she's moving soon.
+Ich denke, das Paket kommt heute noch.;I think the package will still come today.
+Er sagt, er hat den Schlüssel verloren.;He says he lost the key.
+Sie glaubt, das wird nichts.;She thinks it won't work out.
+Er hat gesagt, er wartet vor dem Kino.;He said he's waiting in front of the cinema.
+Sie sagt, sie kennt ihn schon lange.;She says she's known him for a long time.
+Ich habe gehört, sie haben geheiratet.;I heard they got married.
+Er meint, wir haben genug Zeit.;He thinks we have enough time.
+Sie sagt, das war nicht ihre Absicht.;She says that wasn't her intention.
+Er behauptet, er war den ganzen Abend zu Hause.;He claims he was at home the whole evening.
+Sie hat gesagt, sie meldet sich später.;She said she'll get in touch later.
+Ich glaube, er hat es nicht verstanden.;I think he didn't understand it.
+Er sagt, die Preise steigen weiter.;He says prices are still rising.
+Sie meint, das ist reine Zeitverschwendung.;She thinks that's a pure waste of time.
+Er hat erzählt, er war früher Lehrer.;He said he used to be a teacher.
+Sie sagt, sie braucht noch ein paar Tage.;She says she needs a few more days.
+Ich denke, sie kommt nicht mehr.;I don't think she's coming anymore.
+Er sagt, er hat den Film schon gesehen.;He says he's already seen the film.
+Sie glaubt, das Problem löst sich von selbst.;She thinks the problem will solve itself.
+Er hat gesagt, er bringt die Unterlagen mit.;He said he'll bring the documents.
+Sie sagt, sie hat davon nie gehört.;She says she's never heard of it.
+Ich habe gehört, die Straße ist gesperrt.;I heard the road is closed.
+Er meint, wir sollten es noch einmal versuchen.;He thinks we should try again.
+Sie sagt, ihr Handy ist kaputt.;She says her phone is broken.
+Er behauptet, er hat die E-Mail nie bekommen.;He claims he never got the email.
+Sie hat erzählt, sie war schon oft in Italien.;She told me she's been to Italy many times.
+Ich glaube, das stimmt so nicht.;I think that's not quite right.
+Er sagt, er arbeitet gerade an einem Projekt.;He says he's currently working on a project.
+Sie meint, das kostet viel zu viel.;She thinks that costs far too much.
+Er hat gesagt, er ist gleich zurück.;He said he'll be right back.
+Sie sagt, sie versteht die Aufgabe nicht.;She says she doesn't understand the task.
+Ich denke, wir müssen umsteigen.;I think we have to change trains.
+Er sagt, sein Bruder wohnt in Berlin.;He says his brother lives in Berlin.
+Sie glaubt, es wird bald regnen.;She thinks it'll rain soon.
+Er hat erzählt, er hat als Kind Klavier gespielt.;He said he played piano as a child.
+Sie sagt, sie hat den Bus verpasst.;She says she missed the bus.
+Ich habe gehört, er sucht eine neue Wohnung.;I heard he's looking for a new flat.
+Er meint, das lässt sich leicht reparieren.;He thinks that can be easily repaired.
+Sie sagt, ihr geht es inzwischen besser.;She says she's feeling better now.
+Er behauptet, er hat mich gestern angerufen.;He claims he called me yesterday.
+Sie hat gesagt, sie kommt direkt von der Arbeit.;She said she's coming straight from work.
+Ich glaube, das war ein Missverständnis.;I think that was a misunderstanding.
+Er sagt, er hat sich verspätet.;He says he was delayed.
+Sie meint, wir haben noch eine Chance.;She thinks we still have a chance.
+Er hat gesagt, er weiß den Weg.;He said he knows the way.
+Sie sagt, sie hat alles selbst gemacht.;She says she did everything herself.
+Ich denke, das reicht für heute.;I think that's enough for today.
+Er sagt, die Firma stellt neue Leute ein.;He says the company is hiring new people.
+Sie glaubt, er hat gelogen.;She thinks he lied.
+Er hat erzählt, seine Eltern kommen zu Besuch.;He said his parents are coming to visit.
+Sie sagt, sie hat den Schlüssel bei sich.;She says she has the key with her.
+Ich habe gehört, das Konzert ist ausverkauft.;I heard the concert is sold out.
+Er meint, das war keine gute Idee.;He thinks that wasn't a good idea.
+Sie sagt, sie ruft gleich zurück.;She says she'll call right back.
+Er behauptet, er hat nichts gesehen.;He claims he saw nothing.
+Sie hat gesagt, sie kümmert sich darum.;She said she'll take care of it.
+Ich glaube, wir sind zu spät.;I think we're too late.
+Er sagt, er hat die Prüfung bestanden.;He says he passed the exam.
+Sie meint, das gehört ihr nicht.;She says that isn't hers.
+Er hat gesagt, er kommt mit dem Fahrrad.;He said he's coming by bike.
+Sie sagt, sie hat schlecht geschlafen.;She says she slept badly.
+Ich denke, er hat sich geirrt.;I think he made a mistake.
+Er sagt, das Restaurant hat heute zu.;He says the restaurant is closed today.
+Sie glaubt, das dauert nicht lange.;She thinks it won't take long.
+Er hat erzählt, er war lange im Ausland.;He said he was abroad for a long time.
+Sie sagt, sie freut sich auf den Urlaub.;She says she's looking forward to the holiday.
+Ich habe gehört, sie haben ein Haus gekauft.;I heard they bought a house.
+Er meint, wir sollten den Termin verschieben.;He thinks we should postpone the appointment.
+Sie sagt, ihr Chef ist im Urlaub.;She says her boss is on holiday.
+Er behauptet, er hat das nie gesagt.;He claims he never said that.
+Sie hat gesagt, sie schickt mir die Adresse.;She said she'll send me the address.
+Ich glaube, das Fenster ist noch offen.;I think the window is still open.
+Er sagt, er hat den Zug gerade noch erreicht.;He says he just barely caught the train.
+Sie meint, das ist nicht mein Problem.;She thinks that's not my problem.
+Er hat gesagt, er hilft uns beim Umzug.;He said he'll help us with the move.
+Sie sagt, sie hat es sich anders überlegt.;She says she's changed her mind.
+Ich denke, morgen wird es besser.;I think tomorrow it'll be better.
+Er erwähnte, er hat sie zufällig in der Stadt getroffen.;He mentioned he ran into her by chance in town.
+Sie versicherte mir, sie schafft das rechtzeitig.;She assured me she'll manage it in time.
+Er gab zu, er hat den Fehler übersehen.;He admitted he overlooked the mistake.
+Sie deutete an, sie will bald kündigen.;She hinted she wants to quit soon.
+Er beteuerte, er hat damit nichts zu tun.;He protested he has nothing to do with it.
+Sie flüsterte, sie kennt den Weg nicht.;She whispered she doesn't know the way.
+Er verriet mir, er plant eine Überraschung.;He let slip that he's planning a surprise.
+Sie bestätigte, der Termin bleibt bestehen.;She confirmed the appointment stands.
+Er warnte mich, die Straße ist glatt.;He warned me the road is icy.
+Sie klagte, sie kommt mit der Arbeit nicht hinterher.;She complained she can't keep up with the work.
+Er murmelte, er hat schlecht geschlafen.;He muttered he slept badly.
+Sie prahlte, sie hat den ersten Preis gewonnen.;She boasted she won first prize.
+Er stellte klar, er unterstützt den Plan nicht.;He made clear he doesn't support the plan.
+Sie erwiderte, das interessiert sie nicht.;She retorted that it doesn't interest her.
+Er gestand, er hat das Geld ausgegeben.;He confessed he spent the money.
+Sie betonte, sie handelt nur im Sinne der Firma.;She stressed she's acting only in the company's interest.
+Er verkündete, er tritt vom Amt zurück.;He announced he's resigning from office.
+Sie jammerte, sie hat schon wieder alles verloren.;She wailed she's lost everything again.
+Er schlug vor, wir treffen uns am Bahnhof.;He suggested we meet at the station.
+Sie räumte ein, sie hat sich vielleicht geirrt.;She conceded she might have been wrong.
+Er erklärte mir, das Gerät funktioniert ganz einfach.;He explained to me that the device works quite simply.
+Sie beschwerte sich, der Nachbar macht ständig Lärm.;She complained the neighbor makes noise constantly.
+Er versprach, er bringt die Bücher zurück.;He promised he'll bring the books back.
+Sie bemerkte, das Kleid steht mir gut.;She remarked the dress suits me.
+Er antwortete, er überlegt es sich noch.;He replied he's still thinking it over.
+Sie behauptete steif und fest, sie war nie dort.;She insisted flatly she was never there.
+Er kündigte an, er reist nächste Woche ab.;He announced he's departing next week.
+Sie gab bekannt, sie übernimmt die Leitung.;She announced she's taking over the management.
+Er beklagte, niemand hört ihm zu.;He lamented that no one listens to him.
+Sie riet mir, ich soll vorsichtig sein.;She advised me to be careful.
+Er behauptete, er repariert das im Handumdrehen.;He claimed he'll fix it in no time.
+Sie erzählte stolz, ihr Sohn studiert jetzt Medizin.;She proudly told me her son is now studying medicine.
+Er wandte ein, das kostet zu viel Zeit.;He objected that it costs too much time.
+Sie versicherte, sie vergisst den Termin nicht.;She assured me she won't forget the appointment.
+Er gab an, er wohnt seit zehn Jahren hier.;He stated he's lived here for ten years.
+Sie flehte, ich soll ihr helfen.;She pleaded for me to help her.
+Er brummte, er hat keine Lust mehr.;He grumbled he doesn't feel like it anymore.
+Sie erklärte entschieden, sie ändert ihre Meinung nicht.;She declared firmly she won't change her mind.
+Er warnte, das Eis trägt nicht mehr.;He warned the ice won't hold anymore.
+Sie behauptete, sie erkennt ihn sofort wieder.;She claimed she'd recognize him at once.
+Er meinte nachdenklich, das hat alles keinen Sinn.;He said pensively that none of it makes sense.
+Sie berichtete, die Maschine läuft wieder einwandfrei.;She reported the machine is running perfectly again.
+Er gab zu bedenken, wir haben kaum noch Zeit.;He pointed out that we have hardly any time left.
+Sie versprach hoch und heilig, sie sagt es niemandem.;She solemnly promised she'll tell no one.
+Er stellte fest, die Rechnung stimmt nicht.;He noted the bill isn't right.
+Sie entgegnete, das sieht sie völlig anders.;She countered that she sees it completely differently.
+Er behauptete, er kommt auch ohne Karte zurecht.;He claimed he'll manage even without a map.
+Sie klagte, ihr tut der Rücken weh.;She complained her back hurts.
+Er kündigte an, er hört bald mit dem Rauchen auf.;He announced he'll soon stop smoking.
+Sie bestätigte, die Ware ist unterwegs.;She confirmed the goods are on their way.
+Er gestand, er hat die Warnung ignoriert.;He confessed he ignored the warning.
+Sie deutete an, sie weiß mehr, als sie sagt.;She hinted she knows more than she's saying.
+Er versicherte mir, er meldet sich sofort.;He assured me he'll get in touch immediately.
+Sie warf mir vor, ich höre nie zu.;She accused me of never listening.
+Er schwor, er hat nichts angerührt.;He swore he touched nothing.
+Sie erwähnte beiläufig, sie fährt morgen weg.;She mentioned casually that she's leaving tomorrow.
+Er beharrte darauf, er hat recht.;He insisted that he's right.
+Sie meinte, das lässt sich bestimmt regeln.;She said that can surely be sorted out.
+Er berichtete, der Verkehr war heute besonders schlimm.;He reported the traffic was particularly bad today.
+Sie gab zu, sie hat die Frist verpasst.;She admitted she missed the deadline.
+Er erklärte, er verlässt sich ganz auf uns.;He explained he's relying entirely on us.
+Sie flüsterte mir zu, der Chef ist schlecht gelaunt.;She whispered to me that the boss is in a bad mood.
+Er versprach, er denkt daran.;He promised he'll remember.
+Sie stellte klar, sie zahlt keinen Cent mehr.;She made clear she won't pay another cent.
+Er murmelte, er findet den Schlüssel nicht.;He muttered he can't find the key.
+Sie versicherte, das passiert nicht wieder.;She assured me it won't happen again.
+Er räumte ein, er hätte früher fragen sollen.;He conceded he should have asked earlier.
+Sie beteuerte, sie hat es nur gut gemeint.;She protested she only meant well.
+Er kündigte an, er stellt das Projekt bald vor.;He announced he'll present the project soon.
+Sie beschwerte sich, das Zimmer ist zu kalt.;She complained the room is too cold.
+Er gab an, er hat den Antrag längst abgeschickt.;He stated he sent off the application long ago.
+Sie erwiderte gereizt, das hat sie schon dreimal gesagt.;She retorted irritably that she's said that three times already.
+Er meinte zuversichtlich, wir schaffen das gemeinsam.;He said confidently that we'll manage it together.
+Sie berichtete, die Verhandlungen laufen gut.;She reported the negotiations are going well.
+Er behauptete, er erledigt das noch heute.;He claimed he'll get it done today.
+Sie warnte mich, der Hund beißt manchmal.;She warned me the dog sometimes bites.
+Er gestand kleinlaut, er hat die Vase zerbrochen.;He confessed sheepishly that he broke the vase.
+Sie versicherte, sie kümmert sich persönlich darum.;She assured me she'll deal with it personally.
+Er stellte fest, wir haben etwas Wichtiges vergessen.;He noted that we've forgotten something important.
+Sie deutete an, die Stelle ist bald frei.;She hinted the position will soon be vacant.
+Er beteuerte, er hat den Brief nie geöffnet.;He protested he never opened the letter.
+Sie erzählte, sie hat als Studentin gekellnert.;She told me she waited tables as a student.
+Er wandte ein, das ändert nichts an der Lage.;He objected that it doesn't change the situation.
+Sie meinte trocken, das war ja klar.;She said drily that that was obvious.
+Er versprach, er ruft an, sobald er ankommt.;He promised he'll call as soon as he arrives.
+Sie klagte, ihr fehlt einfach die Zeit.;She complained she simply lacks the time.
+Er berichtete, der Kunde ist zufrieden.;He reported the customer is satisfied.
+Sie gab zu, sie hat übertrieben.;She admitted she exaggerated.
+Er stellte klar, er duldet keine Ausnahmen.;He made clear he tolerates no exceptions.
+Sie versicherte, das Essen schmeckt bestimmt.;She assured me the food will surely taste good.
+Er murmelte etwas davon, er ist müde.;He mumbled something about being tired.
+Sie behauptete, sie hat ihn gewarnt.;She claimed she warned him.
+Er kündigte an, er zieht die Klage zurück.;He announced he's withdrawing the lawsuit.
+Sie erwiderte freundlich, das macht gar nichts.;She replied kindly that it doesn't matter at all.
+Er gab zu bedenken, das Wetter kann umschlagen.;He pointed out that the weather can turn.
+Sie beteuerte, sie hat wirklich ihr Bestes gegeben.;She protested she really gave her best.
+Er berichtete, die Reparatur dauert länger als gedacht.;He reported the repair is taking longer than expected.
+Sie meinte lachend, das glaubt ihr sowieso keiner.;She said laughing that no one will believe her anyway.
+Er versprach, er lässt bald von sich hören.;He promised he'll be in touch soon.
+Er beteuerte erneut, er habe die Rechnung längst beglichen.;He protested again that he had settled the bill long ago.
+Sie warf ein, so einfach sei die Sache nicht.;She interjected that the matter wasn't so simple.
+Er erkundigte sich, ob der Zug pünktlich abfährt.;He inquired whether the train departs on time.
+Sie versicherte uns, die Unterlagen liegen bereit.;She assured us the documents are ready.
+Er brummte verärgert, das habe er nicht so gemeint.;He grumbled crossly that he hadn't meant it that way.
+Sie schilderte, wie der Unfall passiert ist.;She described how the accident happened.
+Er beteuerte seine Unschuld mit fester Stimme.;He asserted his innocence in a firm voice.
+Sie gab kleinlaut zu, sie hat den Termin verschlafen.;She sheepishly admitted she overslept the appointment.
+Er warnte eindringlich, der Boden ist morsch.;He warned urgently that the floor is rotten.
+Sie stellte in Aussicht, sie kommt vielleicht doch.;She held out the prospect that she might come after all.
+Er erklärte geduldig, wie das Programm funktioniert.;He patiently explained how the program works.
+Sie fuhr fort, sie habe noch eine zweite Bitte.;She continued that she had a second request.
+Er beklagte sich bitter, niemand nehme ihn ernst.;He complained bitterly that no one takes him seriously.
+Sie räumte offen ein, sie hat sich zu viel vorgenommen.;She openly conceded she took on too much.
+Er versprach fest, er hält sich diesmal daran.;He firmly promised he'll stick to it this time.
+Sie erwähnte nebenbei, ihr Bruder heiratet im Juni.;She mentioned in passing that her brother is getting married in June.
+Er beharrte darauf, er habe alles richtig gemacht.;He insisted he had done everything correctly.
+Sie meinte skeptisch, das klingt zu schön, um wahr zu sein.;She said skeptically that it sounds too good to be true.
+Er berichtete stolz, sein Team hat den Zuschlag bekommen.;He proudly reported his team got the contract.
+Sie bat inständig, ich möge sie nicht verraten.;She pleaded earnestly for me not to give her away.
+Er gab unumwunden zu, er hat sich verkalkuliert.;He admitted bluntly that he miscalculated.
+Sie betonte mehrfach, sie steht voll hinter der Entscheidung.;She emphasized repeatedly that she fully backs the decision.
+Er entgegnete ruhig, das sehe er ganz anders.;He calmly countered that he sees it quite differently.
+Sie kündigte an, sie legt Widerspruch ein.;She announced she's filing an objection.
+Er murmelte verlegen, er habe das ganz vergessen.;He murmured awkwardly that he had completely forgotten.
+Sie versicherte glaubhaft, sie hat den Ofen ausgeschaltet.;She assured me convincingly that she turned off the oven.
+Er stellte klar, dafür sei er nicht zuständig.;He made clear that he isn't responsible for that.
+Sie deutete vorsichtig an, es gebe Probleme im Team.;She carefully hinted that there were problems in the team.
+Er schwor bei allem, was ihm heilig ist, er lügt nicht.;He swore by all that's sacred to him that he isn't lying.
+Sie erzählte gerührt, wie herzlich man sie empfangen hat.;She recounted, moved, how warmly she was received.
+Er wandte ein, die Kosten seien noch gar nicht kalkuliert.;He objected that the costs hadn't even been calculated yet.
+Sie versprach, sie überweist das Geld sofort.;She promised she'll transfer the money at once.
+Er beteuerte, er habe die ganze Zeit an sie gedacht.;He protested he had thought of her the whole time.
+Sie berichtete sachlich, die Zahlen seien rückläufig.;She reported matter-of-factly that the figures are declining.
+Er gab zu, er hat den Rat in den Wind geschlagen.;He admitted he ignored the advice completely.
+Sie warnte, man solle sich nicht darauf verlassen.;She warned that one shouldn't rely on it.
+Er erklärte umständlich, warum er sich verspätet hat.;He explained long-windedly why he was late.
+Sie meinte trocken, das habe sie kommen sehen.;She said drily that she saw it coming.
+Er versicherte hoch und heilig, er hat abgeschlossen.;He solemnly assured me he locked up.
+Sie fragte besorgt, ob wirklich alles in Ordnung ist.;She asked worriedly whether everything is really all right.
+Er beklagte, die Zeit renne ihm davon.;He lamented that time is running away from him.
+Sie stellte fest, an dem Gerücht sei nichts dran.;She noted that there's nothing to the rumor.
+Er kündigte großspurig an, er werde alle übertreffen.;He announced grandly that he'd surpass everyone.
+Sie räumte zerknirscht ein, sie hätte es wissen müssen.;She conceded remorsefully that she should have known.
+Er behauptete kühn, er habe den Fehler sofort bemerkt.;He boldly claimed he noticed the mistake at once.
+Sie flüsterte, die Wände hier seien dünn.;She whispered that the walls here are thin.
+Er berichtete erschöpft, die Fahrt habe zwölf Stunden gedauert.;He reported wearily that the journey took twelve hours.
+Sie versprach, sie denkt an die Blumen.;She promised she'll remember the flowers.
+Er beteuerte, er habe die Nachricht nie erhalten.;He protested he never received the message.
+Sie meinte gelassen, das renke sich schon ein.;She said calmly that it'll sort itself out.
+Er gab widerwillig zu, sie habe recht behalten.;He grudgingly admitted she turned out to be right.
+Sie erklärte bestimmt, sie mache keine Ausnahme.;She stated decidedly that she makes no exception.
+Er warnte mich vor, der Weg sei stellenweise gefährlich.;He warned me in advance that the path is dangerous in places.
+Sie deutete an, sie habe da so eine Ahnung.;She hinted that she had a certain hunch.
+Er versicherte, er komme allein zurecht.;He assured me he'll manage on his own.
+Sie klagte leise, ihr sei alles zu viel geworden.;She complained quietly that it had all become too much for her.
+Er kündigte an, er werde die Sache prüfen lassen.;He announced he'll have the matter examined.
+Sie gab an, sie habe den Mann noch nie gesehen.;She stated she had never seen the man before.
+Er beharrte, er habe die Tür verschlossen.;He insisted he had locked the door.
+Sie berichtete aufgeregt, der Verein habe gewonnen.;She reported excitedly that the club won.
+Er meinte achselzuckend, das sei eben so.;He said with a shrug that that's just how it is.
+Sie versprach, sie halte mich auf dem Laufenden.;She promised she'll keep me informed.
+Er beteuerte, er habe stets ehrlich gehandelt.;He protested that he had always acted honestly.
+Sie stellte klar, sie erwarte eine Entschuldigung.;She made clear she expects an apology.
+Er erwähnte, er habe früher in dieser Gegend gewohnt.;He mentioned he used to live in this area.
+Sie warnte streng, wir sollten uns nicht verspäten.;She warned sternly that we shouldn't be late.
+Er gab zu, er habe die Frist völlig unterschätzt.;He admitted he completely underestimated the deadline.
+Sie erklärte, sie ziehe sich vorerst zurück.;She explained she's withdrawing for now.
+Er murmelte, er brauche dringend eine Pause.;He mumbled he badly needs a break.
+Sie versicherte, sie melde sich, sobald sie mehr weiß.;She assured me she'll get in touch as soon as she knows more.
+Er behauptete, er habe das Ganze nur missverstanden.;He claimed he had merely misunderstood the whole thing.
+Sie berichtete, die Nachfrage sei stark gestiegen.;She reported that demand has risen sharply.
+Er beklagte, man lasse ihn im Stich.;He lamented that he's being left in the lurch.
+Sie deutete an, sie habe schon einen anderen Plan.;She hinted she already had another plan.
+Er versprach reumütig, er mache das wieder gut.;He promised remorsefully that he'll make up for it.
+Sie stellte fest, der Vorrat gehe langsam zur Neige.;She noted that the supply is slowly running out.
+Er kündigte an, er werde sich beschweren.;He announced he'll complain.
+Sie gab kleinlaut zu, sie habe die Warnung ignoriert.;She sheepishly admitted she ignored the warning.
+Er beteuerte, er sei die ganze Zeit erreichbar gewesen.;He protested he had been reachable the whole time.
+Sie meinte, das lasse sich sicher noch klären.;She said that can surely still be cleared up.
+Er warnte, das Programm stürze häufig ab.;He warned that the program crashes frequently.
+Sie erklärte geduldig, worum es eigentlich gehe.;She patiently explained what it's actually about.
+Er versicherte, er habe alles doppelt geprüft.;He assured me he had checked everything twice.
+Sie berichtete, der Patient erhole sich gut.;She reported that the patient is recovering well.
+Er gab zu, er habe die Einladung glatt vergessen.;He admitted he clean forgot the invitation.
+Sie beharrte, sie habe rechtzeitig Bescheid gegeben.;She insisted she had given notice in time.
+Er kündigte an, er wolle künftig mehr delegieren.;He announced he wants to delegate more in future.
+Sie flüsterte, wir sollten besser gehen.;She whispered that we'd better go.
+Er beklagte sich, das Formular sei viel zu kompliziert.;He complained that the form is far too complicated.
+Sie versprach, sie werde nichts überstürzen.;She promised she won't rush anything.
+Er stellte klar, er habe kein Interesse an einem Streit.;He made clear he has no interest in a quarrel.
+Sie erwähnte, sie habe den Artikel bereits gelesen.;She mentioned she had already read the article.
+Er beteuerte, er sei bei dem Treffen gar nicht dabei gewesen.;He protested he wasn't even present at the meeting.
+Sie meinte zuversichtlich, das werde schon gutgehen.;She said confidently that it'll be fine.
+Er berichtete, die Lieferung sei beschädigt angekommen.;He reported that the delivery arrived damaged.
+Sie gab zu, sie habe zu voreilig geurteilt.;She admitted she judged too hastily.
+Er warnte mich, ich solle dem Angebot nicht trauen.;He warned me not to trust the offer.
+Sie kündigte an, sie werde die Leitung abgeben.;She announced she'll hand over the management.
+Er versicherte, er komme gleich zur Sache.;He assured me he'll get straight to the point.
+Sie erklärte abschließend, damit sei der Fall erledigt.;She explained in conclusion that the matter is thereby settled.

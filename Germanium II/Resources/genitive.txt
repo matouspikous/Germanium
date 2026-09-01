@@ -1,0 +1,415 @@
+Während des langen Winters.;During the long winter.
+Wegen des starken Regens.;Because of the heavy rain.
+Trotz des schlechten Wetters.;Despite the bad weather.
+Während der schwierigen Prüfung.;During the difficult exam.
+Wegen der hohen Kosten.;Because of the high costs.
+Trotz der großen Entfernung.;Despite the great distance.
+Innerhalb des alten Gebäudes.;Inside the old building.
+Außerhalb der belebten Innenstadt.;Outside the busy city center.
+Während des wichtigen Gesprächs.;During the important conversation.
+Wegen des plötzlichen Stromausfalls.;Because of the sudden power outage.
+Trotz des unerwarteten Problems.;Despite the unexpected problem.
+Anstatt des ursprünglichen Plans.;Instead of the original plan.
+Während der letzten Woche.;During the last week.
+Wegen der komplizierten Situation.;Because of the complicated situation.
+Trotz der langen Wartezeit.;Despite the long waiting time.
+Innerhalb der modernen Wohnung.;Inside the modern apartment.
+Außerhalb der kleinen Stadt.;Outside the small town.
+Während des gesamten Tages.;During the entire day.
+Wegen des starken Verkehrs.;Because of the heavy traffic.
+Trotz des fehlenden Geldes.;Despite the missing money.
+Wegen eines technischen Fehlers.;Because of a technical error.
+Trotz eines schweren Unfalls.;Despite a serious accident.
+Während eines kurzen Aufenthalts.;During a short stay.
+Innerhalb eines einzigen Jahres.;Within a single year.
+Außerhalb eines sicheren Bereichs.;Outside a safe area.
+Wegen eines wichtigen Termins.;Because of an important appointment.
+Trotz eines schwierigen Anfangs.;Despite a difficult beginning.
+Anstatt eines neuen Computers.;Instead of a new computer.
+Während eines langen Spaziergangs.;During a long walk.
+Wegen eines ungewöhnlichen Geräusches.;Because of an unusual noise.
+Die Farbe des neuen Autos gefällt mir.;I like the color of the new car.
+Der Beginn des Films war überraschend.;The beginning of the movie was surprising.
+Das Ende des spannenden Romans war traurig.;The ending of the exciting novel was sad.
+Die Qualität des frischen Brotes ist ausgezeichnet.;The quality of the fresh bread is excellent.
+Die Ursache des schweren Unfalls bleibt unbekannt.;The cause of the serious accident remains unknown.
+Die Tür des alten Hauses war verschlossen.;The door of the old house was locked.
+Die Stimme des bekannten Schauspielers klingt vertraut.;The voice of the famous actor sounds familiar.
+Die Entscheidung des erfahrenen Arztes war richtig.;The experienced doctor's decision was correct.
+Die Entwicklung des neuen Projekts dauert länger.;The development of the new project is taking longer.
+Die Bedeutung des wichtigen Wortes ist unklar.;The meaning of the important word is unclear.
+Die Geschichte der alten Stadt ist faszinierend.;The history of the old city is fascinating.
+Die Tochter der freundlichen Nachbarin studiert Medizin.;The friendly neighbor's daughter studies medicine.
+Die Meinung der erfahrenen Lehrerin hat mich überzeugt.;The experienced teacher's opinion convinced me.
+Die Ursache der plötzlichen Veränderung ist unbekannt.;The cause of the sudden change is unknown.
+Die Schönheit der historischen Landschaft beeindruckt viele Besucher.;The beauty of the historic landscape impresses many visitors.
+Die Preise der beliebten Restaurants sind gestiegen.;The prices of the popular restaurants have increased.
+Die Namen der neuen Mitarbeiter stehen hier.;The names of the new employees are here.
+Die Fenster der hellen Wohnung wurden repariert.;The windows of the bright apartment were repaired.
+Die Ergebnisse der wichtigen Untersuchung sind positiv.;The results of the important examination are positive.
+Die Vorteile der modernen Methode sind offensichtlich.;The advantages of the modern method are obvious.
+Die Zukunft der jungen Generation ist wichtig.;The future of the young generation is important.
+Die Meinung meines älteren Bruders interessiert mich.;My older brother's opinion interests me.
+Das Auto meiner besten Freundin ist kaputt.;My best friend's car is broken.
+Die Wohnung meines neuen Kollegen liegt zentral.;My new colleague's apartment is centrally located.
+Die Antwort meines geduldigen Lehrers war hilfreich.;My patient teacher's answer was helpful.
+Die Stimme meiner kleinen Schwester klingt fröhlich.;My little sister's voice sounds cheerful.
+Die Entscheidung meines Chefs war überraschend.;My boss's decision was surprising.
+Das Verhalten meines alten Freundes hat mich enttäuscht.;My old friend's behavior disappointed me.
+Die Adresse meines früheren Vermieters habe ich verloren.;I lost my former landlord's address.
+Der Schlüssel meiner verschlossenen Garage fehlt.;The key to my locked garage is missing.
+Die Meinung meiner besten Freundin hat sich geändert.;My best friend's opinion has changed.
+Die Tasche deines jüngeren Bruders steht draußen.;Your younger brother's bag is outside.
+Der Beruf deines älteren Vaters klingt interessant.;Your older father's profession sounds interesting.
+Die Entscheidung deiner neuen Kollegin war mutig.;Your new colleague's decision was brave.
+Die Farbe deiner schönen Jacke gefällt mir.;I like the color of your beautiful jacket.
+Das Fahrrad deines kleinen Sohnes steht draußen.;Your young son's bicycle is outside.
+Die Stimme deines freundlichen Nachbarn kenne ich.;I know your friendly neighbor's voice.
+Der Name deines neuen Arztes steht hier.;Your new doctor's name is written here.
+Die Meinung deiner erfahrenen Schwester zählt für mich.;Your experienced sister's opinion matters to me.
+Das Ende deines langen Urlaubs nähert sich.;The end of your long vacation is approaching.
+Die Tür seines alten Büros war offen.;The door of his old office was open.
+Die Schwester seines besten Freundes arbeitet hier.;His best friend's sister works here.
+Die Meinung seiner erfahrenen Kollegin wurde berücksichtigt.;His experienced colleague's opinion was considered.
+Das Verhalten seines kleinen Sohnes war ungewöhnlich.;His young son's behavior was unusual.
+Die Reparatur seines kaputten Fahrrads kostet viel.;Repairing his broken bicycle costs a lot.
+Die Wohnung seiner älteren Schwester ist gemütlich.;His older sister's apartment is comfortable.
+Der Beginn seines neuen Jobs war stressig.;The beginning of his new job was stressful.
+Die Stimme seiner berühmten Mutter war sofort erkennbar.;His famous mother's voice was immediately recognizable.
+Die Entscheidung seiner geduldigen Ärztin war vernünftig.;His patient female doctor's decision was sensible.
+Die Geschichte seiner langen Reise klingt unglaublich.;The story of his long journey sounds incredible.
+Die Tasche ihrer kleinen Tochter liegt im Flur.;Her little daughter's bag is in the hallway.
+Die Meinung ihrer besten Freundin war entscheidend.;Her best friend's opinion was decisive.
+Das Auto ihrer älteren Schwester wurde gestohlen.;Her older sister's car was stolen.
+Die Stimme ihrer neuen Nachbarin war freundlich.;Her new neighbor's voice was friendly.
+Die Entscheidung ihrer erfahrenen Chefin überrascht niemanden.;Her experienced boss's decision surprises nobody.
+Die Wohnung ihrer jungen Familie ist sehr hell.;Her young family's apartment is very bright.
+Der Beginn ihrer schwierigen Ausbildung war anstrengend.;The beginning of her difficult training was exhausting.
+Die Ergebnisse ihrer wichtigen Untersuchung waren gut.;The results of her important examination were good.
+Die Reparatur ihrer alten Waschmaschine war teuer.;Repairing her old washing machine was expensive.
+Die Zukunft ihrer kleinen Kinder macht ihr Sorgen.;The future of her young children worries her.
+Die Meinung unseres erfahrenen Trainers hat uns geholfen.;Our experienced coach's opinion helped us.
+Die Entscheidung unseres neuen Managers war klug.;Our new manager's decision was wise.
+Das Büro unseres freundlichen Chefs befindet sich oben.;Our friendly boss's office is upstairs.
+Die Adresse unseres alten Hotels habe ich gespeichert.;I saved the address of our old hotel.
+Die Geschichte unserer gemeinsamen Reise bleibt unvergessen.;The story of our shared trip remains unforgettable.
+Die Ergebnisse unserer letzten Prüfung waren hervorragend.;The results of our last exam were excellent.
+Die Qualität unseres frischen Essens war überraschend gut.;The quality of our fresh food was surprisingly good.
+Die Reparatur unseres kaputten Aufzugs dauerte drei Tage.;Repairing our broken elevator took three days.
+Die Meinung unseres älteren Nachbarn war interessant.;Our older neighbor's opinion was interesting.
+Die Entscheidung unserer neuen Lehrerin war gerecht.;Our new teacher's decision was fair.
+Die Meinung eures neuen Kollegen interessiert mich.;Your new colleague's opinion interests me.
+Die Wohnung eures älteren Bruders ist riesig.;Your older brother's apartment is enormous.
+Die Entscheidung eurer erfahrenen Chefin war vernünftig.;Your experienced female boss's decision was sensible.
+Die Ergebnisse eurer letzten Untersuchung sind positiv.;The results of your last examination are positive.
+Die Geschichte eurer langen Reise klingt spannend.;The story of your long journey sounds exciting.
+Die Namen eurer neuen Mitarbeiter kenne ich nicht.;I don't know the names of your new employees.
+Die Adresse eures alten Hotels fehlt noch.;The address of your old hotel is still missing.
+Die Meinung eurer besten Freunde war entscheidend.;The opinion of your best friends was decisive.
+Die Reparatur eures kaputten Autos wird teuer.;Repairing your broken car will be expensive.
+Die Zukunft eurer kleinen Kinder ist wichtig.;The future of your young children is important.
+Die Stimme ihres neuen Nachbarn war laut.;Her new neighbor's voice was loud.
+Die Meinung ihrer älteren Eltern beeinflusst sie.;Her older parents' opinion influences her.
+Die Entscheidung ihrer jungen Tochter überraschte alle.;Her young daughter's decision surprised everyone.
+Die Wohnung ihrer besten Freundin liegt zentral.;Her best friend's apartment is centrally located.
+Die Geschichte ihrer gemeinsamen Vergangenheit ist kompliziert.;The story of their shared past is complicated.
+Die Namen ihrer neuen Kunden stehen dort.;The names of their new customers are there.
+Die Qualität ihrer selbstgemachten Kuchen ist hervorragend.;The quality of their homemade cakes is excellent.
+Die Ursache ihrer plötzlichen Abwesenheit blieb unklar.;The reason for their sudden absence remained unclear.
+Die Ergebnisse ihrer langen Untersuchung waren eindeutig.;The results of their lengthy examination were clear.
+Die Zukunft ihrer erfolgreichen Firma sieht gut aus.;The future of their successful company looks good.
+Wegen des starken Windes blieb das Fenster geschlossen.;Because of the strong wind, the window remained closed.
+Trotz des großen Drucks blieb sie ruhig.;Despite the great pressure, she remained calm.
+Während des wichtigen Treffens machte er Notizen.;During the important meeting, he took notes.
+Wegen der schlechten Nachrichten konnte sie nicht schlafen.;Because of the bad news, she could not sleep.
+Trotz der schwierigen Bedingungen arbeitete das Team weiter.;Despite the difficult conditions, the team continued working.
+Während der langen Reise lernte ich viel.;During the long journey, I learned a lot.
+Innerhalb des nächsten Monats müssen wir handeln.;Within the next month, we must act.
+Außerhalb der normalen Öffnungszeiten ist niemand erreichbar.;Outside normal opening hours, nobody can be reached.
+Wegen eines unerwarteten Besuchs musste ich früher gehen.;Because of an unexpected visit, I had to leave earlier.
+Trotz eines kleinen Fehlers war der Bericht erfolgreich.;Despite a small mistake, the report was successful.
+Während eines gemeinsamen Abendessens sprachen wir über die Zukunft.;During a shared dinner, we talked about the future.
+Innerhalb eines kurzen Gesprächs fanden wir eine Lösung.;Within a short conversation, we found a solution.
+Außerhalb eines geschützten Bereichs darf niemand parken.;Outside a protected area, nobody may park.
+Anstatt eines teuren Hotels buchten wir eine Ferienwohnung.;Instead of an expensive hotel, we booked an apartment.
+Wegen des fehlenden Schlafes war ich sehr müde.;Because of the lack of sleep, I was very tired.
+Trotz des kalten Wassers ging er schwimmen.;Despite the cold water, he went swimming.
+Während des ganzen Abends diskutierten sie über Politik.;Throughout the entire evening, they discussed politics.
+Wegen der langen Warteschlange verpassten wir den Bus.;Because of the long queue, we missed the bus.
+Trotz der starken Schmerzen ging sie zur Arbeit.;Despite the severe pain, she went to work.
+Während der letzten Monate hat er viel gelernt.;During the last months, he has learned a lot.
+Die Ursache des Problems konnte niemand erklären.;Nobody could explain the cause of the problem.
+Die Folgen des Fehlers waren schwerwiegend.;The consequences of the mistake were serious.
+Die Entscheidung der Richterin wurde später kritisiert.;The judge's decision was criticized later.
+Die Leistungen der jungen Sportlerin haben sich verbessert.;The young athlete's performance has improved.
+Die Bedürfnisse der älteren Menschen werden oft vergessen.;The needs of older people are often forgotten.
+Die Bedeutung der deutschen Sprache wächst international.;The importance of the German language is growing internationally.
+Die Bewohner des kleinen Dorfes halfen den Touristen.;The inhabitants of the small village helped the tourists.
+Die Mitarbeiter des erfolgreichen Unternehmens arbeiten hart.;The employees of the successful company work hard.
+Die Geschichte des berühmten Museums ist interessant.;The history of the famous museum is interesting.
+Die Tür der verlassenen Fabrik war verschlossen.;The door of the abandoned factory was locked.
+Die Fenster des modernen Krankenhauses sind riesig.;The windows of the modern hospital are enormous.
+Die Bewohner der alten Straße protestierten gemeinsam.;The residents of the old street protested together.
+Die Besitzer des großen Hauses wohnen im Ausland.;The owners of the large house live abroad.
+Die Mitarbeiter der internationalen Organisation reisen häufig.;The employees of the international organization travel frequently.
+Die Regeln des neuen Systems sind kompliziert.;The rules of the new system are complicated.
+Die Vorteile des öffentlichen Verkehrs sind offensichtlich.;The advantages of public transportation are obvious.
+Die Kosten der notwendigen Reparatur waren enorm.;The costs of the necessary repair were enormous.
+Die Ergebnisse der wissenschaftlichen Studie überraschten die Experten.;The results of the scientific study surprised the experts.
+Die Meinung der meisten Teilnehmer war positiv.;The opinion of most participants was positive.
+Wegen des Erfolgs der neuen Kampagne stiegen die Verkäufe.;Because of the success of the new campaign, sales increased.
+Trotz der Kritik der erfahrenen Experten änderte er nichts.;Despite the criticism from experienced experts, he changed nothing.
+Während des Besuchs der ausländischen Gäste zeigte sie ihnen Berlin.;During the visit of the foreign guests, she showed them Berlin.
+Wegen der Verspätung des schnellen Zuges mussten wir warten.;Because of the fast train's delay, we had to wait.
+Trotz des Verbots der Stadtverwaltung parkten viele dort.;Despite the city administration's ban, many parked there.
+Während der Renovierung des alten Hauses wohnten sie anderswo.;During the renovation of the old house, they lived elsewhere.
+Innerhalb des Zentrums der modernen Stadt fahren wenige Autos.;Within the center of the modern city, few cars drive.
+Außerhalb der Grenzen des kleinen Landes leben viele Menschen.;Outside the borders of the small country, many people live.
+Wegen eines Missverständnisses des wichtigen Gesprächs entstand ein Konflikt.;Because of a misunderstanding about the important conversation, a conflict arose.
+Trotz eines Mangels an Erfahrung löste sie das Problem.;Despite a lack of experience, she solved the problem.
+Während eines Treffens mit Freunden entstand die Idee.;During a meeting with friends, the idea emerged.
+Anstatt eines Kaufs des teuren Produkts wartete er.;Instead of buying the expensive product, he waited.
+Die Bedeutung meines heutigen Gesprächs ist mir bewusst.;I am aware of the importance of today's conversation.
+Die Konsequenzen deiner falschen Entscheidung waren unangenehm.;The consequences of your wrong decision were unpleasant.
+Die Ursache seiner plötzlichen Reaktion blieb unklar.;The reason for his sudden reaction remained unclear.
+Die Qualität ihrer neuen Arbeit hat sich verbessert.;The quality of her new work has improved.
+Die Zukunft unserer gemeinsamen Projekte ist noch offen.;The future of our joint projects is still open.
+Die Geschichte eures ersten Treffens klingt lustig.;The story of your first meeting sounds funny.
+Die Meinung ihres erfahrenen Kollegen wurde ernst genommen.;Her experienced colleague's opinion was taken seriously.
+Die Entscheidung unserer jungen Mitarbeiterin überraschte den Chef.;Our young female employee's decision surprised the boss.
+Wegen der hohen Qualität des Produkts kaufen viele Kunden erneut.;Because of the product's high quality, many customers buy again.
+Trotz des schlechten Rufs der Firma blieb er dort.;Despite the company's bad reputation, he stayed there.
+Während des letzten Jahres der Ausbildung sammelte sie Erfahrung.;During the final year of training, she gained experience.
+Innerhalb eines Tages des intensiven Trainings wurde er stärker.;Within one day of intensive training, he became stronger.
+Außerhalb der Arbeitszeit des neuen Mitarbeiters rief niemand an.;Outside the new employee's working hours, nobody called.
+Wegen eines Fehlers meiner Kollegin musste ich nachfragen.;Because of a mistake by my colleague, I had to ask again.
+Trotz eines Problems unseres alten Computers funktionierte das Programm.;Despite a problem with our old computer, the program worked.
+Während eines Gesprächs mit meinem neuen Nachbarn lernte ich viel.;During a conversation with my new neighbor, I learned a lot.
+Anstatt eines Besuchs bei meiner kranken Tante blieb ich zu Hause.;Instead of visiting my sick aunt, I stayed home.
+Die Tür des Büros meines Chefs war verschlossen.;The door of my boss's office was locked.
+Die Meinung der Schwester meines Freundes war überraschend.;My friend's sister's opinion was surprising.
+Die Reparatur des Autos meiner Mutter dauerte lange.;Repairing my mother's car took a long time.
+Die Entscheidung des Trainers unserer Mannschaft war mutig.;The decision of our team's coach was brave.
+Die Geschichte der Kindheit meines Vaters interessiert mich.;My father's childhood story interests me.
+Die Adresse des neuen Hauses meiner Schwester kenne ich.;I know the address of my sister's new house.
+Die Stimme der Tochter unseres Nachbarn war laut.;Our neighbor's daughter's voice was loud.
+Die Farbe des alten Fahrrads meines Bruders verblasst.;The color of my brother's old bicycle is fading.
+Die Ergebnisse der Prüfung meiner besten Freundin waren hervorragend.;The results of my best friend's exam were excellent.
+Die Zukunft der Kinder unserer Nachbarn macht uns Sorgen.;The future of our neighbors' children worries us.
+Wegen des schlechten Wetters der letzten Tage blieb der Park leer.;Because of the bad weather of the last few days, the park remained empty.
+Trotz der hohen Kosten des neuen Projekts wurde es genehmigt.;Despite the high costs of the new project, it was approved.
+Während des gesamten Aufenthalts meiner Eltern regnete es.;Throughout my parents' entire stay, it rained.
+Wegen eines wichtigen Termins meines Chefs wurde das Treffen verschoben.;Because of an important appointment of my boss, the meeting was postponed.
+Trotz eines schweren Fehlers unserer Abteilung blieb der Kunde freundlich.;Despite a serious mistake by our department, the customer remained friendly.
+Während eines langen Gesprächs mit meiner Lehrerin verstand ich die Situation.;During a long conversation with my teacher, I understood the situation.
+Innerhalb eines Jahres des intensiven Studiums verbesserte er sein Deutsch.;Within a year of intensive study, he improved his German.
+Außerhalb der Öffnungszeiten des kleinen Geschäfts ist die Tür geschlossen.;Outside the small shop's opening hours, the door is closed.
+Anstatt eines langen Berichts des erfahrenen Managers schrieb sie eine Zusammenfassung.;Instead of a long report from the experienced manager, she wrote a summary.
+Wegen der Entscheidung des neuen Direktors mussten alle länger bleiben.;Because of the new director's decision, everyone had to stay longer.
+Trotz der Warnung des freundlichen Polizisten fuhr er weiter.;Despite the friendly police officer's warning, he continued driving.
+Während der Vorbereitung des wichtigen Wettbewerbs trainierten sie täglich.;During preparation for the important competition, they trained daily.
+Die Ursache des plötzlichen Problems wurde schließlich entdeckt.;The cause of the sudden problem was finally discovered.
+Die Folgen der unerwarteten Entscheidung waren sofort sichtbar.;The consequences of the unexpected decision were immediately visible.
+Die Bewohner des historischen Viertels beschwerten sich über den Lärm.;The residents of the historic district complained about the noise.
+Die Mitarbeiter der kleinen Firma arbeiten inzwischen effizienter.;The employees of the small company now work more efficiently.
+Die Besitzer der großen Wohnung suchen einen neuen Mieter.;The owners of the large apartment are looking for a new tenant.
+Die Teilnehmer des schwierigen Kurses mussten regelmäßig üben.;The participants of the difficult course had to practice regularly.
+Die Besucher des berühmten Schlosses fotografierten die alten Räume.;The visitors of the famous castle photographed the old rooms.
+Die Kinder der freundlichen Familie spielten im Garten.;The children of the friendly family played in the garden.
+Die Hunde des alten Nachbarn bellen jeden Morgen.;The old neighbor's dogs bark every morning.
+Die Mitarbeiter der internationalen Firma sprechen mehrere Sprachen.;The employees of the international company speak several languages.
+Die Ärzte des modernen Krankenhauses behandeln viele Patienten.;The doctors of the modern hospital treat many patients.
+Die Schüler der neuen Klasse haben sich schnell kennengelernt.;The students of the new class quickly got to know each other.
+Die Regeln des deutschen Arbeitsrechts sind manchmal kompliziert.;The rules of German employment law are sometimes complicated.
+Die Vorteile des regelmäßigen Trainings werden oft unterschätzt.;The benefits of regular training are often underestimated.
+Die Nachteile des schnellen Wachstums wurden zu spät erkannt.;The disadvantages of rapid growth were recognized too late.
+Die Bedeutung des persönlichen Kontakts wird häufig unterschätzt.;The importance of personal contact is often underestimated.
+Die Entwicklung der digitalen Technologien verändert unseren Alltag.;The development of digital technologies is changing our everyday lives.
+Die Verbesserung der öffentlichen Verkehrsmittel wäre dringend nötig.;Improving public transportation would be urgently necessary.
+Die Nutzung der erneuerbaren Energien nimmt langsam zu.;The use of renewable energy is slowly increasing.
+Die Verschmutzung der großen Flüsse gefährdet viele Tiere.;The pollution of large rivers endangers many animals.
+Die Eröffnung des neuen Bahnhofs wurde gestern gefeiert.;The opening of the new train station was celebrated yesterday.
+Die Schließung des kleinen Geschäfts überraschte die Anwohner.;The closure of the small shop surprised the residents.
+Die Reparatur der alten Brücke beginnt nächste Woche.;The repair of the old bridge begins next week.
+Die Planung des wichtigen Projekts dauerte mehrere Monate.;Planning the important project took several months.
+Die Finanzierung des neuen Gebäudes ist noch unklar.;The financing of the new building is still unclear.
+Die Organisation der großen Veranstaltung war schwierig.;Organizing the large event was difficult.
+Die Vorbereitung der wichtigen Präsentation dauerte den ganzen Abend.;Preparing the important presentation took the entire evening.
+Die Durchführung der geplanten Änderungen verlief problemlos.;The implementation of the planned changes went smoothly.
+Die Bewertung der verschiedenen Möglichkeiten braucht Zeit.;Evaluating the different possibilities takes time.
+Die Auswahl der besten Kandidaten war nicht einfach.;Selecting the best candidates was not easy.
+Die Beschreibung des unbekannten Ortes war sehr genau.;The description of the unknown place was very precise.
+Die Erklärung des komplizierten Problems dauerte lange.;Explaining the complicated problem took a long time.
+Die Lösung des schwierigen Rätsels erforderte viel Geduld.;Solving the difficult puzzle required a lot of patience.
+Die Vermeidung unnötiger Kosten ist besonders wichtig.;Avoiding unnecessary costs is especially important.
+Die Kontrolle des gesamten Prozesses liegt bei ihm.;Control of the entire process is his responsibility.
+Die Untersuchung der möglichen Ursachen dauert noch an.;The investigation of the possible causes is still ongoing.
+Die Entscheidung über die Zukunft des Unternehmens steht bevor.;The decision about the company's future is approaching.
+Die Diskussion über die Folgen des Unfalls dauerte Stunden.;The discussion about the accident's consequences lasted hours.
+Die Erinnerung an den Beginn des neuen Jahres bleibt schön.;The memory of the beginning of the new year remains beautiful.
+Die Angst vor den Folgen des Fehlers war verständlich.;The fear of the consequences of the mistake was understandable.
+Die Hoffnung auf eine Verbesserung der Situation bleibt bestehen.;The hope for an improvement in the situation remains.
+Die Verantwortung für den Erfolg des Projekts trägt er.;He bears responsibility for the project's success.
+Die Kenntnis der wichtigsten Regeln erleichtert das Lernen.;Knowledge of the most important rules makes learning easier.
+Die Liebe zur Schönheit der Natur verbindet viele Menschen.;Love of nature's beauty connects many people.
+Die Abhängigkeit von der Hilfe anderer kann problematisch sein.;Dependence on other people's help can be problematic.
+Wegen des Fehlens eines wichtigen Dokuments wurde alles verschoben.;Because an important document was missing, everything was postponed.
+Trotz des Vorhandenseins mehrerer Lösungen blieb das Problem bestehen.;Despite several solutions being available, the problem remained.
+Während des Bestehens der alten Firma änderten sich viele Regeln.;During the existence of the old company, many rules changed.
+Wegen der Abwesenheit meiner Kollegin musste ich ihre Aufgaben übernehmen.;Because of my colleague's absence, I had to take over her tasks.
+Trotz der Anwesenheit vieler Gäste blieb es ruhig.;Despite the presence of many guests, it remained quiet.
+Während der Abwesenheit unseres Chefs trafen wir die Entscheidung.;During our boss's absence, we made the decision.
+Innerhalb der Nähe des Bahnhofs gibt es viele Hotels.;There are many hotels near the train station.
+Wegen des Bedarfs an zusätzlichem Personal wurde jemand eingestellt.;Because additional staff were needed, someone was hired.
+Trotz des Mangels an Zeit beendete sie den Bericht.;Despite the lack of time, she finished the report.
+Während des Verlaufs der Veranstaltung gab es Probleme.;During the course of the event, there were problems.
+Die Ursache des Mangels an Erfahrung war offensichtlich.;The reason for the lack of experience was obvious.
+Die Folgen des Verlusts seines Arbeitsplatzes waren schwer.;The consequences of losing his job were serious.
+Die Reaktion der Eltern auf die Entscheidung ihrer Tochter war positiv.;The parents' reaction to their daughter's decision was positive.
+Die Auswirkungen des Klimawandels auf die Zukunft unserer Kinder sind ernst.;The effects of climate change on our children's future are serious.
+Die Verbesserung der Qualität des öffentlichen Verkehrs wäre hilfreich.;Improving the quality of public transportation would be helpful.
+Die Bedeutung des Schutzes der natürlichen Umwelt wird immer größer.;The importance of protecting the natural environment is increasing.
+Die Kosten der Renovierung des alten Hauses waren höher.;The costs of renovating the old house were higher.
+Die Planung der Reise unserer Familie dauerte mehrere Wochen.;Planning our family's trip took several weeks.
+Die Meinung des Arztes über die Gesundheit meines Vaters beruhigte mich.;The doctor's opinion about my father's health reassured me.
+Die Entscheidung der Eltern über die Zukunft ihres Kindes war schwierig.;The parents' decision about their child's future was difficult.
+Die Beschreibung des Problems durch den Mitarbeiter war überzeugend.;The employee's description of the problem was convincing.
+Die Lösung des Konflikts zwischen den Nachbarn erforderte Geduld.;Resolving the conflict between the neighbors required patience.
+Die Unterstützung der Freunde meiner Schwester war sehr wichtig.;My sister's friends' support was very important.
+Die Reaktion des Kunden auf die Änderung des Preises war heftig.;The customer's reaction to the price change was strong.
+Die Vorbereitung der Hochzeit unserer Freunde nahm viel Zeit.;Preparing our friends' wedding took a lot of time.
+Die Organisation des Umzugs meiner Eltern war anstrengend.;Organizing my parents' move was exhausting.
+Die Entscheidung über den Verkauf des Hauses meines Großvaters steht noch aus.;The decision about selling my grandfather's house is still pending.
+Die Erinnerung an die Stimme meiner Großmutter bleibt lebendig.;The memory of my grandmother's voice remains vivid.
+Die Bedeutung der Hilfe meiner Freunde wurde mir erst später klar.;The importance of my friends' help only became clear to me later.
+Die Verantwortung für die Betreuung der Kinder liegt bei den Eltern.;Responsibility for looking after the children lies with the parents.
+Die Angst vor dem Verlust des Arbeitsplatzes belastet viele Menschen.;Fear of losing one's job burdens many people.
+Die Hoffnung auf eine Verbesserung der Lage gibt uns Kraft.;The hope for an improvement in the situation gives us strength.
+Die Erfahrung eines langen Aufenthalts im Ausland verändert Menschen.;The experience of a long stay abroad changes people.
+Die Vorteile eines Lebens außerhalb der Großstadt sind vielfältig.;The advantages of living outside a big city are varied.
+Die Nachteile eines Umzugs während des Winters sind offensichtlich.;The disadvantages of moving during winter are obvious.
+Die Kosten eines Studiums außerhalb der Heimat können hoch sein.;The costs of studying away from home can be high.
+Die Entscheidung eines erfahrenen Fachmanns sollte ernst genommen werden.;An experienced professional's decision should be taken seriously.
+Die Meinung einer unabhängigen Expertin kann hilfreich sein.;An independent female expert's opinion can be helpful.
+Die Unterstützung eines guten Freundes gibt mir Sicherheit.;The support of a good friend gives me confidence.
+Die Warnung eines erfahrenen Polizisten rettete ihm wahrscheinlich das Leben.;An experienced police officer's warning probably saved his life.
+Die Hilfe einer freundlichen Nachbarin war unerwartet wertvoll.;A friendly female neighbor's help was unexpectedly valuable.
+Die Anwesenheit eines bekannten Schauspielers überraschte die Gäste.;The presence of a famous actor surprised the guests.
+Die Abwesenheit eines wichtigen Mitarbeiters verursachte Probleme.;The absence of an important employee caused problems.
+Die Ankunft eines verspäteten Zuges wurde angekündigt.;The arrival of a delayed train was announced.
+Die Abfahrt eines frühen Busses passt mir nicht.;The departure of an early bus does not suit me.
+Die Eröffnung eines neuen Geschäfts schafft Arbeitsplätze.;The opening of a new shop creates jobs.
+Die Schließung eines alten Restaurants enttäuschte viele Stammkunden.;The closure of an old restaurant disappointed many regular customers.
+Die Entwicklung eines neuen Produkts kostet viel Geld.;Developing a new product costs a lot of money.
+Die Verbesserung eines bestehenden Systems braucht Geduld.;Improving an existing system requires patience.
+Die Lösung eines komplizierten Problems kann mehrere Tage dauern.;Solving a complicated problem can take several days.
+Die Vermeidung eines unnötigen Risikos ist vernünftig.;Avoiding an unnecessary risk is sensible.
+Die Übernahme eines neuen Projekts bedeutet mehr Verantwortung.;Taking over a new project means more responsibility.
+Die Planung eines wichtigen Ereignisses beginnt früh.;Planning an important event starts early.
+Die Durchführung eines erfolgreichen Projekts erfordert gute Organisation.;Successfully carrying out a project requires good organization.
+Die Bewertung eines schwierigen Falls braucht Erfahrung.;Evaluating a difficult case requires experience.
+Die Auswahl eines passenden Kandidaten war schwierig.;Selecting a suitable candidate was difficult.
+Die Beschreibung eines unbekannten Ortes war überraschend detailliert.;The description of an unknown place was surprisingly detailed.
+Die Erklärung eines komplizierten Themas muss verständlich sein.;The explanation of a complicated topic must be understandable.
+Die Erinnerung eines älteren Menschen kann sehr wertvoll sein.;An older person's memory can be very valuable.
+Die Meinung eines jungen Menschen sollte ebenfalls berücksichtigt werden.;A young person's opinion should also be considered.
+Die Entscheidung einer erfahrenen Führungskraft kann große Folgen haben.;An experienced manager's decision can have major consequences.
+Die Kritik eines guten Freundes kann manchmal hilfreich sein.;A good friend's criticism can sometimes be helpful.
+Die Empfehlung eines vertrauenswürdigen Arztes beruhigte die Familie.;A trustworthy doctor's recommendation reassured the family.
+Die Warnung eines besorgten Vaters wurde zunächst ignoriert.;A concerned father's warning was initially ignored.
+Die Bitte eines hilfsbedürftigen Menschen sollte man nicht einfach ablehnen.;One should not simply reject a needy person's request.
+Die Antwort eines ehrlichen Mitarbeiters war überraschend direkt.;An honest employee's answer was surprisingly direct.
+Die Frage eines neugierigen Kindes brachte alle zum Lachen.;A curious child's question made everyone laugh.
+Die Entscheidung eines mutigen Menschen kann andere inspirieren.;A brave person's decision can inspire others.
+Die Geschichte eines berühmten Reisenden faszinierte die Schüler.;The story of a famous traveler fascinated the students.
+Die Beschreibung eines gefährlichen Weges rettete uns viel Zeit.;The description of a dangerous route saved us much time.
+Die Bedeutung eines klaren Ziels wird oft unterschätzt.;The importance of a clear goal is often underestimated.
+Die Vorteile eines regelmäßigen Schlafrhythmus sind wissenschaftlich gut bekannt.;The benefits of a regular sleep schedule are well known scientifically.
+Die Nachteile eines hektischen Lebens werden häufig vergessen.;The disadvantages of a hectic life are often forgotten.
+Die Auswirkungen eines schweren Sturms waren überall sichtbar.;The effects of a severe storm were visible everywhere.
+Die Folgen eines unerwarteten Fehlers können lange bestehen bleiben.;The consequences of an unexpected mistake can last a long time.
+Die Ursache eines plötzlichen Stromausfalls wurde schnell gefunden.;The cause of a sudden power outage was quickly found.
+Die Reparatur eines alten Computers lohnt sich manchmal.;Repairing an old computer is sometimes worthwhile.
+Die Anschaffung eines neuen Geräts war notwendig.;Buying a new device was necessary.
+Die Nutzung eines öffentlichen Fahrrads ist praktisch.;Using a public bicycle is practical.
+Die Bedienung eines modernen Geräts ist nicht immer einfach.;Operating a modern device is not always easy.
+Die Kontrolle eines wichtigen Dokuments sollte sorgfältig erfolgen.;Checking an important document should be done carefully.
+Die Untersuchung eines unbekannten Problems dauert oft länger.;Investigating an unknown problem often takes longer.
+Die Lösung eines persönlichen Konflikts braucht Zeit.;Resolving a personal conflict takes time.
+Die Beurteilung eines schwierigen Menschen ist nicht leicht.;Judging a difficult person is not easy.
+Die Beobachtung eines seltenen Tieres war ein besonderes Erlebnis.;Observing a rare animal was a special experience.
+Die Entdeckung eines neuen Ortes machte den Urlaub interessanter.;Discovering a new place made the vacation more interesting.
+Die Erreichbarkeit eines guten Arztes ist nicht selbstverständlich.;Access to a good doctor cannot be taken for granted.
+Die Verfügbarkeit eines freien Zimmers hängt von der Saison ab.;The availability of a free room depends on the season.
+Die Zuverlässigkeit eines öffentlichen Verkehrsmittels ist besonders wichtig.;The reliability of public transportation is especially important.
+Die Sicherheit eines modernen Fahrzeugs wird ständig verbessert.;The safety of a modern vehicle is constantly improved.
+Die Qualität eines regionalen Produkts kann ausgezeichnet sein.;The quality of a regional product can be excellent.
+Die Herkunft eines hochwertigen Weins interessiert viele Kunden.;The origin of a high-quality wine interests many customers.
+Die Herstellung eines traditionellen Gerichts dauert manchmal Stunden.;Preparing a traditional dish sometimes takes hours.
+Die Zubereitung eines gesunden Frühstücks kostet wenig Zeit.;Preparing a healthy breakfast takes little time.
+Wegen des schlechten Wetters und der hohen Kosten änderten wir unsere Pläne.;Because of the bad weather and high costs, we changed our plans.
+Trotz der langen Reise und des fehlenden Schlafes blieb er freundlich.;Despite the long journey and lack of sleep, he remained friendly.
+Während des Aufenthalts unserer Freunde und der Renovierung unseres Hauses wohnten wir im Hotel.;During our friends' stay and our house's renovation, we stayed at a hotel.
+Die Ursache des Unfalls und die Folgen der Verzögerung wurden untersucht.;The cause of the accident and the consequences of the delay were investigated.
+Die Qualität des Essens und die Größe der Portionen überzeugten uns.;The quality of the food and the size of the portions convinced us.
+Die Entscheidung meiner Kollegin und die Meinung ihres Chefs waren unterschiedlich.;My colleague's decision and her boss's opinion were different.
+Die Zukunft unserer Kinder und die Sicherheit ihrer Familien sind uns wichtig.;Our children's future and their families' safety are important to us.
+Die Kosten eines Umzugs und die Organisation der Reise waren belastend.;The costs of moving and organizing the trip were stressful.
+Die Geschichte des alten Hauses und seiner früheren Bewohner fasziniert mich.;The history of the old house and its former residents fascinates me.
+Die Bewohner der kleinen Stadt und die Besucher des Festivals feierten gemeinsam.;The residents of the small town and festival visitors celebrated together.
+Die Meinung des Arztes über die Behandlung meines Vaters beruhigte uns.;The doctor's opinion about my father's treatment reassured us.
+Die Entscheidung der Direktorin über die Zukunft unserer Abteilung wurde gestern bekannt gegeben.;The director's decision about our department's future was announced yesterday.
+Die Beschreibung des Polizisten über den Verlauf des Unfalls war sehr genau.;The police officer's description of the course of the accident was very precise.
+Die Erinnerung meiner Großmutter an die Zeit ihrer Jugend ist beeindruckend.;My grandmother's memory of her youth is impressive.
+Die Unterstützung unserer Freunde während des Umzugs war unbezahlbar.;Our friends' support during the move was invaluable.
+Die Warnung meines Nachbarn wegen des starken Sturms war richtig.;My neighbor's warning about the strong storm was correct.
+Die Verbesserung der Lebensqualität durch den Bau des neuen Parks ist deutlich.;The improvement in quality of life through building the new park is clear.
+Die Entwicklung der Stadt während des letzten Jahrzehnts war enorm.;The development of the city during the last decade was enormous.
+Die Veränderung der Arbeitswelt wegen der digitalen Technologien betrifft uns alle.;The change in working life because of digital technologies affects us all.
+Die Bedeutung des Schutzes unserer Umwelt wird von vielen Menschen erkannt.;The importance of protecting our environment is recognized by many people.
+Die Verantwortung der Regierung für die Sicherheit ihrer Bürger ist groß.;The government's responsibility for its citizens' safety is great.
+Die Auswirkungen des Klimawandels auf die Zukunft unserer Gesellschaft sind ernst.;The effects of climate change on the future of our society are serious.
+Die Vorteile des Lebens außerhalb der Großstadt überzeugen viele Familien.;The advantages of living outside a big city convince many families.
+Die Nachteile des Mangels an öffentlichen Verkehrsmitteln sind deutlich sichtbar.;The disadvantages of the lack of public transportation are clearly visible.
+Die Entscheidung über die Nutzung des neuen Gebäudes wurde verschoben.;The decision about using the new building was postponed.
+Die Diskussion über die Zukunft des Projekts dauerte mehrere Stunden.;The discussion about the project's future lasted several hours.
+Die Hoffnung auf eine Lösung des Problems blieb bestehen.;The hope for a solution to the problem remained.
+Die Angst vor einem Verlust des Arbeitsplatzes kann großen Stress verursachen.;Fear of losing one's job can cause great stress.
+Die Freude über die Ankunft unserer Freunde war riesig.;The joy about our friends' arrival was enormous.
+Die Erinnerung an die Schönheit der Landschaft bleibt uns erhalten.;The memory of the beauty of the landscape remains with us.
+Die Frage nach dem Grund der plötzlichen Änderung blieb offen.;The question about the reason for the sudden change remained open.
+Die Suche nach der Ursache des Problems dauerte lange.;The search for the cause of the problem took a long time.
+Die Entscheidung zugunsten eines neuen Systems wurde kritisiert.;The decision in favor of a new system was criticized.
+Die Abhängigkeit von der Hilfe anderer kann die persönliche Freiheit einschränken.;Dependence on other people's help can restrict personal freedom.
+Die Kenntnis der Regeln des deutschen Rechts ist wichtig.;Knowledge of the rules of German law is important.
+Die Kenntnis der Meinung eines erfahrenen Fachmanns kann helfen.;Knowing an experienced professional's opinion can help.
+Die Bedeutung der Unterstützung meiner Familie wurde mir erst später bewusst.;The importance of my family's support only became clear to me later.
+Die Verantwortung für die Zukunft unserer Gesellschaft liegt bei uns allen.;Responsibility for our society's future lies with all of us.
+Die Verbesserung des Lebens eines einzelnen Menschen kann große Wirkung haben.;Improving one person's life can have a major impact.
+Die Entscheidung eines einzigen Mitarbeiters kann die Zukunft einer ganzen Abteilung verändern.;One employee's decision can change the future of an entire department.
+Die Meinung der Mehrheit der Teilnehmer war gegen die Änderung.;The majority of the participants' opinion was against the change.
+Die Kosten der Reparatur des Motors meines alten Autos waren zu hoch.;The cost of repairing my old car's engine was too high.
+Die Geschichte der Entwicklung unserer Stadt ist voller interessanter Ereignisse.;The history of our city's development is full of interesting events.
+Die Ursache der Verschlechterung des Wetters wurde schnell erklärt.;The cause of the worsening weather was quickly explained.
+Die Folgen der Schließung des einzigen Supermarkts waren deutlich.;The consequences of closing the only supermarket were significant.
+Die Planung der Renovierung unserer Wohnung nahm drei Monate in Anspruch.;Planning the renovation of our apartment took three months.
+Die Durchführung der Reparatur des alten Daches war gefährlich.;Carrying out the repair of the old roof was dangerous.
+Die Vorbereitung der Präsentation über die Zukunft des Unternehmens dauerte lange.;Preparing the presentation about the company's future took a long time.
+Die Bewertung der Qualität des neuen Produkts war positiv.;The evaluation of the new product's quality was positive.
+Die Beschreibung der Probleme des alten Systems war überzeugend.;The description of the old system's problems was convincing.
+Die Lösung der Schwierigkeiten unserer neuen Mitarbeiter erforderte Geduld.;Solving our new employees' difficulties required patience.
+Die Vermeidung unnötiger Ausgaben während des Urlaubs war schwierig.;Avoiding unnecessary expenses during the vacation was difficult.
+Die Kontrolle der Sicherheit des Gebäudes findet jeden Monat statt.;The building's safety inspection takes place every month.
+Die Untersuchung der Ursachen des Unfalls ist noch nicht abgeschlossen.;The investigation into the accident's causes is not yet complete.
+Die Beobachtung des Verhaltens der Tiere war besonders interessant.;Observing the animals' behavior was especially interesting.
+Die Entdeckung der Schönheit der kleinen Insel überraschte uns.;Discovering the beauty of the small island surprised us.
+Die Beschreibung des Lebens der Menschen in dieser Region war eindrucksvoll.;The description of people's lives in this region was impressive.
+Die Kenntnis der Geschichte des eigenen Landes kann wertvoll sein.;Knowledge of one's country's history can be valuable.
+Die Achtung der Meinung anderer Menschen ist besonders wichtig.;Respect for other people's opinions is especially important.
+Die Beachtung der Regeln des Unternehmens wird von allen erwartet.;Observing the company's rules is expected from everyone.
+Die Einhaltung der Vorschriften des neuen Gesetzes ist verpflichtend.;Compliance with the new law's regulations is mandatory.
+Die Überschreitung der Grenzen eines anderen Menschen sollte vermieden werden.;Crossing another person's boundaries should be avoided.
+Die Erreichung eines wichtigen Ziels gibt vielen Menschen Motivation.;Achieving an important goal motivates many people.
+Die Bewältigung eines schweren Problems kann einen Menschen stärker machen.;Overcoming a serious problem can make a person stronger.
+Die Überwindung der Angst vor der Zukunft braucht Zeit.;Overcoming fear of the future takes time.
+Die Verbesserung der Kenntnisse der deutschen Grammatik erfordert Geduld.;Improving one's knowledge of German grammar requires patience.
