@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		33D42D74304789A000891955 /* indirectSpeech.txt in Resources */ = {isa = PBXBuildFile; fileRef = 33D42D6E304789A000891955 /* indirectSpeech.txt */; };
+		33D42D75304789A000891955 /* praeteritum.txt in Resources */ = {isa = PBXBuildFile; fileRef = 33D42D72304789A000891955 /* praeteritum.txt */; };
+		33D42D76304789A000891955 /* falschMachen.txt in Resources */ = {isa = PBXBuildFile; fileRef = 33D42D6B304789A000891955 /* falschMachen.txt */; };
+		33D42D77304789A000891955 /* genitive.txt in Resources */ = {isa = PBXBuildFile; fileRef = 33D42D6D304789A000891955 /* genitive.txt */; };
+		33D42D78304789A000891955 /* subjunctionsAndConnectors.txt in Resources */ = {isa = PBXBuildFile; fileRef = 33D42D73304789A000891955 /* subjunctionsAndConnectors.txt */; };
+		33D42D79304789A000891955 /* passiv.txt in Resources */ = {isa = PBXBuildFile; fileRef = 33D42D71304789A000891955 /* passiv.txt */; };
+		33D42D7A304789A000891955 /* futurII.txt in Resources */ = {isa = PBXBuildFile; fileRef = 33D42D6C304789A000891955 /* futurII.txt */; };
+		33D42D7B304789A000891955 /* participialAttribute.txt in Resources */ = {isa = PBXBuildFile; fileRef = 33D42D70304789A000891955 /* participialAttribute.txt */; };
+		33D42D7C304789A000891955 /* konjunktivII.txt in Resources */ = {isa = PBXBuildFile; fileRef = 33D42D6F304789A000891955 /* konjunktivII.txt */; };
 		449E4C4C2F0FDD3100883A86 /* sentence_building.txt in Resources */ = {isa = PBXBuildFile; fileRef = 449E4C3A2F0FDD2C00883A86 /* sentence_building.txt */; };
 		449E4C4D2F0FDD3100883A86 /* nouns_gender.txt in Resources */ = {isa = PBXBuildFile; fileRef = 449E4C3B2F0FDD2C00883A86 /* nouns_gender.txt */; };
 		449E4C4E2F0FDD3100883A86 /* ArticlePracticeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 449E4C3C2F0FDD2D00883A86 /* ArticlePracticeViewController.swift */; };
@@ -82,6 +91,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		33D42D6B304789A000891955 /* falschMachen.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = falschMachen.txt; sourceTree = "<group>"; };
+		33D42D6C304789A000891955 /* futurII.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = futurII.txt; sourceTree = "<group>"; };
+		33D42D6D304789A000891955 /* genitive.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = genitive.txt; sourceTree = "<group>"; };
+		33D42D6E304789A000891955 /* indirectSpeech.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = indirectSpeech.txt; sourceTree = "<group>"; };
+		33D42D6F304789A000891955 /* konjunktivII.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = konjunktivII.txt; sourceTree = "<group>"; };
+		33D42D70304789A000891955 /* participialAttribute.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = participialAttribute.txt; sourceTree = "<group>"; };
+		33D42D71304789A000891955 /* passiv.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = passiv.txt; sourceTree = "<group>"; };
+		33D42D72304789A000891955 /* praeteritum.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = praeteritum.txt; sourceTree = "<group>"; };
+		33D42D73304789A000891955 /* subjunctionsAndConnectors.txt */ = {isa = PBXFileReference; lastKnownFileType = text; path = subjunctionsAndConnectors.txt; sourceTree = "<group>"; };
 		449E4C3A2F0FDD2C00883A86 /* sentence_building.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = sentence_building.txt; sourceTree = "<group>"; };
 		449E4C3B2F0FDD2C00883A86 /* nouns_gender.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = nouns_gender.txt; sourceTree = "<group>"; };
 		449E4C3C2F0FDD2D00883A86 /* ArticlePracticeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ArticlePracticeViewController.swift; sourceTree = "<group>"; };
@@ -194,31 +212,29 @@
 			isa = PBXGroup;
 			children = (
 				449E4C482F0FDD3000883A86 /* adjective_declension.txt */,
-				449E4C4B2F0FDD3000883A86 /* AdjectiveDeclensionViewController.swift */,
 				449E4C3C2F0FDD2D00883A86 /* ArticlePracticeViewController.swift */,
 				449E4C432F0FDD2E00883A86 /* AudioPronunciationManager.swift */,
-				449E4C462F0FDD2F00883A86 /* CasePracticeViewController.swift */,
-				449E4C452F0FDD2F00883A86 /* CustomWordListsViewController.swift */,
-				449E4C492F0FDD3000883A86 /* ListeningPracticeViewController.swift */,
 				449E4C412F0FDD2E00883A86 /* Models.swift */,
-				449E4C472F0FDD2F00883A86 /* ReadingComprehensionViewController.swift */,
-				449E4C442F0FDD2E00883A86 /* SentenceBuildingViewController.swift */,
 				449E4C3E2F0FDD2D00883A86 /* SynonymAntonymViewController.swift */,
 				44E4D7F82EFE5F2800B49064 /* AppDelegate.swift */,
 				44E4D84E2EFE60A700B49064 /* CategorySelectionViewController.swift */,
+				33D42D6B304789A000891955 /* falschMachen.txt */,
+				33D42D6C304789A000891955 /* futurII.txt */,
+				33D42D6D304789A000891955 /* genitive.txt */,
+				33D42D6E304789A000891955 /* indirectSpeech.txt */,
+				33D42D6F304789A000891955 /* konjunktivII.txt */,
+				33D42D70304789A000891955 /* participialAttribute.txt */,
+				33D42D71304789A000891955 /* passiv.txt */,
+				33D42D72304789A000891955 /* praeteritum.txt */,
+				33D42D73304789A000891955 /* subjunctionsAndConnectors.txt */,
+				44E4D84F2EFE60A800B49064 /* OrderingViewController.swift */,
 				44E4D8542EFE60AC00B49064 /* DataProvider.swift */,
 				44E4D8512EFE60A900B49064 /* HomeViewController.swift */,
-				44E4D8502EFE60A900B49064 /* MistakeTracker.swift */,
-				44E4D84F2EFE60A800B49064 /* OrderingViewController.swift */,
 				44E4D85B2EFE60B100B49064 /* SettingsViewController.swift */,
-				44E4D8562EFE60AD00B49064 /* TensePracticeViewController.swift */,
 				44E4D85A2EFE60B000B49064 /* ThemeManager.swift */,
-				44E4D8572EFE60AE00B49064 /* VerbPracticeViewController.swift */,
 				44E4D8532EFE60AB00B49064 /* WordFamilyViewController.swift */,
 				44E4D8592EFE60AF00B49064 /* WordMatchingCategoryViewController.swift */,
 				44E4D8552EFE60AC00B49064 /* WordMatchingViewController.swift */,
-				44E4D8582EFE60AF00B49064 /* WritingViewController.swift */,
-				449E4C3D2F0FDD2D00883A86 /* FillInBlankViewController.swift */,
 				449E4C402F0FDD2E00883A86 /* synonyms_antonyms.txt */,
 				449E4C3A2F0FDD2C00883A86 /* sentence_building.txt */,
 				449E4C4A2F0FDD3000883A86 /* reading_passages.txt */,
@@ -245,6 +261,17 @@
 				44E4D82B2EFE608E00B49064 /* words_travel.txt */,
 				44E4D8372EFE609300B49064 /* words_verbs.txt */,
 				44E4D8392EFE609400B49064 /* words_work.txt */,
+				449E4C4B2F0FDD3000883A86 /* AdjectiveDeclensionViewController.swift */,
+				449E4C492F0FDD3000883A86 /* ListeningPracticeViewController.swift */,
+				449E4C462F0FDD2F00883A86 /* CasePracticeViewController.swift */,
+				449E4C452F0FDD2F00883A86 /* CustomWordListsViewController.swift */,
+				449E4C472F0FDD2F00883A86 /* ReadingComprehensionViewController.swift */,
+				449E4C442F0FDD2E00883A86 /* SentenceBuildingViewController.swift */,
+				44E4D8502EFE60A900B49064 /* MistakeTracker.swift */,
+				44E4D8562EFE60AD00B49064 /* TensePracticeViewController.swift */,
+				44E4D8572EFE60AE00B49064 /* VerbPracticeViewController.swift */,
+				44E4D8582EFE60AF00B49064 /* WritingViewController.swift */,
+				449E4C3D2F0FDD2D00883A86 /* FillInBlankViewController.swift */,
 				44E4D7FF2EFE5F2B00B49064 /* Assets.xcassets */,
 				44E4D8042EFE5F2B00B49064 /* Info.plist */,
 			);
@@ -397,6 +424,15 @@
 				449E4C5C2F0FDD3100883A86 /* reading_passages.txt in Resources */,
 				44E4D8492EFE609400B49064 /* restaurant.txt in Resources */,
 				44E4D83A2EFE609400B49064 /* conversation.txt in Resources */,
+				33D42D74304789A000891955 /* indirectSpeech.txt in Resources */,
+				33D42D75304789A000891955 /* praeteritum.txt in Resources */,
+				33D42D76304789A000891955 /* falschMachen.txt in Resources */,
+				33D42D77304789A000891955 /* genitive.txt in Resources */,
+				33D42D78304789A000891955 /* subjunctionsAndConnectors.txt in Resources */,
+				33D42D79304789A000891955 /* passiv.txt in Resources */,
+				33D42D7A304789A000891955 /* futurII.txt in Resources */,
+				33D42D7B304789A000891955 /* participialAttribute.txt in Resources */,
+				33D42D7C304789A000891955 /* konjunktivII.txt in Resources */,
 				449E4C4D2F0FDD3100883A86 /* nouns_gender.txt in Resources */,
 				44E4D8002EFE5F2B00B49064 /* Assets.xcassets in Resources */,
 				44E4D8472EFE609400B49064 /* verb_practice.txt in Resources */,
