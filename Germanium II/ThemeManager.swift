@@ -17,7 +17,9 @@ class ThemeManager {
     }
     
     var backgroundColor: UIColor {
-        return isDarkMode ? UIColor(red: 0.15, green: 0.15, blue: 0.15, alpha: 1.0) : .white
+        return isDarkMode
+            ? UIColor(red: 0.00, green: 0.00, blue: 0.05, alpha: 1.0)   // was 0.15 — noticeably darker
+            : UIColor(red: 0.95, green: 0.90, blue: 0.90, alpha: 1.0)   // was .white — warm off-white
     }
     
     var textColor: UIColor {
@@ -25,7 +27,9 @@ class ThemeManager {
     }
     
     var secondaryBackgroundColor: UIColor {
-        return isDarkMode ? UIColor(red: 0.25, green: 0.25, blue: 0.25, alpha: 1.0) : UIColor(red: 0.95, green: 0.95, blue: 0.95, alpha: 1.0)
+        return isDarkMode
+            ? UIColor(red: 0.17, green: 0.17, blue: 0.19, alpha: 1.0)   // was 0.25
+            : .white                                                     // was 0.95 gray
     }
     
     var borderColor: UIColor {
