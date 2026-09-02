@@ -45,8 +45,10 @@ jobs:
 
       - name: Set version and build numbers
         run: |
+          BUILD_NUMBER=$(date +%s)
+          echo "Using build number: $BUILD_NUMBER"
           /usr/libexec/PlistBuddy -c "Set :CFBundleShortVersionString ${{ github.event.inputs.marketing_version }}" "Germanium II/Info.plist"
-          /usr/libexec/PlistBuddy -c "Set :CFBundleVersion ${{ github.run_id }}" "Germanium II/Info.plist"
+          /usr/libexec/PlistBuddy -c "Set :CFBundleVersion $BUILD_NUMBER" "Germanium II/Info.plist"
 
       - name: Force manual signing in project file
         run: |
@@ -66,8 +68,6 @@ jobs:
             CODE_SIGN_IDENTITY="Apple Distribution" \
             PROVISIONING_PROFILE_SPECIFIER="Germanium App Store Profile" \
             DEVELOPMENT_TEAM=598KF94K56 \
-            CURRENT_PROJECT_VERSION=${{ github.run_id }} \
-            MARKETING_VERSION=${{ github.event.inputs.marketing_version }} \
             archive
 
       - name: Export IPA
